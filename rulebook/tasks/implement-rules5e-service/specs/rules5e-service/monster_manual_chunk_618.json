@@ -1,0 +1,12 @@
+﻿{
+    "text":  "a maltratado\nNível de Desafio 0 (10 XP)\nou desnutrido. Os worgs falam em seu próprio idioma,\nAÇÕES Goblin e alguns poucos aprendem a falar em Comum\ntambém.\nMordida. Ataque Corpo-a-Corpo com Arma: +2 para atingir,\nalcance 1,5 m, um alvo. Acerto: 2 (1d4) de dano perfurante.\nVESPA GIGANTE\nBesta Média, imparcial\nClasse de Armadura 12\nPontos de Vida 13 (3d8)\nDeslocamento 3 m, voo 15 m\nFOR DES CON INT SAB CAR\n10 (+0) 14 (+2) 10 (+9) 1 (–5) 10 (+0) 3 (–4)\nSentidos Percepção passiva 10\nIdiomas –\nNível de Desafio 1/2 (100 XP)\nAÇÕES\nFerrão. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance\n1,5 m, uma criatura. Acerto: 5 (1d6 + 2) de dano perfurante e o\nalvo deve realizar um teste de resistência de Constituição CD 11,\nsofrendo 10 (3d6) de dano de veneno se fracassar na resistência,\nou metade desse dano se obtiver sucesso. Se o veneno reduzir os\npontos de vida do alvo a 0, ele fica estável mas envenenado por 1\nhora, mesmo após recuperar pontos de vida, e fica paralisado\nenquanto estiver envenenado dessa forma.\nWORG\nMonstruosidade Grande, neutro e mau\nClasse de Armadura 13 (armadura natural)\nPontos de Vida 26 (4d10 + 4)\nDeslocamento 15 m\nFOR DES CON INT SAB CAR\n16 (+3) 13 (+1) 13 (+1) 7 (–2) 11 (+0) 8 (–1)\nPerícias Percepção +4\nSentidos visão no escuro 18 m, Percepção passiva 14\nIdiomas Goblin, Worg\nNível de Desafio 1/2 (100 XP)\nAudição e Faro Aguçados. O worg tem vantagem em testes de\nSabedoria (Percepção) relacionados à audição e ao olfato.\n340\n\n\n# Pagina 342\n\nA B P M\nPÊNDICE : ERSONAGENS DO ESTRE\nEsse apêndice contém as estatísticas para diversos Acólitos são membros juniores de um clericato,\npersonagens do mestre (PdMs) que os aventureiros podem geralmente respondendo a um sacerdote. Eles realizam\nencontrar durante uma campanha de D\u0026D, incluindo uma variedade de funções em um templo e recebem\nhumildes camponeses e poderosos arquimago. Esses poderes de conjuração menores por suas divindades.\nblocos de estatísticas podem ser usados para representar\ntanto PdMs humanos qua",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  618,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

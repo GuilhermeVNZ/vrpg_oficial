@@ -1,0 +1,28 @@
+﻿# HELL HOUND - Animation Prompts (9 Frames)
+
+## Frame 1 - Fiendish Watchdog
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, large demonic canine with coal-black fur, glowing red eyes, and fire burning inside its mouth. Viewed from top-down angle (80-90 degrees), standing on circular scorched earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with internal magma glow, detailed fur and flame texture readable from above, strong demonic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Magma Growl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, lowering head and baring teeth that look like molten metal, smoke puffing from nostrils. Viewed from top-down angle (80-90 degrees), aggression display, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with smoke effects, detailed facial expression, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, growling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Breath Inhale
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, inhaling deeply, chest expanding and glowing bright orange with internal fire, head pulled back. Viewed from top-down angle (80-90 degrees), preparing breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense core glow, detailed energy buildup, strong magical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Fire Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, exhaling a cone of roaring fire, jaws wide open, flames illuminating the ground. Viewed from top-down angle (80-90 degrees), breath weapon attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fire light source, detailed flame effects, strong blaster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fire breath, physical tabletop game piece aesthetic.
+
+## Frame 5 - Fiery Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, lunging forward to bite, trails of fire following the movement. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed jaw action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Pounce
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, leaping through the air (in place), forelegs extended, claws glowing with heat. Viewed from top-down angle (80-90 degrees), movement/attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dynamic shadows, detailed jump motion, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pouncing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Infernal Howl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, sitting back on haunches and howling at the sky, flames licking out from the sides of its mouth. Viewed from top-down angle (80-90 degrees), communication/flavor, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with throat glow, detailed character acting, strong wolf silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, howling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Scratch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, sitting down to scratch behind its ear with a hind leg, momentarily looking like a normal dog. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed animal behavior, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hell hound character, large demonic canine with coal-black fur, glowing red eyes, and fire burning inside its mouth. Viewed from top-down angle (80-90 degrees), standing on circular scorched earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with internal magma glow, detailed fur and flame texture readable from above, strong demonic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

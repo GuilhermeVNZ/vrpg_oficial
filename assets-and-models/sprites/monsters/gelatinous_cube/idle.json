@@ -1,0 +1,10 @@
+{
+    "character_id": "gelatinous_cube_01",
+    "animation_type": "idle",
+    "frame_count": 9,
+    "frame_width": 1024,
+    "frame_height": 1024,
+    "fps": 12,
+    "loop": true,
+    "duration_seconds": 0.75
+}

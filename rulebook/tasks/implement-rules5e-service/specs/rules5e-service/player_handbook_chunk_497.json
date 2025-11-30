@@ -1,0 +1,12 @@
+﻿{
+    "text":  "s Você tenta compelir uma criatura a duelar com você. Uma\nComponentes: V, S criatura que você possa ver, dentro do alcance, deve\nDuração: Concentração, até 1 minuto realizar um teste de resistência de Sabedoria. Se falhar, a\ncriatura é atraída por você, compelida pela sua exigência\nVocê tenta seduzir um humanoide que você possa ver divina. Pela duração, ela tem desvantagem nas jogadas\ndentro do alcance. Ele deve ser bem sucedido num teste de ataque contra criaturas diferentes de você e deve\nde resistência de Sabedoria ou ficará enfeitiçado por você realizar um teste de resistência de Sabedoria cada vez\npela duração. Se você ou criaturas amigáveis a você que tentar se mover para um espaço que esteja a mais de\nestiverem lutando com ele, ele terá vantagem no teste de 9 metros de você; se ela passar no teste de resistência,\nresistência. essa magia não restringirá o movimento do alvo nesse\nEnquanto o alvo estiver enfeitiçado, você terá uma turno.\nligação telepática com ela, contanto que ambos estejam no A magia termina se você atacar qualquer outra\nmesmo plano de existência. Você pode usar essa ligação criatura, se você conjurar uma magia que afete uma\ntelepática para emitir comandos para a criatura enquanto criatura hostil diferente do alvo, se uma criatura\nvocê estiver consciente (não requer uma ação), aos quais amigável a você causar dano ou conjurar uma magia\nela obedece da melhor forma possível. Você pode nociva nele ou se você terminar seu turno a mais de 9\nespecificar um curso de ação simples e genérico, como metros do alvo.\n“Ataque aquela criatura”, “Corra até ali”, ou “Traga\naquele objeto”. Se a criatura completar a ordem e não ENCARNAÇÃO FANTASMAGÓRICA\nreceber direções posteriores de você, ela se defenderá e se 9° nível de ilusão\nauto preservará da melhor forma que puder. Tempo de Conjuração: 1 ação\nVocê pode usar sua ação para tomar controle total e Alcance: 36 metros\npreciso do alvo. Até o final do seu próximo turno, a Componentes: V, S\ncriatura realiza apena",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  497,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

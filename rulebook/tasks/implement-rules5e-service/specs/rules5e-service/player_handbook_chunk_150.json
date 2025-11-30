@@ -1,0 +1,12 @@
+﻿{
+    "text":  "render uma nova magia de 1° ou 2° nível. 1° 2\nAlém disso, quando você adquire um nível nessa 2° 3\nclasse, você pode escolher uma magia de feiticeiro que 3° 5\nvocê conheça e substituí-la por outra magia da lista de 4° 6\nmagias de feiticeiro, que também deve ser de um nível ao 5° 7\nqual você tenha espaços de magia.\nConvertendo um Espaço de Magia em Pontos de\nHABILIDADE DE CONJURAÇÃO Feitiçaria. Com uma ação bônus, no seu turno, você pode\nCarisma é a sua habilidade de conjuração para suas\ngastar um espaço de magia disponível e ganhar uma\nmagias de feiticeiro, já que o poder da sua magia depende\nquantidade de pontos de feitiçaria igual ao nível do\nda sua capacidade de projetar sua vontade no mundo. Use\nespaço.\nseu Carisma sempre que alguma magia se referir à sua\nhabilidade de conjurar magias. Além disso, você usa o seu\nmodificador de Carisma para definir a CD dos testes de METAMÁGICA\nresistência para as magias de feiticeiro que você conjura e\nNo 3° nível, você adquire a habilidade de distorcer suas\nquando você realiza uma jogada de ataque com uma\nmagias para se adequarem às suas necessidades. Você\nmagia.\nganha duas das seguintes opções de Metamágica, à sua\nescolha. Você adquire outra no 10° e 17° nível.\nCD para suas magias = 8 + bônus de proficiência +\nVocê pode usar apenas uma opção de Metamágica em\nseu modificador de Carisma\numa magia quando a conjura, a não ser que esteja\nModificador de ataque de magia = seu bônus de proficiência +\ndescrito o contrário.\nseu modificador de Carisma\nFOCO DE CONJURAÇÃO\nMAGIA ACELERADA\nQuando você conjurar uma magia que tenha um tempo de\nVocê pode usar um foco arcano (encontrado no capítulo 5)\ncomo foco de conjuração das suas magias de feiticeiro. conjuração de 1 ação, você pode gastar 2 pontos de\nfeitiçaria para mudar o tempo de conjuração para 1 ação\nORIGEM DE FEITIÇARIA bônus para essa magia.\nEscolha uma origem de feitiçaria, que descreve a fonte do\nMAGIA AUMENTADA\nseu poder mágico inato: Linhagem Dracônica ou Magia\nQuando você conjura",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  150,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

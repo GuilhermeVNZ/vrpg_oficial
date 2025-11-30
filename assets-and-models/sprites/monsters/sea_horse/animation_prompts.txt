@@ -1,0 +1,28 @@
+﻿# SEA HORSE - Animation Prompts (9 Frames)
+
+## Frame 1 - Aquatic Steed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, large seahorse with curled tail, elongated snout, flowing fins. Viewed from top-down angle (80-90 degrees), swimming on circular coral reef base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and yellow tones, detailed scale texture readable from above, strong aquatic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Fin Flutter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, dorsal fin fluttering rapidly, maintaining position. Viewed from top-down angle (80-90 degrees), hovering, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fin emphasis, detailed flutter, strong hovering silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hovering, physical tabletop game piece aesthetic.
+
+## Frame 3 - Swim
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, propelling forward with fin motion, tail straightening. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed swimming, strong moving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swimming, physical tabletop game piece aesthetic.
+
+## Frame 4 - Ram
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, charging forward with snout, butting. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with snout focus, detailed ram action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ram attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tail Curl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, curling tail tightly around invisible object, gripping. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tail focus, detailed curling, strong grasping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail curling, physical tabletop game piece aesthetic.
+
+## Frame 6 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, changing color to match surroundings, blending. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with color shift, detailed camouflage, strong hidden silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, camouflaging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Feed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, snout extended, sucking up tiny plankton. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with feeding motion, detailed feeding, strong eating silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, feeding, physical tabletop game piece aesthetic.
+
+## Frame 8 - Drift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, drifting lazily in current, tail loosely curled. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed drifting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drifting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea horse character, large seahorse with curled tail, elongated snout, flowing fins. Viewed from top-down angle (80-90 degrees), swimming on circular coral reef base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and yellow tones, detailed scale texture readable from above, strong aquatic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

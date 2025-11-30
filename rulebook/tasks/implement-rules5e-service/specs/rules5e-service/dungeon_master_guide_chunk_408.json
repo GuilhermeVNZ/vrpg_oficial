@@ -1,0 +1,12 @@
+﻿{
+    "text":  "doso com seu portador\nou um estorvo constante ao seu lado.\nA maioria dos itens inteligentes são armas. Outros\ntipos de itens podem manifestar inteligência, mas itens\nconsumíveis, como poções e pergaminhos nunca serão\ninteligentes.\nItens mágicos inteligentes funcionam como PdMs sob\ncontrole do Mestre. Qualquer propriedade ativável do\nitem está sob controle do item, não do usuário. Enquanto\no usuário mantiver um bom relacionamento com o item,\nele poderá acessar estas propriedades normalmente. Caso\no relacionamento fique tenso, o item pode suprimir suas\npropriedades ativáveis ou mesmo usa-las contra seu\nportador.\nCRIANDO ITENS MÁGICOS INTELIGENTES\nQuando você decidir dar inteligência a um item mágico,\nvocê cria a persona do item da mesma forma que criaria\num PdM, com algumas exceções descritas aqui.\nHABILIDADES\nUm item mágico inteligente tem valores de Inteligência,\nSabedoria e Carisma. Você pode escolher as habilidades\ndo item ou determina-las aleatoriamente. Para\ndetermina-las aleatoriamente, role 4d6 para cada uma,\nignorando a pior rolagem e somando o resto.\nCOMUNICAÇÃO\nUm item inteligente tem algumas habilidades para se\ncomunicar, tanto ao partilhar suas emoções, transmitir\nseus pensamentos telepaticamente ou falar em voz alta.\nVocê pode escolher como ele se comunica ou rolar na\ntabela a seguir.\nd100 Comunicação\n01–60 O item se comunica ao transmitir emoções à criatura\nque está carregando ou empunhando-o.\n61–90 O item pode falar, ler e compreender um ou mais\nidiomas.\n91–00 O item pode falar, ler e compreender um ou mais\nidiomas. Além disso, ele pode se comunicar\ntelepaticamente com qualquer personagem que esteja\ncarregando ou empunhando-o.\nSENTIDOS\nCom inteligência vem consciência. Um item inteligente\npode perceber o que está a sua volta a um alcance\nlimitado. Você pode escolher os sentidos ou rolar na\ntabela a seguir.\nd4 Sentidos\n1 Audição e visão normal com alcance de 9 metros.\n2 Audição e visão normal com alcance de 18 metros.\n3 Audição e visão normal com alcanc",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  408,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

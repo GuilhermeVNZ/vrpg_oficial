@@ -1,0 +1,36 @@
+# Goblin 02 - Animation Prompts (9 Frames)
+
+Base prompt: Dungeons and Dragons dark fantasy anime illustration, goblin warrior character variant, green skin with large pointed ears, wearing different armor/weapons than goblin01, standing on circular stone base. Viewed from top-down angle (80-90 degrees), 2D painted illustration style, solid dark grey background NO CHECKERED PATTERN.
+
+---
+
+## Frame 1 - Idle Rest
+Goblin at neutral stance, weapons at ready, breathing normally.
+
+## Frame 2 - Begin Movement
+Starting to shift, head turning right, weapons adjusting.
+
+## Frame 3 - Mid Turn
+Head turned 20 degrees right, body twisting, weapons moving.
+
+## Frame 4 - Peak Turn
+Maximum turn right, weapons extended, alert pose.
+
+## Frame 5 - Hold Position
+Maintaining turned stance, scanning right side.
+
+## Frame 6 - Begin Return
+Starting to turn back center, weapons lowering.
+
+## Frame 7 - Mid Return
+Halfway back to neutral, weapons settling.
+
+## Frame 8 - Almost Rest
+Nearly neutral, minimal movement.
+
+## Frame 9 - Complete Loop
+Identical to Frame 1, ready to loop.
+
+---
+
+**Use estas descrições com o prompt base para gerar cada frame!**

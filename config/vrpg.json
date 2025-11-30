@@ -1,0 +1,37 @@
+{
+  "services": {
+    "llm": {
+      "port": 7002,
+      "model": "assets-and-models/models/llm/qwen2.5-14b-instruct-q4_k_m.gguf"
+    },
+    "asr": {
+      "port": 7001,
+      "model": "whisper-large-v3.bin"
+    },
+    "tts": {
+      "port": 7003
+    },
+    "rules": {
+      "port": 7004
+    },
+    "memory": {
+      "port": 7005
+    }
+  },
+  "mcp": {
+    "synap_endpoint": "http://localhost:15500",
+    "vectorizer_endpoint": "http://localhost:15002"
+  },
+  "ui": {
+    "theme": "cyberpunk",
+    "voice_activation": "push_to_talk"
+  }
+}
+
+
+
+
+
+
+
+

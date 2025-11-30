@@ -1,0 +1,28 @@
+# RED SLAAD - Animation Prompts (9 Frames)
+
+## Frame 1 - Chaos Frog
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, large bipedal frog-like monster with red skin, claws, sharp teeth, gland under skin. Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and purple tones, detailed wart texture readable from above, strong chaotic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle twitching pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Croak
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, throat sac inflating massively, mouth opening, body vibrating, claws flexing. Viewed from top-down angle (80-90 degrees), vocalizing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying sound (implied), detailed inflation movement, strong noisy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, crouching low, legs bunched like springs, claws digging into base, eyes wide. Viewed from top-down angle (80-90 degrees), preparing jump, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on legs, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, leaping forward with claws extended, mouth open to bite, body fully extended. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Implant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, claws glowing red (implant ability), striking downward, chaotic energy flaring. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive red effects, detailed chaos, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, implant attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, landing from jump, shaking head, throat sac deflating, looking for next target. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scratching
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, scratching side with foot like a dog, looking vacant, tongue lolling out. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong animalistic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Squat
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, squatting on haunches, arms resting on knees, staring blankly, stillness. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, red slaad character, large bipedal frog-like monster with red skin, claws, sharp teeth, gland under skin. Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and purple tones, detailed wart texture readable from above, strong chaotic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle twitching pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

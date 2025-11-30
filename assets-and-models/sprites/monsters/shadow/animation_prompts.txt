@@ -1,0 +1,28 @@
+﻿# SHADOW - Animation Prompts (9 Frames)
+
+## Frame 1 - Living Darkness
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, humanoid silhouette made of pure darkness, undefined features, wispy edges. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and dark purple tones, detailed shadow texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flickering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Expand
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, growing larger and more menacing, darkness spreading, eyes glowing faint white. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying darkness, detailed expansion, strong awakening horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Reach
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, extending a shadowy arm, fingers elongating into claws, body stretching. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on claws, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Strength Drain
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, swiping through enemy (implied), darkness clinging to target, draining vitality. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Merge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, flattening against the floor, becoming a 2D shadow, moving rapidly. Viewed from top-down angle (80-90 degrees), movement ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed flattening, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stealth action, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, reforming into humanoid shape, wisps of darkness coalescing, stabilizing. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Lurking
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, crouching low, blending with shadows on the base, hard to see. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong lurking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, lurking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Fading
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, becoming almost transparent, barely visible against the dark background. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong invisible silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shadow character, humanoid silhouette made of pure darkness, undefined features, wispy edges. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and dark purple tones, detailed shadow texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flickering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

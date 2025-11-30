@@ -1,0 +1,12 @@
+﻿{
+    "text":  "a\n8 Quadrada, 6 x 6 m; porta em duas paredes, passagem na tabela Tipo de Porta para determinar sua natureza,\nterceira parede, porta secreta na quarta parede depois role na tabela Atrás da Porta para ver o que existe\n9 Passagem, 3 m de largura; interseção em T do outro lado dela. Se uma porta estiver barrada, você\n10 Passagem, 3 m de largura; interseção de quatro vias decide qual lado da porta está barrado. Portas\ndestrancadas também podem estar emperradas, ao seu\ncritério. Veja o capítulo 5, “Ambientes de Aventura”, para\ninformações sobre portas e portas levadiças.\n291\n\n\n# Pagina 293\n\nPORTA LOCALIZAÇÃO DA SAÍDA\nd20 Tipo de Porta d20 Local\n1–10 Madeira 1–7 Parede oposta à entrada\n11–12 Madeira, barrada ou trancada 8–12 Parede à esquerda da entrada\n13 Pedra 13–17 Parede à direita da entrada\n14 Pedra, barrada ou trancada 18–20 Mesma parede da entrada\n15 Ferro\n16 Ferro, barrada ou trancada TIPO DE SAÍDA\n17 Levadiça\nd20 Tipo\n18 Levadiça, travada no lugar\n1–10 Porta (role na tabela Tipo de Porta)\n19 Porta secreta\n11–20 Corredor, 3 m de comprimento\n20 Porta secreta, barrada ou trancada\nESCADAS\nATRÁS DE UMA PORTA\nEscadas podem incluir quaisquer formas de subir ou\nd20 Característica\ndescer, incluindo rampas, chaminés, fossos, elevadores e\n1–2 Passagem se prolonga por 3 m, então uma interseção\nescadas de mão. Se sua masmorra tiver mais de um nível,\nem T se prolonga por 3 m para a direita e esquerda\na quantidade de espaço entre os níveis cabe a você. Uma\n3–8 Passagem de 6 m em linha reta\ndistância de 9 metros funciona bem para a maioria das\n9–18 Câmara (role na tabela Câmara)\nmasmorras.\n19 Escadas (role na tabela Escadas)\n20 Porta falsa com armadilha\nESCADAS\nCÂMARAS d20 Escada\n1–4 Desce um nível para uma câmara\nSempre que uma rolagem em uma tabela indicar uma\n5–8 Desce um nível para uma passagem de 6 m de\ncâmara, use a tabela Câmaras para definir suas\ncomprimento\ndimensões. Então role na tabela Saídas da Câmara para\n9 Desce dois níveis para uma câmara\ndeterminar o número de sa",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  580,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

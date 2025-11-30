@@ -1,0 +1,28 @@
+﻿# HARPY - Animation Prompts (9 Frames)
+
+## Frame 1 - Winged Hag
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, female humanoid with bird wings and taloned feet, wild hair. Viewed from top-down angle (80-90 degrees), perched on circular rocky cliff base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with feather and skin tones, detailed wing texture readable from above, strong predatory silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Luring Song
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, head back singing enchanting song, mouth open, wings slightly spread. Viewed from top-down angle (80-90 degrees), special ability (luring song), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with musical notes effect, detailed singing pose, strong enchanting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, singing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, spreading wings wide in threatening display, talons extended. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wingspan emphasis, detailed wing anatomy, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing display, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dive Attack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, diving down with talons extended, wings swept back. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed dive action, strong diving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, talon attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, slashing with clawed hands, wings flapping for balance. Viewed from top-down angle (80-90 degrees), melee attack (claws), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw focus, detailed rake action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Screech
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, mouth open in piercing screech, wings raised, aggressive posture. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed screech, strong screeching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, screeching, physical tabletop game piece aesthetic.
+
+## Frame 7 - Glide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, wings extended in gliding position, legs tucked, soaring. Viewed from top-down angle (80-90 degrees), movement/flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful motion, detailed gliding pose, strong flying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gliding, physical tabletop game piece aesthetic.
+
+## Frame 8 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, using hands to preen wing feathers, vain expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming, strong vain silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, harpy character, female humanoid with bird wings and taloned feet, wild hair. Viewed from top-down angle (80-90 degrees), perched on circular rocky cliff base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with feather and skin tones, detailed wing texture readable from above, strong predatory silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

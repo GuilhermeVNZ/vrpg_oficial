@@ -1,0 +1,115 @@
+/* Tooltip Styles - Glassmorphism */
+
+.tooltip-trigger {
+  display: inline-block;
+  position: relative;
+}
+
+.tooltip {
+  position: fixed;
+  z-index: 9999;
+  max-height: 400px;
+  overflow-y: auto;
+  padding: 12px 16px;
+  
+  /* Glassmorphism */
+  background: rgba(15, 15, 15, 0.95);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--vrpg-color-gold-primary);
+  border-radius: var(--vrpg-radius-md);
+  box-shadow: 
+    0 8px 32px rgba(0, 0, 0, 0.6),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.05);
+  
+  /* Typography */
+  font-family: var(--vrpg-font-sans);
+  font-size: 13px;
+  line-height: 1.5;
+  color: #e0e0e0;
+  
+  /* Animation */
+  animation: tooltipFadeIn 0.2s ease-out;
+  pointer-events: none;
+}
+
+@keyframes tooltipFadeIn {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -100%) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -100%) scale(1);
+  }
+}
+
+.tooltip-content {
+  white-space: pre-line;
+}
+
+/* Scrollbar for long tooltips */
+.tooltip::-webkit-scrollbar {
+  width: 6px;
+}
+
+.tooltip::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}
+
+.tooltip::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.4);
+  border-radius: 3px;
+}
+
+.tooltip::-webkit-scrollbar-thumb:hover {
+  background: rgba(212, 175, 55, 0.6);
+}
+
+/* Tooltip header (for structured content) */
+.tooltip-header {
+  font-family: var(--vrpg-font-serif);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--vrpg-color-gold-primary);
+  margin-bottom: 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.tooltip-section {
+  margin: 8px 0;
+}
+
+.tooltip-divider {
+  margin: 10px 0;
+  border: none;
+  border-top: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+/* Formula display */
+.tooltip-formula {
+  font-family: var(--vrpg-font-mono);
+  background: rgba(74, 144, 226, 0.1);
+  padding: 6px 8px;
+  border-radius: 4px;
+  margin: 6px 0;
+  font-size: 12px;
+}
+
+/* List styling */
+.tooltip ul {
+  margin: 4px 0;
+  padding-left: 16px;
+}
+
+.tooltip li {
+  margin: 2px 0;
+}
+
+/* Strong/bold text */
+.tooltip strong {
+  color: var(--vrpg-color-gold-primary);
+  font-weight: 600;
+}

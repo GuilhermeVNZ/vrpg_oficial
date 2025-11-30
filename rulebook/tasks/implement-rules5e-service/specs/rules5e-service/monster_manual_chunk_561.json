@@ -1,0 +1,12 @@
+﻿{
+    "text":  "no de\nseus templos, mesmo que os yuan-ti não adorem os\ndeuses que eles veneram. Ao invés disso, eles veem a\nveneração como um meio de adquirir poder. Um yuan-ti\nacredita que um indivíduo que consiga poder suficiente,\npode devorar e substituir um dos deuses yuan-ti. Os\nyuan-ti esforçam-se para atingir a ascensão e estão\ndispostos a cometer as atrocidades mais obscuras para\nalcança-la.\n306\n\n\n# Pagina 308\n\nYUAN-TI ABOMINAÇÃO\nMonstruosidade Grande (metamorfo, yuan-ti), neutro e mau\nClasse de Armadura 15 (armadura natural)\nPontos de Vida 127 (15d10 + 45)\nDeslocamento 12 m\nFOR DES CON INT SAB CAR\n19 (+4) 16 (+3) 17 (+3) 17 (+3) 15 (+2) 18 (+4)\nPerícias Furtividade +6, Percepção +5\nImunidade a Dano veneno\nImunidade a Condição envenenado\nSentidos visão no escuro 18 m, Percepção passiva 15\nIdiomas Abissal, Comum, Dracônico\nNível de Desafio 7 (2.900 XP)\nConjuração Inata. A habilidade de conjuração de um yuan-ti é\nCarisma (CD de resistência de magia 15, +7 para atingir com\nataques de magia). Ele pode conjurar, inatamente, as seguintes\nmagias, sem necessidade de componentes materiais:\nÀ vontade: amizade animal (cobras apenas)\n3/dia: sugestão\n1/dia: medo\nMetamorfo. O yuan-ti pode usar sua ação para se metamorfosear\nem um cobra Grande, ou voltar para sua forma verdadeira. Suas\nestatísticas são as mesmas em cada forma. Qualquer\nequipamento que ele esteja vestindo ou carregando não é\ntransformado. Ele reverte a sua forma verdadeira se morrer.\nResistência à Magia. O yuan-ti possui vantagem nos testes de\nresistência contra magias e outros efeitos mágicos.\nAÇÕES\nAtaques Múltiplos (Forma de Abominação Apenas). O yuan-ti\nrealiza dois ataques à distância ou três ataques corpo-a-corpo,\nmas só pode usar seus ataques de mordida e constrição uma vez\ncada.\nMordida. Ataque Corpo-a-Corpo com Arma: +7 para atingir,\nalcance 1,5 m, uma criatura. Acerto: 7 (1d6 + 4) de dano\nperfurante mais 10 (3d6) de dano de veneno.\nConstrição. Ataque Corpo-a-Corpo com Arma: +7 para atingir,\nalcance 3 m, um alvo. ",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  561,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

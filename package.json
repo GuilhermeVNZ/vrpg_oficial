@@ -1,0 +1,198 @@
+{
+  "name": "vrpg-client",
+  "version": "1.0.0",
+  "description": "Virtual RPG Engine with Local AI - Complete offline D&D 5e experience",
+  "main": "dist-electron/main.js",
+  "type": "module",
+  "author": {
+    "name": "VRPG Team",
+    "email": "team@vrpg-client.com"
+  },
+  "license": "MIT",
+  "homepage": "https://vrpg-client.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vrpg-team/vrpg-client.git"
+  },
+  "keywords": [
+    "rpg",
+    "dnd",
+    "ai",
+    "electron",
+    "local-llm",
+    "voice-recognition",
+    "text-to-speech",
+    "cyberpunk"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:client\" \"npm run dev:services\"",
+    "dev:client": "vite",
+    "dev:services": "cargo run --bin service-manager",
+    "dev:full": "concurrently \"npm run dev:client\" \"npm run dev:services\" \"npm run dev:mcp\"",
+    "build": "npm run build:client && npm run build:services && npm run build:electron",
+    "build:client": "vite build",
+    "build:services": "cargo build --release",
+    "build:electron": "electron-builder build",
+    "test": "npm run test:client && npm run test:services",
+    "test:client": "vitest run",
+    "test:services": "cargo test",
+    "test:integration": "vitest run tests/integration",
+    "test:e2e": "playwright test",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest watch",
+    "lint": "npm run lint:client && npm run lint:services",
+    "lint:client": "eslint src/client-electron --ext .ts,.tsx",
+    "lint:services": "cargo clippy -- -D warnings",
+    "lint:fix": "eslint src/client-electron --ext .ts,.tsx --fix",
+    "format": "npm run format:client && npm run format:services",
+    "format:client": "prettier --write \"src/client-electron/**/*.{ts,tsx,json,css,md}\"",
+    "format:services": "cargo fmt",
+    "format:check": "npm run format:check:client && npm run format:check:services",
+    "format:check:client": "prettier --check \"src/client-electron/**/*.{ts,tsx,json,css,md}\"",
+    "format:check:services": "cargo fmt --check",
+    "type-check": "tsc --noEmit",
+    "check:quality": "powershell -ExecutionPolicy Bypass -File scripts/check-quality.ps1",
+    "check:all": "npm run check:quality",
+    "fix:warnings": "powershell -ExecutionPolicy Bypass -File scripts/fix-warnings.ps1",
+    "test:all": "powershell -ExecutionPolicy Bypass -File scripts/run-tests.ps1",
+    "dist": "npm run build && electron-builder",
+    "dist:win": "npm run build && electron-builder --win",
+    "dist:mac": "npm run build && electron-builder --mac",
+    "dist:linux": "npm run build && electron-builder --linux",
+    "dist:all": "npm run build && electron-builder --win --mac --linux",
+    "setup": "npm run setup:config && npm run setup:models",
+    "setup:config": "node scripts/setup-config.js",
+    "setup:models": "node scripts/download-models.js",
+    "setup:dev": "npm install && cargo build && npm run setup",
+    "start": "electron dist-electron/main.js",
+    "preview": "vite preview",
+    "pack": "npm run build && electron-builder --dir",
+    "clean": "rimraf dist dist-electron node_modules/.vite target/release",
+    "clean:all": "npm run clean && rimraf node_modules target",
+    "release": "npm run test && npm run dist && npm run upload:release",
+    "upload:release": "node scripts/upload-release.js",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "@3d-dice/dice-box": "^1.1.4",
+    "@3d-dice/dice-parser-interface": "^0.2.1",
+    "@react-three/cannon": "^6.6.0",
+    "@react-three/drei": "^9.114.3",
+    "@react-three/fiber": "^8.17.10",
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3",
+    "@types/three": "^0.169.0",
+    "cannon-es": "^0.20.0",
+    "electron-log": "^5.0.1",
+    "electron-store": "^8.1.0",
+    "electron-updater": "^6.1.7",
+    "pixi.js": "^8.14.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stats-gl": "^3.7.0",
+    "three": "^0.169.0",
+    "webworker-promise": "^0.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "@vitest/coverage-v8": "^1.1.0",
+    "concurrently": "^8.2.2",
+    "electron": "^28.1.0",
+    "electron-builder": "^24.9.1",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "jsdom": "^23.2.0",
+    "playwright": "^1.40.1",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "vitepress": "^1.0.0-rc.36",
+    "vitest": "^1.1.0"
+  },
+  "build": {
+    "appId": "com.vrpg.client",
+    "productName": "VRPG Client",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build-resources"
+    },
+    "files": [
+      "dist-electron/**/*",
+      "dist-client/**/*",
+      "assets-and-models/**/*",
+      "config/**/*",
+      "!src/**/*",
+      "!tests/**/*",
+      "!*.md",
+      "!.env*"
+    ],
+    "extraResources": [
+      {
+        "from": "assets-and-models/models",
+        "to": "models",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "target/release",
+        "to": "bin",
+        "filter": [
+          "**/*"
+        ]
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "build-resources/icon.ico"
+    },
+    "mac": {
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "x64",
+            "arm64"
+          ]
+        }
+      ],
+      "icon": "build-resources/icon.icns",
+      "category": "public.app-category.games"
+    },
+    "linux": {
+      "target": [
+        {
+          "target": "AppImage",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "deb",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "build-resources/icon.png",
+      "category": "Game"
+    }
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

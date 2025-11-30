@@ -1,0 +1,36 @@
+# Ogre Brute - Animation Prompts (9 Frames)
+
+Base prompt: Dungeons and Dragons dark fantasy anime illustration, ogre brute character, massive muscular humanoid with grey-green skin and brutish ugly face with tusks, wearing crude leather straps and fur loincloth, wielding an enormous wooden club with metal spikes. Viewed from top-down angle (80-90 degrees), standing on circular cracked earth base, 2D painted illustration style, solid dark grey background NO CHECKERED PATTERN.
+
+---
+
+## Frame 1 - Idle Rest
+Ogre standing with club resting on shoulder, relaxed menacing stance, breathing normally.
+
+## Frame 2 - Shift Weight
+Weight shifting to right leg, club begins to lift off shoulder, muscles tensing.
+
+## Frame 3 - Lift Club
+Club raised off shoulder, held in both hands, ogre's arms flexing, preparing for threat display.
+
+## Frame 4 - Raise Club High
+Club lifted overhead with both hands, ogre's full height, maximum intimidation pose, muscles bulging.
+
+## Frame 5 - Hold Threat
+Maintaining club overhead, roaring pose (mouth wide), peak of intimidation display.
+
+## Frame 6 - Begin Lower
+Starting to lower club, mouth closing, muscles still tense but relaxing.
+
+## Frame 7 - Mid Lower
+Club lowering back toward shoulder level, arms relaxing, returning to neutral stance.
+
+## Frame 8 - Almost Rest
+Club nearly back on shoulder, weight shifting back to center, breathing settling.
+
+## Frame 9 - Complete Loop
+Identical to Frame 1, club on shoulder, ready to loop seamlessly.
+
+---
+
+**Use estas descrições com o prompt base para gerar cada frame!**

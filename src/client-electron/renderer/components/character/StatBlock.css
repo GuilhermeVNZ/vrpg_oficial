@@ -1,0 +1,97 @@
+/* StatBlock Component Styles */
+
+.stat-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px;
+    min-width: 80px;
+
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: var(--vrpg-radius-md);
+
+    transition: all 0.3s ease;
+    cursor: help;
+    position: relative;
+}
+
+.stat-block:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: var(--vrpg-color-gold-primary);
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.2);
+    transform: translateY(-2px);
+}
+
+.stat-block-name {
+    font-family: var(--vrpg-font-serif);
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--vrpg-color-gold-primary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+}
+
+.stat-block-modifier {
+    font-family: var(--vrpg-font-sans);
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.stat-block-score {
+    font-family: var(--vrpg-font-sans);
+    font-size: 14px;
+    color: #b0b0b0;
+    padding: 4px 8px;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    min-width: 40px;
+    text-align: center;
+}
+
+.stat-block-input {
+    width: 50px;
+    padding: 4px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 4px;
+    color: #ffffff;
+    font-family: var(--vrpg-font-sans);
+    font-size: 14px;
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.stat-block-input:hover {
+    border-color: var(--vrpg-color-gold-primary);
+}
+
+.stat-block-input:focus {
+    outline: none;
+    border-color: var(--vrpg-color-gold-primary);
+    box-shadow: 0 0 8px rgba(212, 175, 55, 0.3);
+}
+
+/* Remove spinner arrows */
+.stat-block-input::-webkit-inner-spin-button,
+.stat-block-input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.stat-block-input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.stat-block-save-indicator {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    font-size: 12px;
+    color: var(--vrpg-color-arcane-blue);
+    opacity: 0.8;
+}

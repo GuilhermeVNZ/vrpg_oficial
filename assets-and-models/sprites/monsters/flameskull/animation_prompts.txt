@@ -1,0 +1,28 @@
+﻿# FLAMESKULL - Animation Prompts (9 Frames)
+
+## Frame 1 - Burning Skull
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, floating skull wreathed in green flames, empty eye sockets glowing. Viewed from top-down angle (80-90 degrees), hovering above circular scorched floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eerie green fire, detailed flame texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Flame Intensify
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, flames flaring brighter and larger, jaw opening, eyes blazing. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying fire, detailed flame growth, strong awakening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, powering up, physical tabletop game piece aesthetic.
+
+## Frame 3 - Fire Ray
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, shooting beam of fire from eye socket, skull tilting for aim. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beam focus, detailed ray effect, strong blaster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fire ray attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Fireball Cast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, conjuring sphere of fire in front of mouth, flames swirling into ball. Viewed from top-down angle (80-90 degrees), spell casting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with spell focus, detailed fireball formation, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting fireball, physical tabletop game piece aesthetic.
+
+## Frame 5 - Flaming Sphere
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, surrounded by orbiting sphere of flame, controlling it with will. Viewed from top-down angle (80-90 degrees), spell effect, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orbital motion, detailed sphere control, strong controller silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flaming sphere, physical tabletop game piece aesthetic.
+
+## Frame 6 - Rejuvenation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, flames flickering and reforming after damage, cracks healing. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with restoration glow, detailed regeneration, strong reforming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, regenerating, physical tabletop game piece aesthetic.
+
+## Frame 7 - Cackle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, jaw opening wide in silent cackle, flames dancing wildly. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with animated flames, detailed expression, strong maniacal silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cackling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dim Flames
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, flames dying down to low flicker, conserving energy. Viewed from top-down angle (80-90 degrees), idle/resting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed low flame, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flameskull character, floating skull wreathed in green flames, empty eye sockets glowing. Viewed from top-down angle (80-90 degrees), hovering above circular scorched floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eerie green fire, detailed flame texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

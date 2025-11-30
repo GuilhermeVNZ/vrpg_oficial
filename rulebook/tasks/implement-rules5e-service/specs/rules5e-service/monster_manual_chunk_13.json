@@ -1,0 +1,12 @@
+﻿{
+    "text":  "l, se possuir.\ne cubos gelatinosos estão dentre os limos mais\nSe um monstro tiver armadura natural, vestir armadura\nreconhecíveis.\nou carregar um escudo, isso será descrito entre\nMonstruosidades são monstros no estrito senso –\nparênteses após o valor de CA dele.\ncriaturas apavorantes que não são comuns, nem\nverdadeiramente naturais e quase nunca benignos.\nPONTOS DE VIDA\nAlguns são resultado de experimentos mágicos que deram\nerrado (como os ursos-coruja) e outros são produto de Um monstro geralmente morre ou é destruído quando cai\nmaldições terríveis (incluindo os minotauros e yuan-ti). a 0 pontos de vida. Para mais sobre pontos de vida, veja o\nEles desafiam a categorização e, de certa forma, servem Livro do Jogador.\ncomo categoria base para criaturas que não se encaixam Os pontos de vida de um monstro são apresentados\nem qualquer outro tipo. tanto numa expressão de dado quanto num valor\nMortos-vivos foram uma vez criaturas vivas levados numérico. Por exemplo, um monstro com 2d8 pontos de\na um estado horrendo de morte-vida através da pratica de vida tem 9 pontos de vida na média (2 x 4½).\nmagia necromântica ou alguma maldição profana. Os O tamanho de um monstro determina o dado usado\nmortos-vivos incluem corpos ambulantes, como vampiros para calcular seus pontos de vida, como mostrado na\ne zumbis, assim como espíritos desencarnados, como tabela Dado de Vida por Tamanho.\nfantasmas e espectros.\nPlantas, no contexto, são criaturas vegetais, não flora PONTOS DE VIDA POR TAMANHO\nordinária. Muitas delas são ambulantes e algumas são Tamanho Dado de Vida PV Médio por Dado\ncarnívoras. As plantas quintessenciais são o arbusto\nMiúdo d4 2½\nerrante e a ente. Criaturas fúngicas como o esporo de gás\nPequeno d6 3½\ne o miconide também fazem parte dessa categoria.\nMédio d8 4½\nDESCRITOR Grande d10 5½\nUm monstro pode ter um ou mais descritores anexados ao Enorme d12 6½\nseu tipo, entre parênteses. Por exemplo, um orc tem o tipo\nImenso d20 10½\nhumanoide (orc). O descritor entre parênteses",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  13,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

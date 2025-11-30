@@ -1,0 +1,12 @@
+﻿{
+    "text":  "aços de magia\npara tal. Por exemplo, um drow arcano com a magia de 3°\nnível relâmpago pode conjura-la como uma magia de 5°\nnível usando um dos seus espaços de magia de 5° nível.\nVocê pode mudar as magias que um monstro conhece\nou tem preparadas, substituindo quaisquer magias na\nlista de magias de um monstro por magias diferentes de\nmesmo nível e da mesma lista de classe. Se você fizer isso,\nvocê pode fazer com que o monstro se torne uma ameaça\nmaior ou menor que o sugerido pelo nível de desafio dele.\nPSIONISMO\nUm monstro que conjure magias usando apenas o poder\nda mente dele possui o descritor psionismo adicionado a\nseu traço especial de Conjuração ou Conjuração Inata.\nEsse descritor não possui regras próprias, mas outras\npartes do jogo podem se referir a ele. Um monstro que\npossua esse descritor geralmente não requer quaisquer\ncomponentes para conjurar suas magias.\nAÇÕES\nQuando um monstro realiza sua ação, ele pode escolher\nentre as opções na seção Ações do seu bloco de estatísticas\nou usar uma das ações disponíveis a todas as criaturas,\ncomo as ações de Disparada e Esconder-se, como descrito\nno Livro do Jogador.\nATAQUES CORPO-A-CORPO E À DISTÂNCIA\nAs ações mais comuns que um monstro irá realizar em\ncombate são ataques corpo-a-corpo e à distância. Esses\npodem ser ataques com magia ou ataques com arma, onde\na “arma” pode ser um item manufaturado ou uma arma\nnatural, como uma garra ou cauda com chifres. Para mais\ninformações sobre os diferentes tipos de ataque, veja o\nLivro do Jogador.\nCriatura x Alvo. O alvo de um ataque corpo-a-corpo\nou à distância é, geralmente, tanto uma criatura quanto\n10\n\n\n# Pagina 12\n\num alvo, a diferença é que um “alvo” pode ser uma EQUIPAMENTO\ncriatura ou um objeto.\nUm bloco de estatísticas raramente se refere a\nAtingir. Qualquer dano causado ou outros efeitos que\nequipamento, além da armadura ou armas usadas por um\nocorrem como resultado de atingir um ataque num alvo\nmonstro. Uma criatura costumeiramente veste roupas,\nsão descritos após a n",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  20,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

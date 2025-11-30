@@ -1,0 +1,28 @@
+﻿# SWARM OF QUIPPERS - Animation Prompts (9 Frames)
+
+## Frame 1 - Piranha School
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, hundreds of small carnivorous fish swimming together in tight school. Viewed from top-down angle (80-90 degrees), swimming on circular river base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with silver and blue tones, detailed scale texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Blood Frenzy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, fish detecting blood, becoming agitated and aggressive. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with frenzy emphasis, detailed agitation, strong frenzied silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blood frenzy, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dart
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, fish shooting forward through water at high speed. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed darting, strong fast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, darting, physical tabletop game piece aesthetic.
+
+## Frame 4 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, fish surrounding victim (implied) completely. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with attack focus, detailed engulfing, strong attacking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Feeding Frenzy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, individual fish biting frantically, tearing flesh, water churning. Viewed from top-down angle (80-90 degrees), sustained attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with frenzy emphasis, detailed feeding, strong frenzied silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, feeding frenzy, physical tabletop game piece aesthetic.
+
+## Frame 6 - Circle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, fish circling prey in coordinated pattern. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with circular motion, detailed circling, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, circling, physical tabletop game piece aesthetic.
+
+## Frame 7 - Regroup
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, fish reforming tight school. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with regrouping motion, detailed reformation, strong cohesive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, regrouping, physical tabletop game piece aesthetic.
+
+## Frame 8 - Drift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, fish drifting lazily in current, conserving energy. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed drifting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drifting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of quippers character, hundreds of small carnivorous fish swimming together in tight school. Viewed from top-down angle (80-90 degrees), swimming on circular river base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with silver and blue tones, detailed scale texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

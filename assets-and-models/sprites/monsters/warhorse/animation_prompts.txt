@@ -1,0 +1,28 @@
+﻿# WARHORSE - Animation Prompts (9 Frames)
+
+## Frame 1 - Battle Steed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, large powerful horse in barding armor, muscular build, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and steel tones, detailed armor and fur texture readable from above, strong war mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Whinny
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, head raised, neighing loudly, mane flowing. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed whinny, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, whinnying, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, galloping forward at full speed, hooves pounding. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed galloping, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charging, physical tabletop game piece aesthetic.
+
+## Frame 4 - Hoof Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, rearing up and striking with front hooves. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with hoof focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hoof attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Trampling Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, running over enemy (implied), unstoppable momentum. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with charge emphasis, detailed trampling, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trampling, physical tabletop game piece aesthetic.
+
+## Frame 6 - Buck
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, kicking out with rear hooves, throwing rider (implied). Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with kick motion, detailed bucking, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bucking, physical tabletop game piece aesthetic.
+
+## Frame 7 - Trained Response
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, responding to rider commands, turning sharply. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tactical movement, detailed maneuvering, strong trained silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, maneuvering, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, standing calmly, head lowered, resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse character, large powerful horse in barding armor, muscular build, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and steel tones, detailed armor and fur texture readable from above, strong war mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

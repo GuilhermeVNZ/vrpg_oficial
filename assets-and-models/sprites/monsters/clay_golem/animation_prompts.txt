@@ -1,0 +1,28 @@
+﻿# CLAY GOLEM - Animation Prompts (9 Frames)
+
+## Frame 1 - Earthen Construct
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, massive humanoid made of soft clay, misshapen features, heavy limbs, runes carved into chest. Viewed from top-down angle (80-90 degrees), standing on circular pottery floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with warm brown tones, detailed clay texture readable from above, strong unstoppable silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Haste Activation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, runes on chest glowing yellow, body vibrating with speed, clay shifting rapidly. Viewed from top-down angle (80-90 degrees), magic activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying speed lines, detailed blur effect, strong awakening speed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slam Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, raising massive fist high, clay bunching around shoulder for impact, legs braced. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on fist, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Cursed Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, fist slamming down, clay splashing slightly, dark energy trailing from impact (curse). Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Berserk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, flailing both arms wildly, head twisted at odd angle, runes flashing chaotically. Viewed from top-down angle (80-90 degrees), frenzy, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed chaos, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, berserk attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, slowing down, arms returning to sides, clay reshaping into humanoid form, runes dimming. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Reshaping
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, clay flowing over a "wound" to heal it, surface smoothing out, mindless repair. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong regenerating silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, healing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Statue
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, standing perfectly still, looking like an unfinished statue, arms hanging heavy. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient object silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, clay golem character, massive humanoid made of soft clay, misshapen features, heavy limbs, runes carved into chest. Viewed from top-down angle (80-90 degrees), standing on circular pottery floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with warm brown tones, detailed clay texture readable from above, strong unstoppable silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

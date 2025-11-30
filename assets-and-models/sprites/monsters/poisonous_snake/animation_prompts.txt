@@ -1,0 +1,28 @@
+﻿# POISONOUS SNAKE - Animation Prompts (9 Frames)
+
+## Frame 1 - Venomous Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, serpent with bright warning colors, forked tongue, coiled body. Viewed from top-down angle (80-90 degrees), coiled on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and yellow tones, detailed scale texture readable from above, strong serpentine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tongue Flick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, flicking forked tongue out rapidly, tasting air. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tongue focus, detailed tongue flick, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tongue flicking, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slither
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, undulating across ground in serpentine motion. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wave motion, detailed slithering, strong flowing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slithering, physical tabletop game piece aesthetic.
+
+## Frame 4 - Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, lunging forward with fangs extended, lightning fast. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with strike motion, detailed bite action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Venom Injection
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, fangs sunk into prey, injecting venom. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with venom emphasis, detailed injection, strong venomous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, injecting venom, physical tabletop game piece aesthetic.
+
+## Frame 6 - Coil
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, wrapping body around prey, constricting. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with coil emphasis, detailed constriction, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, coiling, physical tabletop game piece aesthetic.
+
+## Frame 7 - Rattle Warning
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, tail raised and vibrating in warning, defensive. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibration effect, detailed warning, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, warning, physical tabletop game piece aesthetic.
+
+## Frame 8 - Bask
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, lying stretched out in sun, warming. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed basking, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, basking idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, poisonous snake character, serpent with bright warning colors, forked tongue, coiled body. Viewed from top-down angle (80-90 degrees), coiled on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and yellow tones, detailed scale texture readable from above, strong serpentine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

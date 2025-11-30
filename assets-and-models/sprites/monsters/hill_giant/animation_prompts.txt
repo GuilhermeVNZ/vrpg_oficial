@@ -1,0 +1,28 @@
+﻿# HILL GIANT - Animation Prompts (9 Frames)
+
+## Frame 1 - Brutal Hunger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, massive hulking humanoid with potbelly, wearing primitive furs and skins, carrying massive wooden club, dull expression of constant hunger. Viewed from top-down angle (80-90 degrees), standing on circular grassy hill base with scattered bones, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with earthy tones, detailed fur texture and muscle bulk readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hungry pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Stomach Growl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, clutching stomach, face twisting in hunger, club lowering slightly, feet shifting on grass. Viewed from top-down angle (80-90 degrees), body reacting to hunger, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying shadow, detailed expression, strong hungry silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, searching for food, physical tabletop game piece aesthetic.
+
+## Frame 3 - Club Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, lifting massive club with both hands, muscles bulging, face showing anger, mouth opening to roar. Viewed from top-down angle (80-90 degrees), preparing to smash, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on club, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Smash Apex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, club raised high above head, body fully extended, feet planted wide, expression of pure aggression. Viewed from top-down angle (80-90 degrees), peak of swing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed muscle tension, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Impact
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, club slamming down, dust rising from base, ground cracking, shockwave visible. Viewed from top-down angle (80-90 degrees), impact moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive dust effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, smash attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, lifting club from crater, dust settling, panting slightly, looking for next target. Viewed from top-down angle (80-90 degrees), recovering from swing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding dust, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scratching
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, scratching head with free hand, club resting on shoulder, confused expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong dim-witted silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, confused idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Slouching
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, shoulders slumping, club dragging on ground, looking at bones on base. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hill giant character, massive hulking humanoid with potbelly, wearing primitive furs and skins, carrying massive wooden club, dull expression of constant hunger. Viewed from top-down angle (80-90 degrees), standing on circular grassy hill base with scattered bones, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with earthy tones, detailed fur texture and muscle bulk readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hungry pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

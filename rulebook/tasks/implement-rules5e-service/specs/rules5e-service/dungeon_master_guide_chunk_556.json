@@ -1,0 +1,12 @@
+﻿{
+    "text":  "seu nível de desafio.\nTelepatia. Se um monstro tem telepatia ou não, isso\nSe ele tiver três ou quatro bônus, aumenta a CA efetiva\nnão influencia no seu nível de desafio. Para mais\nem 2. Se ele tiver cinco ou todos os bônus, aumente a CA\ninformações sobre telepatia, veja o Manual dos Monstros.\nefetiva em 4.\nPASSO 16. NÍVEL DE DESAFIO FINAL BLOCOS DE ESTATÍSTICAS DE PDM\nA partir desse momento, você tem todas as informações O apêndice B do Manual dos Monstros contém blocos de\nestatísticas que você precisa para calcular o nível de estatísticas para arquétipos comuns de PdM como\ndesafio final do monstro. Esse passo é idêntico ao passo 4 bandidos e guardas, assim como dicas para personaliza-\nem “Criando Estatísticas de Monstro Rapidamente”. los. Essas dicas incluem adicionar traços raciais do Livro\nCalcule o nível de desafio defensivo do monstro e seu do Jogador, equipar os PdMs com itens mágicos e troca de\nnível de desafio ofensivo, então pegue a média para armadura, armas e magias.\nchegar ao nível de desafio final.\n280\n\n\n# Pagina 282\n\nCARASCTERÍSTICAS DE MONSTRO\nNome Exemplo de Monstro Efeito no Nível de Desafio\nAbsorção de Dano Golem de carne –\nAgarrador Mímico –\nAgressivo Orc Aumenta o dano por rodada efetivo produzido pelo monstro em 2.\nAmorfo Pudim negro –\nAncestralidade Feérica Drow –\nAndar na Teia Aranha gigante –\nAnfíbio Kuo-toa –\nAnulação Demilich Aumenta a CA efetiva do monstro em 1.\nAparar Hobgoblin senhor da Aumenta a CA efetiva do monstro em 1.\nguerra\nAparência Falsa Gárgula –\nAparência Ilusória Bruxa verde –\nArmas Angelicais Deva Aumenta o dano por rodada efetivo produzido pelo monstro na quantidade\ndescrita no traço.\nArma de Sopro Dragão negro ancião Para determinar o dano efetivo produzido, considere que a arma de sopro atinge\ndois alvos e que cada alvo falha no teste de resistência.\nArmas Mágicas Balor –\nAspecto Horripilante Banshee Veja Presença Aterradora.\nAtaque Surpresa Bugbear Aumenta o dano efetivo do monstro por 1 rodada na quantidade descrita no ",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  556,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

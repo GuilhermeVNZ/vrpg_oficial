@@ -1,0 +1,12 @@
+﻿{
+    "text":  "maior caso a criatura seja\nexcepcionalmente bem armadurada. Um gorgon, por\nexemplo, é coberto por placas de aço e tem um bônus de\narmadura natural de +9.\nPASSO 8. PONTOS DE VIDA\nOs pontos de vida de um monstro tem uma influência\ndireta no seu nível de desafio e vice versa. Você pode\ndeterminar os pontos de vida do seu monstros de duas\nformas.\nUse a Tabela. Você pode começar com o nível de\ndesafio pretendido para o monstro e usar a tabela\nEstatísticas de Monstro por Nível de Desafio para\ndeterminar um número apropriado de pontos de vida. A\ntabela apresenta uma variação de pontos de vida para\ncada nível de desafio.\nAtribua Dados de Vida. Alternativamente, você\npode atribuir um número de Dados de Vida para um\nmonstro, então calcular seus pontos de vida médios. Não\nse preocupe se os pontos de vida não combinarem com o\nnível de desafio pretendido para o monstro. Outros\nfatores podem afetar o nível de desafio de um monstro,\ncomo mostrado nos passos seguintes, e você sempre pode\najustar os Dados de Vida e pontos de vida depois.\nUm monstro pode ter quantos Dados de Vida você\nquiser, mas o tamanho do dado usado para calcular seus\npontos de vida depende do tamanho do monstro, como\nmostrado na tabela Dado de Vida por Tamanho. Por\nexemplo, um monstro Médio usa d8s para pontos de vida,\nentão, um monstro Médio com 5 Dados de Vida e\nConstituição 13 (+1 de modificador) teria 5d8 + 5 pontos\nde vida.\nUm monstro geralmente tem uma média de pontos de\nvida baseada no seu Dado de Vida. Por exemplo, uma\ncriatura com 5d8 + 5 pontos de vida teria uma média de\n27 pontos de vida (5 x 4,5 + 5).\nDADO DE VIDA POR TAMANHO\nTamanho do Monstro Dado de Vida PV Médio por Dado\nMiúdo d4 2½\nPequeno d6 3½\nMédio d8 4½\nGrande d10 5½\nEnorme d12 6½\nImenso d20 10½\nPASSO 9. VULNERABILIDADE, RESISTÊNCIA E\nIMUNIDADE A DANO\nDecida se seu monstro terá vulnerabilidade, resistência\nou imunidade a um ou mais tipos de dano (veja o Livro do\nJogador para descrições dos diversos tipos de dano).\nAtribua uma vulnerabilidade",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  547,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

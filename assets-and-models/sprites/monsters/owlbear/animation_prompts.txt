@@ -1,0 +1,28 @@
+﻿# OWLBEAR - Animation Prompts (9 Frames)
+
+## Frame 1 - Feathered Beast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, massive creature with owl head and bear body, feathered and furred, sharp beak and claws. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and tan tones, detailed feather and fur texture readable from above, strong monstrous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hoot-Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, head raised, beak open in terrifying hoot-roar hybrid call. Viewed from top-down angle (80-90 degrees), vocalization/intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed roar, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, running forward on all fours, building momentum. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed charge, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charging, physical tabletop game piece aesthetic.
+
+## Frame 4 - Beak Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, snapping powerful beak forward, tearing motion. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beak focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, beak attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, rearing up and slashing down with massive claws. Viewed from top-down angle (80-90 degrees), melee attack (claws), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong raking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Bear Hug
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, wrapping arms around prey, crushing embrace. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with constriction, detailed hug, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bear hug, physical tabletop game piece aesthetic.
+
+## Frame 7 - Keen Sight and Smell
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, head turning, eyes and nostrils flaring, tracking prey. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed tracking, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking, physical tabletop game piece aesthetic.
+
+## Frame 8 - Nest Guard
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, settling protectively over invisible nest, territorial. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed guarding, strong protective silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, guarding idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owlbear character, massive creature with owl head and bear body, feathered and furred, sharp beak and claws. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and tan tones, detailed feather and fur texture readable from above, strong monstrous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

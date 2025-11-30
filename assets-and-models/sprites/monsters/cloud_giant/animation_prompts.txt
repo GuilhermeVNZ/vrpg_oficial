@@ -1,0 +1,28 @@
+﻿# CLOUD GIANT - Animation Prompts (9 Frames)
+
+## Frame 1 - Sky Noble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, tall elegant giant with pale blue skin and white hair, wearing fine silk robes and silver jewelry, holding massive morningstar. Viewed from top-down angle (80-90 degrees), standing on circular cloud base with floating stones, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with airy white and blue tones, detailed fabric and jewelry texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle arrogant pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Levitation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, feet lifting slightly off cloud base, robes billowing in wind, morningstar glowing faintly, expression of disdain. Viewed from top-down angle (80-90 degrees), magic activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying air currents, detailed floating movement, strong awakening mage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing magic, physical tabletop game piece aesthetic.
+
+## Frame 3 - Weapon Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, raising morningstar with effortless grace, wind swirling around weapon, robes fluttering violently, eyes glowing. Viewed from top-down angle (80-90 degrees), raising weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on weapon, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Wind Strike Apex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, morningstar held high, wind gathering into cyclone around weapon, body poised, clouds darkening. Viewed from top-down angle (80-90 degrees), peak of strike, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed magic manifestation, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Thunder Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, morningstar slamming down, shockwave of wind and thunder, clouds dispersing, lightning arc. Viewed from top-down angle (80-90 degrees), impact moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive wind effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, smash attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Descent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, floating back down, wind calming, robes settling, checking nails or jewelry, dismissive look. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding wind, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Magic Trick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, creating small cloud in hand, morningstar resting, amused expression, jewelry sparkling. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong whimsical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, magical idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Drifting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, hovering slightly, robes gentle wave, looking down from height, clouds swirling lazily. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient noble silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cloud giant character, tall elegant giant with pale blue skin and white hair, wearing fine silk robes and silver jewelry, holding massive morningstar. Viewed from top-down angle (80-90 degrees), standing on circular cloud base with floating stones, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with airy white and blue tones, detailed fabric and jewelry texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle arrogant pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

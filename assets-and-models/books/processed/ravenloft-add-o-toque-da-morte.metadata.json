@@ -1,0 +1,23 @@
+{
+  "source_pdf": "ravenloft-add-o-toque-da-morte-biblioteca-elfica.pdf",
+  "output_md": "ravenloft-add-o-toque-da-morte.md",
+  "pages": 1,
+  "classification": {
+    "domain": "gaming",
+    "doc_type": "campaign_setting",
+    "categories": [
+      "ravenloft",
+      "dnd",
+      "campaign_setting",
+      "rpg",
+      "horror"
+    ],
+    "confidence": 0.85,
+    "metadata": {
+      "source": "biblioteca_elfica",
+      "language": "pt-BR",
+      "filename": "ravenloft-add-o-toque-da-morte-biblioteca-elfica.pdf"
+    }
+  },
+  "extraction_method": "transmutation"
+}

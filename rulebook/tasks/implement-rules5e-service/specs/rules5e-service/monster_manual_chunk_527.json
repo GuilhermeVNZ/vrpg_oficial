@@ -1,0 +1,12 @@
+﻿{
+    "text":  " (CD 20 para escapar). Ataque. O tarrasque realiza um ataque de garra ou um ataque\nAté o agarrão acabar, o alvo fica impedido e o tarrasque não pode de cauda.\nmorder outro alvo. Movimento. O tarrasque se move até metade do seu\nGarras. Ataque Corpo-a-Corpo com Arma: +19 para atingir, deslocamento.\nalcance 4,5 m, um alvo. Acerto: 28 (4d8 + 10) de dano cortante. Mastigar (Custa 2 Ações). O tarrasque realiza um ataque de\nmordida ou usa seu Engolir.\n286\n\n\n# Pagina 288\n\n287\n\n\n# Pagina 289\n\nTARTARUGA-DRAGÃO\nDragão Imenso, neutro\nClasse de Armadura 20 (armadura natural)\nPontos de Vida 341 (22d20 + 110)\nDeslocamento 6 m, natação 12 m\nFOR DES CON INT SAB CAR\n25 (+7) 10 (+0) 20 (+5) 10 (+0) 12 (+1) 12 (+1)\nTestes de Resistência Des +6, Con +11, Sab +7\nResistência a Dano fogo\nSentidos visão no escuro 36 m, Percepção passiva 11\nIdiomas Aquan, Dracônico\nNível de Desafio 17 (18.000 XP)\nAnfíbio. A tartaruga-dragão pode respirar ar e água.\nAÇÕES\nAtaques Múltiplos. A tartaruga-dragão realiza três ataques: um\ncom sua mordida e dois com suas garras. Ela pode realizar um\nataque de cauda no lugar dos seus dois ataques de garra.\nMordida. Ataque Corpo-a-Corpo com Arma: +13 para atingir,\nalcance 4,5 m, um alvo. Acerto: 26 (3d12 + 7) de dano perfurante.\nGarra. Ataque Corpo-a-Corpo com Arma: +13 para atingir, alcance\n3 m, um alvo. Acerto: 16 (2d8 + 7) de dano cortante.\nCauda. Ataque Corpo-a-Corpo com Arma: +13 para atingir, alcance\n4,5 m, um alvo. Acerto: 26 (3d12 + 7) de dano de concussão. Se o\nalvo for uma criatura, ela deve ser bem sucedida num teste de\nresistência de Força CD 20 ou será empurrada até 3 metros para\nlonge da tartaruga-dragão e cairá no chão.\nSopro de Vapor (Recarrega 5–6). A tartaruga-dragão expele vapor\nescaldante num cone de 18 metros. Cada criatura na área deve\nrealizar um teste de resistência de Destreza CD 19, sofrendo 52\n(15d6) de dano de fogo caso fracassem, ou metade desse dano\ncaso obtenham sucesso. Estar dentro da água não confere\nresistência contra esse dano.\nTAR",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  527,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

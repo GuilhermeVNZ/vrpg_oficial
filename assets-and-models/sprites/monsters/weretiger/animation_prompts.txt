@@ -1,0 +1,28 @@
+﻿# WERETIGER - Animation Prompts (9 Frames)
+
+## Frame 1 - Hybrid Tiger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, hybrid form of human and tiger, striped fur, muscular, tail, holding scimitar/glaive. Viewed from top-down angle (80-90 degrees), standing on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and black tones, detailed fur texture readable from above, strong hunter silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle confident pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Stalking
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, lowering body, tail twitching slowly, ears flattened, eyes locked on prey, weapon held low. Viewed from top-down angle (80-90 degrees), hunting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying focus, detailed movement, strong predator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, coiling muscles, weapon raised, mouth opening in silent snarl, claws extending. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on weapon, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, slashing diagonally with weapon, body twisting with grace, tail whipping for balance. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite/Claw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, following up with off-hand claw strike or bite, savage but controlled, fluid motion. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, landing gracefully, returning to stance, licking lips, tail settling, eyes alert. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Cleaning
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, cleaning weapon with cloth (or licking paw), looking regal and indifferent. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong noble silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cleaning idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Resting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, lying down on side like a big cat, head up, watching, weapon within reach. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weretiger character, hybrid form of human and tiger, striped fur, muscular, tail, holding scimitar/glaive. Viewed from top-down angle (80-90 degrees), standing on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and black tones, detailed fur texture readable from above, strong hunter silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle confident pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

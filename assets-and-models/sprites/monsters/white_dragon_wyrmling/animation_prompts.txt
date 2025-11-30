@@ -1,0 +1,28 @@
+﻿# WHITE DRAGON WYRMLING - Animation Prompts (9 Frames)
+
+## Frame 1 - Ice Drake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, small white dragon with icy scales, sharp claws, frost breath. Viewed from top-down angle (80-90 degrees), standing on circular icy cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and blue tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, head raised, mouth open in roar, wings spread. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed roar, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, crouching low, wings folded, ready to leap. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed preparation, strong coiled silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing pounce, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, snapping jaws forward with sharp teeth. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Cold Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, exhaling cone of freezing cold and ice. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with ice effect, detailed breath weapon, strong elemental silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, swiping with front claws, slashing. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed swipe action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Ice Walk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, walking across ice, leaving frost trail. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with ice trail, detailed walking, strong moving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, walking, physical tabletop game piece aesthetic.
+
+## Frame 8 - Curl Up
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, curling up on treasure hoard, sleeping. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, white dragon wyrmling character, small white dragon with icy scales, sharp claws, frost breath. Viewed from top-down angle (80-90 degrees), standing on circular icy cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and blue tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

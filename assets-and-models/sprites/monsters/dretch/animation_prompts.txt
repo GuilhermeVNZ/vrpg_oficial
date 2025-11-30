@@ -1,0 +1,28 @@
+﻿# DRETCH - Animation Prompts (9 Frames)
+
+## Frame 1 - Wretched Mass
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, small blob-like demon with pale rubbery skin, slack mouth, small limbs, emitting faint gas. Viewed from top-down angle (80-90 degrees), standing on circular slime base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly beige tones, detailed skin folds readable from above, strong pathetic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle miserable pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Fetid Cloud
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, gas cloud thickening around body, skin rippling, mouth opening to belch, eyes watering. Viewed from top-down angle (80-90 degrees), toxic aura activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying green haze, detailed gas movement, strong repulsive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing stench, physical tabletop game piece aesthetic.
+
+## Frame 3 - Clumsy Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, raising one arm to scratch or hit, losing balance slightly, face confused, drool falling. Viewed from top-down angle (80-90 degrees), attacking, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on claw, detailed anatomical awkwardness, strong weak silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Tantrum
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, flailing both arms, stomping feet, screaming silently, face red with effort. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong angry silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, multi-attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Collapse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, falling forward onto belly, gas puffing out, limbs splayed, looking defeated. Viewed from top-down angle (80-90 degrees), impact moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive dust, detailed failure, strong prone silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, prone, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, pushing up slowly, shaking head, gas settling, looking for orders. Viewed from top-down angle (80-90 degrees), recovering, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, recovery, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scratching
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, scratching back against invisible wall, looking vacant, mouth hanging open, drooling. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong dumb silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sitting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, sitting on ground, picking at toes, looking at nothing, gas faint wisp. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dretch demon character, small blob-like demon with pale rubbery skin, slack mouth, small limbs, emitting faint gas. Viewed from top-down angle (80-90 degrees), standing on circular slime base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly beige tones, detailed skin folds readable from above, strong pathetic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle miserable pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

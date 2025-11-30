@@ -1,0 +1,28 @@
+﻿# OCTOPUS - Animation Prompts (9 Frames)
+
+## Frame 1 - Eight Arms
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, cephalopod with eight tentacles, bulbous head, large eyes. Viewed from top-down angle (80-90 degrees), resting on circular ocean floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red-brown and blue tones, detailed sucker texture readable from above, strong cephalopod silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle resting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Jet Propulsion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, expelling water jet, shooting backward rapidly. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with water motion, detailed jet action, strong propelling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, jetting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Tentacle Grab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, wrapping tentacles around prey, suckers gripping. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tentacle focus, detailed grab action, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tentacle attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Beak Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, revealing sharp beak at center of tentacles, biting. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beak focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Ink Cloud
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, releasing cloud of black ink, obscuring vision. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with ink cloud, detailed ink release, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ink cloud, physical tabletop game piece aesthetic.
+
+## Frame 6 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, changing color and texture to match surroundings, blending. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with color shift, detailed camouflage, strong hidden silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, camouflaging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Squeeze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, compressing body to fit through tiny gap, flexible. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with compression, detailed squeezing, strong flexible silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, squeezing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Crawl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, crawling along sea floor using tentacles, exploring. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed crawling, strong exploring silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crawling idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, octopus character, cephalopod with eight tentacles, bulbous head, large eyes. Viewed from top-down angle (80-90 degrees), resting on circular ocean floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red-brown and blue tones, detailed sucker texture readable from above, strong cephalopod silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle resting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

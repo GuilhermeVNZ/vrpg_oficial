@@ -1,0 +1,12 @@
+﻿{
+    "text":  "Vida 180 (19d10 + 76) não tem efeito em constructos e mortos-vivos.\nDeslocamento 0 m, voo 6 m (planar) 8. Raio Petrificante. A criatura alvo deve realiza um teste de\nresistência de Destreza CD 16. Se fracassar na resistência, a\nFOR DES CON INT SAB CAR\ncriatura começa a se transformar em pedra e fica impedida. Ela\n10 (+0) 14 (+2) 18 (+4) 17 (+3) 15 (+2) 17 (+3)\ndeve repetir o teste de resistência no final do próximo turno dela.\nSe obtiver sucesso, ela termina o efeito. Se fracassar, a criatura é\nTestes de Resistência Int +8, Sab +7, Car +8\npetrificada até ser liberta pela magia restauração maior ou outra\nPerícias Percepção +12\nmágica.\nImunidade a Condição caído\n9. Raio Desintegrador. Se o alvo for uma criatura, ela deve ser\nSentidos visão no escuro 36 m, Percepção passiva 22\nbem sucedida num teste de resistência de Destreza CD 16 ou o\nIdiomas Dialeto Subterrâneo, Subcomum\nsofrerá 45 (10d8) de dano de energia. Se esse dano reduzir a\nNível de Desafio 13 (10.000 XP)\ncriatura a 0 pontos de vida, seu corpo torna-se uma pilha de fina\npoeira cinzenta.\nCone Antimagia. O olho central do observador cria uma área de\nSe o alvo for um objeto não-mágico ou uma criação de energia\nantimagia, como na magia campo antimagia, num cone de 45\nmágica Grande ou menor, ele é desintegrado sem teste de\nmetros. No início de cada turno dele, o observador decide em que\nresistência. Se o alvo for um objeto ou uma criação de energia\ndireção seu cone estará e se o cone estará ativo ou não. A área\nmágica Enorme ou maior, o raio desintegra 3 metros cúbicos dele.\ntambém afeta os raios oculares do observador.\n10. Raio Mortal. A criatura alvo deve ser bem sucedida num\nAÇÕES teste de resistência de Destreza CD 16 ou sofrerá 55 (10d10) de\ndano necrótico. O alvo morre se o raio reduzir seus pontos de\nMordida. Ataque Corpo-a-Corpo com Arma: +5 para atingir,\nvida a 0.\nalcance 1,5 m, um alvo. Acerto: 14 (4d6) de dano perfurante.\nAÇÕES LENDÁRIAS\nRaios Oculares. O observador dispara três dos seguintes raios\nocul",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  455,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

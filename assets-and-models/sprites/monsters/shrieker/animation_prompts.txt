@@ -1,0 +1,28 @@
+﻿# SHRIEKER - Animation Prompts (9 Frames)
+
+## Frame 1 - Fungal Alarm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, large mushroom with purple cap, thick stalk, no eyes or mouth. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and grey tones, detailed fungal texture readable from above, strong mushroom silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Detect Movement
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, cap tilting slightly, sensing vibrations nearby. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibration waves, detailed sensing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, detecting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Shriek Begin
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, cap beginning to vibrate, gills expanding. Viewed from top-down angle (80-90 degrees), preparing ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with building energy, detailed vibration, strong awakening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing shriek, physical tabletop game piece aesthetic.
+
+## Frame 4 - Shriek Peak
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, emitting piercing shriek, sound waves radiating outward, cap fully expanded. Viewed from top-down angle (80-90 degrees), special ability (shriek), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed shriek effect, strong alarm silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shrieking, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shriek Hold
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, continuing to shriek loudly, attracting predators. Viewed from top-down angle (80-90 degrees), sustained ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with continuous sound, detailed sustained shriek, strong alarm silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sustained shriek, physical tabletop game piece aesthetic.
+
+## Frame 6 - Shriek End
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, sound fading, cap deflating slightly, gills closing. Viewed from top-down angle (80-90 degrees), ending ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fading sound, detailed deflation, strong calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ending shriek, physical tabletop game piece aesthetic.
+
+## Frame 7 - Spore Release
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, releasing spores from gills, reproducing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with spore cloud, detailed spore release, strong reproductive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, releasing spores, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dormant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, completely still, looking like ordinary mushroom. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed stillness, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dormant idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shrieker character, large mushroom with purple cap, thick stalk, no eyes or mouth. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and grey tones, detailed fungal texture readable from above, strong mushroom silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

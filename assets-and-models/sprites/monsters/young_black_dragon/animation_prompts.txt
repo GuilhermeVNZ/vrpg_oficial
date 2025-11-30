@@ -1,0 +1,28 @@
+﻿# YOUNG BLACK DRAGON - Animation Prompts (9 Frames)
+
+## Frame 1 - Swamp Drake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, medium-sized black dragon with acid-scarred scales, cruel eyes, sharp horns. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and green tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, head raised, mouth open in menacing hiss, wings spread. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with threat emphasis, detailed hiss, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, leaping forward with claws extended. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with leap motion, detailed pounce, strong leaping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pouncing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, snapping jaws with acid dripping from teeth. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Acid Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, exhaling line of corrosive acid. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with acid effect, detailed breath weapon, strong elemental silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, raking with claws, tearing. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Tail Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, whipping tail around, knocking enemies aside. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tail motion, detailed swipe, strong sweeping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail attack, physical tabletop game piece aesthetic.
+
+## Frame 8 - Submerge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, sinking into swamp water, only eyes visible. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed submerging, strong lurking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, submerging idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young black dragon character, medium-sized black dragon with acid-scarred scales, cruel eyes, sharp horns. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and green tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

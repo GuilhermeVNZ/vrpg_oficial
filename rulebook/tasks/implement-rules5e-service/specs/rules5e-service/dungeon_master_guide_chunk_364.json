@@ -1,0 +1,12 @@
+﻿{
+    "text":  "87\n\nd100 Efeito\n01–10 O efreeti ataca você. Após lutar por 5 rodadas, ele\ndesaparece e a garrafa perde sua mágica.\n11–90 O efreeti serve você por 1 hora, fazendo o que você\nmandar. Então o efreeti volta para a garrafa e uma nova\nrolha retém ele. A rolha não pode ser removida por 24\nhoras. Das próximas duas vezes que a garrafa for\naberta, o mesmo efeito ocorre. Se a garrafa for aberta\numa quarta vez, o efreeti escapa e desaparece, e a\ngarrafa perde sua mágica.\n91–00 O efreeti pode conjurar a magia desejo três vezes para\nvocê. Ele desaparece após conceder o desejo final ou\napós 1 hora e a garrafa perde sua mágica.\nGEMA DA LUMINOSIDADE\nItem maravilhoso, incomum\nEste prisma tem 50 cargas. Enquanto você estiver\nsegurando ele, você pode usar uma ação para falar uma\ndas três palavras de comando para ativar um dos\nseguintes efeitos:\n A primeira palavra de comando faz com que a gema\nemita luz plena num raio de 9 metros e penumbra por\nmais 9 metros adicionais. Esse efeito não gasta\nnenhuma carga. Ele dura até você usar uma ação\nbônus para repetir a palavra de comando ou até você\nusar outra função da gema.\n A segunda palavra de comando gasta 1 carga e faz com\nque a gema dispare um raio brilhante de luz em uma\ncriatura, que você possa ver, a até 18 metros de você. A\ncriatura deve ser bem sucedida num teste de\nresistência de Constituição CD 15 ou ficará cega por 1\nminuto. A criatura pode repetir o teste de resistência\nno final de cada um dos turnos dela, terminando o\nefeito sobre si, caso obtenha sucesso.\n A terceira palavra de comando gasta 5 cargas e faz\ncom que a gema brilhe com luz cegante num cone de 9\nmetros originado em você. Cada criatura no cone deve\nrealizar um teste de resistência como se tivesse sido\natingida pelo raio criado com a segunda palavra de\ncomando.\nQuando todas as cargas da gema tiverem sido gastar, a\ngema torna-se uma joia não-mágica valendo 50 po.\nGEMA DE VISÃO\nItem maravilhoso, raro (requer sintonização)\nEsta gema possui 3 cargas. Com uma ação, você ",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  364,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

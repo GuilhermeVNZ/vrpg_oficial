@@ -1,0 +1,28 @@
+﻿# SWARM OF RAVENS - Animation Prompts (9 Frames)
+
+## Frame 1 - Murder of Crows
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, dozens of black birds flying together in ominous flock. Viewed from top-down angle (80-90 degrees), flying on circular forest base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and blue tones, detailed feather texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flying pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Caw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, birds cawing loudly in chorus, creating cacophony. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed cawing, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cawing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Swirl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, birds swirling in vortex formation, wings beating. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed swirling, strong vortex silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swirling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, birds surrounding and pecking victim (implied). Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with attack focus, detailed engulfing, strong attacking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Peck Frenzy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, individual birds pecking with sharp beaks frantically. Viewed from top-down angle (80-90 degrees), sustained attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with frenzy emphasis, detailed pecking, strong frenzied silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pecking frenzy, physical tabletop game piece aesthetic.
+
+## Frame 6 - Scatter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, birds flying apart in all directions, avoiding damage. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with scatter motion, detailed scattering, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scattering, physical tabletop game piece aesthetic.
+
+## Frame 7 - Regroup
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, birds flying back together, reforming flock. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with regrouping motion, detailed reformation, strong cohesive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, regrouping, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, birds perched together on invisible branches, resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed perching, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, perching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of ravens character, dozens of black birds flying together in ominous flock. Viewed from top-down angle (80-90 degrees), flying on circular forest base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and blue tones, detailed feather texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flying pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

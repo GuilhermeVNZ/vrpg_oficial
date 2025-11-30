@@ -1,0 +1,28 @@
+﻿# LAMIA - Animation Prompts (9 Frames)
+
+## Frame 1 - Serpent Enchantress
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, beautiful woman's torso with serpentine lower body, wielding curved dagger. Viewed from top-down angle (80-90 degrees), coiled on circular desert ruins base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bronze skin and scale tones, detailed scale texture readable from above, strong seductive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Intoxicating Touch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, reaching out with hand glowing with magical charm energy. Viewed from top-down angle (80-90 degrees), special ability (intoxicating touch), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with magical glow, detailed charm effect, strong enchanting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charm touch, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dagger Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, slashing with curved dagger, serpent body coiling for leverage. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blade focus, detailed dagger strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dagger attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Constrict
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, serpent body wrapping around invisible prey, squeezing. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with constriction emphasis, detailed coiling, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, constricting, physical tabletop game piece aesthetic.
+
+## Frame 5 - Hypnotic Pattern
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, casting spell with swaying dance, colorful lights swirling. Viewed from top-down angle (80-90 degrees), spell casting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with hypnotic colors, detailed spell effect, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting spell, physical tabletop game piece aesthetic.
+
+## Frame 6 - Suggestion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, whispering magical suggestion, eyes glowing with enchantment. Viewed from top-down angle (80-90 degrees), spell casting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with mental magic, detailed suggestion, strong manipulator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting suggestion, physical tabletop game piece aesthetic.
+
+## Frame 7 - Slither
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, undulating across ground in serpentine motion, graceful. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wave motion, detailed slithering, strong flowing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slithering, physical tabletop game piece aesthetic.
+
+## Frame 8 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, admiring reflection in mirror, brushing hair vainly. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed vanity, strong vain silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lamia character, beautiful woman's torso with serpentine lower body, wielding curved dagger. Viewed from top-down angle (80-90 degrees), coiled on circular desert ruins base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bronze skin and scale tones, detailed scale texture readable from above, strong seductive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

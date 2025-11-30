@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ucedido, o pergaminho de magia é destruído.\nPERGAMINHO DE PROTEÇÃO\nPergaminho, raro\nCada pergaminho de proteção funciona contra um tipo\nespecífico de criatura, escolhido pelo Mestre ou\ndeterminado aleatoriamente ao rolar na tabela a seguir.\nd100 Tipo de Criatura d100 Tipo de Criatura\n01–10 Aberrações 41–50 Fadas\n11–20 Bestas 51–75 Corruptores\n21–30 Celestiais 76–80 Plantas\n31–40 Elementais 81–00 Mortos-vivos\nUsar uma ação para ler o pergaminho enclausura você em\numa barreira invisível que se estende de você num\ncilindro de 1,5 metro de raio e 3 metros de altura. Por 5\nminutos, esta barreira previne criaturas do tipo\nespecificado de entrarem ou afetarem qualquer coisa\ndentro do cilindro.\nO cilindro se move com você e permanece centrado em\nvocê. Porém, caso você se mova de forma que uma\ncriatura do tipo especificado entre no cilindro, o efeito\ntermina.\nUma criatura pode tentar sobrepujar a barreira\nusando uma ação para realizar um teste de Carisma CD\n15. Com um sucesso, a criatura deixa de ser afetada pela\nbarreira.\nPERIAPTO DE CICATRIZAÇÃO\nItem maravilhoso, incomum (requer sintonização)\nEnquanto você usar este pingente, você se estabiliza toda\nvez que estiver morrendo no início do seu turno. Além\ndisso, toda vez que você jogar um Dado de Vida para\nrecuperar pontos de vida, dobre a quantidade de pontos\nde vida restaurados.\nPERIAPTO DE PROTEÇÃO CONTRA VENENO\nItem maravilhoso, raro\nEsta delicada corrente de prata possui um pingente com\numa gema negra brilhante. Enquanto você usá-lo,\nvenenos não surtiram efeito em você. Você é imune a\ncondição envenenado e tem imunidade a dano de veneno.\nPERIAPTO DE SAÚDE\nItem maravilhoso, incomum\nVocê fica imune a doenças enquanto estiver usando este\npingente. Se você já estiver sendo afetado por uma\ndoença, o efeito dessa doença é suprimido enquanto você\nusar o pingente.\n199\n\n\n# Pagina 201\n\nPÉROLA DO PODER\nItem maravilhoso, incomum (requer sintonização com um\nconjurador) PÓ DA SECA\nItem maravilhoso, incomum\nEnquanto tiver essa pérola c",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  383,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

@@ -1,0 +1,36 @@
+# Skeleton Archer - Animation Prompts (9 Frames)
+
+Base prompt: Dungeons and Dragons dark fantasy anime illustration, undead skeleton archer character, animated skeleton with glowing green eye sockets, wearing tattered leather armor and hooded cloak, wielding a longbow with quiver on back. Viewed from top-down angle (80-90 degrees), standing on circular mossy stone base, 2D painted illustration style, solid dark grey background NO CHECKERED PATTERN.
+
+---
+
+## Frame 1 - Idle Rest
+Skeleton at rest, bow held vertically in left hand, right hand near quiver, arrow not nocked, subtle green glow from eyes.
+
+## Frame 2 - Reach for Arrow
+Right hand reaches back to quiver, bow begins to lower horizontally, head tilts slightly, eye glow brightens.
+
+## Frame 3 - Draw Arrow
+Arrow pulled from quiver, bow horizontal, beginning to nock arrow, focused stance.
+
+## Frame 4 - Nock Arrow
+Arrow nocked on bowstring, bow raised, right hand gripping string, preparing to draw, maximum eye glow.
+
+## Frame 5 - Begin Draw
+Bowstring pulled back 30%, left arm extended forward with bow, right arm pulling back, arrow aimed.
+
+## Frame 6 - Full Draw
+Bowstring fully drawn, arrow at cheek level, maximum tension, aiming stance, bones taut.
+
+## Frame 7 - Hold Aim
+Maintaining full draw, perfect aim, steady stance, green eyes locked on target.
+
+## Frame 8 - Release Preparation
+Beginning to relax draw, bowstring easing forward, arrow still nocked, eye glow dimming.
+
+## Frame 9 - Return to Rest
+Bow lowering back to vertical, arrow returned to quiver, back to Frame 1 position, ready to loop.
+
+---
+
+**Use estas descrições com o prompt base para gerar cada frame!**

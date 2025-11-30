@@ -1,0 +1,31 @@
+[package]
+name = "service-manager"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+description = "Service Manager - Main binary to orchestrate all services"
+
+[[bin]]
+name = "service-manager"
+path = "src/main.rs"
+
+[dependencies]
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+config = { workspace = true }
+clap = { workspace = true }
+infra-runtime = { path = "../infra-runtime" }
+
+
+
+
+
+
+
+

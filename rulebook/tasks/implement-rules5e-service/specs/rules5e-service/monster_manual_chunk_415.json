@@ -1,0 +1,12 @@
+﻿{
+    "text":  " Desafio. Para evitar ter que recalcular o\nnível de desafio da criatura, aplique o modelo apenas em\numa criatura que atenda ao pré-requisito opcional na\ntabela Arma de Sopro abaixo. Do contrário, use as\ndiretrizes do Guia do Mestre para recalcular o nível de\ndesafio após aplicar o modelo.\nARMA DE SOPRO\nTamanho Arma de Sopro Pré-Requisito Opcional\nGrande ou Como de um filhote Desafio 2 ou maior\nmenor\nEnorme Como de um dragão jovem Desafio 7 ou maior\nImenso Como de um dragão adulto Desafio 8 ou maior\n222\n\n\n# Pagina 224\n\nMEPHITS\nOs mephits são criaturas similares a diabretes\ncaprichosas nativas dos planos elementais. Eles existem\nem seis variedades, cada um representando a mistura de\ndois elementos.\nTrapaceiros imutáveis, os mephits existem em vasta\nquantidade nos Planos Elementais e no Plano do Caos.\nEles também encontram seus caminhos para o Plano\nMaterial, onde eles preferem viver em locais onde seus\nelementos base são abundantes. Por exemplo, um mephit\ndo magma é composto de terra e fogo, e ele prefere covis\nvulcânicos, enquanto que um mephit do gelo, que é\ncomposto de ar e água, preferiria locais gelados.\nNatureza Elemental. Um mephit não precisa comer,\nbeber ou dormir.\nMEPHIT DA POEIRA\nComposto de terra e ar, os mephits da poeira são atraídos\npor catacumbas e acham a morte morbidamente\nfascinante.\nMEPHIT DO GELO\nCompostos de ar gelado e água, os mephits do gelo são\nreservados e frios, superando todos os outros mephits no\nquesito crueldade impiedosa.\nMEPHIT DO GELO\nMEPHIT DA POEIRA\nElemental Pequeno, neutro e mau\nElemental Pequeno, neutro e mau\nClasse de Armadura 11\nClasse de Armadura 12\nPontos de Vida 21 (6d6)\nPontos de Vida 17 (5d6)\nDeslocamento 9 m, voo 9 m\nDeslocamento 9 m, voo 9 m\nFOR DES CON INT SAB CAR\nFOR DES CON INT SAB CAR\n7 (–2) 13 (+1) 10 (+0) 9 (–1) 11 (+0) 12 (+1)\n5 (–3) 14 (+2) 10 (+0) 9 (–1) 11 (+0) 10 (+0)\nPerícias Furtividade +3, Percepção +2\nPerícias Furtividade +4, Percepção +2\nVulnerabilidade a Dano concussão, fogo\nVulnerabilidade a Dano fogo\n",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  415,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

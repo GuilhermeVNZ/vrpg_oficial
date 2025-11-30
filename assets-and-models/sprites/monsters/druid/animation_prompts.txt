@@ -1,0 +1,28 @@
+﻿# DRUID - Animation Prompts (9 Frames)
+
+## Frame 1 - Nature's Warden
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, human with wild hair and beard, wearing hide armor and a cloak of leaves, holding a gnarled wooden staff and a sickle. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base with roots, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with earthy green and brown tones, detailed leaf texture readable from above, strong hermit silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Entangle Cast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, slamming the butt of the staff into the ground, vines beginning to sprout around feet. Viewed from top-down angle (80-90 degrees), magic ability (crowd control), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green glow, detailed vine growth, strong controller silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting entangle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Shillelagh Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, swinging the wooden staff which is now glowing with magical green energy. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed weapon strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, staff attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Wild Shape Start
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, crouching down, body outline blurring and shifting into the shape of a bear or wolf (mid-transformation). Viewed from top-down angle (80-90 degrees), magic ability (transformation), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with distortion effects, detailed morphing, strong shifter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wild shaping, physical tabletop game piece aesthetic.
+
+## Frame 5 - Thunderwave
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, thrusting both hands forward, a ripple of distorted air blasting outward. Viewed from top-down angle (80-90 degrees), magic ability (area of effect), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shockwave lines, detailed air distortion, strong blaster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting thunderwave, physical tabletop game piece aesthetic.
+
+## Frame 6 - Sickle Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, making a quick cutting motion with the sickle held in the off-hand. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp lines, detailed weapon action, strong harvester silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sickle attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Healing Spirit
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, raising a hand to summon a small translucent spirit animal (faint outline). Viewed from top-down angle (80-90 degrees), magic ability (healing), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft blue glow, detailed spirit effect, strong healer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, summoning spirit, physical tabletop game piece aesthetic.
+
+## Frame 8 - Bird Call
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, looking up and whistling, a small bird landing on the staff or shoulder. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed animal interaction, strong nature silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bird call idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, druid character, human with wild hair and beard, wearing hide armor and a cloak of leaves, holding a gnarled wooden staff and a sickle. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base with roots, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with earthy green and brown tones, detailed leaf texture readable from above, strong hermit silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

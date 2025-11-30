@@ -1,0 +1,12 @@
+﻿{
+    "text":  "m 25 por cento de\nchance de invocar 1d4 mephits de seu tipo. Um mephit invocado\naparece num espaço desocupado a até 18 metros do invocador,\nagindo como um aliado do invocador, e não pode invocar outros\nmephits. Ele permanece por 1 minuto, até o invocador morrer ou\naté seu invocador dispensa-lo com uma ação.\nMEPHIT DA FUMAÇA MEPHIT DO VAPOR\nElemental Pequeno, neutro e mau Elemental Pequeno, neutro e mau\nClasse de Armadura 12 Classe de Armadura 10\nPontos de Vida 22 (5d6 + 5) Pontos de Vida 21 (6d6)\nDeslocamento 9 m, voo 9 m Deslocamento 9 m, voo 9 m\nFOR DES CON INT SAB CAR FOR DES CON INT SAB CAR\n6 (–2) 14 (+2) 12 (+1) 10 (+0) 10 (+0) 11 (+0) 5 (–3) 11 (+0) 10 (+0) 10 (+0) 10 (+0) 11 (+0)\nImunidade a Dano fogo, veneno\nPerícias Furtividade +4, Percepção +2\nImunidade a Condição envenenado\nImunidade a Dano frio, veneno\nSentidos visão no escuro 18 m, Percepção passiva 10\nImunidade a Condição envenenado\nIdiomas Aquan, Ignan\nSentidos visão no escuro 18 m, Percepção passiva 12\nNível de Desafio 1/4 (50 XP)\nIdiomas Auran, Ignan\nNível de Desafio 1/4 (50 XP) Conjuração Inata (1/Dia). O mephit pode conjurar, inatamente,\nnublar, sem necessidade de componentes materiais. Sua\nConjuração Inata (1/Dia). O mephit pode conjurar, inatamente,\nhabilidade de conjuração é Carisma (CD de resistência de magia\nglobos de luz, sem necessidade de componentes materiais. Sua\n10).\nhabilidade de conjuração é Carisma (CD de resistência de magia\n10). Explosão da Morte. Quando o mephit morre, ele deixa para trás\numa nuvem de vapor. Cada criatura a até 1,5 metro dele, deve ser\nExplosão da Morte. Quando o mephit morre, ele deixa para trás\nbem sucedida num teste de resistência de Destreza CD 10 ou\numa nuvem de fumaça que preenche uma esfera de 1,5 metro de\nsofrerá 4 (1d8) de dano de fogo.\nraio, centrada no espaço dele. A esfera produz escuridão densa.\nVento dispersa a nuvem, do contrário, ela dura por 1 minuto. AÇÕES\nAÇÕES Garras. Ataque Corpo-a-Corpo com Arma: +2 para atingir, alcance\n1,5 m, um alvo. Acert",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  419,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "argas.\nAbsorção de Magias. Enquanto estiver empunhando\no cajado, você tem vantagem em testes de resistência\ncontra magias. Além disso, você pode usar sua reação\nquando outra criatura conjurar uma magia que tenha\napenas você como alvo. Se o fizer, o cajado absorve a\nmágica da magia, cancelando seu efeito e ganhando uma\nquantidade de cargas igual ao nível da magia absorvida.\nPorém, se fazer isso elevar o número total de cargas do\ncajado acima de 50, o cajado explode como se você tivesse\nativado seu golpe de retribuição (veja abaixo).\nMagias. Enquanto estiver empunhando este cajado,\nvocê pode usar uma ação para gastar 1 ou mais de suas\ncargas para conjurar uma das seguintes magias através\ndele, usando a CD de resistência e bônus de ataque de\nsuas magias: arrombar (2 cargas), bola de fogo (versão de\n7° nível, 7 cargas), conjurar elemental (7 cargas), dissipar\nmagia (3 cargas), esfera flamejante (2 cargas),\ninvisibilidade (2 cargas), muralha de fogo (4 cargas),\nrelâmpago (versão de 7° nível, 7 cargas), teia (2 cargas)\ntelecinésia (5 cargas) ou tempestade de gelo (4 cargas).\nGolpe de Retribuição. Você pode usar uma ação para\npartir o cajado no seu joelho ou em uma superfície sólida,\nrealizar um golpe de retribuição. O cajado é destruído e\nlibera sua mágica restante em uma explosão que se\nexpande para preencher uma esfera de 9 metros, centrada\nem você.\nVocê tem 50 por cento de chance de viajar\ninstantaneamente para um plano de existência aleatório,\nevitando a explosão. Se você falhar em evitar o efeito,\nvocê sofre dano de energia igual a 16 x a quantidade de\ncargas no cajado. Cada criatura na área deve ser bem\nsucedida num teste de resistência de Destreza CD 17. Se\nfracassar, uma criatura sofre uma quantidade de dano\nbaseado em qual distante ela está do ponto de origem,\ncomo mostrado na tabela a seguir. Com um sucesso, uma\ncriatura sofre metade desse dano.\nDistância da Origem Dano\n3 metros ou menos 8 x a quantidade de cargas no cajado\nEntre 3,1 e 6 metros 6 x a quantidade ",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  336,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

@@ -1,0 +1,12 @@
+﻿{
+    "text":  " do clérigo.\nCRIANDO UMA MAGIA\nQuando estiver criando uma nova magia, use as magias MAGIAS DE DANO\nexistentes como parâmetro. Aqui estão algumas coisas a Para qualquer magia que cause dano, use a tabela Magia\nse considerar: de Dano para determinar quanto dano aproximadamente\né apropriado devido o nível da magia. A tabela considera\n Se uma magia é tão boa que um conjurador iria querer\nque a magia causa metade do dano com um teste de\nusa-la o tempo todo, ela pode ser muito poderosa para\nresistência bem sucedido ou um ataque que erre. Se sua\no nível dela. magia não causa dano com um sucesso na resistência,\n Uma longa duração ou área extensa pode funcionar você pode aumentar o dano em 25 por cento.\npara um efeito menor, a depender da magia. Você pode usar dados de dano diferentes dos da tabela,\n Evite magias que tenham uso muito limitado, como contanto que o resultado médio seja aproximadamente o\numa que funcione apenas contra dragões benignos. mesmo. Fazer isso pode adicionar um pouco mais de\nApesar de uma magia do gênero poder existir no diversidade à magia. Por exemplo, você pode mudar o\nmundo, poucos personagens irão se preocupar em dano de um truque de 1d10 (média de 5,5) para 2d4\naprende-la ou prepara-la, a não ser que saibam com (média de 5), reduzindo o dano máximo e tornando um\nantecedência que fazê-lo valerá a pena. resultado mediano mais provável.\n284\n\n\n# Pagina 286\n\nMAGIA DE DANO\nNível de Magia Um Alvo Múltiplos Alvos\nTruque 1d10 1d6\n1° 2d10 2d6\n2° 3d10 4d6\n3° 5d10 6d6\n4° 6d10 7d6\n5° 8d10 8d6\n6° 10d10 11d6\n7° 11d10 12d6\n8° 12d10 13d6\n9° 15d10 14d6\nMAGIAS DE CURA\nVocê também pode usar a tabela Magia de Dano para\ndeterminar quantos pontos de vida uma magia de cura\nrecupera. Um truque não deveria oferecer cura.\nCRIANDO UM ITEM MÁGICO\nOs itens mágicos no capítulo 7, “Tesouro”, são apenas um\npouco dos tesouros mágicos que os personagens podem\ndescobrir durante suas aventuras. Se seus jogadores são\nveteranos maduros e você quer surpreende-los, você pode\ntanto m",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  563,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "e dano de concussão.\nArma: +7 para atingir, alcance 1,5 m, um alvo. Acerto: 8 (1d10 + 3)\nde dano cortante.\nArremessas Chamas. Ataque à Distância com Magia: +4 para\natingir, distância 45 m, um alvo. Acerto: 10 (3d6) de dano de fogo.\nEspada Grande. Ataque Corpo-a-Corpo com Arma: +7 para atingir,\nO fogo incendeia objetos inflamáveis que não estejam sendo\nalcance 1,5 m, um alvo. Acerto: 10 (2d6 + 3) de dano cortante.\nvestidos ou carregados.\n280\n\n\n# Pagina 282\n\nSLAAD DA MORTE\nAberração Média (metamorfo), caótico e mau\nClasse de Armadura 18 (armadura natural)\nPontos de Vida 170 (20d8 + 80)\nDeslocamento 9 m\nFOR DES CON INT SAB CAR\n20 (+5) 15 (+2) 19 (+4) 15 (+2) 10 (+0) 16 (+3)\nPerícias Arcanismo +6, Percepção +8\nResistência a Dano ácido, elétrico, fogo, frio, trovejante\nSentidos percepção às cegas 18 m, visão no escuro 18 m,\nPercepção passiva 18\nIdiomas Slaad, telepatia 18 m\nNível de Desafio 10 (5.900 XP)\nArmas Mágicas. Os ataques com arma do slaad são mágicos.\nConjuração Inata. A habilidade de conjuração de um slaad é\nCarisma (CD de resistência de magia 15, +7 para atingir com\nataques com magia). Ele pode conjurar, inatamente, as seguintes\nmagias, sem necessidade de componentes materiais:\nÀ vontade: detectar magia, detectar pensamentos, imagem maior,\ninvisibilidade (pessoal apenas), mãos mágicas\n2/dia cada: bola de fogo, idiomas, medo, voo\n1/dia cada: névoa mortal, viagem planar (pessoal apenas)\nMetamorfo. O slaad pode usar sua ação para se metamorfosear\nem um humanoide Pequeno ou Médio, ou voltar para sua forma\nverdadeira. Suas estatísticas, além do seu tamanho, são as\nmesmas em cada forma. Qualquer equipamento que ele esteja\nvestindo ou carregando não é transformado. Ele reverte a sua\nforma verdadeira se morrer.\nRegeneração. O slaad recupera 10 pontos de vida no início de\ncada um dos seus turnos se possuir, pelo menos, 1 ponto de vida.\nResistência à Magia. O slaad possui vantagem nos testes de\nresistência contra magias e outros efeitos mágicos.\nAÇÕES\nAtaques Múltiplos.",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  516,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

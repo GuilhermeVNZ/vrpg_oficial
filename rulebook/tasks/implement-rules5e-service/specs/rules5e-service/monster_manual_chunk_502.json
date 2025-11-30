@@ -1,0 +1,12 @@
+﻿{
+    "text":  "nto 9 m, natação 12 m\nHumanoide Grande (sahuagin), leal e mau\nFOR DES CON INT SAB CAR\nClasse de Armadura 16 (peitoral) 13 (+1) 11 (+0) 12 (+1) 12 (+1) 14 (+1) 13 (+1)\nPontos de Vida 76 (9d10 + 27)\nDeslocamento 9 m, natação 15 m Perícias Religião +3, Percepção +6\nSentidos visão no escuro 36 m, Percepção passiva 16\nFOR DES CON INT SAB CAR Idiomas Sahuagin\n19 (+4) 15 (+2) 16 (+3) 14 (+2) 13 (+1) 17 (+3) Nível de Desafio 3 (700 XP)\nTestes de Resistência Des +5, Con +6, Int +5, Sab +4\nAnfíbio Limitado. A sahuagin pode respirar ar e água, mas ela\nPerícias Percepção +7\nprecisa submergir, pelo menos, a cada 4 horas para evitar\nSentidos visão no escuro 36 m, Percepção passiva 17\nsufocação.\nIdiomas Sahuagin\nNível de Desafio 5 (1.800 XP) Conjuração. A sahuagin é uma conjuradora de 6° nível. Sua\nAnfíbio Limitado. O sahuagin pode respirar ar e água, mas ele habilidade de conjuração é Sabedoria (CD de resistência de magia\nprecisa submergir, pelo menos, a cada 4 horas para evitar 12, +4 para atingir com ataques com magia). Ela possui as\nsufocação. seguintes magias de clérigo preparadas:\nFrenesi de Sangue. O sahuagin tem vantagem nas jogadas de Truques (à vontade): orientação, taumaturgia\nataque corpo-a-corpo contra qualquer criatura que não esteja 1° nível (4 espaços): bênção, detectar magia, raio teleguiado\ncom todos os seus pontos de vida. 2° nível (3 espaços): arma espiritual (tridente), imobilizar pessoa\n3° nível (3 espaços): idiomas, palavra de cura em massa\nTelepatia com Tubarões. O sahuagin pode comandar\nmagicamente qualquer tubarão a até 36 metros dele, usando uma Frenesi de Sangue. A sahuagin tem vantagem nas jogadas de\ntelepatia limitada. ataque corpo-a-corpo contra qualquer criatura que não esteja\ncom todos os seus pontos de vida.\nAÇÕES\nTelepatia com Tubarões. A sahuagin pode comandar\nAtaques Múltiplos. O sahuagin realiza três ataques: um com sua\nmagicamente qualquer tubarão a até 36 metros dele, usando uma\nmordida e dois com suas garras ou tridente.\ntelepatia limitada.",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  502,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

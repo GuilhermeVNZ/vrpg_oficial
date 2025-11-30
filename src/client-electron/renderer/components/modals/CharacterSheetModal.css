@@ -1,0 +1,456 @@
+/* CharacterSheetModal Styles */
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    padding: 20px;
+}
+
+.character-sheet-modal {
+    width: 100%;
+    max-width: 1200px;
+    max-height: 90vh;
+    overflow-y: auto;
+
+    background: rgba(20, 20, 20, 0.95);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: var(--vrpg-radius-lg);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+
+    padding: 32px;
+}
+
+/* Header */
+.character-sheet-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.character-sheet-title {
+    flex: 1;
+}
+
+.character-name-input {
+    font-family: var(--vrpg-font-serif);
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--vrpg-color-gold-primary);
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 0 0 4px 0;
+    margin-bottom: 8px;
+    transition: border-color 0.3s ease;
+    width: 100%;
+}
+
+.character-name-input:hover {
+    border-bottom-color: rgba(212, 175, 55, 0.3);
+}
+
+.character-name-input:focus {
+    outline: none;
+    border-bottom-color: var(--vrpg-color-gold-primary);
+}
+
+.character-subtitle {
+    font-family: var(--vrpg-font-sans);
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.modal-close-button {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 18px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-close-button:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    border-color: rgba(212, 175, 55, 0.5);
+}
+
+/* Content Layout */
+.character-sheet-content {
+    display: grid;
+    grid-template-columns: 280px 1fr 300px;
+    gap: 32px;
+}
+
+.character-sheet-column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.column-header {
+    font-family: var(--vrpg-font-serif);
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--vrpg-color-gold-primary);
+    margin: 0 0 16px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+/* Ability Scores Grid */
+.ability-scores-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+}
+
+.proficiency-bonus-display {
+    margin-top: 16px;
+    padding: 16px;
+    background: rgba(74, 144, 226, 0.1);
+    border: 1px solid rgba(74, 144, 226, 0.3);
+    border-radius: var(--vrpg-radius-md);
+    text-align: center;
+    cursor: help;
+}
+
+.proficiency-bonus-label {
+    font-family: var(--vrpg-font-sans);
+    font-size: 12px;
+    color: var(--vrpg-color-arcane-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+}
+
+.proficiency-bonus-value {
+    font-family: var(--vrpg-font-sans);
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+/* Vitals */
+.vitals-row {
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+}
+
+.vital-stat {
+    flex: 1;
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--vrpg-radius-md);
+    text-align: center;
+    cursor: help;
+    transition: all 0.2s ease;
+}
+
+.vital-stat:hover {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(212, 175, 55, 0.3);
+}
+
+.vital-label {
+    font-family: var(--vrpg-font-sans);
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.5);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+}
+
+.vital-value {
+    font-family: var(--vrpg-font-sans);
+    font-size: 24px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+/* HP Section */
+.hp-section {
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--vrpg-radius-md);
+}
+
+.hp-header {
+    font-family: var(--vrpg-font-sans);
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.hp-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.hp-input {
+    width: 80px;
+    padding: 8px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 6px;
+    color: #ffffff;
+    font-family: var(--vrpg-font-mono);
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.hp-input:hover {
+    border-color: rgba(212, 175, 55, 0.4);
+}
+
+.hp-input:focus {
+    outline: none;
+    border-color: var(--vrpg-color-gold-primary);
+    box-shadow: 0 0 8px rgba(212, 175, 55, 0.3);
+}
+
+.hp-current {
+    color: #4a90e2;
+}
+
+.hp-max {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.hp-separator {
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.hp-bar {
+    height: 8px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 12px;
+}
+
+.hp-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #e74c3c, #4a90e2);
+    transition: width 0.3s ease;
+    box-shadow: 0 0 10px rgba(74, 144, 226, 0.5);
+}
+
+.temp-hp {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.temp-hp-input {
+    width: 60px;
+    padding: 4px 8px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    color: #9b59b6;
+    font-family: var(--vrpg-font-mono);
+    font-size: 14px;
+    text-align: center;
+}
+
+/* Hit Dice */
+.hit-dice-section {
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--vrpg-radius-md);
+}
+
+.hit-dice-label {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.hit-dice-display {
+    font-family: var(--vrpg-font-mono);
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+}
+
+/* Death Saves */
+.death-saves-section {
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--vrpg-radius-md);
+}
+
+.death-saves-header {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.death-saves-row {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.death-save-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.death-save-label {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.death-save-boxes {
+    display: flex;
+    gap: 6px;
+}
+
+.death-save-box {
+    width: 24px;
+    height: 24px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    color: #4a90e2;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.death-save-box:hover {
+    border-color: rgba(212, 175, 55, 0.5);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.death-save-box.checked {
+    background: rgba(74, 144, 226, 0.2);
+    border-color: #4a90e2;
+}
+
+.death-save-box.failure {
+    color: #e74c3c;
+}
+
+.death-save-box.failure.checked {
+    background: rgba(231, 76, 60, 0.2);
+    border-color: #e74c3c;
+}
+
+/* Skills */
+.skills-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.passive-perception {
+    margin-top: 16px;
+    padding: 12px 16px;
+    background: rgba(74, 144, 226, 0.1);
+    border: 1px solid rgba(74, 144, 226, 0.3);
+    border-radius: var(--vrpg-radius-md);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: help;
+}
+
+.passive-label {
+    font-size: 13px;
+    color: var(--vrpg-color-arcane-blue);
+}
+
+.passive-value {
+    font-family: var(--vrpg-font-mono);
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.inspiration-checkbox {
+    padding: 12px 16px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--vrpg-radius-md);
+}
+
+.inspiration-checkbox label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.inspiration-checkbox input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+/* Scrollbar */
+.character-sheet-modal::-webkit-scrollbar {
+    width: 8px;
+}
+
+.character-sheet-modal::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+.character-sheet-modal::-webkit-scrollbar-thumb {
+    background: rgba(212, 175, 55, 0.4);
+    border-radius: 4px;
+}
+
+.character-sheet-modal::-webkit-scrollbar-thumb:hover {
+    background: rgba(212, 175, 55, 0.6);
+}

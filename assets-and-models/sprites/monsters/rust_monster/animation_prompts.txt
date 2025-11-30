@@ -1,0 +1,28 @@
+﻿# RUST MONSTER - Animation Prompts (9 Frames)
+
+## Frame 1 - Metal Eater
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, insectoid creature with four legs, long tail, and two feathery antennae, rusty orange carapace. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base with scrap metal, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and brown tones, detailed chitin texture readable from above, strong scavenger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sniffing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Antennae Twitch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, antennae waving frantically, sensing metal, head bobbing, mandibles clicking. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying focus, detailed antennae movement, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Lunge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, crouching low, legs bunched, antennae pointed forward like target designators. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on antennae, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Antennae Touch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, lunging forward to touch target with antennae, rust dust flying, metal corroding (implied). Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, following up with a bite from mandibles, crunching down. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, scurrying back, licking mandibles, antennae cleaning themselves. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Eating
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, gnawing on a rusty sword or shield on the ground, looking happy. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong gluttonous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, eating idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sleeping
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, curled up like a dog, antennae tucked in, tail wrapped around body. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rust monster character, insectoid creature with four legs, long tail, and two feathery antennae, rusty orange carapace. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base with scrap metal, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and brown tones, detailed chitin texture readable from above, strong scavenger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sniffing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

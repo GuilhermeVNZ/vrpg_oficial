@@ -1,0 +1,28 @@
+﻿# FROG - Animation Prompts (9 Frames)
+
+## Frame 1 - Pond Hopper
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, large amphibian with mottled green skin, bulging eyes, wide mouth. Viewed from top-down angle (80-90 degrees), sitting on circular lily pad base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with swamp green tones, detailed bumpy skin texture readable from above, strong squat silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sitting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Throat Inflate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, throat sac inflating like balloon, preparing to croak. Viewed from top-down angle (80-90 degrees), vocalization prep, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with expansion focus, detailed inflation, strong puffed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, inflating, physical tabletop game piece aesthetic.
+
+## Frame 3 - Croak
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, mouth wide open releasing loud croak, throat sac deflating. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed mouth interior, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, croaking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Tongue Lash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, shooting long sticky tongue forward to catch prey. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tongue extension, detailed tongue action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tongue attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, lunging forward with massive jaws open, swallowing motion. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Leap Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, crouching low, powerful hind legs coiling, ready to spring. Viewed from top-down angle (80-90 degrees), preparing movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed leg muscles, strong launching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing leap, physical tabletop game piece aesthetic.
+
+## Frame 7 - Mid-Leap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, airborne in powerful leap, legs extended, body streamlined. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed leap action, strong jumping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, leaping, physical tabletop game piece aesthetic.
+
+## Frame 8 - Fly Catch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, snapping at invisible fly with quick tongue flick, eyes tracking. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with quick motion, detailed hunting action, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, catching fly idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant frog character, large amphibian with mottled green skin, bulging eyes, wide mouth. Viewed from top-down angle (80-90 degrees), sitting on circular lily pad base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with swamp green tones, detailed bumpy skin texture readable from above, strong squat silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sitting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

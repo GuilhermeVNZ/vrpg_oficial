@@ -1,0 +1,28 @@
+﻿# FLYING SNAKE - Animation Prompts (9 Frames)
+
+## Frame 1 - Winged Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, serpent with colorful feathered wings, scales shimmering. Viewed from top-down angle (80-90 degrees), coiled on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibrant green and gold tones, detailed scale and feather texture readable from above, strong serpentine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, unfurling wings wide, body rising from coil. Viewed from top-down angle (80-90 degrees), preparing flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing emphasis, detailed wing anatomy, strong display silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spreading wings, physical tabletop game piece aesthetic.
+
+## Frame 3 - Glide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, body extended in flight, wings outstretched, tail streaming. Viewed from top-down angle (80-90 degrees), movement/flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful motion, detailed aerodynamic pose, strong gliding silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gliding, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dive Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, diving down with fangs bared, wings folded back, body streamlined. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Constrict
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, body coiling around invisible prey, wings flapping for leverage. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with constriction focus, detailed coiling action, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, constricting, physical tabletop game piece aesthetic.
+
+## Frame 6 - Hover
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, wings beating rapidly to hover in place, body vertical. Viewed from top-down angle (80-90 degrees), hovering, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing blur, detailed hovering motion, strong balanced silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hovering, physical tabletop game piece aesthetic.
+
+## Frame 7 - Spiral Climb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, spiraling upward in corkscrew motion, wings angled. Viewed from top-down angle (80-90 degrees), evasive movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with spiral motion, detailed flight pattern, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spiraling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, landing on invisible branch, wings folding, tail wrapping. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed landing action, strong perched silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, perching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying snake character, serpent with colorful feathered wings, scales shimmering. Viewed from top-down angle (80-90 degrees), coiled on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibrant green and gold tones, detailed scale and feather texture readable from above, strong serpentine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

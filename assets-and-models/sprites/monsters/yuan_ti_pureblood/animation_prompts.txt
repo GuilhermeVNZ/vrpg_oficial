@@ -1,0 +1,28 @@
+﻿# YUAN-TI PUREBLOOD - Animation Prompts (9 Frames)
+
+## Frame 1 - Serpent Spy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, human-like appearance with subtle snake features, holding shortsword, deceptive smile. Viewed from top-down angle (80-90 degrees), standing on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bronze and green tones, detailed subtle scale texture readable from above, strong infiltrator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Reveal
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, eyes glowing yellow, serpent nature showing. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with reveal emphasis, detailed transformation, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, revealing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Stealth
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, moving silently, blending into shadows. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth motion, detailed sneaking, strong stealthy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sneaking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Shortsword Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, stabbing with shortsword precisely. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Poison Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, biting with hidden fangs, injecting poison. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bite focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Suggestion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, whispering hypnotic suggestion. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with hypnotic effect, detailed suggestion, strong enchanter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, suggesting, physical tabletop game piece aesthetic.
+
+## Frame 7 - Shapechanger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, shifting between human and serpent features. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with transformation, detailed shapeshifting, strong changing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shapeshifting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Infiltrate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, posing as innocent human, deceptive. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed disguise, strong deceptive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, disguised idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti pureblood character, human-like appearance with subtle snake features, holding shortsword, deceptive smile. Viewed from top-down angle (80-90 degrees), standing on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bronze and green tones, detailed subtle scale texture readable from above, strong infiltrator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+﻿# MONODRONE - Animation Prompts (9 Frames)
+
+## Frame 1 - Mechanical Cube
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, small cube-shaped modron with single eye, mechanical wings, gears visible. Viewed from top-down angle (80-90 degrees), hovering above circular Mechanus floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bronze and blue tones, detailed mechanical texture readable from above, strong geometric silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Eye Scan
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, single eye glowing and scanning surroundings methodically. Viewed from top-down angle (80-90 degrees), observation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eye glow, detailed scanning, strong observant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scanning, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Buzz
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, mechanical wings buzzing rapidly, flying forward. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing blur, detailed flight, strong flying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flying, physical tabletop game piece aesthetic.
+
+## Frame 4 - Javelin Extend
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, extending javelin from body compartment, attacking. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon extension, detailed javelin strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, javelin attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Axiomatic Mind
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, processing information, gears turning visibly, calculating. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gear motion, detailed thinking, strong logical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, calculating, physical tabletop game piece aesthetic.
+
+## Frame 6 - Formation Flight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, flying in perfect formation with others (implied), synchronized. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with precision, detailed formation, strong orderly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, formation flying, physical tabletop game piece aesthetic.
+
+## Frame 7 - Disintegration Defense
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, body beginning to disintegrate upon death, parts separating. Viewed from top-down angle (80-90 degrees), death trigger, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with disintegration effect, detailed breakdown, strong fragmenting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, disintegrating, physical tabletop game piece aesthetic.
+
+## Frame 8 - Patrol
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, hovering in place, rotating slowly on patrol. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rotation, detailed patrol, strong vigilant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, patrolling idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, monodrone character, small cube-shaped modron with single eye, mechanical wings, gears visible. Viewed from top-down angle (80-90 degrees), hovering above circular Mechanus floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bronze and blue tones, detailed mechanical texture readable from above, strong geometric silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+﻿# SMOKE MEPHIT - Animation Prompts (9 Frames)
+
+## Frame 1 - Smoke Imp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, small winged elemental creature made of swirling black smoke, glowing red eyes, indistinct lower body. Viewed from top-down angle (80-90 degrees), standing on circular soot base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and grey tones, detailed smoke texture readable from above, strong ethereal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle drifting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Billow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, smoke swirling faster, body expanding, wings beating ash into air, eyes flaring. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying smoke, detailed movement, strong awakening cloud silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Breath Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, inhaling (sucking in smoke), chest darkening, mouth opening wide. Viewed from top-down angle (80-90 degrees), preparing breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on eyes, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Smoke Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, exhaling cone of thick black smoke, obscuring vision, wings fanning cloud. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed smoke cloud, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, raking with smoky claws, trail of soot, body lunging forward. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, floating back, smoke clearing slightly, reforming shape, grinning. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding smoke, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Lazy Drift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, drifting sideways, blowing smoke rings, looking lazy and arrogant. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drifting idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Haze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, losing definition, becoming a faint cloud of haze, eyes dimming, stillness. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong invisible silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, smoke mephit character, small winged elemental creature made of swirling black smoke, glowing red eyes, indistinct lower body. Viewed from top-down angle (80-90 degrees), standing on circular soot base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and grey tones, detailed smoke texture readable from above, strong ethereal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle drifting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

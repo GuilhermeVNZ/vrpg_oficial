@@ -1,0 +1,37 @@
+{
+  "services": [
+    {
+      "name": "llm-core",
+      "port": 7002,
+      "health_endpoint": "/health"
+    },
+    {
+      "name": "asr-service",
+      "port": 7001,
+      "health_endpoint": "/health"
+    },
+    {
+      "name": "tts-service",
+      "port": 7003,
+      "health_endpoint": "/health"
+    },
+    {
+      "name": "rules5e-service",
+      "port": 7004,
+      "health_endpoint": "/health"
+    },
+    {
+      "name": "memory-service",
+      "port": 7005,
+      "health_endpoint": "/health"
+    }
+  ]
+}
+
+
+
+
+
+
+
+

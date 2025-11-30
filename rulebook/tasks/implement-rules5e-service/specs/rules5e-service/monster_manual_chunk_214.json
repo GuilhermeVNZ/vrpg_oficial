@@ -1,0 +1,12 @@
+﻿{
+    "text":  "her obter sucesso, no lugar.\nAÇÕES\nAtaques Múltiplos. O dragão pode usar sua Presença Aterradora,\nele pode então, realizar três ataques: um com sua mordida e dois\ncom suas garras.\nMordida. Ataque Corpo-a-Corpo com Arma: +17 para atingir,\nalcance 4,5 m, um alvo. Acerto: 21 (2d10 + 10) de dano perfurante.\nGarra. Ataque Corpo-a-Corpo com Arma: +17 para atingir, alcance\n3 m, um alvo. Acerto: 17 (2d6 + 10) de dano cortante.\nCauda. Ataque Corpo-a-Corpo com Arma: +17 para atingir, alcance\n6 m, um alvo. Acerto: 19 (2d8 + 10) de dano de concussão.\nPresença Aterradora. Cada criatura, à escolha do dragão, que\nesteja a até 36 metros do dragão e esteja ciente disso, deve ser\nbem sucedida num teste de resistência de Sabedoria CD 24 ou\nficará amedrontada por 1 minuto. Uma criatura pode repetir o\nteste de resistência no final de cada um dos turnos dela,\nterminando o efeito sobre si, caso obtenha sucesso. Se o teste de\nresistência de uma criatura for bem sucedido ou caso o efeito\ntermine sobre ela, a criatura ficará imune a Presença Aterradora\ndo dragão pelas próximas 24 horas.\nArma de Sopro (Recarrega 5–6). O dragão usa um dos seguintes\ntipos de armas de sopro.\nSopro Flamejante. O dragão expele fogo num cone de 27 metros.\nCada criatura na área deve realiza um teste de resistência de\nDestreza CD 24, sofrendo 71 (13d10) de dano de fogo se falhar\nna resistência, ou metade desse dano caso obtenha sucesso.\nSopro Enfraquecedor. O dragão expele gás num cone de 27\nmetros. Cada criatura na área deve ser bem sucedida num teste\nde resistência de Força CD 24 ou terá desvantagem em jogadas\nde ataque baseadas em Força, testes de Força e testes de\nresistência de Força por 1 minuto. Uma criatura pode repetir o\nteste de resistência no final de cada um dos turnos dela,\nterminando o efeito sobre si, caso obtenha sucesso.\nMudar Forma. O dragão se metamorfoseia magicamente em um\nhumanoide ou besta que possua um nível de desafio inferior ao\nseu próprio, ou volta para sua forma verdadeira. Ele reverte a ",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  214,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

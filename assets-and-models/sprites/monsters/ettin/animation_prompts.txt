@@ -1,0 +1,28 @@
+﻿# ETTIN - Animation Prompts (9 Frames)
+
+## Frame 1 - Two-Headed Giant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, massive giant with two heads on one body, each head looking different direction, wielding two clubs. Viewed from top-down angle (80-90 degrees), standing on circular rocky base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed muscular texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Heads Arguing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, both heads turned toward each other, mouths open in argument, gesturing with clubs. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with comedic focus, detailed facial expressions, strong conflicted silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, arguing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Left Club Swing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, swinging left club in wide horizontal arc, left head focused, right head looking elsewhere. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed weapon strike, strong smasher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, left club attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Right Club Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, bringing right club down in overhead smash, right head focused, left head distracted. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact emphasis, detailed weapon strike, strong crusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, right club attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Double Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, both heads coordinating, swinging both clubs simultaneously in X pattern. Viewed from top-down angle (80-90 degrees), multiattack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with synchronized motion, detailed dual strike, strong coordinated silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, double attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Stomp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, lifting one massive foot and stomping down, both heads grinning. Viewed from top-down angle (80-90 degrees), melee attack (stomp), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with ground impact, detailed leg action, strong trampler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stomp attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Rock Throw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, winding up to throw a boulder, one head aiming, other head covering eyes. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with throwing motion, detailed arm movement, strong thrower silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rock throw, physical tabletop game piece aesthetic.
+
+## Frame 8 - Scratching
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, one head scratching the other head with club handle, both looking confused. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming action, strong dim-witted silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettin character, massive giant with two heads on one body, each head looking different direction, wielding two clubs. Viewed from top-down angle (80-90 degrees), standing on circular rocky base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed muscular texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "istância do sapo vai até 3 metros e o salto\nem altura vai até 1,5 metros, com ou sem uma corrida inicial.\nUm sapo não tem ataques efetivos. Ele se alimenta de\npequenos insetos e geralmente vive perto da água, em\nárvores ou no subterrâneo. As estatísticas do sapo podem\nser usadas para representar uma rã.\n336\n\n\n# Pagina 338\n\nSAPO GIGANTE\nFOR DES CON INT SAB CAR\nBesta Grande, imparcial 10 (+0) 18 (+4) 13 (+1) 2 (–4) 10 (+0) 3 (–4)\nClasse de Armadura 11 Perícias Percepção +2\nPontos de Vida 39 (6d10 + 6) Sentidos percepção às cegas 3 m, Percepção passiva 12\nDeslocamento 6 m, natação 12 m Idiomas –\nNível de Desafio 1/4 (50 XP)\nFOR DES CON INT SAB CAR\n15 (+2) 13 (+1) 13 (+1) 2 (–4) 10 (+0) 3 (–4) AÇÕES\nSentidos visão no escuro 9 m, Percepção passiva 10 Mordida. Ataque Corpo-a-Corpo com Arma: +6 para atingir,\nIdiomas – alcance 3 m, um alvo. Acerto: 6 (1d4 + 4) de dano perfurante e o\nNível de Desafio 1 (200 XP) alvo deve realizar um teste de resistência de Constituição CD 11,\nsofrendo 10 (3d6) de dano de veneno se falhar na resistência ou\nAnfíbio. O sapo pode respirar ar e água.\nmetade desse dano se obtiver sucesso.\nSalto Parado. O salto à distância do sapo vai até 6 metros e o salto\nem altura vai até 3 metros, com ou sem uma corrida inicial.\nTEXUGO\nAÇÕES\nBesta Miúda, imparcial\nMordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir,\nalcance 1,5 m, um alvo. Acerto: 7 (1d10 + 2) de dano perfurante Classe de Armadura 10\nmais 5 (1d10) de dano de veneno e o alvo fica agarrado (CD 13 Pontos de Vida 3 (1d4 + 1)\npara escapar). Até o agarrão acabar, o alvo fica impedido e o sapo Deslocamento 6 m, escavação 1,5 m\nnão pode morder outro alvo.\nFOR DES CON INT SAB CAR\nEngolir. O sapo realiza um ataque de mordida contra um alvo\n4 (–3) 11 (+0) 12 (+1) 2 (–4) 12 (+1) 5 (–3)\nMédio ou menor que esteja agarrando. Se o ataque atingir, o alvo\né engolido e o agarrão termina. Enquanto estiver engolido, o alvo Sentidos visão no escuro 9 m, Percepção passiva 11\nestará cego e impedido, ele terá cober",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  612,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

@@ -1,0 +1,115 @@
+{
+  "neutral": [
+    "Alright.",
+    "Okay.",
+    "Got you.",
+    "I hear you.",
+    "Makes sense.",
+    "Cool.",
+    "Mhm.",
+    "Alright, go on.",
+    "Sure.",
+    "Okay, keep going.",
+    "I see.",
+    "Got it.",
+    "Alright, I'm with you.",
+    "Interesting.",
+    "Okay, I'm following."
+  ],
+  "gentle_prompt": [
+    "Tell me more.",
+    "Go ahead.",
+    "Keep going.",
+    "I'm listening.",
+    "What happens next?",
+    "Alright, continue.",
+    "Follow that instinct."
+  ],
+  "anticipation": [
+    "Love that.",
+    "That's bold.",
+    "Oh, interesting.",
+    "Okay, leaning in.",
+    "You really want to do that?",
+    "Alright, okay.",
+    "Oh, I like where this is going.",
+    "Huh, that's a choice.",
+    "Cool angle.",
+    "That's a strong move."
+  ],
+  "tension_low": [
+    "Alright…",
+    "Okay, hold on.",
+    "Let's see what that does.",
+    "Careful.",
+    "Got it.",
+    "Okay, okay.",
+    "Steady.",
+    "Hmm… alright."
+  ],
+  "tension_high": [
+    "Oh damn.",
+    "You serious?",
+    "Okay—wow.",
+    "That's risky.",
+    "Alright… bold.",
+    "Oh, you're committing.",
+    "Okay, that escalates.",
+    "Respect."
+  ],
+  "empowering": [
+    "Hell yeah.",
+    "I like that.",
+    "You commit to it.",
+    "That's strong.",
+    "Good call.",
+    "You own that decision.",
+    "You're leaning in.",
+    "You know what you're doing."
+  ],
+  "empathetic": [
+    "Take your time.",
+    "No rush.",
+    "Whenever you're ready.",
+    "I'm here.",
+    "You're good.",
+    "You're okay.",
+    "Don't worry.",
+    "We're still with you."
+  ],
+  "roleplay_positive": [
+    "That's charming.",
+    "That's clever.",
+    "Cute.",
+    "Interesting approach.",
+    "That might work.",
+    "Oh, I love that energy.",
+    "That's a vibe.",
+    "You're leaning into it."
+  ],
+  "roleplay_mysterious": [
+    "Oh… intriguing.",
+    "Curious.",
+    "Strange choice.",
+    "That opens a door.",
+    "That feels like fate.",
+    "You're inviting trouble.",
+    "You're tempting something."
+  ],
+  "validation": [
+    "That tracks.",
+    "Yeah, I get it.",
+    "That fits.",
+    "You're consistent.",
+    "Makes perfect sense."
+  ],
+  "momentum": [
+    "Keep going.",
+    "Don't stop now.",
+    "You've started something.",
+    "Commit.",
+    "Push through.",
+    "Stay on it.",
+    "Lean in."
+  ]
+}

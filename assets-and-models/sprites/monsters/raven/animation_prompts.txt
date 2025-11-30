@@ -1,0 +1,28 @@
+﻿# RAVEN - Animation Prompts (9 Frames)
+
+## Frame 1 - Dark Bird
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, black bird with glossy feathers, sharp beak, intelligent eyes. Viewed from top-down angle (80-90 degrees), perched on circular branch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and blue tones, detailed feather texture readable from above, strong corvid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Caw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, head raised, beak open in loud cawing call. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed caw, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cawing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, spreading wings wide in display or preparation for flight. Viewed from top-down angle (80-90 degrees), intimidation/preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing emphasis, detailed wing anatomy, strong imposing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing display, physical tabletop game piece aesthetic.
+
+## Frame 4 - Peck
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, jabbing forward with sharp beak, pecking attack. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beak focus, detailed peck action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peck attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Takeoff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, leaping into air with powerful wing beats. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with launch motion, detailed takeoff, strong launching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, taking off, physical tabletop game piece aesthetic.
+
+## Frame 6 - Mimicry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, head tilted, mimicking human speech or sounds. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound focus, detailed mimicry, strong clever silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, mimicking, physical tabletop game piece aesthetic.
+
+## Frame 7 - Glide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, wings extended in gliding position, soaring. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful motion, detailed glide, strong soaring silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gliding, physical tabletop game piece aesthetic.
+
+## Frame 8 - Preen
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, using beak to preen wing feathers, grooming. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed preening, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, raven character, black bird with glossy feathers, sharp beak, intelligent eyes. Viewed from top-down angle (80-90 degrees), perched on circular branch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and blue tones, detailed feather texture readable from above, strong corvid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

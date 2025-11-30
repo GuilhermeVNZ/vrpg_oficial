@@ -1,0 +1,12 @@
+﻿{
+    "text":  "rita no apêndice A.\n• pegar um item de outro personagem Você pode jogar-se ao chão sem usar qualquer\ndeslocamento seu. Levantar-se exige maior esforço e\n192\n\n\n# Pagina 192\n\nfazê-lo custa metade do seu deslocamento. Por exemplo,\nse seu deslocamento é 9 metros, precisa gastar 4,5 metros\npara se levantar. Você não pode se levantar se não\npossuir deslocamento suficiente sobrando ou se seu\ndeslocamento for 0.\nPara se mover enquanto estiver deitado, você precisa\nrastejar ou usar uma magia de teletransporte. Cada 1,5\nmetro de movimento enquanto estiver deitado custa 1,5\nmetro adicional. Rastejar 1,5 metro em terreno difícil, por\nexemplo, custaria 4,5 metros de deslocamento.\nMOVENDO-SE PRÓXIMO DE OUTRAS\nCRIATURAS\nVocê pode se mover através do espaço ocupado por\ncriaturas não hostis. Por outro lado, você pode se mover\npelo espaço de criaturas hostis apenas se essa criatura for\nduas categorias de tamanho maiores ou menores que\nvocê. Lembre-se que o espaço ocupado por outra criatura é\nconsiderado terreno difícil para você.\nSeja uma criatura amiga ou inimiga, você não pode\nvoluntariamente terminar seu deslocamento no espaço\ndela.\nSe você abandonar o alcance de uma criatura hostil\ndurante seu deslocamento, você provoca um ataque de\noportunidade, como explicado mais à frente neste\ncapítulo.\nMOVIMENTO DE VOO\nCriaturas que voam desfrutam de muitos benefícios de\nmobilidade, mas também tem que lidar com o risco de\nqueda. Se uma criatura que voa for derrubada, tiver seu\ndeslocamento reduzido a 0 ou for impedida de se mover, a\ncriatura cai, a não ser que tenha a habilidade de planar\nou esteja sendo mantida suspensa por magia, como a\nmagia voo.\nTAMANHO DE CRIATURA\nCada criatura precisa de espaços diferentes por conta de\nseu tamanho. A tabela Categorias de Tamanho mostra\nquanto espaço uma criatura de um tamanho particular\nocupa em combate. Objetos algumas vezes usam as\nmesmas categorias de tamanho.\nCATEGORIAS DE TAMANHO\nTamanho Espaço\nMiúdo 0,75 m/0,75 m\nPequeno 1,5 m/1,5 m\nMédio 1,5 m/1",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  380,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

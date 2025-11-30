@@ -1,0 +1,74 @@
+/* SkillRow Component Styles */
+
+.skill-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 10px;
+
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 6px;
+
+    transition: all 0.2s ease;
+    cursor: help;
+}
+
+.skill-row:hover {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(212, 175, 55, 0.3);
+}
+
+.skill-proficiency-button {
+    width: 24px;
+    height: 24px;
+    padding: 0;
+
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 50%;
+
+    font-size: 14px;
+    color: var(--vrpg-color-gold-primary);
+
+    cursor: pointer;
+    transition: all 0.2s ease;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill-proficiency-button:hover:not(:disabled) {
+    background: rgba(212, 175, 55, 0.1);
+    border-color: var(--vrpg-color-gold-primary);
+    transform: scale(1.1);
+}
+
+.skill-proficiency-button:disabled {
+    cursor: default;
+    opacity: 0.7;
+}
+
+.skill-name {
+    flex: 1;
+    font-family: var(--vrpg-font-sans);
+    font-size: 13px;
+    color: #e0e0e0;
+}
+
+.skill-ability {
+    margin-left: 4px;
+    font-size: 11px;
+    color: #888;
+    font-style: italic;
+}
+
+.skill-bonus {
+    font-family: var(--vrpg-font-mono);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vrpg-color-gold-primary);
+    min-width: 35px;
+    text-align: right;
+}

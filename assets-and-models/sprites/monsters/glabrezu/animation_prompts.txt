@@ -1,0 +1,28 @@
+﻿# GLABREZU - Animation Prompts (9 Frames)
+
+## Frame 1 - Treacherous Advisor
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, massive demon with four arms (two large pincers, two small human hands), dog-like head, furred body, dark chitin. Viewed from top-down angle (80-90 degrees), standing on circular abyssal rune base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple magic glow, detailed fur and chitin texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Pincers Opening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, massive pincers clicking open, small hands weaving spell, eyes glowing, fur bristling. Viewed from top-down angle (80-90 degrees), body tensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying magic, detailed movement, strong awakening deceiver silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing to act, physical tabletop game piece aesthetic.
+
+## Frame 3 - Spell Weave
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, small hands creating dark magic orb, pincers raised to guard, head lowered in concentration, runes on base glowing. Viewed from top-down angle (80-90 degrees), casting magic, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright purple highlight, detailed spell effect, strong magical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Pincer Crush
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, pincers snapping shut violently, magic orb flaring, body lunging forward, mouth snarling. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Dark Word
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, mouth wide releasing power word, shockwave of darkness, pincers wide, small hands pointing. Viewed from top-down angle (80-90 degrees), magic release, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive dark effects, detailed magic manifestation, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spell attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, pincers relaxing, magic fading, returning to hunch, checking surroundings. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding magic, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Whispering
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, leaning forward conspiratorially, small hands gesturing, pincers low, eyes gleaming. Viewed from top-down angle (80-90 degrees), social interaction, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong manipulative silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, whispering idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Waiting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, standing still, pincers resting on ground, small hands folded, patient expression. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient evil silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, glabrezu demon character, massive demon with four arms (two large pincers, two small human hands), dog-like head, furred body, dark chitin. Viewed from top-down angle (80-90 degrees), standing on circular abyssal rune base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple magic glow, detailed fur and chitin texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

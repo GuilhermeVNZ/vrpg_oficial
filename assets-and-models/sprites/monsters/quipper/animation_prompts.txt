@@ -1,0 +1,28 @@
+﻿# QUIPPER - Animation Prompts (9 Frames)
+
+## Frame 1 - Piranha Swarm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, small carnivorous fish with sharp teeth, silver scales. Viewed from top-down angle (80-90 degrees), swimming on circular river base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with silver and blue tones, detailed scale texture readable from above, strong predatory silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Frenzy Sense
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, detecting blood in water, becoming agitated. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blood scent, detailed sensing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sensing blood, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dart
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, shooting forward through water at high speed. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed darting, strong fast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, darting, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, snapping with razor-sharp teeth, tearing flesh. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Feeding Frenzy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, joining swarm attacking prey, frenzied. Viewed from top-down angle (80-90 degrees), special attack (swarm), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with frenzy emphasis, detailed frenzy, strong swarming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, feeding frenzy, physical tabletop game piece aesthetic.
+
+## Frame 6 - Circle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, circling prey with others, coordinated attack. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with circular motion, detailed circling, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, circling, physical tabletop game piece aesthetic.
+
+## Frame 7 - Thrash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, thrashing violently while biting, shaking head. Viewed from top-down angle (80-90 degrees), attack behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with thrash motion, detailed thrashing, strong violent silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, thrashing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Drift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, drifting lazily in current, conserving energy. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed drifting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drifting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quipper character, small carnivorous fish with sharp teeth, silver scales. Viewed from top-down angle (80-90 degrees), swimming on circular river base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with silver and blue tones, detailed scale texture readable from above, strong predatory silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

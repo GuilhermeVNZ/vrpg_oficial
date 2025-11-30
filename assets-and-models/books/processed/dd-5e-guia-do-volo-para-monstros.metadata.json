@@ -1,0 +1,22 @@
+{
+  "source_pdf": "dd-5e-guia-do-volo-para-monstros-v-alta-resolucao-biblioteca-elfica.pdf",
+  "output_md": "dd-5e-guia-do-volo-para-monstros.md",
+  "pages": 1,
+  "classification": {
+    "domain": "gaming",
+    "doc_type": "monster_manual",
+    "categories": [
+      "dnd5e",
+      "dungeons_and_dragons",
+      "rpg",
+      "game_rules"
+    ],
+    "confidence": 0.85,
+    "metadata": {
+      "source": "biblioteca_elfica",
+      "language": "pt-BR",
+      "filename": "dd-5e-guia-do-volo-para-monstros-v-alta-resolucao-biblioteca-elfica.pdf"
+    }
+  },
+  "extraction_method": "transmutation"
+}

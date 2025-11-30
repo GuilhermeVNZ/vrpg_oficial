@@ -1,0 +1,28 @@
+﻿# FLYING SWORD - Animation Prompts (9 Frames)
+
+## Frame 1 - Animated Blade
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, longsword floating in air, blade gleaming with magical energy. Viewed from top-down angle (80-90 degrees), hovering above circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and blue magical glow, detailed blade texture readable from above, strong weapon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Spin
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, spinning rapidly in place, blade blurring. Viewed from top-down angle (80-90 degrees), intimidation/preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed rotation, strong spinning silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spinning, physical tabletop game piece aesthetic.
+
+## Frame 3 - Thrust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, darting forward in straight thrust, point leading. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion lines, detailed thrust action, strong piercer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, thrust attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, sweeping in horizontal arc, blade trailing light. Viewed from top-down angle (80-90 degrees), melee attack (slash), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with arc emphasis, detailed slash motion, strong slasher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slash attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Overhead Chop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, rising up then chopping down vertically, pommel leading downward strike. Viewed from top-down angle (80-90 degrees), melee attack (chop), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical motion, detailed chop action, strong chopper silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, chop attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Parry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, angling blade to deflect incoming attack, sparks flying. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact sparks, detailed deflection, strong defender silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, parrying, physical tabletop game piece aesthetic.
+
+## Frame 7 - Orbit
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, circling around invisible target, blade horizontal. Viewed from top-down angle (80-90 degrees), movement pattern, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with circular motion, detailed orbit path, strong circling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, orbiting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sheathe Position
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, blade vertical and still, magical glow dimming slightly. Viewed from top-down angle (80-90 degrees), idle/resting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed resting pose, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, flying sword character, longsword floating in air, blade gleaming with magical energy. Viewed from top-down angle (80-90 degrees), hovering above circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and blue magical glow, detailed blade texture readable from above, strong weapon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

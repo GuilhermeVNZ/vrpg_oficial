@@ -1,0 +1,28 @@
+﻿# WOLF - Animation Prompts (9 Frames)
+
+## Frame 1 - Pack Hunter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, grey wolf with sharp fangs, alert ears, bushy tail. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and white tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Howl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, head raised, howling to pack, calling. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed howl, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, howling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Stalk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, crouching low, stalking prey silently, muscles coiled. Viewed from top-down angle (80-90 degrees), movement (stealth), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth emphasis, detailed stalking, strong hunting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stalking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, lunging forward with jaws open, biting down. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Pack Tactics
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, flanking position (implied), coordinating with pack. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tactical positioning, detailed tactics, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pack tactics, physical tabletop game piece aesthetic.
+
+## Frame 6 - Pounce
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, leaping onto prey, knocking down. Viewed from top-down angle (80-90 degrees), melee attack (pounce), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with leap motion, detailed pounce action, strong leaping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pounce attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Keen Hearing and Smell
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, ears perked, nose raised, tracking scent. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed tracking, strong tracker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, lying down, tail curled around body, resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wolf character, grey wolf with sharp fangs, alert ears, bushy tail. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and white tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

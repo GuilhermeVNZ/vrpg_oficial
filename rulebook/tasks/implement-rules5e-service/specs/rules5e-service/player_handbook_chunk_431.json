@@ -1,0 +1,12 @@
+﻿{
+    "text":  ".\nSe você conjurar essa magia usando 1 ação, escolha\nANIMAR MORTOS\num ponto dentro do alcance. Todas as plantas normais\n3° nível de necromancia\nnum raio de 30 metros centrado no ponto, tornam-se\nTempo de Conjuração: 1 minuto\nespessas e carregadas. Uma criatura se movendo na área\nAlcance: 3 metros\ndeve gastar 6 metros de movimento para cada 1,5 metro\nComponentes: V, S, M (uma gota de sangue, um pedaço\nque se mover.\nde carne e uma punhado de pó de osso)\nVocê pode excluir uma ou mais áreas de qualquer\nDuração: Instantânea\ntamanho, dentro da área da magia, para não ser afetada.\nSe você conjurar essa magia ao longo de 8 horas, você Essa magia cria um servo morto-vivo. Escolha uma pilha\nfertiliza a terra. Todas as plantas num raio de 800 de ossos ou um corpo de um humanoide Médio ou\nmetros, centrado no ponto dentro do alcance, ficam Pequeno dentro do alcance. Sua magia imbui o alvo com\nenriquecidas por 1 ano. As plantas fornecerão o dobro da uma imitação corrompida de vida, erguendo-o como uma\nquantidade normal de comida quando colhidas. criatura morta-viva. O alvo se torna um esqueleto, se você\nescolheu ossos, ou um zumbi, se você escolheu um corpo (o\nÂNCORA PLANAR Mestre tem as estatísticas de jogo da criatura).\n5° nível de abjuração Em cada um dos seus turnos, você pode usar uma ação\nTempo de Conjuração: 1 hora bônus para comandar mentalmente qualquer criatura que\nAlcance: 18 metros você criou com essa magia, se a criatura estiver a até 18\nComponentes: V, S, M (uma joia valendo, no mínimo, metros de você (se você controla diversas criaturas, você\n1.000 po, consumida pela magia) pode comandar qualquer uma ou todas elas ao mesmo\nDuração: 24 horas tempo, emitindo o mesmo comando para cada uma). Você\ndecide qual ação a criatura irá fazer e para onde ela irá se\nCom essa magia, você tenta obrigar um celestial, mover durante o próximo turno dela, ou você pode emitir\ncorruptor, elemental ou fada a servi-lo. A criatura deve um comando geral, como para guardar uma câmara ou\nesta",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  431,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

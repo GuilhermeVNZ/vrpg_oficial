@@ -1,0 +1,12 @@
+﻿{
+    "text":  "guardião do escudo é o de proteger\no usuário do amuleto. O usuário do amuleto pode\ncomandar o guardião a atacar seus inimigos ou a defende-\nlo de ataques. Se um ataque ameaçar ferir o usuário, o\nconstructo pode, magicamente, absorver o golpe com seu\npróprio corpo, mesmo à distância.\nUm conjurador pode armazenar uma única magia\ndentro do guardião do escudo, que pode depois conjurar a\nmagia ao comando ou em condições especificas. Às vezes\num mago pode ser rendido por seus inimigos, apenas para\nsurpreende-los quando seu guardião do escudo libera um\npotente poder mágico.\nTesouro Magnifico. Graças a posse de um guardião\ndo escudo poder ser transferida ao se entregar o amuleto\ncorrespondente para outra criatura, alguns magos\ncoletam somas exorbitantes de príncipes, nobre e\nsenhores do crime para criar guardiões do escudo para\neles. Ao mesmo tempo, um guardião do escudo torna-se\numa grande recompensa para qualquer um que elimine\nseu mestre e adquira seu amuleto.\nNatureza de Constructo. Um guardião do escudo\nnão precisa respirar, comer, beber ou dormir.\nGUARDIÃO DO ESCUDO armazenada com quaisquer parâmetros definidos pelo\nconjurador original, sem necessidade de componentes. Quando\nConstructo Grande, imparcial\na magia é conjurada ou quando uma nova magia é armazenada,\nqualquer magia anteriormente armazenada é perdida.\nClasse de Armadura 17 (armadura natural)\nPontos de Vida 142 (15d10 + 60) Regeneração. O guardião recupera 10 pontos de vida no início\nDeslocamento 9 m de cada um dos seus turnos se tiver pelo menos 1 ponto de vida.\nVinculo. O guardião é magicamente vinculado a um amuleto.\nFOR DES CON INT SAB CAR\nEnquanto o guardião e o amuleto estiverem no mesmo plano de\n18 (+4) 8 (–1) 18 (+4) 7 (–2) 10 (+0) 3 (–4)\nexistência, o usuário do amuleto pode telepaticamente convocar\nImunidade a Condição amedrontado, enfeitiçado, envenenado, o guardião para se viajar até ele, e o guardião sabe a distância e\nexausto, paralisado direção do amuleto. Se o guardião estiver a até 18 metros ",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  347,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

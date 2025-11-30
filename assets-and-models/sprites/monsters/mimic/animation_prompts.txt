@@ -1,0 +1,28 @@
+﻿# MIMIC - Animation Prompts (9 Frames)
+
+## Frame 1 - Treasure Chest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, appearing as ordinary wooden treasure chest, perfectly still. Viewed from top-down angle (80-90 degrees), sitting on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wood and metal tones, detailed chest texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disguised pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Lid Twitch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, chest lid twitching slightly, hint of life. Viewed from top-down angle (80-90 degrees), subtle movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with slight motion, detailed twitch, strong suspicious silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, twitching, physical tabletop game piece aesthetic.
+
+## Frame 3 - Reveal
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, chest opening to reveal rows of sharp teeth and long tongue. Viewed from top-down angle (80-90 degrees), transformation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with reveal effect, detailed mouth interior, strong monstrous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, revealing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, snapping shut on prey with powerful jaws, teeth crushing. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bite force, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tongue Lash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, whipping long adhesive tongue out to grab victim. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tongue extension, detailed tongue lash, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tongue attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Adhesive
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, sticky substance oozing from surface, trapping prey. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with adhesive effect, detailed sticky trap, strong trapper silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, adhesive trap, physical tabletop game piece aesthetic.
+
+## Frame 7 - Shapeshifter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, shifting form slightly, adjusting disguise. Viewed from top-down angle (80-90 degrees), transformation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with morphing effect, detailed shape change, strong shapeshifter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shapeshifting, physical tabletop game piece aesthetic.
+
+## Frame 8 - False Object
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, returning to perfect chest disguise, waiting patiently. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with perfect mimicry, detailed disguise, strong patient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, disguised idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mimic character, appearing as ordinary wooden treasure chest, perfectly still. Viewed from top-down angle (80-90 degrees), sitting on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wood and metal tones, detailed chest texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disguised pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

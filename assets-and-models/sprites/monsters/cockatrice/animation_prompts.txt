@@ -1,0 +1,28 @@
+﻿# COCKATRICE - Animation Prompts (9 Frames)
+
+## Frame 1 - Chicken Lizard
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, small monstrosity resembling a rooster with bat wings and a lizard tail. Viewed from top-down angle (80-90 degrees), standing on circular grassy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with reddish-brown and grey tones, detailed feather and scale texture readable from above, strong nasty silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Petrifying Peck
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, lunging neck forward to peck with its sharp beak, eyes glowing faintly. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp motion, detailed beak action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peck attack, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Flap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, flapping leathery bat wings vigorously, raising dust, body lifted slightly. Viewed from top-down angle (80-90 degrees), intimidation/movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wind effects, detailed wing anatomy, strong aerial silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing flap, physical tabletop game piece aesthetic.
+
+## Frame 4 - Talon Scratch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, kicking out with a clawed foot, scratching at the air or a foe. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed leg action, strong scratcher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, talon attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Monstrous Crow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, stretching neck up and opening beak wide to crow, chest puffed out. Viewed from top-down angle (80-90 degrees), communication/flavor, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with throat focus, detailed expression, strong loud silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crowing, physical tabletop game piece aesthetic.
+
+## Frame 6 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, turning head back to preen its wing feathers with its beak. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed animal behavior, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 7 - Ground Scratch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, scratching at the ground with one foot, looking for food (or victims). Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dust, detailed foraging action, strong scavenger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching ground, physical tabletop game piece aesthetic.
+
+## Frame 8 - Alert Jerk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, jerking head rapidly from side to side, comb on head shaking, eyes wide. Viewed from top-down angle (80-90 degrees), almost fully at rest (paranoid), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed twitchy motion, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, alert idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, cockatrice character, small monstrosity resembling a rooster with bat wings and a lizard tail. Viewed from top-down angle (80-90 degrees), standing on circular grassy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with reddish-brown and grey tones, detailed feather and scale texture readable from above, strong nasty silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

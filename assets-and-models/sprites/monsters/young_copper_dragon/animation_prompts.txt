@@ -1,0 +1,28 @@
+﻿# YOUNG COPPER DRAGON - Animation Prompts (9 Frames)
+
+## Frame 1 - Prankster Drake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, medium-sized copper dragon with metallic scales, mischievous eyes, playful stance. Viewed from top-down angle (80-90 degrees), standing on circular rocky hills base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with copper and green tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Laugh
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, head thrown back, laughing. Viewed from top-down angle (80-90 degrees), expression, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with joyful emphasis, detailed laughing, strong playful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, laughing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Leap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, leaping between rocks playfully. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with leap motion, detailed leaping, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, leaping, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, biting with grin. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Acid Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, exhaling line of acid. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with acid effect, detailed breath weapon, strong elemental silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, swiping with claws. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed swipe action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Slowing Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, exhaling slowing gas. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gas effect, detailed breath weapon, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slowing breath, physical tabletop game piece aesthetic.
+
+## Frame 8 - Tell Joke
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, gesturing animatedly as if telling joke. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed gesturing, strong entertainer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, joking idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young copper dragon character, medium-sized copper dragon with metallic scales, mischievous eyes, playful stance. Viewed from top-down angle (80-90 degrees), standing on circular rocky hills base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with copper and green tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

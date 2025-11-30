@@ -1,0 +1,28 @@
+﻿# MERFOLK - Animation Prompts (9 Frames)
+
+## Frame 1 - Ocean Dweller
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, humanoid with fish tail instead of legs, holding trident, aquatic features. Viewed from top-down angle (80-90 degrees), swimming on circular ocean base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue-green and silver tones, detailed scale texture readable from above, strong aquatic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tail Propulsion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, powerful tail stroke propelling forward through water. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with water motion, detailed swimming, strong swimmer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swimming, physical tabletop game piece aesthetic.
+
+## Frame 3 - Trident Thrust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, thrusting trident forward in straight jab underwater. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with thrust motion, detailed trident strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trident attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Coral Spear
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, wielding coral-tipped spear, stabbing motion. Viewed from top-down angle (80-90 degrees), melee attack (spear), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed spear action, strong warrior silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spear attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shell Horn
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, blowing conch shell horn, calling others. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed horn blow, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blowing horn, physical tabletop game piece aesthetic.
+
+## Frame 6 - Dive
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, diving down deeper, tail arched, arms streamlined. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical motion, detailed dive, strong diving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, diving, physical tabletop game piece aesthetic.
+
+## Frame 7 - Amphibious
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, breathing air and water simultaneously, gills visible. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gill emphasis, detailed amphibious nature, strong adaptable silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breathing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Tend Coral
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, tending to coral garden, peaceful activity. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed gardening, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tending idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merfolk character, humanoid with fish tail instead of legs, holding trident, aquatic features. Viewed from top-down angle (80-90 degrees), swimming on circular ocean base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue-green and silver tones, detailed scale texture readable from above, strong aquatic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

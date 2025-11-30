@@ -1,0 +1,28 @@
+﻿# STEAM MEPHIT - Animation Prompts (9 Frames)
+
+## Frame 1 - Steam Imp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, small winged elemental creature made of boiling water and steam, glowing white hot, dripping. Viewed from top-down angle (80-90 degrees), standing on circular wet stone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and grey tones, detailed steam texture readable from above, strong energetic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hissing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Boil
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, body bubbling, steam jets erupting from shoulders, wings flapping rapidly, hissing. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying steam, detailed movement, strong awakening pressure silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Breath Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, inhaling, chest swelling, steam gathering in mouth, leaning forward. Viewed from top-down angle (80-90 degrees), preparing breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on chest, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Steam Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, exhaling cone of scalding steam, blurring air, ground wet. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed steam cloud, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Scratch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, scratching with hot claws, water spraying, body lunging. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, floating back, steam clearing, dripping water, looking bossy. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding steam, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Bossy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, pointing finger, shouting orders (implied), puffing chest out, acting tough. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong bossy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, commanding idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Simmer
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, crouching down, steam reducing to a trickle, glowing faintly, stillness. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, steam mephit character, small winged elemental creature made of boiling water and steam, glowing white hot, dripping. Viewed from top-down angle (80-90 degrees), standing on circular wet stone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and grey tones, detailed steam texture readable from above, strong energetic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hissing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

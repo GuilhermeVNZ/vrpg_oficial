@@ -1,0 +1,28 @@
+﻿# WEASEL - Animation Prompts (9 Frames)
+
+## Frame 1 - Tiny Predator
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, small elongated mammal with brown fur, black-tipped tail, beady eyes. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed fur texture readable from above, strong nimble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sniff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, nose raised, sniffing air for prey. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed sniffing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sniffing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dart
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, running in quick zigzag pattern, incredibly fast. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed darting, strong fast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, darting, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, lunging forward with sharp teeth, biting. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bite focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Keen Hearing and Smell
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, ears perked, detecting hidden prey. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory emphasis, detailed sensing, strong perceptive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, detecting, physical tabletop game piece aesthetic.
+
+## Frame 6 - Burrow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, digging into ground rapidly, disappearing into hole. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with digging motion, detailed burrowing, strong digger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, burrowing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Climb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, climbing up invisible tree or rock, agile. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with climbing motion, detailed climbing, strong climber silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, climbing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Groom
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, sitting up, grooming fur with paws and tongue. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grooming idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, weasel character, small elongated mammal with brown fur, black-tipped tail, beady eyes. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed fur texture readable from above, strong nimble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

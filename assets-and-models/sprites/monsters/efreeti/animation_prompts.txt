@@ -1,0 +1,28 @@
+﻿# EFREETI - Animation Prompts (9 Frames)
+
+## Frame 1 - Fire Genie
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, massive red-skinned genie with horns, wearing brass armor and silk, lower body swirling smoke and fire. Viewed from top-down angle (80-90 degrees), standing on circular brass and coal base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and orange tones, detailed skin and armor texture readable from above, strong tyrant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Heat Wave
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, body glowing hotter, smoke billowing from shoulders, armor heating up, scimitar igniting. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying heat, detailed fire movement, strong awakening warlord silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scimitar Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, raising massive flaming scimitar, muscles bunching, face showing cruel anger. Viewed from top-down angle (80-90 degrees), preparing weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Flame Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, slashing down with scimitar, trail of fire following blade, body lunging forward. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Fireball
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, throwing ball of fire with free hand, scimitar guarding, explosion on base. Viewed from top-down angle (80-90 degrees), magic attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive fire effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fireball attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, returning to stance, fire dimming slightly, smoke clearing, scimitar still glowing. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding fire, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Command
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, pointing imperiously, shouting orders to slaves (implied), chest puffed out. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong commander silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, commanding idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Arms Crossed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, crossing arms over chest, scimitar floating beside, looking down with disdain, floating. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong arrogant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, efreeti genie character, massive red-skinned genie with horns, wearing brass armor and silk, lower body swirling smoke and fire. Viewed from top-down angle (80-90 degrees), standing on circular brass and coal base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and orange tones, detailed skin and armor texture readable from above, strong tyrant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

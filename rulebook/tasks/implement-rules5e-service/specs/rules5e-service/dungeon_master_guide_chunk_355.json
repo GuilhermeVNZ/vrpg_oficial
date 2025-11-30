@@ -1,0 +1,12 @@
+﻿{
+    "text":  "do espelho. Este teste de\nresistência é feito com vantagem se a criatura souber a\nnatureza do espelho e constructos passam\nautomaticamente nesse teste de resistência.\nUma cela extradimensional é uma expansão infinita\npreenchida com uma fina névoa que reduz a visibilidade a\n3 metros. Criaturas presas na cela do espelho não\nenvelhecem e não precisam comer, beber ou dormir. Uma\ncriatura presa dentro de uma cela pode escapar usando\nmagia que permita viagens planares. Do contrário, a\ncriatura está confinada a cela até ser libertada.\nSe o espelho aprisionar uma criatura, mas suas doze\ncelas extradimensionais já estiverem ocupada, o espelho\nliberta uma criatura aleatoriamente para acomodar o\nnovo prisioneiro. Uma criatura liberta aparece em um\nespaço desocupado dentro da visão do espelho, mas\nolhando para o lado contrário. Caso o espelho seja\ndespedaçado, todas as criaturas contidas nele serão\nlibertadas e aparecerão em espaços desocupados próximos\ndele. falados. Se você não der um comando, a criatura se\nEnquanto estiver a 1,5 metro do espelho, você pode defenderá, mas não realizará nenhuma ação. Veja o\nusar uma ação para falar o nome de uma criatura Manual dos Monstros para as estatísticas da criatura,\naprisionada nele ou chamar uma cela em particular pelo exceto para a mosca gigante.\nnúmero. A criatura nomeada ou contida na cela nomeada A criatura existirá por uma duração específica para\naparece como uma imagem na superfície do espelho. Você cada estátua. Ao final da duração, a criatura reverte a\ne a criatura podem, então, se comunicar normalmente. forma de estátua. Ela reverte prematuramente se cair a 0\nDe forma similar, você pode usar uma ação para falar pontos de vida ou se você usar uma ação para dizer a\numa segunda palavra de comando e libertar uma criatura palavra de comando novamente e toca-la. Quando a\naprisionada no espelho. A criatura libertada aparece, criatura se tornar uma estátua novamente, sua\njunto com todos os seus pertences, em um espaço propriedade não",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  355,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

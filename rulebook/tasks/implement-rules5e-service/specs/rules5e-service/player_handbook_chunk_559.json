@@ -1,0 +1,12 @@
+﻿{
+    "text":  "po de Conjuração: 1 ação\nprimeiro, a magia não funciona.\nAlcance: Toque\nVocê deve designar um santuário na conjuração dessa\nComponentes: V, S, M (um pouco de barro)\nmagia dentro de um local, como um templo dedicado ou\nDuração: 1 hora\nfortemente ligado a sua divindade. Se você tentar\nconjurar essa magia dessa forma em uma área que não\nVocê toca uma criatura. O deslocamento do alvo aumenta\nseja dedicada à sua divindade, a magia não funciona.\nem 3 metros, até a magia acabar.\nEm Níveis Superiores. Quando você conjurar essa\nPALAVRA DIVINA magia usando um espaço de magia de 2° nível ou\n7° nível de evocação superior, você pode afetar uma criatura adicional para\nTempo de Conjuração: 1 ação bônus cada nível do espaço acima do 1°.\nAlcance: 9 metros\n267\n\n\n# Pagina 267\n\nPASSOS SEM PEGADAS\n2° nível de abjuração\nTempo de Conjuração: 1 ação\nAlcance: Pessoal\nComponentes: V, S, M (cinzas de uma folha de visco\nqueimada e um ramo de pinheiro)\nDuração: Concentração, até 1 hora\nUm véu de sombras e silencia irradia de você, encobrindo\nvocê e seus companheiros contra detecção. Pela duração,\ncada criatura, à sua escolha, a até 9 metros de você\n(incluindo você) recebe +10 de bônus em testes de\nDestreza (Furtividade) e não pode ser rastreada, exceto\npor meio mágicos. Uma criatura que receber esse bônus\nnão deixa quaisquer pegadas ou outros vestígios da sua\npassagem.\nPATAS DE ARANHA\n2° nível de transmutação\nTempo de Conjuração: 1 ação\nAlcance: Toque\nComponentes: V, S, M (uma gota de betume e uma\naranha)\nDuração: Concentração, até 1 hora\nAté a magia acabar, uma criatura voluntária que você\ntocar, recebe a habilidade de se mover para cima, para\nbaixo e através de superfícies verticais e de cabeça para\nbaixo pelos tetos, enquanto deixa suas mãos livres. O alvo\ntambém ganha deslocamento de escalada igual a seu\ndeslocamento de caminhada.\nPELE DE ÁRVORE\n2° nível de transmutação\nTempo de Conjuração: 1 ação\nAlcance: Toque\nComponentes: V, S, M (um pedaço de casca de carvalho)\nDuração: Concentração, at",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  559,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

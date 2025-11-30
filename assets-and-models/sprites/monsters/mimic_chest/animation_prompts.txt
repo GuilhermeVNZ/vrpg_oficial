@@ -1,0 +1,3 @@
+﻿# Mimic - 9 Frame Animation
+Base: D&D dark fantasy anime, mimic disguised as chest, teeth visible, tentacle tongue, top-down view, solid dark grey bg.
+F1: Closed chest | F2: Lid crack open | F3: Teeth showing | F4: Mouth half open | F5: Fully open, tongue out | F6: Begin close | F7: Closing | F8: Almost closed | F9: Loop to F1

@@ -1,0 +1,28 @@
+﻿# KNIGHT - Animation Prompts (9 Frames)
+
+## Frame 1 - Armored Warrior
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, human warrior in full plate armor with heraldic surcoat, holding longsword and shield. Viewed from top-down angle (80-90 degrees), standing on circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and fabric tones, detailed armor texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Battle Stance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, lowering into combat stance, shield up, sword ready. Viewed from top-down angle (80-90 degrees), preparing for combat, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with defensive focus, detailed ready pose, strong defender silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, battle stance, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sword Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, swinging longsword in powerful horizontal arc. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed sword strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Shield Bash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, stepping forward and slamming shield into opponent. Viewed from top-down angle (80-90 degrees), melee attack (shield), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact emphasis, detailed bash action, strong basher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shield bash, physical tabletop game piece aesthetic.
+
+## Frame 5 - Parry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, deflecting incoming attack with sword, sparks flying. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact sparks, detailed parry, strong defender silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, parrying, physical tabletop game piece aesthetic.
+
+## Frame 6 - Second Wind
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, taking deep breath, rallying strength, glowing with determination. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with recovery glow, detailed rallying, strong resilient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, second wind, physical tabletop game piece aesthetic.
+
+## Frame 7 - Leadership
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, raising sword high, rallying allies with commanding presence. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with inspirational aura, detailed leadership, strong commander silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rallying cry, physical tabletop game piece aesthetic.
+
+## Frame 8 - Salute
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, bringing sword to forehead in respectful salute. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with honorable focus, detailed salute, strong honorable silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, saluting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, knight character, human warrior in full plate armor with heraldic surcoat, holding longsword and shield. Viewed from top-down angle (80-90 degrees), standing on circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and fabric tones, detailed armor texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

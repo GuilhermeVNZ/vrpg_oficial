@@ -1,0 +1,28 @@
+﻿# ROC - Animation Prompts (9 Frames)
+
+## Frame 1 - Sky Titan
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, gargantuan bird of prey, golden brown feathers, massive talons, sharp beak. Viewed from top-down angle (80-90 degrees), flying above circular mountain peak base (or cloud base), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sky blue and gold tones, detailed feather texture readable from above, strong aerial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle soaring pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Screech
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, beak opening wide in deafening screech, wings flared fully, feathers ruffled. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying sound (implied), detailed feather movement, strong awakening predator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dive Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, tucking wings slightly, angling body downward, talons extending forward. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on talons, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Talon Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, striking down with massive talons, wings braking hard, wind blasting outward. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Wing Buffet
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, beating wings violently, creating a whirlwind, dust and debris flying. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed wind effect, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, banking away, gaining altitude, wings beating steadily, looking for next target. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, perched on a peak (or hovering), preening a wing feather with beak, calm. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong majestic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perched
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, sitting on a rocky outcrop, wings folded, head turning slowly to scan horizon. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong sentinel silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, roc character, gargantuan bird of prey, golden brown feathers, massive talons, sharp beak. Viewed from top-down angle (80-90 degrees), flying above circular mountain peak base (or cloud base), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sky blue and gold tones, detailed feather texture readable from above, strong aerial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle soaring pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

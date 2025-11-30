@@ -1,0 +1,28 @@
+﻿# WIGHT - Animation Prompts (9 Frames)
+
+## Frame 1 - Undead Warrior
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, skeletal warrior with desiccated flesh, wearing ancient rusted armor, holding longsword. Viewed from top-down angle (80-90 degrees), standing on circular crypt floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cold blue and grey tones, detailed armor texture readable from above, strong martial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle ready pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Challenge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, pointing sword forward, eyes glowing with hateful green light, mouth open in silent challenge. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying malice, detailed movement, strong commander silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Strike Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, drawing sword back for a heavy swing, stepping forward. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Sword Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, swinging sword in a wide arc, necrotic energy trailing from the blade. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Life Drain
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, grabbing a victim (implied) with off-hand, hand glowing black, draining life. Viewed from top-down angle (80-90 degrees), drain ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive necrotic effect, detailed magic manifestation, strong parasitic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drain attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, returning to guard stance, sword held high, looking for next target. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Command
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, raising a hand to signal other undead (implied), authoritative posture. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong leader silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, commanding idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Vigil
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, standing perfectly still like a statue in a tomb, sword point resting on ground. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong sentinel silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wight character, skeletal warrior with desiccated flesh, wearing ancient rusted armor, holding longsword. Viewed from top-down angle (80-90 degrees), standing on circular crypt floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cold blue and grey tones, detailed armor texture readable from above, strong martial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle ready pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

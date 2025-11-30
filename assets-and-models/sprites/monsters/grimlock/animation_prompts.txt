@@ -1,0 +1,28 @@
+﻿# GRIMLOCK - Animation Prompts (9 Frames)
+
+## Frame 1 - Blind Humanoid
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, muscular grey-skinned humanoid with no eyes, holding stone battleaxe. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and stone tones, detailed skin texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sniff Air
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, head raised, nostrils flaring, scenting for prey. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on head, detailed sniffing pose, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scenting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Echolocation Click
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, mouth open making clicking sounds, head tilted listening. Viewed from top-down angle (80-90 degrees), blindsight ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed echolocation, strong sensing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, echolocating, physical tabletop game piece aesthetic.
+
+## Frame 4 - Axe Swing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, swinging stone battleaxe in wide horizontal arc. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed weapon strike, strong smasher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, axe attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, lunging forward with mouth open, sharp teeth bared. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Stone Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, pressing against invisible stone wall, skin blending with rock. Viewed from top-down angle (80-90 degrees), special ability (stone camouflage), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with texture matching, detailed camouflage, strong hidden silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, camouflaging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Pack Call
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, head back howling to call pack, axe raised. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound emphasis, detailed howl, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, howling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Crouch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, crouching low in hunting stance, axe ready, listening intently. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed hunting pose, strong predator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crouching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grimlock character, muscular grey-skinned humanoid with no eyes, holding stone battleaxe. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and stone tones, detailed skin texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

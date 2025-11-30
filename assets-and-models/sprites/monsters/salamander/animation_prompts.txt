@@ -1,0 +1,28 @@
+﻿# SALAMANDER - Animation Prompts (9 Frames)
+
+## Frame 1 - Fire Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, large serpentine creature with human torso, red scales, holding iron spear, heat radiating. Viewed from top-down angle (80-90 degrees), standing on circular lava rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and orange tones, detailed scale texture readable from above, strong elemental silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Heat Aura
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, scales glowing brighter, air shimmering with intense heat, spear tip turning white hot. Viewed from top-down angle (80-90 degrees), buff ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying fire, detailed heat haze, strong awakening furnace silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Spear Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, drawing arm back with spear, tail coiling tight to spring, muscles tense. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on weapon, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Spear Thrust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, thrusting spear forward, fire trailing from tip, body extending. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tail Lash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, whipping tail around to strike or grapple, flames erupting from impact. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, recoiling to defensive posture, spear held across body, tail twitching. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Weapon Forge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, heating a weapon or metal piece in its hands, looking focused. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong smith silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, forging idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Resting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, coiled loosely, resting on tail, spear planted in ground, eyes watching. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong sentinel silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, salamander character, large serpentine creature with human torso, red scales, holding iron spear, heat radiating. Viewed from top-down angle (80-90 degrees), standing on circular lava rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and orange tones, detailed scale texture readable from above, strong elemental silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

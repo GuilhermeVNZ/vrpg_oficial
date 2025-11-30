@@ -1,0 +1,12 @@
+﻿{
+    "text":  " tanto seu modificador de Força quanto o\nde Destreza, pois a adaga possui a propriedade acuidade.\nDistância. Uma arma que pode ser usada para\nrealizar ataques à distância possui a distância mostrada\nentre parênteses após a propriedade munição ou\narremesso. A distância lista dois números. O primeiro é a\ndistância normal da arma, o segundo indica a distância\nmáxima da arma, ambos em metros. Quando atacar um\nalvo que está além da distância normal da arma, você\npossui desvantagem na jogada de ataque. Você não pode\natacar um alvo que esteja além da distância máxima da\narma.\nDuas Mãos. Essa arma requer as duas mãos para ser\nusada. Essa propriedade só é relevante quando você ataca\ncom a arma, não enquanto apenas a segura.\nEspecial. Uma arma com a propriedade especial\npossui regras diferenciadas que detalham seu uso,\nexplicado na descrição da arma (veja \"Armas Especiais\"\nmais adiante).\nLeve. Uma arma leve é pequena e de fácil manuseio,\ntornando-a ideal para usar quando você está combatendo\ncom duas armas. Veja as regras para combate com duas\narmas no capítulo 9.\nMunição. Você pode usar uma arma que tenha a\npropriedade munição para realizar um ataque à\ndistância, apenas se possuir munição para disparar a\narma. Cada vez que você atacar com a arma, você gasta\numa peça de munição. Sacar a munição de uma aljava,\nbolsa, ou outro recipiente faz parte do ataque. No fim da\nbatalha, você pode recuperar metade de sua munição\ngasta, se tiver um minuto para procurar pelo campo de\nbatalha. Recarregar uma arma de uma mão requer uma\nmão livre.\nPesada. Criaturas pequenas têm desvantagem nas\njogadas de ataque com estas armas. O tamanho e o peso\nde uma arma pesada tornam-na muito grande para ser\nempunhada eficientemente por criaturas Pequenas.\nRecarga. Devido o tempo necessário para recarregar\nessa arma, você pode disparar apenas uma peça de\nmunição da arma quando usa uma ação, ação bônus, ou\nreação para disparar, não importando quantos ataques\nvocê possua.\nVersátil. Essa arma pode ser usada ",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  296,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

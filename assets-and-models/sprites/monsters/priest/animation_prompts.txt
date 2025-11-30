@@ -1,0 +1,28 @@
+﻿# PRIEST - Animation Prompts (9 Frames)
+
+## Frame 1 - Divine Servant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, human cleric in holy robes, holding holy symbol and mace. Viewed from top-down angle (80-90 degrees), standing on circular temple floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and gold tones, detailed robe texture readable from above, strong faithful silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Prayer
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, hands clasped, eyes closed, praying to deity. Viewed from top-down angle (80-90 degrees), ritual, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with divine glow, detailed prayer, strong devout silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, praying, physical tabletop game piece aesthetic.
+
+## Frame 3 - Cure Wounds
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, hand extended, golden healing light flowing from palm. Viewed from top-down angle (80-90 degrees), spell casting (healing), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with healing glow, detailed spell effect, strong healer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting cure wounds, physical tabletop game piece aesthetic.
+
+## Frame 4 - Sacred Flame
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, holy symbol raised, radiant flame descending on enemy. Viewed from top-down angle (80-90 degrees), spell casting (attack), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with radiant fire, detailed spell effect, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting sacred flame, physical tabletop game piece aesthetic.
+
+## Frame 5 - Mace Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, swinging mace in blessed strike. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed mace strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, mace attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Turn Undead
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, holy symbol thrust forward, divine energy repelling undead. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with repelling waves, detailed turn undead, strong commanding silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, turning undead, physical tabletop game piece aesthetic.
+
+## Frame 7 - Bless
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, raising hands, blessing allies with divine favor. Viewed from top-down angle (80-90 degrees), spell casting (buff), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blessing aura, detailed blessing, strong supportive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting bless, physical tabletop game piece aesthetic.
+
+## Frame 8 - Read Scripture
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, reading from holy book, studying scripture. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed reading, strong scholarly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, reading idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, priest character, human cleric in holy robes, holding holy symbol and mace. Viewed from top-down angle (80-90 degrees), standing on circular temple floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and gold tones, detailed robe texture readable from above, strong faithful silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

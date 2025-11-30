@@ -1,0 +1,28 @@
+﻿# NIGHTMARE - Animation Prompts (9 Frames)
+
+## Frame 1 - Hell Horse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, large black horse with flaming mane, tail, and hooves, glowing red eyes. Viewed from top-down angle (80-90 degrees), standing on circular scorched earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and fire orange tones, detailed flame texture readable from above, strong demonic mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle restless pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rear Up
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, rearing up on hind legs, forelegs pawing air, flames flaring brightly, mane whipping. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying fire, detailed movement, strong awakening beast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, lowering head, pawing ground with flaming hoof, smoke snorting from nostrils. Viewed from top-down angle (80-90 degrees), preparing charge, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on hooves, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Trample
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, galloping forward, hooves striking ground with explosive force, fire trails. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Ethereal Stride
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, body becoming semi-transparent and ghostly, flames turning blue/white, phasing out. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive spectral effects, detailed magic manifestation, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, etherealness, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, skidding to a halt, shaking head, flames settling back to orange, snorting. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Grazing (Fire)
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, lowering head as if to graze, but eating coals or small fires from the ground. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong unnatural silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, eating idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Standing Still
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, standing perfectly still like a statue, only flames flickering, head high. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong proud silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nightmare character, large black horse with flaming mane, tail, and hooves, glowing red eyes. Viewed from top-down angle (80-90 degrees), standing on circular scorched earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and fire orange tones, detailed flame texture readable from above, strong demonic mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle restless pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

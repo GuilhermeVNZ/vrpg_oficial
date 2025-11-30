@@ -1,0 +1,28 @@
+﻿# ZOMBIE - Animation Prompts (9 Frames)
+
+## Frame 1 - Walking Dead
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, rotting humanoid corpse with torn clothes, shambling stance. Viewed from top-down angle (80-90 degrees), standing on circular graveyard base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and green tones, detailed decay texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle shambling pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Moan
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, mouth open in mindless moan, arms reaching. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with horror emphasis, detailed moaning, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, moaning, physical tabletop game piece aesthetic.
+
+## Frame 3 - Shamble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, shuffling forward slowly, dragging feet. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shamble motion, detailed shuffling, strong slow silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shambling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, swinging arm down in clumsy slam. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with slam focus, detailed slam action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slam attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, lunging to bite with rotting teeth. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bite focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Undead Fortitude
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, taking damage but continuing to move. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with resilience, detailed fortitude, strong persistent silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, persisting, physical tabletop game piece aesthetic.
+
+## Frame 7 - Grab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, reaching out to grab victim. Viewed from top-down angle (80-90 degrees), grapple attempt, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grab motion, detailed reaching, strong grasping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grabbing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Stand
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, standing motionless, waiting for prey. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed stillness, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, standing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie character, rotting humanoid corpse with torn clothes, shambling stance. Viewed from top-down angle (80-90 degrees), standing on circular graveyard base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and green tones, detailed decay texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle shambling pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,64 @@
+# VRPG Client - Cursor AI Rules
+
+## MCP Servers Configuration
+
+The following MCP servers are available for this project:
+
+### Synap Server
+- **URL**: http://127.0.0.1:15500
+- **Protocol**: StreamableHTTP
+- **Tools**: KV operations, Queue management, Stream publishing, Pub/Sub
+- **Status**: Should show 10 tools when connected
+
+### Vectorizer Server  
+- **URL**: http://127.0.0.1:15002
+- **Protocol**: MCP native
+- **Tools**: Semantic search, Collections, Document indexing
+- **Status**: Should show 20+ tools when connected
+
+### Context7 Server
+- **Protocol**: MCP native
+- **Tools**: Library documentation, Code examples
+- **Status**: Should show 2 tools when connected
+
+## Project Context
+
+This is the VRPG (Virtual RPG) client project - a modular RPG system with local AI integration.
+
+**Tech Stack**:
+- Frontend: Electron + React + TypeScript + Vite
+- Backend Services: Rust (Synap, Vectorizer)
+- AI Integration: Local LLM, ASR (Whisper), TTS
+- Game Engine: D&D 5e rules in Rust
+- Memory: Vector DB with semantic search
+
+**Key Directories**:
+- `/docs/` - All project documentation
+- `/servers.exe` - Server management utility
+- `/synap-mcp-simple.py` - MCP bridge (if needed)
+
+## Development Guidelines
+
+1. Always check MCP server status before starting work
+2. Use semantic search (Vectorizer) for finding relevant code
+3. Use Synap for inter-service communication and caching
+4. Follow Rust best practices for backend services
+5. Maintain comprehensive documentation in `/docs/`
+
+## Troubleshooting MCP
+
+If MCP servers show "Loading tools":
+1. Check if servers are running: `.\servers.exe --status`
+2. Restart servers if needed: `.\servers.exe --stop` then `.\servers.exe`
+3. Check server logs for connection issues
+4. Verify ports 15500 (Synap) and 15002 (Vectorizer) are accessible
+
+
+
+
+
+
+
+
+
+

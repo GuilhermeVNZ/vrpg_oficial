@@ -1,0 +1,28 @@
+﻿# BONE DEVIL - Animation Prompts (9 Frames)
+
+## Frame 1 - Osyluth
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, tall skeletal devil with scorpion tail, insectoid wings, skull face, bony claws. Viewed from top-down angle (80-90 degrees), standing on circular bone pile base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale bone and green tones, detailed skeletal texture readable from above, strong undead-like silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle creepy pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rattling
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, bones rattling together, tail raising high, wings buzzing, jaw clicking. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying sound (implied), detailed movement, strong awakening horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Tail Sting Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, tail arching over head, stinger dripping poison, claws raised, wings spread. Viewed from top-down angle (80-90 degrees), preparing sting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on stinger, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Sting Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, tail striking down violently, body lunging, claws grasping, mouth open in hiss. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, both claws slashing outward, tail retracting, wings beating dust, bones clattering. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, pulling back, tail coiling, wings settling, checking victim. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Preening Bone
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, picking at ribcage with claw, adjusting wing, clicking jaw, bored expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong skeletal silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Stillness
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, standing perfectly still like a skeleton prop, tail resting, wings folded. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient trap silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone devil character, tall skeletal devil with scorpion tail, insectoid wings, skull face, bony claws. Viewed from top-down angle (80-90 degrees), standing on circular bone pile base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale bone and green tones, detailed skeletal texture readable from above, strong undead-like silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle creepy pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

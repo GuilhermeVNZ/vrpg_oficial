@@ -1,0 +1,28 @@
+﻿# TRICERATOPS - Animation Prompts (9 Frames)
+
+## Frame 1 - Horned Giant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, massive dinosaur with three horns, bony frill, thick legs. Viewed from top-down angle (80-90 degrees), standing on circular prehistoric plains base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed hide texture readable from above, strong tank silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Bellow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, head raised, bellowing loudly, frill flaring. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed bellow, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bellowing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, lowering head, horns forward, pawing ground. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed preparation, strong coiled silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing charge, physical tabletop game piece aesthetic.
+
+## Frame 4 - Trampling Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, running at full speed, horns forward, unstoppable momentum. Viewed from top-down angle (80-90 degrees), melee attack (charge), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed charge action, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charge attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Gore
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, thrusting horns upward in goring motion, tossing target. Viewed from top-down angle (80-90 degrees), melee attack (gore), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with horn focus, detailed gore action, strong goring silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gore attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Stomp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, stomping with massive foot, crushing. Viewed from top-down angle (80-90 degrees), melee attack (stomp), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stomp emphasis, detailed stomp action, strong trampler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stomp attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Thick Hide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, attacks bouncing off armored hide, natural armor. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deflection, detailed armor, strong protected silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, deflecting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Graze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, head lowered, eating plants, peaceful. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grazing, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, triceratops character, massive dinosaur with three horns, bony frill, thick legs. Viewed from top-down angle (80-90 degrees), standing on circular prehistoric plains base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed hide texture readable from above, strong tank silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

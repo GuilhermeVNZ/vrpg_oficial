@@ -1,0 +1,28 @@
+﻿# WINGED KOBOLD - Animation Prompts (9 Frames)
+
+## Frame 1 - Flying Pest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, small reptilian humanoid with bat-like wings, holding dagger. Viewed from top-down angle (80-90 degrees), hovering on circular cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and brown tones, detailed scale texture readable from above, strong flying silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Yip
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, mouth open in high-pitched yip, wings flapping. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed yipping, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, yipping, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dive
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, wings folded, diving downward with dagger forward. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed diving, strong diving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, diving, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dagger Stab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, stabbing with dagger while flying past. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed stab action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dagger attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Drop Rock
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, dropping rock from above onto enemy. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with projectile, detailed drop action, strong bomber silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drop attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Dodge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, barrel rolling in air, evading attack. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with evasion motion, detailed dodging, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dodging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Pack Tactics
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, circling with others (implied), coordinating attack. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tactical positioning, detailed circling, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pack tactics, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, landing on rock, wings folded, resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed perching, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, perching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winged kobold character, small reptilian humanoid with bat-like wings, holding dagger. Viewed from top-down angle (80-90 degrees), hovering on circular cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and brown tones, detailed scale texture readable from above, strong flying silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

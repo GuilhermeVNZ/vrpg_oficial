@@ -1,0 +1,28 @@
+﻿# WARHORSE SKELETON - Animation Prompts (9 Frames)
+
+## Frame 1 - Pale Steed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, skeletal horse with tattered barding/saddle, glowing blue eyes. Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bone and leather tones, detailed skeletal texture readable from above, strong undead mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rear
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, rearing up on hind legs, forelegs kicking, silent neigh. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying horror, detailed movement, strong awakening beast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, lowering head, pawing ground with hoof bone, ready to run. Viewed from top-down angle (80-90 degrees), preparing charge, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on skull, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Trample
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, galloping forward, hooves striking ground, dust flying. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Kick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, kicking out with hind legs, powerful impact. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, kick attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, coming to a halt, shaking mane (if any) or head, stabilizing. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Grazing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, lowering head to graze on dead grass (habit), realizing it can't eat. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong tragic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Lying Down
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, lying on side, legs stiff, looking like a pile of bones. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, warhorse skeleton character, skeletal horse with tattered barding/saddle, glowing blue eyes. Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bone and leather tones, detailed skeletal texture readable from above, strong undead mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

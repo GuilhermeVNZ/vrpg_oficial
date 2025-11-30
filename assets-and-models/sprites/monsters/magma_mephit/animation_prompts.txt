@@ -1,0 +1,28 @@
+﻿# MAGMA MEPHIT - Animation Prompts (9 Frames)
+
+## Frame 1 - Lava Imp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, small winged elemental creature made of molten rock, glowing cracks, dripping lava, heat haze. Viewed from top-down angle (80-90 degrees), standing on circular lava rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and orange tones, detailed magma texture readable from above, strong burning silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle dripping pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Bubble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, lava skin bubbling and popping, heat intensifying, wings fanning flames, mouth grinning. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying heat, detailed bubble movement, strong awakening fire silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Breath Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, inhaling, chest glowing bright orange, lava dripping faster, head tilting back. Viewed from top-down angle (80-90 degrees), preparing breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on chest, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Fire Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, exhaling cone of fire and magma droplets, ground scorching, wings spread. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed fire effect, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, raking with molten claws, leaving burning trails, body lunging. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, floating back, cooling slightly (crust forming), shaking off ash, grinning. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding fire, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Dripping
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, watching a drop of lava fall from finger to ground, fascinated, poking it. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong simple silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, playing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Hardening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, crouching down, skin hardening to dark rock, glow dimming, stillness. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magma mephit character, small winged elemental creature made of molten rock, glowing cracks, dripping lava, heat haze. Viewed from top-down angle (80-90 degrees), standing on circular lava rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and orange tones, detailed magma texture readable from above, strong burning silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle dripping pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

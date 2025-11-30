@@ -1,0 +1,28 @@
+﻿# EAGLE - Animation Prompts (9 Frames)
+
+## Frame 1 - Perched Predator
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, majestic bird of prey with brown and white feathers, sharp talons and hooked beak. Viewed from top-down angle (80-90 degrees), standing on circular rocky perch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sky blue and brown tones, detailed feather texture readable from above, strong proud silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, spreading wings wide in display, head raised, feathers ruffling. Viewed from top-down angle (80-90 degrees), intimidation display, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wingspan emphasis, detailed wing anatomy, strong imposing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing display, physical tabletop game piece aesthetic.
+
+## Frame 3 - Takeoff Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, crouching low, wings beginning to beat downward, talons gripping perch. Viewed from top-down angle (80-90 degrees), preparing flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion anticipation, detailed anatomical tension, strong launching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing takeoff, physical tabletop game piece aesthetic.
+
+## Frame 4 - Talon Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, diving forward with talons extended, wings swept back, beak open in screech. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed attack action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, talon attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Beak Snap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, snapping beak forward viciously, head lunging, wings flapping for balance. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp focus, detailed beak action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, beak attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Soaring Glide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, wings fully extended in gliding position, body streamlined, tail feathers spread. Viewed from top-down angle (80-90 degrees), movement/flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful lines, detailed aerodynamic pose, strong gliding silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gliding, physical tabletop game piece aesthetic.
+
+## Frame 7 - Prey Scan
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, head turning sharply to the side, eyes focused, wings slightly raised. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with keen focus, detailed head movement, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scanning, physical tabletop game piece aesthetic.
+
+## Frame 8 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, using beak to preen wing feathers, one wing extended, relaxed posture. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming action, strong calm silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, giant eagle character, majestic bird of prey with brown and white feathers, sharp talons and hooked beak. Viewed from top-down angle (80-90 degrees), standing on circular rocky perch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sky blue and brown tones, detailed feather texture readable from above, strong proud silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

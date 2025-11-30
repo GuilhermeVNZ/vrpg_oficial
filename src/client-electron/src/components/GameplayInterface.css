@@ -1,0 +1,626 @@
+/**
+ * Gameplay Interface Styles
+ * 
+ * Estilos para a interface principal do jogo durante a sessão,
+ * com glassmorphism e layout baseado na imagem de referência.
+ */
+
+/* ==========================================================================
+   VARIÁVEIS GLOBAIS (Design Tokens)
+   ========================================================================== */
+
+:root {
+  /* Cores e Efeitos de Vidro */
+  --glass-bg-color: rgba(15, 20, 35, 0.65);
+  --glass-border-color: rgba(255, 255, 255, 0.15);
+  --glass-border-highlight: rgba(255, 255, 255, 0.3);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  --glass-backdrop-blur: var(--vrpg-glass-backdrop-blur, 12px);
+  
+  /* Cores de Texto e Acentos */
+  --text-primary: var(--vrpg-color-text-primary, #e0e0e0);
+  --text-secondary: rgba(255, 255, 255, 0.7);
+  --accent-gold: var(--vrpg-color-gold-primary, #d4af37);
+  --accent-blue: var(--vrpg-color-arcane-blue, #4a90e2);
+  
+  /* Espaçamentos e Layout */
+  --ui-padding: var(--vrpg-spacing-md, 20px);
+  --panel-radius: var(--vrpg-radius-md, 12px);
+}
+
+/* ==========================================================================
+   RESET E BASE
+   ========================================================================== */
+
+.gameplay-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  font-family: var(--vrpg-font-sans, 'Inter', sans-serif);
+  color: var(--text-primary);
+}
+
+/* ==========================================================================
+   CAMADA 1: BACKGROUND DA CENA (Z-Index: 0)
+   ========================================================================== */
+
+.scene-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  background-size: cover;
+  background-position: center center;
+  background-color: #0a0a0a; /* Fallback */
+}
+
+/* Overlay escuro opcional para melhorar contraste da UI */
+.scene-background::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+}
+
+/* ==========================================================================
+   UTILITÁRIOS DE GLASSMORPHISM
+   ========================================================================== */
+
+.glass-panel {
+  background-color: var(--glass-bg-color);
+  backdrop-filter: blur(var(--glass-backdrop-blur)) saturate(110%);
+  -webkit-backdrop-filter: blur(var(--glass-backdrop-blur)) saturate(110%);
+  border: 1px solid var(--glass-border-color);
+  border-top-color: var(--glass-border-highlight);
+  box-shadow: var(--glass-shadow);
+  border-radius: var(--panel-radius);
+}
+
+.glass-interactive {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.glass-interactive:hover {
+  background-color: rgba(25, 30, 45, 0.75);
+  border-color: var(--glass-border-highlight);
+  transform: translateY(-2px);
+}
+
+.glass-interactive:active {
+  transform: translateY(0);
+}
+
+/* ==========================================================================
+   CAMADA 2: OVERLAY DA INTERFACE (Z-Index: 10)
+   ========================================================================== */
+
+.vrpg-ui-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  padding: var(--ui-padding);
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas:
+    'top-left top-center top-right'
+    'sidebar middle chat-area'
+    'footer footer footer';
+  gap: var(--ui-padding);
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  opacity: 1;
+  visibility: visible;
+}
+
+.vrpg-ui-overlay.ui-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* ==========================================================================
+   ESTILOS DAS ÁREAS DA UI
+   ========================================================================== */
+
+/* --- TOPO ESQUERDO (Nível e XP) --- */
+.top-left-area {
+  grid-area: top-left;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.level-indicator {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid var(--accent-gold);
+  color: var(--accent-gold);
+}
+
+.xp-bar-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.xp-text {
+  font-size: 12px;
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
+.xp-progress-track {
+  width: 200px;
+  height: 8px;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.xp-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #d4af37, #f2c94c);
+  transition: width 0.3s ease;
+}
+
+/* --- SIDEBAR ESQUERDA (Menu de Botões) --- */
+.sidebar-left {
+  grid-area: sidebar;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.menu-btn {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  color: var(--text-secondary);
+  border-radius: var(--panel-radius);
+  border: none;
+  background: transparent;
+}
+
+.menu-btn:focus {
+  outline: 2px solid var(--accent-gold);
+  outline-offset: 2px;
+}
+
+/* --- TOPO DIREITO (Botão Screenshot + Chat) --- */
+.top-right-area {
+  grid-area: top-right;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--ui-padding);
+  position: relative;
+}
+
+.screenshot-toggle-btn {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  color: var(--text-secondary);
+  position: absolute;
+  top: 0;
+  right: 340px;
+  z-index: 20;
+  border: none;
+  background: transparent;
+  font-size: 18px;
+}
+
+.screenshot-toggle-btn.ui-visible {
+  opacity: 0.5;
+  pointer-events: auto;
+}
+
+.screenshot-toggle-btn:focus {
+  outline: 2px solid var(--accent-gold);
+  outline-offset: 2px;
+}
+
+/* PAINEL DE CHAT E NOTIFICAÇÕES */
+.chat-panel-container {
+  width: 320px;
+  max-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  overflow: hidden;
+}
+
+.chat-history {
+  flex-grow: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent-gold) transparent;
+}
+
+.chat-history::-webkit-scrollbar {
+  width: 6px;
+}
+
+.chat-history::-webkit-scrollbar-thumb {
+  background: var(--accent-gold);
+  border-radius: 3px;
+}
+
+.chat-message {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.chat-author {
+  font-weight: 600;
+  color: var(--accent-blue);
+  margin-right: 5px;
+}
+
+.gm-author {
+  color: var(--accent-gold);
+}
+
+/* CARDS FLUTUANTES (Ex: Habilidades) */
+.floating-card {
+  padding: 12px;
+  margin-bottom: 10px;
+  border-left: 3px solid var(--accent-gold);
+}
+
+.card-title {
+  font-weight: 600;
+  color: var(--accent-gold);
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.card-meta {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+
+.card-body {
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--text-primary);
+}
+
+/* ÁREA DE INPUT E ÁUDIO DO CHAT */
+.chat-input-area {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.audio-visualizer-placeholder {
+  height: 30px;
+  flex-grow: 1;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(74, 144, 226, 0.3) 20%,
+    rgba(74, 144, 226, 0.6) 50%,
+    rgba(74, 144, 226, 0.3) 80%,
+    transparent 100%
+  );
+  border-radius: 4px;
+  opacity: 0.6;
+}
+
+.chat-input-form {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+}
+
+.chat-input {
+  flex: 1;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  padding: 6px 10px;
+  color: var(--text-primary);
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.chat-input::placeholder {
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.chat-input:focus {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 2px;
+}
+
+.chat-send-btn {
+  background: transparent;
+  border: none;
+  color: var(--accent-gold);
+  font-size: 18px;
+  cursor: pointer;
+  padding: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-send-btn:hover {
+  transform: scale(1.1);
+}
+
+/* --- FOOTER (Push to Talk, Party, Ações) --- */
+.footer-area {
+  grid-area: footer;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  height: 80px;
+}
+
+/* PUSH TO TALK (Esquerda) */
+.push-to-talk-container {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: 30px;
+  gap: 15px;
+  border: none;
+  background: transparent;
+}
+
+.push-to-talk-container.active {
+  background-color: rgba(74, 144, 226, 0.3);
+  border-color: var(--accent-blue);
+}
+
+.push-to-talk-container:focus {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 2px;
+}
+
+.mic-icon {
+  font-size: 24px;
+}
+
+.connection-stats {
+  font-size: 12px;
+  color: var(--text-secondary);
+  display: flex;
+  gap: 10px;
+}
+
+.stat-good {
+  color: #4caf50;
+}
+
+/* PARTY FRAME & ACTION BAR (Centro) */
+.party-action-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: var(--ui-padding);
+}
+
+.party-frame {
+  display: flex;
+  gap: 10px;
+}
+
+.party-member-portrait {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid var(--glass-border-color);
+  background-size: cover;
+  background-position: top center;
+  background-color: rgba(255, 255, 255, 0.1);
+  position: relative;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.party-member-portrait:hover {
+  border-color: var(--accent-gold);
+  transform: scale(1.1);
+}
+
+.party-member-portrait:focus {
+  outline: 2px solid var(--accent-gold);
+  outline-offset: 2px;
+}
+
+.hp-bar-mini {
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  height: 4px;
+  background: #333;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.hp-fill-mini {
+  height: 100%;
+  background: #4caf50;
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+.hp-fill-critical {
+  background: #e74c3c;
+}
+
+.action-bar {
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+  border-radius: 8px;
+}
+
+.action-slot {
+  width: 45px;
+  height: 45px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: var(--text-secondary);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.05);
+  border: none;
+  cursor: pointer;
+}
+
+.action-slot:hover {
+  border-color: var(--accent-gold);
+  transform: scale(1.1);
+}
+
+.action-slot:focus {
+  outline: 2px solid var(--accent-gold);
+  outline-offset: 2px;
+}
+
+.slot-hotkey {
+  position: absolute;
+  top: 2px;
+  left: 4px;
+  font-size: 10px;
+  opacity: 0.7;
+  color: var(--text-primary);
+}
+
+.slot-label {
+  font-size: 8px;
+  text-transform: uppercase;
+  margin-top: 12px;
+}
+
+.slot-filled {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* ==========================================================================
+   RESPONSIVIDADE
+   ========================================================================== */
+
+@media (max-width: 1024px) {
+  .chat-panel-container {
+    width: 280px;
+  }
+  
+  .screenshot-toggle-btn {
+    right: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .vrpg-ui-overlay {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+      'top-left'
+      'sidebar'
+      'top-right'
+      'footer';
+  }
+  
+  .top-right-area {
+    align-items: stretch;
+  }
+  
+  .chat-panel-container {
+    width: 100%;
+    max-height: 40vh;
+  }
+  
+  .party-action-container {
+    position: relative;
+    left: auto;
+    transform: none;
+    bottom: auto;
+  }
+  
+  .footer-area {
+    flex-direction: column;
+    height: auto;
+    gap: 15px;
+  }
+}
+
+/* ==========================================================================
+   ACESSIBILIDADE
+   ========================================================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  .vrpg-ui-overlay {
+    transition: none;
+  }
+  
+  .glass-interactive {
+    transition: none;
+  }
+  
+  .xp-progress-fill {
+    transition: none;
+  }
+  
+  .hp-fill-mini {
+    transition: none;
+  }
+}
+
+
+
+
+
+
+
+
+

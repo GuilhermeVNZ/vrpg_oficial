@@ -1,0 +1,28 @@
+﻿# MARILITH - Animation Prompts (9 Frames)
+
+## Frame 1 - Six-Armed Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, female demon with six arms each holding a different sword, lower body of a massive snake, wearing ornate armor and jewelry. Viewed from top-down angle (80-90 degrees), standing on circular stone tile base with blood stains, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp metallic glints, detailed scale and armor texture readable from above, strong deadly silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle tactical pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Blade Dance Start
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, all six swords shifting position, snake tail coiling tighter, eyes narrowing, jewelry jingling (implied). Viewed from top-down angle (80-90 degrees), body tensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying focus, detailed movement, strong awakening blademaster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing to attack, physical tabletop game piece aesthetic.
+
+## Frame 3 - Whirlwind Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, arms spreading wide in spiral pattern, tail raising body higher, swords gleaming, face showing cold calculation. Viewed from top-down angle (80-90 degrees), winding up, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlights on blades, detailed anatomical precision, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Multi-Slash Apex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, all six arms striking in different directions, body twisted, tail lashing out, blur of steel. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense motion blur, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Blade Storm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, spinning rapidly creating tornado of blades, sparks flying, air distorted by speed, base scratched by tail. Viewed from top-down angle (80-90 degrees), continuous attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, multi-attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, slowing spin, swords returning to guard, tail stabilizing, hair settling, checking for survivors. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Weapon Check
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, inspecting one sword edge, other five ready, tail relaxed but coiled, arrogant expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong perfectionist silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tactical idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Coiled Wait
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, lower body coiled like spring, upper body still, swords held perfectly steady, eyes watching. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient killer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, marilith demon character, female demon with six arms each holding a different sword, lower body of a massive snake, wearing ornate armor and jewelry. Viewed from top-down angle (80-90 degrees), standing on circular stone tile base with blood stains, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp metallic glints, detailed scale and armor texture readable from above, strong deadly silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle tactical pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

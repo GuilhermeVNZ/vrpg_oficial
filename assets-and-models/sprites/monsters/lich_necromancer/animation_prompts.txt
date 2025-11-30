@@ -1,0 +1,3 @@
+﻿# Lich Necromancer - 9 Frame Animation
+Base: D&D dark fantasy anime, lich, skeletal wizard, ornate robes, glowing staff, green necromantic aura, top-down view, solid dark grey bg.
+F1: Hovering, staff dim | F2: Staff rising | F3: Staff overhead | F4: Necromantic energy gathering | F5: Peak power, green explosion | F6: Energy fading | F7: Staff lowering | F8: Settling | F9: Loop to F1

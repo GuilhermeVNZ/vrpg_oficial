@@ -1,0 +1,12 @@
+﻿{
+    "text":  "egar uma flauta de pã, a qual ele pode tocar\npara criar efeitos mágicos. Geralmente, apenas um sátiro em um\ngrupo carregará tal flauta. Se um sátiro tiver a flauta, ele ganha a\nseguinte opção de ação adicional.\nFlauta de Pã. O sátiro toca sua flauta e escolhe um dos\nseguintes efeitos mágicos: uma melodia encantadora, uma trilha\nassustadora ou uma canção de ninar. Qualquer criatura a até 18\nmetros do sátiro que puder ouvir a flauta, deve ser bem sucedida\nnum teste de resistência de Sabedoria CD 13 ou será afetada\nSÁTIRO\ncomo descrito abaixo. Outros sátiros e criaturas que não possam Fada Média, caótico e neutro\nser enfeitiçadas não são afetados.\nUma criatura afetada pode repetir o teste de resistência no Classe de Armadura 14 (armadura de couro)\nfinal de cada um dos turnos dela, terminando o efeito sobre si Pontos de Vida 31 (7d8)\ncom um sucesso. Se o teste de resistência de uma criatura for bem Deslocamento 12 m\nsucedido ou se o efeito terminar sobre ela, ela fica imune a essa\nflauta de pã pelas próximas 24 horas. FOR DES CON INT SAB CAR\nMelodia Encantadora. A criatura fica enfeitiçada pelo sátiro 12 (+1) 16 (+3) 11 (+0) 12 (+1) 10 (+0) 14 (+2)\npor 1 minuto. Se o sátiro ou qualquer de seus companheiros ferir\na criatura, o efeito nela termina imediatamente. Perícias Atuação +6, Furtividade +5, Percepção +2\nTrilha Assustadora. A criatura fica amedrontada por 1 minuto. Sentidos Percepção passiva 12\nCanção de Ninar. A criatura cai no sono e fica inconsciente por Idiomas Comum, Élfico, Silvestre\n1 minuto. O efeito termina se a criatura sofrer dano ou se alguém Nível de Desafio 1/2 (100 XP)\nusar uma ação para sacudir a criatura até acorda-la.\nResistência à Magia. O sátiro possui vantagem nos testes de\nresistência contra magias e outros efeitos mágicos.\nAÇÕES\nCabeçada. Ataque Corpo-a-Corpo com Arma: +3 para atingir,\nalcance 1,5 m, um alvo. Acerto: 6 (2d4 + 1) de dano de concussão.\nEspada Curta. Ataque Corpo-a-Corpo com Arma: +5 para atingir,\nalcance 1,5 m, um alvo. Acerto:",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  507,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

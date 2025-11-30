@@ -1,0 +1,28 @@
+﻿# WILL-O'-WISP - Animation Prompts (9 Frames)
+
+## Frame 1 - Floating Light
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, small glowing ball of spongy light, pulsating softly. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale blue and white tones, detailed energy texture readable from above, strong spectral silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Flare
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, flaring brightly, light becoming intense and blinding, crackling with electricity. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying power, detailed energy flare, strong awakening spirit silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Shock Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, condensing into a tight point of light, sparks flying. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on core, detailed energy tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Shock
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, discharging a bolt of lightning or necrotic energy at a target (implied). Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong zapping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Consume Life
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, hovering over a fallen foe (implied), absorbing white mist (life force), glowing brighter. Viewed from top-down angle (80-90 degrees), drain ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive absorption, detailed magic manifestation, strong parasitic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drain attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, dimming slightly, stabilizing form, bobbing in the air. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Invisibility
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, fading out completely, becoming transparent outline. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, invisibility idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Bobbing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, drifting aimlessly like a lantern in the wind, light pulsing slowly. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lure silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, will-o'-wisp character, small glowing ball of spongy light, pulsating softly. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale blue and white tones, detailed energy texture readable from above, strong spectral silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

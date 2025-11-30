@@ -1,0 +1,28 @@
+﻿# SWARM OF BATS - Animation Prompts (9 Frames)
+
+## Frame 1 - Cloud of Wings
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, dozens of small bats flying together in chaotic cloud formation. Viewed from top-down angle (80-90 degrees), hovering on circular cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and grey tones, detailed wing texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swirling pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Echolocation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, bats emitting sound waves, sensing surroundings. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed sensing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, echolocating, physical tabletop game piece aesthetic.
+
+## Frame 3 - Swirl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, swirling in tornado formation, wings beating rapidly. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed swirling, strong vortex silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swirling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, surrounding and biting victim (implied), overwhelming. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with attack focus, detailed engulfing, strong attacking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite Frenzy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, individual bats biting frantically, blood droplets. Viewed from top-down angle (80-90 degrees), sustained attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with frenzy emphasis, detailed biting, strong frenzied silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, biting frenzy, physical tabletop game piece aesthetic.
+
+## Frame 6 - Disperse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, bats scattering in all directions, avoiding damage. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with scatter motion, detailed dispersal, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dispersing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Reform
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, bats regrouping into tight formation. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with regrouping motion, detailed reformation, strong cohesive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, reforming, physical tabletop game piece aesthetic.
+
+## Frame 8 - Roost
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, bats hanging upside down together, resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed roosting, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roosting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of bats character, dozens of small bats flying together in chaotic cloud formation. Viewed from top-down angle (80-90 degrees), hovering on circular cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and grey tones, detailed wing texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swirling pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

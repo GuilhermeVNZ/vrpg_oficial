@@ -1,0 +1,28 @@
+# BLUE SLAAD - Animation Prompts (9 Frames)
+
+## Frame 1 - Hulking Chaos
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, massive bipedal frog-like monster with blue skin, bone hooks on back of hands, heavy build. Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and purple tones, detailed muscle and wart texture readable from above, strong brute silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Muscle Flex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, flexing massive arms, bone hooks extending, chest expanding, roaring silently. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying bulk, detailed muscle movement, strong awakening monster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Hook Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, raising back of hands to show hooks, crouching slightly, eyes narrowing. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on hooks, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Hook Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, slashing horizontally with back-hand hooks, body twisting with force, air distorted. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Infection Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, grabbing target (implied) and biting down, saliva dripping, chaotic energy flaring. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, pulling back, wiping mouth, hooks retracting slightly, heavy breathing. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Knuckle Crack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, cracking knuckles, testing hooks, looking impatient, shifting weight. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong thug silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fidgeting idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Looming
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, standing tall and still, arms crossed (difficult with hooks but attempting), staring down. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient brute silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, blue slaad character, massive bipedal frog-like monster with blue skin, bone hooks on back of hands, heavy build. Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and purple tones, detailed muscle and wart texture readable from above, strong brute silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

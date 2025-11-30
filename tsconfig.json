@@ -1,0 +1,55 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowJs": false,
+    "checkJs": false,
+    "jsx": "react-jsx",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/client-electron/*"],
+      "@shared/*": ["./shared/*"]
+    },
+    "types": ["node", "vite/client", "vitest/globals"]
+  },
+  "include": [
+    "src/client-electron/**/*",
+    "shared/**/*",
+    "tests/**/*",
+    "*.config.ts",
+    "*.config.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "dist-electron",
+    "target",
+    "**/*.test.ts",
+    "**/*.test.tsx",
+    "**/*.spec.ts",
+    "**/*.spec.tsx"
+  ]
+}
+
+
+
+
+
+
+
+

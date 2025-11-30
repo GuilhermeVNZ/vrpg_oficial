@@ -1,0 +1,28 @@
+﻿# THUG - Animation Prompts (9 Frames)
+
+## Frame 1 - Street Tough
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, human criminal in rough clothing, holding mace and shield, menacing stance. Viewed from top-down angle (80-90 degrees), standing on circular city street base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed worn clothing texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Intimidate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, shouting threats, banging mace on shield, aggressive. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with threatening emphasis, detailed intimidation, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, intimidating, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, running forward with mace raised, shield forward. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed charging, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charging, physical tabletop game piece aesthetic.
+
+## Frame 4 - Mace Swing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, swinging mace in brutal arc, putting weight behind it. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed swing action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, mace attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Heavy Crossbow Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, aiming and firing heavy crossbow. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with crossbow focus, detailed shot action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crossbow attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Pack Tactics
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, flanking position (implied), coordinating with allies. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tactical positioning, detailed tactics, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pack tactics, physical tabletop game piece aesthetic.
+
+## Frame 7 - Block
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, raising shield to block incoming attack. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shield focus, detailed blocking, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blocking, physical tabletop game piece aesthetic.
+
+## Frame 8 - Count Loot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, counting stolen coins, greedy expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed counting, strong greedy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, counting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thug character, human criminal in rough clothing, holding mace and shield, menacing stance. Viewed from top-down angle (80-90 degrees), standing on circular city street base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed worn clothing texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

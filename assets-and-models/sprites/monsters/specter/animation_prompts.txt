@@ -1,0 +1,28 @@
+﻿# SPECTER - Animation Prompts (9 Frames)
+
+## Frame 1 - Ghostly Visage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, translucent humanoid spirit, floating, ragged robes, hateful expression. Viewed from top-down angle (80-90 degrees), standing on circular graveyard base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale blue and grey tones, detailed spectral texture readable from above, strong incorporeal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Wail
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, mouth opening wide in a silent scream, robes billowing, face distorting. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying horror, detailed movement, strong awakening ghost silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Touch Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, reaching out with a withered hand, fingers glowing with necrotic cold. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on hand, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Life Drain
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, passing through enemy (implied), hand clutching at their soul, blue energy trailing. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Phase
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, becoming partially invisible/transparent, moving through a wall or object. Viewed from top-down angle (80-90 degrees), movement ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive spectral effects, detailed phasing, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, phase action, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, floating back, form stabilizing, looking down with malice. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Haunting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, drifting aimlessly, head turning to follow unseen movement, eerie. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong haunted silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, haunting idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Fading
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, becoming almost invisible, only eyes remaining distinct, blending with air. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong invisible silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, specter character, translucent humanoid spirit, floating, ragged robes, hateful expression. Viewed from top-down angle (80-90 degrees), standing on circular graveyard base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale blue and grey tones, detailed spectral texture readable from above, strong incorporeal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

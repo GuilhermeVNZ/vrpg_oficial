@@ -1,0 +1,28 @@
+# INCUBUS - Animation Prompts (9 Frames)
+
+## Frame 1 - Fiendish Charmer
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, handsome male fiend with bat wings, small horns, and tail, wearing stylish attire. Viewed from top-down angle (80-90 degrees), standing on circular hellscape base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and indigo tones, detailed skin and wing texture readable from above, strong seductive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle confident pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Charm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, gesturing invitingly, eyes glowing with enchantment, subtle magic aura. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying charm, detailed magic effect, strong enchanting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Weapon Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, drawing a curved blade or mace, expression turning cruel, wings spreading. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on weapon, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, striking with weapon, graceful but deadly motion. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Draining Kiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, grabbing a victim (implied) and kissing them, drawing out white life essence. Viewed from top-down angle (80-90 degrees), drain ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive soul drain, detailed magic manifestation, strong parasitic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drain attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, stepping back, sheathing weapon or resetting stance, smirking. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Shape Change
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, shimmering and shifting form, wings fading, looking like a normal humanoid. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong deceptive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, transformation idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Etherealness
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, becoming translucent and ghostly, stepping into the Ethereal Plane. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, incubus character, handsome male fiend with bat wings, small horns, and tail, wearing stylish attire. Viewed from top-down angle (80-90 degrees), standing on circular hellscape base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and indigo tones, detailed skin and wing texture readable from above, strong seductive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle confident pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

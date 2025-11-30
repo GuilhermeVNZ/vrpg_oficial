@@ -1,0 +1,28 @@
+﻿# MAGMIN - Animation Prompts (9 Frames)
+
+## Frame 1 - Lava Imp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, small humanoid made of molten rock and fire, glowing with heat. Viewed from top-down angle (80-90 degrees), standing on circular scorched floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and red fire tones, detailed lava texture readable from above, strong fiery silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Flare
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, flames intensifying, body glowing brighter with heat. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense glow, detailed flame surge, strong burning silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flaring up, physical tabletop game piece aesthetic.
+
+## Frame 3 - Touch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, reaching out to touch target with burning hand. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with heat waves, detailed touch attack, strong burner silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, touch attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Ignite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, setting nearby objects ablaze with mere presence. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with spreading fire, detailed ignition, strong incendiary silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, igniting, physical tabletop game piece aesthetic.
+
+## Frame 5 - Death Burst Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, body cracking and glowing intensely, about to explode. Viewed from top-down angle (80-90 degrees), death trigger, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with critical glow, detailed swelling, strong explosive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing explosion, physical tabletop game piece aesthetic.
+
+## Frame 6 - Death Burst
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, exploding in burst of lava and fire, fragments flying. Viewed from top-down angle (80-90 degrees), death burst, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosion effect, detailed burst, strong exploding silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, exploding, physical tabletop game piece aesthetic.
+
+## Frame 7 - Melt
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, partially melting into puddle of lava, reforming. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with liquid motion, detailed melting, strong fluid silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, melting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dim
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, flames dying down, cooling to dark rock. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dimming glow, detailed cooling, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dimming idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, magmin character, small humanoid made of molten rock and fire, glowing with heat. Viewed from top-down angle (80-90 degrees), standing on circular scorched floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and red fire tones, detailed lava texture readable from above, strong fiery silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

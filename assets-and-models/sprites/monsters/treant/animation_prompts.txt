@@ -1,0 +1,28 @@
+﻿# TREANT - Animation Prompts (9 Frames)
+
+## Frame 1 - Forest Lord
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, massive animated tree with a face in the bark, branch arms, root legs. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and green tones, detailed bark and leaf texture readable from above, strong ancient silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Awaken
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, eyes glowing green, leaves rustling violently, roots pulling up from ground. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying nature power, detailed movement, strong awakening guardian silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slam Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, raising a massive branch arm high, leaves falling, wood groaning. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on fist, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, slamming branch down with crushing force, earth cracking. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Rock Throw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, hurling a massive boulder with one branch arm, body twisting. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed projectile, strong siege silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rock throw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, slowly straightening up, shaking off dust, settling back into tree shape. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Animate Trees
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, gesturing to nearby trees (implied), roots glowing, commanding nature. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong leader silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, magic idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rooted
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, standing perfectly still, looking exactly like a normal tree, eyes closed. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, treant character, massive animated tree with a face in the bark, branch arms, root legs. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and green tones, detailed bark and leaf texture readable from above, strong ancient silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

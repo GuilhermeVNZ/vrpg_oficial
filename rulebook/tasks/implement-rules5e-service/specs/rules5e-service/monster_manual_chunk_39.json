@@ -1,0 +1,12 @@
+﻿{
+    "text":  " morder apenas a criatura agarrada e tem\nvantagem nas jogadas de ataque para fazê-lo.\nRajada de Ácido (Recarrega 6). O ankheg cospe ácido em uma\nlinha de 9 metros de comprimento e 1,5 metro de largura,\nconsiderando que não haja qualquer criatura agarrada. Cada\ncriatura na linha deve realizar um teste de resistência de Destreza\nCD 13, sofrendo 10 (3d6) de dano de ácido se falhar na resistência,\nou metade desse dano se obtive sucesso.\n20\n\n\n# Pagina 22\n\nANOMALIA DA ÁGUA\nUma anomalia da água é um guardião elemental\nvinculado a um local cheio de água especifico, como uma\npiscina ou fonte. Invisível enquanto está imerso na água,\nseu corpo serpentino torna-se claro apenas quando ele\nemerge para atacar, usando suas espirais para esmagar\nqualquer criatura diferente do seu invocador e aqueles\nque o invocador declarar fora dos limites. Quando é\nmorta, uma anomalia da água torna-se uma poça\ninanimada de água.\nAnomalias Boas e Más. Como a maioria dos\nelementais, uma anomalia da água não tem conceito de\nbem ou mal. No entanto, uma anomalia da água\nvinculada a uma fonte de água sagrada ou profana\ncomeça a tomar a natureza desse lugar, tornando-se\nneutro e bom ou neutro e mau.\nUma anomalia da água neutra e boa tenta afugentar\nos intrusos ao invés de mata-los, enquanto que uma\nanomalia da água maligna mata suas vítimas por prazer\ne pode se voltar contra seu invocador. Uma anomalia da\nágua perde sua tendência maligna se a água for\npurificada com a magia purificar alimentos.\nNatureza Elemental. Uma anomalia da água não\nprecisa respirar, comer, beber ou dormir.\nANOMALIA DA ÁGUA\nElemental Grande, neutro\nClasse de Armadura 13\nPontos de Vida 58 (9d10 + 9)\nDeslocamento 0 m, natação 18 m\nFOR DES CON INT SAB CAR\n17 (+3) 16 (+3) 13 (+1) 11 (+0) 10 (+0) 10 (+0)\nResistência a Dano fogo; concussão, perfurante e cortante de\nataques não-mágicos\nImunidade a Dano veneno\nImunidade a Condição agarrado, caído, envenenado, exausto,\nimpedido, inconsciente, paralisado\nSentidos percepção às cegas 9 m, Perc",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  39,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "es vasculham os\ndesertos glaciais em busca de ninhos e ovos de remorhaz.\nOs gigantes apreciam remorhazes jovens, que podem ser\ntreinados desde larvas a obedecer os comandos e guardar\nas cidadelas glaciais dos gigantes. Diferente das\nespécimes totalmente crescidas, remorhazes jovens roem\nsuas vítimas ao invés de engoli-las inteiras.\nREMORHAZ\nMonstruosidade Enorme, imparcial\nClasse de Armadura 17 (armadura natural)\nPontos de Vida 195 (17d12 + 85)\nDeslocamento 9 m, escavação 6 m\nFOR DES CON INT SAB CAR\n24 (+7) 13 (+1) 21 (+5) 4 (–3) 10 (+0) 5 (–3)\nImunidade a Dano frio, fogo\nSentidos visão no escuro 18 m, sentido sísmico 18 m, Percepção\npassiva 10\nIdiomas –\nNível de Desafio 11 (7.200 XP)\nCorpo Aquecido. Uma criatura que toque o remorhaz ou atinja-o\nREMORHAZ JOVEM\ncom um ataque corpo-a-corpo a 1,5 metro dele, sofre 10 (3d6) de\nMonstruosidade Grande, imparcial dano de fogo.\nAÇÕES\nClasse de Armadura 14 (armadura natural)\nMordida. Ataque Corpo-a-Corpo com Arma: +11 para atingir,\nPontos de Vida 93 (11d10 + 33)\nalcance 3 m, um alvo. Acerto: 40 (6d10 + 7) de dano perfurante\nDeslocamento 9 m, escavação 6 m\nmais 10 (3d6) de dano de fogo. Se o alvo for uma criatura, ela fica\nagarrada (CD 17 para escapar). Até o agarrão acabar, o alvo fica\nFOR DES CON INT SAB CAR\nimpedido e o remorhaz não pode morder outro alvo.\n18 (+4) 13 (+1) 17 (+3) 3 (–4) 10 (+0) 4 (–3)\nEngolir. O remorhaz realiza um ataque de mordida contra um alvo\nImunidade a Dano frio, fogo\nMédio ou menor que esteja agarrando. Se o ataque atingir, a\nSentidos visão no escuro 18 m, sentido sísmico 18 m, Percepção\ncriatura sofre o dano da mordida, é engolido e o agarrão termina.\npassiva 10\nEnquanto estiver engolido, o alvo estará cego e impedido, ele terá\nIdiomas –\ncobertura total contra ataques e outros efeitos de fora do\nNível de Desafio 5 (1.800 XP)\nremorhaz e sofre 21 (6d6) de dano ácido no começo de cada turno\ndo remorhaz.\nCorpo Aquecido. Uma criatura que toque o remorhaz ou atinja-o\nSe o remorhaz sofrer 30 de dano ou ma",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  495,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

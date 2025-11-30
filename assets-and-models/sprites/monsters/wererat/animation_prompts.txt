@@ -1,0 +1,28 @@
+﻿# WERERAT - Animation Prompts (9 Frames)
+
+## Frame 1 - Hybrid Rat
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, hybrid form of human and rat, hunched posture, twitching nose, tail, holding shortsword/dagger. Viewed from top-down angle (80-90 degrees), standing on circular sewer stone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and green tones, detailed fur texture readable from above, strong sneaky silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle twitchy pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sniffing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, head bobbing, nose twitching rapidly, ears swiveling, tail lashing, crouched low. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying alertness, detailed movement, strong paranoid silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dagger Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, raising dagger behind head, body coiling like a spring, teeth bared in hiss. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Stab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, lunging forward with dagger stab, tail whipping for balance, mouth open to bite. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Scurry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, dropping to all fours (almost), moving rapidly sideways, blade held in teeth or hand, elusive. Viewed from top-down angle (80-90 degrees), movement ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed blur, strong evasive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dodge action, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, jumping back to standing crouch, checking surroundings, tail curling, panting. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Grooming
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, cleaning blade on fur, scratching behind ear with foot, looking nervous. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong nervous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grooming idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Hiding
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, curling into a ball, tail wrapped around nose, trying to look small and unseen. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wererat character, hybrid form of human and rat, hunched posture, twitching nose, tail, holding shortsword/dagger. Viewed from top-down angle (80-90 degrees), standing on circular sewer stone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and green tones, detailed fur texture readable from above, strong sneaky silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle twitchy pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

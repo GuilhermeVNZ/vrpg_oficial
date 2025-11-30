@@ -1,0 +1,28 @@
+# ZOMBIE SHAMBLER - Animation Prompts (9 Frames)
+
+## Frame 1 - Shambling Horde
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, heavily decayed corpse, more rotted than regular zombie, missing limbs. Viewed from top-down angle (80-90 degrees), standing on circular graveyard base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark grey and brown tones, detailed extreme decay texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle shambling pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Groan
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, groaning loudly, jaw hanging loose. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with horror emphasis, detailed groaning, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, groaning, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slow Shamble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, shuffling even slower than normal zombie, dragging broken leg. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shamble motion, detailed shuffling, strong slow silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shambling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, swinging decomposed arm in weak slam. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with slam focus, detailed slam action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slam attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, biting with few remaining teeth. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bite focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Fall Apart
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, body parts falling off but continuing. Viewed from top-down angle (80-90 degrees), damage reaction, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with decay emphasis, detailed falling apart, strong deteriorating silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, deteriorating, physical tabletop game piece aesthetic.
+
+## Frame 7 - Crawl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, crawling on ground after losing legs. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with crawl motion, detailed crawling, strong persistent silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crawling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Collapse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, collapsed in heap, barely moving. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed collapse, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, collapsed idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, zombie shambler character, heavily decayed corpse, more rotted than regular zombie, missing limbs. Viewed from top-down angle (80-90 degrees), standing on circular graveyard base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark grey and brown tones, detailed extreme decay texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle shambling pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

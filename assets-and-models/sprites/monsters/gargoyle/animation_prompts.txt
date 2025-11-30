@@ -1,0 +1,28 @@
+﻿# GARGOYLE - Animation Prompts (9 Frames)
+
+## Frame 1 - Stone Guardian
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, winged stone creature with demonic features, perched on haunches. Viewed from top-down angle (80-90 degrees), standing on circular stone pedestal base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey stone and shadow tones, detailed stone texture readable from above, strong grotesque silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Stone to Flesh
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, stone texture cracking and falling away, revealing living flesh beneath, eyes glowing to life. Viewed from top-down angle (80-90 degrees), transformation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with awakening effect, detailed transformation, strong animating silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, awakening, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, unfurling bat-like wings wide, stretching after long stillness. Viewed from top-down angle (80-90 degrees), display/preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing emphasis, detailed wing membrane, strong imposing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spreading wings, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, slashing with stone claws, wings flared for balance. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed claw strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, lunging forward with fanged maw open, horns lowered. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Dive Bomb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, diving down from above, wings tucked, claws extended. Viewed from top-down angle (80-90 degrees), aerial attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical motion, detailed dive action, strong diving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, diving attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Petrification
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, flesh hardening back to stone, freezing in defensive posture. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stone texture returning, detailed petrification, strong hardening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, turning to stone, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perch Shift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, shifting weight on perch, tail swishing, looking around warily. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed subtle movement, strong watchful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shifting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gargoyle character, winged stone creature with demonic features, perched on haunches. Viewed from top-down angle (80-90 degrees), standing on circular stone pedestal base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey stone and shadow tones, detailed stone texture readable from above, strong grotesque silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

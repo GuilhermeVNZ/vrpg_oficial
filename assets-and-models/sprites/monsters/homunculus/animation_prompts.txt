@@ -1,0 +1,28 @@
+﻿# HOMUNCULUS - Animation Prompts (9 Frames)
+
+## Frame 1 - Tiny Servant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, tiny winged imp-like construct with bat wings and tail. Viewed from top-down angle (80-90 degrees), hovering above circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and red tones, detailed leathery texture readable from above, strong imp silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Telepathic Bond
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, eyes glowing as it communicates telepathically with master. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with psychic glow, detailed mental link, strong connected silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, telepathic communication, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dart
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, wings beating rapidly, darting forward quickly. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed quick flight, strong darting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, darting, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, flying in to bite with tiny fangs, venom dripping. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with venom focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Poison Delivery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, injecting venom through bite, victim recoiling. Viewed from top-down angle (80-90 degrees), special attack effect, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with poison effect, detailed venom injection, strong poisoner silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, poisoning, physical tabletop game piece aesthetic.
+
+## Frame 6 - Dodge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, barrel rolling in air to avoid attack, wings tucked. Viewed from top-down angle (80-90 degrees), evasive maneuver, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with spin motion, detailed dodge action, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dodging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scout
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, peering around corner, spying for master. Viewed from top-down angle (80-90 degrees), scouting behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth focus, detailed sneaking, strong spy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scouting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, landing on master's shoulder, wrapping tail around for balance. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed perching, strong companion silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, perching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, homunculus character, tiny winged imp-like construct with bat wings and tail. Viewed from top-down angle (80-90 degrees), hovering above circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and red tones, detailed leathery texture readable from above, strong imp silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

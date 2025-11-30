@@ -1,0 +1,133 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.npm
+.eslintcache
+
+# Build outputs
+dist/
+dist-electron/
+dist-client/
+build/
+*.tsbuildinfo
+
+# Electron
+out/
+*.app
+*.dmg
+*.exe
+*.deb
+*.rpm
+*.AppImage
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Models and assets (large files - exclude from Git)
+assets-and-models/models/**/*.gguf
+assets-and-models/models/**/*.bin
+assets-and-models/models/**/*.onnx
+assets-and-models/models/**/*.safetensors
+assets-and-models/models/**/*.pt
+assets-and-models/models/**/*.pth
+assets-and-models/models/**/*.ckpt
+assets-and-models/voices/**/*.wav
+assets-and-models/voices/**/*.mp3
+assets-and-models/voices/**/*.flac
+assets-and-models/generated/**/*
+!assets-and-models/generated/.gitkeep
+
+# XTTS embeddings and reference files
+assets-and-models/models/tts/xtts_embeddings/
+assets-and-models/voices/dataset/
+**/xtts_reference*.wav
+**/xtts_embedding*.wav
+**/*_reference*.wav
+
+# Large archive files
+*.rar
+*.tar.gz
+*.zip
+*.7z
+
+# Large PDF files (books)
+assets-and-models/books/**/*.pdf
+*.pdf
+!**/README*.pdf
+!**/LICENSE*.pdf
+
+# espeak-ng (large tool, should be installed separately)
+tools/espeak-ng/
+espeak-ng-1.52.0/
+
+# Large image files (keep only small ones)
+assets-and-models/**/*.jpeg
+assets-and-models/**/*.jpg
+assets-and-models/**/*.png
+!**/README*.jpg
+!**/LICENSE*.jpg
+!**/README*.png
+!**/LICENSE*.png
+
+# Config (user-specific)
+config/*.local.json
+config/*.user.json
+
+
+
+
+
+
+
+
+
+# Patterns added by @hivellm/rulebook
+# Added at: 2025-11-28T03:20:54.192Z
+
+*.pdb
+*.tsbuildinfo.*
+.tsc/
+target/
+temp/
+tmp/

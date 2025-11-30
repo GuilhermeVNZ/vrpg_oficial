@@ -1,0 +1,28 @@
+﻿# NOTHIC - Animation Prompts (9 Frames)
+
+## Frame 1 - One-Eyed Aberration
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, hunched aberration with single massive eye, mottled green skin, clawed hands. Viewed from top-down angle (80-90 degrees), crouching on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and yellow tones, detailed warped flesh texture readable from above, strong aberrant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Weird Insight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, single eye glowing intensely, peering into victim's mind, telepathic probe. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with psychic glow, detailed mind reading, strong invasive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, mind reading, physical tabletop game piece aesthetic.
+
+## Frame 3 - Rotting Gaze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, eye focusing necrotic beam at target, flesh withering. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with necrotic ray, detailed gaze attack, strong blaster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gaze attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, slashing with elongated claws, hunched forward. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw focus, detailed swipe action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Scuttle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, scuttling sideways on all fours, unsettling movement. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed scuttling, strong creeping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scuttling, physical tabletop game piece aesthetic.
+
+## Frame 6 - Hoard Obsession
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, clutching invisible treasure possessively, paranoid. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with greedy focus, detailed hoarding, strong possessive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hoarding, physical tabletop game piece aesthetic.
+
+## Frame 7 - Flinch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, recoiling from sunlight or bright light, eye squinting. Viewed from top-down angle (80-90 degrees), weakness reaction, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with light sensitivity, detailed flinch, strong cowering silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flinching, physical tabletop game piece aesthetic.
+
+## Frame 8 - Lurk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, pressing low to ground, lurking in shadows, eye watching. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed lurking, strong hidden silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, lurking idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, nothic character, hunched aberration with single massive eye, mottled green skin, clawed hands. Viewed from top-down angle (80-90 degrees), crouching on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and yellow tones, detailed warped flesh texture readable from above, strong aberrant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

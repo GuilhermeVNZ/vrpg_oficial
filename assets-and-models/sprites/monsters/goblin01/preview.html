@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: white;
+            font-family: sans-serif;
+        }
+
+        #container {
+            text-align: center;
+        }
+
+        img {
+            width: 512px;
+            height: 512px;
+            image-rendering: pixelated;
+            /* Keeps it crisp */
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h2>Goblin Warrior - Idle Loop (12 FPS)</h2>
+        <img id="anim" src="idle_01.png" alt="Goblin Animation">
+    </div>
+
+    <script>
+        const frames = [
+            'idle_01.png',
+            'idle_02.png',
+            'idle_03.png',
+            'idle_04.png',
+            'idle_05.png',
+            'idle_06.png',
+            'idle_07.png',
+            'idle_08.png',
+            'idle_09.png'
+        ];
+        let currentFrame = 0;
+        const imgElement = document.getElementById('anim');
+
+        setInterval(() => {
+            currentFrame = (currentFrame + 1) % frames.length;
+            imgElement.src = frames[currentFrame];
+        }, 1000 / 12); // 12 FPS
+    </script>
+</body>
+
+</html>

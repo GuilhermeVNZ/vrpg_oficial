@@ -1,0 +1,28 @@
+﻿# SCOUT - Animation Prompts (9 Frames)
+
+## Frame 1 - Wilderness Expert
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, human ranger in leather armor, holding longbow, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular forest trail base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed leather texture readable from above, strong ranger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Track
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, kneeling down, examining tracks on ground, focused. Viewed from top-down angle (80-90 degrees), special ability (survival), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with investigation focus, detailed tracking, strong observant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking, physical tabletop game piece aesthetic.
+
+## Frame 3 - Stealth
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, crouching low, moving silently, finger to lips. Viewed from top-down angle (80-90 degrees), movement (stealth), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shadow emphasis, detailed sneaking, strong stealthy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sneaking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Longbow Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, drawing longbow fully, aiming carefully, releasing arrow. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bow focus, detailed shot action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bow attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shortsword Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, drawing shortsword and slashing quickly. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Keen Hearing and Sight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, hand cupped to ear, eyes scanning horizon, alert. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed perception, strong vigilant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, perceiving, physical tabletop game piece aesthetic.
+
+## Frame 7 - Set Trap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, kneeling and setting snare or trap, hands working. Viewed from top-down angle (80-90 degrees), special action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with trap focus, detailed trap setting, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, setting trap, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, sitting cross-legged, sharpening arrow, resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scout character, human ranger in leather armor, holding longbow, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular forest trail base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed leather texture readable from above, strong ranger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

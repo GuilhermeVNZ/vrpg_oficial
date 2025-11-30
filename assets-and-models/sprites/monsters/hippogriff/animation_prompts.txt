@@ -1,0 +1,28 @@
+﻿# HIPPOGRIFF - Animation Prompts (9 Frames)
+
+## Frame 1 - Horse Eagle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, creature with eagle head and wings, horse body and legs. Viewed from top-down angle (80-90 degrees), standing on circular grassland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed feather and fur texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Screech
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, head raised, beak open in eagle cry, wings partially spread. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dramatic pose, detailed cry, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, screeching, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, spreading wings wide in display, tail swishing. Viewed from top-down angle (80-90 degrees), intimidation/preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wingspan emphasis, detailed wing anatomy, strong imposing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing display, physical tabletop game piece aesthetic.
+
+## Frame 4 - Beak Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, snapping forward with sharp beak, neck extended. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with strike focus, detailed beak attack, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, beak attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, rearing up on hind legs, slashing down with front talons. Viewed from top-down angle (80-90 degrees), melee attack (claws), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong raking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Gallop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, running with wings tucked, hooves pounding ground. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed gallop action, strong running silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, galloping, physical tabletop game piece aesthetic.
+
+## Frame 7 - Takeoff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, leaping into air with wings beating down powerfully. Viewed from top-down angle (80-90 degrees), flight preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with launch motion, detailed takeoff, strong launching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, taking off, physical tabletop game piece aesthetic.
+
+## Frame 8 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, using beak to preen wing feathers, one wing extended, relaxed. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hippogriff character, creature with eagle head and wings, horse body and legs. Viewed from top-down angle (80-90 degrees), standing on circular grassland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed feather and fur texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

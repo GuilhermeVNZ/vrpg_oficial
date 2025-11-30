@@ -1,0 +1,12 @@
+﻿{
+    "text":  "o, você pode usar sua ação para causar\n1d12 de dano elétrico ao alvo, automaticamente. A magia\nacaba se você usar sua ação para fazer qualquer outra\ncoisa. A magia também acaba se o alvo estiver fora do\nalcance da magia ou se você tiver cobertura total para ele.\nEm Níveis Superiores. Quando você conjurar essa\nmagia usando um espaço de magia de 2° nível ou\nsuperior, o dano inicial aumenta em 1d12 para cada nível\ndo espaço acima do 1°.\nRAIO DE FOGO\nTruque de evocação\nTempo de Conjuração: 1 ação\nAlcance: 36 metros\nComponentes: V, S\nDuração: Instantânea\nVocê arremessa um cisco de fogo em uma criatura ou\nobjeto dentro do alcance. Faça um ataque à distância com\nmagia contra o alvo. Se atingir, o alvo sofre 1d10 de dano\nde fogo. Um objeto inflamável atingido por essa magia,\nincendeia se não estiver sendo vestido ou carregado.\nO dano dessa magia aumenta em 1d10 quando você\nalcança o 5° nível (2d10), 11° nível (3d10) e 17° nível\n(4d10).\nRAIO DE GELO\nTruque de evocação\nTempo de Conjuração: 1 ação\nAlcance: 18 metros\nComponentes: V, S\nDuração: Instantânea\nUm raio frigido de luz azul clara parte em direção de uma\ncriatura, dentro do alcance. Realize um ataque à\ndistância com magia contra o alvo. Se atingir, ele sofre\n1d8 de dano de frio e seu deslocamento é reduzido em 3\nmetros até o começo do seu próximo turno.\nO dano da magia aumenta em 1d8 quando você\nalcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).\nRAIO DO ENFRAQUECIMENTO\n2° nível de necromancia\nTempo de Conjuração: 1 ação\nAlcance: 18 metros\nComponentes: V, S\nDuração: Concentração, até 1 minuto\nUm raio negro de energia enervante parte do seu dedo em\ndireção de uma criatura, dentro do alcance. Faça um\nataque à distância com magia contra o alvo. Se atingir, o\nalvo causará metade do dano com ataques com armas que\nusem Força, até a magia acabar.\nNo final de cada um dos turnos do alvo, ele pode\nrealizar um teste de resistência de Constituição contra a\nmagia. Se obtiver sucesso, a magia acaba.\nRAIO GUIADOR\n1° nível de ",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  573,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

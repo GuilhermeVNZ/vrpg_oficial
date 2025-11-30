@@ -1,0 +1,28 @@
+﻿# SPY - Animation Prompts (9 Frames)
+
+## Frame 1 - Shadow Agent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, human rogue in dark clothing, holding daggers, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular city street base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and grey tones, detailed leather texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sneak
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, crouching low, moving silently, finger to lips. Viewed from top-down angle (80-90 degrees), movement (stealth), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shadow emphasis, detailed sneaking, strong stealthy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sneaking, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sneak Attack Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, positioning behind target (implied), daggers raised. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed preparation, strong assassin silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing sneak attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dagger Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, stabbing with both daggers in quick succession. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blade focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dagger attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Hand Crossbow Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, drawing hand crossbow and firing bolt. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with crossbow focus, detailed shot action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crossbow attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Cunning Action
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, rolling or dodging quickly, evading. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed dodge, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dodging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Disguise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, adjusting disguise or mask, blending in. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with transformation, detailed disguise, strong deceptive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, disguising, physical tabletop game piece aesthetic.
+
+## Frame 8 - Eavesdrop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, pressing ear to invisible wall or door, listening. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed listening, strong observant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, eavesdropping idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spy character, human rogue in dark clothing, holding daggers, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular city street base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and grey tones, detailed leather texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

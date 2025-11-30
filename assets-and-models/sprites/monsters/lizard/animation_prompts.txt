@@ -1,0 +1,28 @@
+﻿# LIZARD - Animation Prompts (9 Frames)
+
+## Frame 1 - Small Reptile
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, small reptile with green scales, long tail, quick movements. Viewed from top-down angle (80-90 degrees), perched on circular rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong reptile silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tongue Flick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, flicking forked tongue out to taste air, sensing. Viewed from top-down angle (80-90 degrees), sensing behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tongue focus, detailed tongue flick, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tongue flicking, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scurry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, running quickly across ground, legs splayed, tail trailing. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed scurrying, strong running silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scurrying, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, snapping tiny jaws at threat, defensive. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tail Whip
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, whipping tail defensively, body turned. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tail motion, detailed whip action, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail whip, physical tabletop game piece aesthetic.
+
+## Frame 6 - Climb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, climbing up invisible surface, clinging with sticky feet. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical orientation, detailed climbing, strong climber silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, climbing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Bask
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, lying flat on warm rock, soaking up heat. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed basking, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, basking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Tail Autotomy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, tail detaching and wiggling separately, escape mechanism. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with separation, detailed tail drop, strong survival silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dropping tail, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizard character, small reptile with green scales, long tail, quick movements. Viewed from top-down angle (80-90 degrees), perched on circular rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong reptile silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

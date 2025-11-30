@@ -1,0 +1,28 @@
+﻿# CHAIN DEVIL - Animation Prompts (9 Frames)
+
+## Frame 1 - Kyton
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, humanoid devil wrapped in chains, face hidden by bandages or chains, controlling animated chains around body. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base with loose chains, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cold steel and blue tones, detailed chain texture readable from above, strong torturer silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Chains Rattling
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, chains on body tightening and loosening, loose chains on ground rising like snakes, head tilting. Viewed from top-down angle (80-90 degrees), animation activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying motion, detailed chain movement, strong awakening horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Chain Lash Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, two long chains extending from arms, spinning them to build momentum, body braced, hooks glinting. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on metal, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Chain Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, chains lashing forward with hooks, body lunging, other chains swirling defensively. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Entangle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, chains wrapping around invisible target, pulling tight, devil leaning back to pull, hooks digging in. Viewed from top-down angle (80-90 degrees), grapple attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grapple attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, chains retracting, coiling back around body, checking tension, stillness returning. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Chain Repair
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, adjusting a link in chain armor, pulling a hook tight, obsessive movement. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong obsessive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, repairing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Waiting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, standing amidst writhing chains, head bowed, waiting for victim. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient sadist silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, chain devil character, humanoid devil wrapped in chains, face hidden by bandages or chains, controlling animated chains around body. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base with loose chains, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cold steel and blue tones, detailed chain texture readable from above, strong torturer silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

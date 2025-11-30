@@ -1,0 +1,28 @@
+# THRI-KREEN - Animation Prompts (9 Frames)
+
+## Frame 1 - Mantis Warrior
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, insectoid humanoid resembling a mantis, four arms, chitinous shell, holding gythka (polearm) and chatkcha (throwing wedge). Viewed from top-down angle (80-90 degrees), standing on circular desert dunes base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sand and ochre tones, detailed chitin texture readable from above, strong alien silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle clicking pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Antennae Twitch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, antennae twitching rapidly, mandibles clicking, sensing vibrations. Viewed from top-down angle (80-90 degrees), perception ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying focus, detailed movement, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Leap Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, crouching low, powerful hind legs compressed like springs, all four arms ready. Viewed from top-down angle (80-90 degrees), preparing jump/attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on legs, detailed anatomical tension, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Gythka Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, spinning the double-bladed gythka, striking with both ends. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong martial silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Chatkcha Throw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, throwing a crystalline chatkcha with a lower arm while guarding with upper arms. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed projectile, strong skirmisher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ranged attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, landing from a jump or resetting stance, chitin plates shifting. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, changing carapace color slightly to match the sand, standing very still. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong stealth silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blending idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sleepless
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, standing perfectly still but eyes wide open and alert (they don't sleep), watching. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong sentinel silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, thri-kreen character, insectoid humanoid resembling a mantis, four arms, chitinous shell, holding gythka (polearm) and chatkcha (throwing wedge). Viewed from top-down angle (80-90 degrees), standing on circular desert dunes base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sand and ochre tones, detailed chitin texture readable from above, strong alien silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle clicking pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

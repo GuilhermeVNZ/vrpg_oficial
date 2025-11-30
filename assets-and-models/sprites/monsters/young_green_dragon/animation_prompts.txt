@@ -1,0 +1,28 @@
+﻿# YOUNG GREEN DRAGON - Animation Prompts (9 Frames)
+
+## Frame 1 - Forest Drake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, medium-sized green dragon with emerald scales, cunning eyes, scheming expression. Viewed from top-down angle (80-90 degrees), standing on circular forest base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and black tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, hissing menacingly, forked tongue visible. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sinister emphasis, detailed hiss, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Stalk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, moving through forest silently, hunting. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth motion, detailed stalking, strong predator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stalking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, biting with venomous intent. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Poison Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, exhaling cone of poison gas. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with poison effect, detailed breath weapon, strong elemental silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, raking with poisonous claws. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Amphibious
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, emerging from water, dripping. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with water motion, detailed emerging, strong amphibious silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, emerging, physical tabletop game piece aesthetic.
+
+## Frame 8 - Scheme
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, sitting with thoughtful, evil expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed scheming, strong cunning silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scheming idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young green dragon character, medium-sized green dragon with emerald scales, cunning eyes, scheming expression. Viewed from top-down angle (80-90 degrees), standing on circular forest base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and black tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

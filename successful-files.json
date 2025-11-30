@@ -1,0 +1,631 @@
+﻿[
+    {
+        "MD":  "as-cronicas-de-gelo-e-fogo-livro-1-a-guerra-dos-tronos.md",
+        "Size":  1917077,
+        "Metadata":  {
+                         "source_pdf":  "as-cronicas-de-gelo-e-fogo-livro-1-a-guerra-dos-tronos-biblioteca-elfica.pdf",
+                         "output_md":  "as-cronicas-de-gelo-e-fogo-livro-1-a-guerra-dos-tronos.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel george_martin",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=as-cronicas-de-gelo-e-fogo-livro-1-a-guerra-dos-tronos-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "as-cronicas-de-gelo-e-fogo-livro-3-a-tormenta-de-espadas.md",
+        "Size":  2539901,
+        "Metadata":  {
+                         "source_pdf":  "as-cronicas-de-gelo-e-fogo-livro-3-a-tormenta-de-espadas-biblioteca-elfica.pdf",
+                         "output_md":  "as-cronicas-de-gelo-e-fogo-livro-3-a-tormenta-de-espadas.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel george_martin",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=as-cronicas-de-gelo-e-fogo-livro-3-a-tormenta-de-espadas-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "as-cronicas-de-gelo-e-fogo-livro-4-o-festim-dos-corvos.md",
+        "Size":  2027394,
+        "Metadata":  {
+                         "source_pdf":  "as-cronicas-de-gelo-e-fogo-livro-4-o-festim-dos-corvos-biblioteca-elfica.pdf",
+                         "output_md":  "as-cronicas-de-gelo-e-fogo-livro-4-o-festim-dos-corvos.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel george_martin",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=as-cronicas-de-gelo-e-fogo-livro-4-o-festim-dos-corvos-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "as-cronicas-de-gelo-e-fogo-livro-5-a-danca-dos-dragoes.md",
+        "Size":  1392296,
+        "Metadata":  {
+                         "source_pdf":  "as-cronicas-de-gelo-e-fogo-livro-5-a-danca-dos-dragoes-biblioteca-elfica.pdf",
+                         "output_md":  "as-cronicas-de-gelo-e-fogo-livro-5-a-danca-dos-dragoes.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel george_martin",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=as-cronicas-de-gelo-e-fogo-livro-5-a-danca-dos-dragoes-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "dd-5e-ficha-de-personagem-completavel.md",
+        "Size":  1686,
+        "Metadata":  {
+                         "source_pdf":  "dd-5e-ficha-de-personagem-completavel-biblioteca-elfica.pdf",
+                         "output_md":  "dd-5e-ficha-de-personagem-completavel.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "character_sheet",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=dd-5e-ficha-de-personagem-completavel-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "dd-5e-guia-de-xanathar-para-todas-as-coisas.md",
+        "Size":  766374,
+        "Metadata":  {
+                         "source_pdf":  "dd-5e-guia-de-xanathar-para-todas-as-coisas-fundo-branco-biblioteca-elfica.pdf",
+                         "output_md":  "dd-5e-guia-de-xanathar-para-todas-as-coisas.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "supplement",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=dd-5e-guia-de-xanathar-para-todas-as-coisas-fundo-branco-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "dd-5e-guia-do-mestre.md",
+        "Size":  1318130,
+        "Metadata":  {
+                         "source_pdf":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                         "output_md":  "dd-5e-guia-do-mestre.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "dungeon_master_guide",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=dd-5e-guia-do-mestre-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "dd-5e-guia-do-volo-para-monstros.md",
+        "Size":  508208,
+        "Metadata":  {
+                         "source_pdf":  "dd-5e-guia-do-volo-para-monstros-v-alta-resolucao-biblioteca-elfica.pdf",
+                         "output_md":  "dd-5e-guia-do-volo-para-monstros.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "monster_manual",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=dd-5e-guia-do-volo-para-monstros-v-alta-resolucao-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "dd-5e-livro-do-jogador.md",
+        "Size":  1396505,
+        "Metadata":  {
+                         "source_pdf":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                         "output_md":  "dd-5e-livro-do-jogador.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "player_handbook",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "dd-5e-tirania-dos-dragoes-vol-2-a-ascensao-de-tiamat.md",
+        "Size":  483724,
+        "Metadata":  {
+                         "source_pdf":  "dd-5e-tirania-dos-dragoes-vol-2-a-ascensao-de-tiamat-fundo-branco.pdf",
+                         "output_md":  "dd-5e-tirania-dos-dragoes-vol-2-a-ascensao-de-tiamat.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "book",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=dd-5e-tirania-dos-dragoes-vol-2-a-ascensao-de-tiamat-fundo-branco.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "dd-5e-tomb-of-horrors.md",
+        "Size":  98523,
+        "Metadata":  {
+                         "source_pdf":  "dd-5e-tomb-of-horrors-biblioteca-elfica.pdf",
+                         "output_md":  "dd-5e-tomb-of-horrors.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "book",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=dd-5e-tomb-of-horrors-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-add-cormyr.md",
+        "Size":  183445,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-add-cormyr-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-add-cormyr.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-add-cormyr-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-add-culto-do-dragao.md",
+        "Size":  987740,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-add-culto-do-dragao-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-add-culto-do-dragao.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-add-culto-do-dragao-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-add-netheril-imperio-da-magia.md",
+        "Size":  1373019,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-add-netheril-imperio-da-magia-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-add-netheril-imperio-da-magia.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-add-netheril-imperio-da-magia-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-add-shadowdale-o-vale-das-sombras.md",
+        "Size":  71035,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-add-shadowdale-o-vale-das-sombras-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-add-shadowdale-o-vale-das-sombras.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-add-shadowdale-o-vale-das-sombras-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-add-uma-viagem-aos-reinos.md",
+        "Size":  42244,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-add-uma-viagem-aos-reinos-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-add-uma-viagem-aos-reinos.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-add-uma-viagem-aos-reinos-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-add-undermountain-guia-de-campanha-para-undermountain.md",
+        "Size":  29283,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-add-undermountain-guia-de-campanha-para-undermountain-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-add-undermountain-guia-de-campanha-para-undermountain.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-add-undermountain-guia-de-campanha-para-undermountain-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-d20-cenario-de-campanha.md",
+        "Size":  2217793,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-d20-cenario-de-campanha-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-d20-cenario-de-campanha.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-d20-cenario-de-campanha-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-d20-crencas-e-panteoes.md",
+        "Size":  136673,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-d20-crencas-e-panteoes-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-d20-crencas-e-panteoes.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-d20-crencas-e-panteoes-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-d20-fronteiras-prateadas.md",
+        "Size":  221295,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-d20-fronteiras-prateadas-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-d20-fronteiras-prateadas.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-d20-fronteiras-prateadas-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica-1.md",
+        "Size":  68438,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica (1).pdf",
+                         "output_md":  "forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica-1.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica (1).pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-d20-livro-do-jogador-para-faerun.md",
+        "Size":  68438,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-d20-livro-do-jogador-para-faerun.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-d20-monstros-de-faerun.md",
+        "Size":  29358,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-d20-monstros-de-faerun-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-d20-monstros-de-faerun.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-d20-monstros-de-faerun-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "forgotten-realms-d20-underdark-geografia.md",
+        "Size":  327438,
+        "Metadata":  {
+                         "source_pdf":  "forgotten-realms-d20-underdark-geografia-biblioteca-elfica.pdf",
+                         "output_md":  "forgotten-realms-d20-underdark-geografia.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "forgotten_realms dnd campaign_setting rpg",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=forgotten-realms-d20-underdark-geografia-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "o-senhor-dos-aneis-as-duas-torres-j-r-r-tolkien.md",
+        "Size":  946312,
+        "Metadata":  {
+                         "source_pdf":  "o-senhor-dos-aneis-as-duas-torres-j-r-r-tolkien-biblioteca-elfica.pdf",
+                         "output_md":  "o-senhor-dos-aneis-as-duas-torres-j-r-r-tolkien.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel tolkien",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=o-senhor-dos-aneis-as-duas-torres-j-r-r-tolkien-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "o-senhor-dos-aneis-o-retorno-do-rei-j-r-r-tolkien.md",
+        "Size":  1128067,
+        "Metadata":  {
+                         "source_pdf":  "o-senhor-dos-aneis-o-retorno-do-rei-j-r-r-tolkien-biblioteca-elfica.pdf",
+                         "output_md":  "o-senhor-dos-aneis-o-retorno-do-rei-j-r-r-tolkien.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel tolkien",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=o-senhor-dos-aneis-o-retorno-do-rei-j-r-r-tolkien-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "o-vale-do-vento-gelido-01-estilha-de-cristal.md",
+        "Size":  751081,
+        "Metadata":  {
+                         "source_pdf":  "o-vale-do-vento-gelido-01-estilha-de-cristal-biblioteca-elfica.pdf",
+                         "output_md":  "o-vale-do-vento-gelido-01-estilha-de-cristal.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=o-vale-do-vento-gelido-01-estilha-de-cristal-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "o-vale-do-vento-gelido-02-rios-de-prata.md",
+        "Size":  730508,
+        "Metadata":  {
+                         "source_pdf":  "o-vale-do-vento-gelido-02-rios-de-prata-biblioteca-elfica.pdf",
+                         "output_md":  "o-vale-do-vento-gelido-02-rios-de-prata.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=o-vale-do-vento-gelido-02-rios-de-prata-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "o-vale-do-vento-gelido-03-a-joia-do-halfling.md",
+        "Size":  719463,
+        "Metadata":  {
+                         "source_pdf":  "o-vale-do-vento-gelido-03-a-joia-do-halfling-biblioteca-elfica.pdf",
+                         "output_md":  "o-vale-do-vento-gelido-03-a-joia-do-halfling.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "literature",
+                                                "doc_type":  "novel",
+                                                "categories":  "fantasy literature novel",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=o-vale-do-vento-gelido-03-a-joia-do-halfling-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "old-dd-5e-manual-dos-monstros.md",
+        "Size":  1350351,
+        "Metadata":  {
+                         "source_pdf":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                         "output_md":  "old-dd-5e-manual-dos-monstros.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "monster_manual",
+                                                "categories":  "dnd5e dungeons_and_dragons rpg game_rules",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "ravenloft-add-dominios-do-medo.md",
+        "Size":  1267885,
+        "Metadata":  {
+                         "source_pdf":  "ravenloft-add-dominios-do-medo-biblioteca-elfica.pdf",
+                         "output_md":  "ravenloft-add-dominios-do-medo.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "ravenloft dnd campaign_setting rpg horror",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=ravenloft-add-dominios-do-medo-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "ravenloft-add-o-despertar-digital.md",
+        "Size":  238075,
+        "Metadata":  {
+                         "source_pdf":  "ravenloft-add-o-despertar-digital-biblioteca-elfica.pdf",
+                         "output_md":  "ravenloft-add-o-despertar-digital.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "ravenloft dnd campaign_setting rpg horror",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=ravenloft-add-o-despertar-digital-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "ravenloft-add-o-toque-da-morte.md",
+        "Size":  105888,
+        "Metadata":  {
+                         "source_pdf":  "ravenloft-add-o-toque-da-morte-biblioteca-elfica.pdf",
+                         "output_md":  "ravenloft-add-o-toque-da-morte.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "ravenloft dnd campaign_setting rpg horror",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=ravenloft-add-o-toque-da-morte-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "ravenloft-d20-casa-na-colina-do-grifo.md",
+        "Size":  401505,
+        "Metadata":  {
+                         "source_pdf":  "ravenloft-d20-casa-na-colina-do-grifo.pdf",
+                         "output_md":  "ravenloft-d20-casa-na-colina-do-grifo.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "ravenloft dnd campaign_setting rpg horror",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=ravenloft-d20-casa-na-colina-do-grifo.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "ravenloft-d20-cenario-de-campanha.md",
+        "Size":  1049714,
+        "Metadata":  {
+                         "source_pdf":  "ravenloft-d20-cenario-de-campanha-biblioteca-elfica.pdf",
+                         "output_md":  "ravenloft-d20-cenario-de-campanha.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "ravenloft dnd campaign_setting rpg horror",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=ravenloft-d20-cenario-de-campanha-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "ravenloft-d20-cisne-azul-a-ultima-parada.md",
+        "Size":  53960,
+        "Metadata":  {
+                         "source_pdf":  "ravenloft-d20-cisne-azul-a-ultima-parada-biblioteca-elfica.pdf",
+                         "output_md":  "ravenloft-d20-cisne-azul-a-ultima-parada.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "ravenloft dnd campaign_setting rpg horror",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=ravenloft-d20-cisne-azul-a-ultima-parada-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    },
+    {
+        "MD":  "ravenloft-d20-nativos-das-trevas.md",
+        "Size":  717016,
+        "Metadata":  {
+                         "source_pdf":  "ravenloft-d20-nativos-das-trevas-biblioteca-elfica.pdf",
+                         "output_md":  "ravenloft-d20-nativos-das-trevas.md",
+                         "pages":  1,
+                         "classification":  {
+                                                "domain":  "gaming",
+                                                "doc_type":  "campaign_setting",
+                                                "categories":  "ravenloft dnd campaign_setting rpg horror",
+                                                "confidence":  0.85,
+                                                "metadata":  "@{source=biblioteca_elfica; language=pt-BR; filename=ravenloft-d20-nativos-das-trevas-biblioteca-elfica.pdf}"
+                                            },
+                         "extraction_method":  "transmutation"
+                     }
+    }
+]

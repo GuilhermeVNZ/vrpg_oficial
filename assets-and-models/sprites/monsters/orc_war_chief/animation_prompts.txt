@@ -1,0 +1,28 @@
+﻿# ORC WAR CHIEF - Animation Prompts (9 Frames)
+
+## Frame 1 - Warlord
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, massive orc with scars, wearing plate/chainmail armor with trophies, holding greataxe and shield (or two weapons). Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and metal tones, detailed armor texture readable from above, strong commander silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle commanding pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Battle Cry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, raising weapon high, pointing forward, shouting orders, aura of command. Viewed from top-down angle (80-90 degrees), buff ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying authority, detailed movement, strong leader silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Weapon Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, lifting greataxe with ease, muscles bulging under armor, stance widening. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Cleave
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, swinging weapon in wide arc to hit multiple enemies, cape flying. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shield Bash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, slamming shield (or shoulder) forward, knocking enemy back (implied), brutal force. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shield bash attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, returning to stance, banging weapon on shield, looking for next challenger. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Trophy Check
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, inspecting a skull or trophy hanging from belt, laughing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong arrogant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trophy idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Throne Sit
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, sitting on a makeshift throne (rock/crate), weapon leaning against knee, regal savage. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong kingly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orc war chief character, massive orc with scars, wearing plate/chainmail armor with trophies, holding greataxe and shield (or two weapons). Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and metal tones, detailed armor texture readable from above, strong commander silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle commanding pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

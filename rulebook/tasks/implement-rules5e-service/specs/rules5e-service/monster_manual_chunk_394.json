@@ -1,0 +1,12 @@
+﻿{
+    "text":  "8° nível (1 espaços): dominar monstro, palavra de poder atordoar\n9° nível (1 espaços): palavra de poder matar\nRejuvenescimento. Se tiver uma filactéria, um lich destruído\nadquire um novo corpo em 1d10 dias, recuperando todos os seus\npontos de vida e se tornando ativo novamente. O novo corpo\naparece a 1,5 metro da filactéria.\nResistência à Expulsão. O lich tem vantagem em testes de\nresistência contra qualquer efeito de expulsar mortos-vivos.\nResistência Lendária (3/Dia). Se o lich falhar em um teste de\nresistência, ele pode escolher obter sucesso, no lugar.\nAÇÕES\nToque Paralisante. Ataque Corpo-a-Corpo com Magia: +12 para\natingir, alcance 1,5 m, uma criatura. Acerto: 10 (3d6) de dano de\nfrio. O alvo deve ser bem sucedido num teste de resistência de\nConstituição CD 18 ou ficará paralisado por 1 minuto. O alvo pode\nrepetir o teste de resistência no final de cada um dos turnos dele,\nterminando o efeito sobre si com um sucesso.\nAÇÕES LENDÁRIAS\nO lich pode realizar 3 ações lendárias, escolhidas dentre as opções\nabaixo. Apenas uma ação lendária pode ser usada por vez e\napenas no final do turno de outra criatura. O lich recupera as\nações lendárias gastas no começo do turno dele.\nTruque. O lich conjura um truque.\nToque Paralisante (Custa 2 Ações). O lich usa seu Toque\nParalisante.\nOlhar Aterrorizante (Custa 2 Ações). O lich fita seu olhar em uma\nLICH\ncriatura que ele possa ver, a até 3 metros dele. O alvo deve ser\nMorto-vivo Médio, qualquer tendência maligna bem sucedido num teste de resistência de Sabedoria CD 18\ncontra essa magia ou ficará amedrontado por 1 minuto. A\nClasse de Armadura 17 (armadura natural) criatura amedrontada pode repetir o teste de resistência no\nPontos de Vida 135 (18d8 + 54) final de cada um dos turnos dela, terminando o efeito sobre si\nDeslocamento 9 m com um sucesso. Se o teste de resistência de um alvo for bem\nsucedido ou se o efeito terminar nele, esse alvo fica imune ao\nFOR DES CON INT SAB CAR olhar do lich pelas próximas 24 horas.\n11 (+0) 16 (+3",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  394,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

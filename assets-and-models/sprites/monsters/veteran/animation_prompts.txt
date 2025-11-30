@@ -1,0 +1,28 @@
+﻿# VETERAN - Animation Prompts (9 Frames)
+
+## Frame 1 - Battle-Hardened Warrior
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, human soldier in worn plate armor, holding longsword and shield, scarred face. Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and grey tones, detailed armor texture readable from above, strong experienced silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Battle Cry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, raising sword high, shouting orders, rallying troops. Viewed from top-down angle (80-90 degrees), leadership, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with inspiring emphasis, detailed battle cry, strong leader silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rallying, physical tabletop game piece aesthetic.
+
+## Frame 3 - Shield Bash Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, pulling shield back, preparing to bash. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shield focus, detailed preparation, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing bash, physical tabletop game piece aesthetic.
+
+## Frame 4 - Longsword Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, swinging longsword in practiced arc, perfect form. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Heavy Crossbow Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, aiming and firing heavy crossbow with precision. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with crossbow focus, detailed shot action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crossbow attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Multiattack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, following through with second sword strike, fluid motion. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with combo emphasis, detailed multiattack, strong skilled silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, multiattack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Defensive Stance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, raising shield, taking defensive position. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shield focus, detailed defense, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, defending, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sharpen Blade
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, sharpening sword with whetstone, preparing for battle. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed sharpening, strong prepared silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sharpening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, veteran character, human soldier in worn plate armor, holding longsword and shield, scarred face. Viewed from top-down angle (80-90 degrees), standing on circular battlefield base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and grey tones, detailed armor texture readable from above, strong experienced silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

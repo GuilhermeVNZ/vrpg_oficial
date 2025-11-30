@@ -1,0 +1,28 @@
+﻿# IMP - Animation Prompts (9 Frames)
+
+## Frame 1 - Tiny Fiend
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, tiny red skinned devil with bat wings, stinger tail, horns, mischievous grin. Viewed from top-down angle (80-90 degrees), standing on circular stone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sneaky red tones, detailed skin texture readable from above, strong sneaky silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Invisibility Shift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, body becoming translucent, edges blurring, eyes remaining bright yellow, tail twitching. Viewed from top-down angle (80-90 degrees), magic activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying transparency, detailed fading effect, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing ambush, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sting Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, hovering in air, tail arching over head, stinger dripping poison, claws ready. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on stinger, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Sting Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, diving forward, tail striking down, wings folded for speed, mouth open. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shape Shift Start
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, body contorting, feathers sprouting (raven) or fur (rat), magic swirling around form. Viewed from top-down angle (80-90 degrees), transformation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed morphing, strong changing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, polymorph, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, landing back on base, shaking head, tail relaxing, checking for danger. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Mockery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, laughing, pointing finger, flying loop-de-loop, tail wagging. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong annoying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, mocking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perched
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, sitting on haunches, wings folded tight, tail wrapped around feet, looking bored. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, imp devil character, tiny red skinned devil with bat wings, stinger tail, horns, mischievous grin. Viewed from top-down angle (80-90 degrees), standing on circular stone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sneaky red tones, detailed skin texture readable from above, strong sneaky silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+﻿# PERYTON - Animation Prompts (9 Frames)
+
+## Frame 1 - Stag Eagle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, creature with eagle wings and head, deer body and antlers, sinister. Viewed from top-down angle (80-90 degrees), standing on circular mountain cliff base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed feather and fur texture readable from above, strong monstrous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Screech
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, head raised, beak open in piercing eagle screech. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed screech, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, screeching, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, spreading eagle wings wide, antlers lowered threateningly. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wingspan emphasis, detailed wing anatomy, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing display, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dive Attack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, diving from above with talons and antlers forward. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dive motion, detailed dive action, strong diving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dive attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Gore
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, thrusting antlers forward to impale prey. Viewed from top-down angle (80-90 degrees), melee attack (gore), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with antler focus, detailed gore action, strong goring silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gore attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Talon Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, slashing with eagle talons, wings flapping. Viewed from top-down angle (80-90 degrees), melee attack (talons), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with talon emphasis, detailed rake action, strong raking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, talon attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Shadow Steal
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, casting human-shaped shadow despite animal form, ominous. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shadow emphasis, detailed shadow, strong sinister silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shadow ability, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, perching on invisible cliff edge, wings folded, watching. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed perching, strong watchful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, perching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, peryton character, creature with eagle wings and head, deer body and antlers, sinister. Viewed from top-down angle (80-90 degrees), standing on circular mountain cliff base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed feather and fur texture readable from above, strong monstrous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

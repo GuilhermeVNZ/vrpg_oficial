@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ngir, alcance\n1,5 m, uma criatura. Acerto: 1 de dano perfurante e o alvo deve\nrealizar um teste de resistência de Constituição CD 9, sofrendo 4\n(1d8) de dano de veneno se fracassar na resistência, ou metade\ndesse dano se obtiver sucesso.\nESCORPIÃO GIGANTE\nBesta Grande, imparcial\nClasse de Armadura 15 (armadura natural)\nPontos de Vida 52 (7d10 + 14)\nDeslocamento 12 m\nFOR DES CON INT SAB CAR\n15 (+2) 13 (+1) 15 (+2) 1 (–5) 9 (–1) 3 (–4) FALCÃO DE SANGUE\nBesta Pequena, imparcial\nSentidos percepção às cegas 18 m, Percepção passiva 9\nIdiomas – Classe de Armadura 12\nNível de Desafio 3 (700 XP) Pontos de Vida 7 (2d6)\nDeslocamento 3 m, voo 18 m\nAÇÕES\nFOR DES CON INT SAB CAR\nAtaques Múltiplos. O escorpião realiza três ataques: dois com 6 (–2) 14 (+2) 10 (+0) 3 (–4) 14 (+2) 5 (–3)\nsuas garras e um com seu ferrão.\nPerícias Percepção +4\nGarra. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance\nSentidos Percepção passiva 14\n1,5 m, um alvo. Acerto: 6 (1d8 + 2) de dano de concussão e o alvo\nIdiomas –\nfica agarrado (CD 12 para escapar). O escorpião possui duas\nNível de Desafio 1/8 (25 XP)\ngarras, cada uma podendo agarrar apenas um alvo.\nFerrão. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance\nVisão Aguçada. O falcão tem vantagem em testes de Sabedoria\n1,5 m, uma criatura. Acerto: 7 (1d10 + 2) de dano perfurante e o\n(Percepção) relacionados à visão.\nalvo deve realizar um teste de resistência de Constituição CD 12,\nsofrendo 22 (4d10) de dano de veneno se fracassar na resistência, Táticas de Matilha. O falcão tem vantagem nas jogadas de ataque\nou metade desse dano se obtiver sucesso. contra uma criatura se, pelo menos, um dos aliados do falcão\nestiver a 1,5 metro da criaturas e não estiver incapacitado.\nFALCÃO AÇÕES\nBesta Miúda, imparcial\nBicada. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance\n1,5 m, um alvo. Acerto: 4 (1d4 + 2) de dano perfurante.\nClasse de Armadura 13\nPontos de Vida 1 (1d4 – 1) Recebendo seu nome devido ás suas penas carmesins e\nDeslocamento 3 m, ",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  599,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

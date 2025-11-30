@@ -1,0 +1,23 @@
+/* TooltipTerm Styles - Clickable terms in tooltips */
+
+.tooltip-term {
+    cursor: pointer;
+    transition: all 0.2s ease;
+    position: relative;
+    border-bottom: 1px dotted transparent;
+    /* Reserve space for potential hover effect if needed, or just keep it clean */
+}
+
+.tooltip-term:hover {
+    /* Optional: subtle highlight on hover to indicate interactivity */
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+}
+
+.tooltip-term:focus {
+    outline: 1px solid var(--vrpg-color-gold-primary);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+/* Removed icon and underline styles as per user request */

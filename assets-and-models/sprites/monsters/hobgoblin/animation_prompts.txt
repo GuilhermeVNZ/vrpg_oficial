@@ -1,0 +1,28 @@
+﻿# HOBGOBLIN - Animation Prompts (9 Frames)
+
+## Frame 1 - Disciplined Soldier
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, muscular goblinoid with orange-red skin and blue nose, wearing polished chainmail and red samurai-like armor plates, holding a longsword and heavy shield. Viewed from top-down angle (80-90 degrees), standing on circular stone paver base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with military precision, detailed armor texture readable from above, strong disciplined silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing at attention, physical tabletop game piece aesthetic.
+
+## Frame 2 - Shield Brace
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, stepping forward and locking shield into defensive position, sword raised behind head. Viewed from top-down angle (80-90 degrees), defensive preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic glints, detailed stance, strong wall-like silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Shield Bash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, thrusting shield forward with entire body weight, sword arm tense. Viewed from top-down angle (80-90 degrees), melee attack (bash), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact focus, detailed motion, strong battering ram silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shield attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Martial Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, executing a perfect overhead sword chop, shield held tight to body. Viewed from top-down angle (80-90 degrees), peak of weapon attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp blade highlight, detailed martial technique, strong warrior silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Formation Signal
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, raising sword high in the air, mouth open shouting a command, shield held low. Viewed from top-down angle (80-90 degrees), leadership action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with commanding presence, detailed character acting, strong commander silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, signaling troops, physical tabletop game piece aesthetic.
+
+## Frame 6 - Tactical Retreat
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, stepping back in a controlled manner, keeping shield up, eyes scanning. Viewed from top-down angle (80-90 degrees), tactical movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with defensive shadows, detailed footwork, strong professional silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, retreating, physical tabletop game piece aesthetic.
+
+## Frame 7 - Weapon Check
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, inspecting the edge of the longsword, wiping it with a cloth or thumb, shield resting against leg. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed weapon maintenance, strong professional silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, maintenance idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - At Ease
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, relaxing stance slightly but still alert, sword point resting on ground, hand on hilt. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong soldier silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hobgoblin character, muscular goblinoid with orange-red skin and blue nose, wearing polished chainmail and red samurai-like armor plates, holding a longsword and heavy shield. Viewed from top-down angle (80-90 degrees), standing on circular stone paver base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with military precision, detailed armor texture readable from above, strong disciplined silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing at attention identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

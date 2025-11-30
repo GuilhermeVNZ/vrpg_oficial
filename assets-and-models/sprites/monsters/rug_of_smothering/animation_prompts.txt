@@ -1,0 +1,28 @@
+﻿# RUG OF SMOTHERING - Animation Prompts (9 Frames)
+
+## Frame 1 - Innocent Carpet
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, ornate carpet lying flat on floor, intricate patterns, looking harmless. Viewed from top-down angle (80-90 degrees), lying on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rich fabric tones, detailed weave texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flat pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Edge Twitch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, corners twitching slightly, sensing prey approaching. Viewed from top-down angle (80-90 degrees), preparing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with subtle motion, detailed edge movement, strong awakening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, twitching, physical tabletop game piece aesthetic.
+
+## Frame 3 - Rise Up
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, lifting off ground, hovering menacingly, edges curling. Viewed from top-down angle (80-90 degrees), ambush, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with levitation, detailed rising, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rising, physical tabletop game piece aesthetic.
+
+## Frame 4 - Wrap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, wrapping around invisible victim, constricting. Viewed from top-down angle (80-90 degrees), melee attack (grapple), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wrap motion, detailed constriction, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wrapping attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Smother
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, covering victim's face completely, suffocating. Viewed from top-down angle (80-90 degrees), special attack (smother), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with suffocation emphasis, detailed smothering, strong killer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, smothering, physical tabletop game piece aesthetic.
+
+## Frame 6 - Squeeze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, tightening grip, crushing victim, fabric straining. Viewed from top-down angle (80-90 degrees), constriction, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with crushing force, detailed squeeze, strong constrictor silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, squeezing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Damage Transfer
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, being attacked but transferring damage to smothered victim. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with damage effect, detailed transfer, strong resilient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, damage transfer, physical tabletop game piece aesthetic.
+
+## Frame 8 - Unfurl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, releasing victim, unfurling back to flat position. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed unfurling, strong relaxing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, unfurling idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rug of smothering character, ornate carpet lying flat on floor, intricate patterns, looking harmless. Viewed from top-down angle (80-90 degrees), lying on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rich fabric tones, detailed weave texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flat pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

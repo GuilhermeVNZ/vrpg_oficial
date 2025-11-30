@@ -1,0 +1,28 @@
+﻿# GNOLL - Animation Prompts (9 Frames)
+
+## Frame 1 - Hyena Scavenger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, tall lanky humanoid with spotted hyena head and fur, wearing patchwork leather and bone armor, holding a jagged spear and shield. Viewed from top-down angle (80-90 degrees), standing on circular dry savannah base with bones, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with yellow and brown tones, detailed fur texture readable from above, strong savage silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hunched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Scent of Blood
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, lifting snout to sniff the air, ears perking up, drool dripping from jaws. Viewed from top-down angle (80-90 degrees), hunting behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with predatory focus, detailed sensory action, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking prey, physical tabletop game piece aesthetic.
+
+## Frame 3 - Maniacal Cackle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, throwing head back, mouth wide open in a laugh, shoulders shaking, weapon raised loosely. Viewed from top-down angle (80-90 degrees), social/intimidation action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with chaotic energy, detailed expression, strong insane silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, laughing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Spear Lunge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, thrusting spear forward with both hands, body fully extended, teeth bared. Viewed from top-down angle (80-90 degrees), peak of melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp motion, detailed weapon strike, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spear attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Savage Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, lunging neck forward to snap powerful jaws, dropping guard slightly to bite. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with visceral focus, detailed jaw action, strong feral silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Rampage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, running forward (in place), weapons flailing, eyes wide with bloodlust. Viewed from top-down angle (80-90 degrees), movement/ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed chaotic movement, strong charger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rampage, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scavenge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, stooping low to pick up a bone or skull from the base, inspecting it for meat. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed object interaction, strong scavenger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scavenging idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Alert Crouch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, crouching low to the ground, ears flat, growling low, ready to spring. Viewed from top-down angle (80-90 degrees), almost fully at rest (but tense), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed tension, strong ambusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tense idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gnoll character, tall lanky humanoid with spotted hyena head and fur, wearing patchwork leather and bone armor, holding a jagged spear and shield. Viewed from top-down angle (80-90 degrees), standing on circular dry savannah base with bones, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with yellow and brown tones, detailed fur texture readable from above, strong savage silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hunched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

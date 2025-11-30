@@ -1,0 +1,28 @@
+﻿# MANTICORE - Animation Prompts (9 Frames)
+
+## Frame 1 - Monstrous Hybrid
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, hybrid monster with lion body, leathery bat wings, and a tail ending in a cluster of spikes, face is disturbingly humanoid with rows of shark teeth. Viewed from top-down angle (80-90 degrees), standing on circular rocky outcrop base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tawny and dark brown tones, detailed fur and wing texture readable from above, strong mythical silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tail Aim
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, arching back and curling tail forward over its head, aiming the spikes like a scorpion. Viewed from top-down angle (80-90 degrees), preparing ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on tail, detailed anatomical tension, strong artillery silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, aiming spikes, physical tabletop game piece aesthetic.
+
+## Frame 3 - Spike Volley
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, snapping tail forward to launch a volley of spikes, wings flared for balance. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with projectile motion, detailed action, strong shooter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, firing spikes, physical tabletop game piece aesthetic.
+
+## Frame 4 - Wing Flap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, spreading bat-like wings wide and flapping them powerfully, lifting slightly off the ground, dust swirling. Viewed from top-down angle (80-90 degrees), movement/intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wind effects, detailed wing anatomy, strong aerial silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing flap, physical tabletop game piece aesthetic.
+
+## Frame 5 - Savage Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, lunging forward to bite with its uncanny human-like face, jaws unhinged. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with facial focus, detailed horror element, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Lion Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, rearing up slightly to swipe with a massive lion paw, claws extended. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed claw action, strong predator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Uncanny Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, opening mouth wide to let out a scream that looks like a roar, wings half-spread. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound focus, detailed expression, strong horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 8 - Grooming
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, turning head to groom its wing or shoulder fur, momentarily looking like a large cat. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed animal behavior, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grooming idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manticore character, hybrid monster with lion body, leathery bat wings, and a tail ending in a cluster of spikes, face is disturbingly humanoid with rows of shark teeth. Viewed from top-down angle (80-90 degrees), standing on circular rocky outcrop base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tawny and dark brown tones, detailed fur and wing texture readable from above, strong mythical silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

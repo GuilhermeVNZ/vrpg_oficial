@@ -1,0 +1,291 @@
+import React, { useEffect, useRef, useState } from 'react';
+import * as THREE from 'three';
+import { useCinematicRoll } from '../../context/CinematicRollContext';
+import { RollManager, RollResult } from '../../dice/RollManager';
+
+// Audio paths
+const INTRO_AUDIO_PATH = '/assets-and-models/songs/Rolling Thunder.mp3';
+const DICE_ROLL_AUDIO_PATH = '/assets-and-models/SFX/RollingDiceSound.mp3';
+const RESULT_AUDIO_PATH = '/assets-and-models/songs/EndResultRoll.mp3';
+
+export const CinematicRollOverlay: React.FC = () => {
+    const { rollRequest, clearRoll } = useCinematicRoll();
+    const [phase, setPhase] = useState<'idle' | 'intro' | 'participants' | 'rolling' | 'result'>('idle');
+    const [rollResults, setRollResults] = useState<RollResult | null>(null);
+
+    const mountRef = useRef<HTMLDivElement>(null);
+    const audioRef = useRef<HTMLAudioElement | null>(null);
+    const rollManagerRef = useRef<RollManager | null>(null);
+    const sceneRef = useRef<THREE.Scene | null>(null);
+    const rendererRef = useRef<THREE.WebGLRenderer | null>(null);
+    const cameraRef = useRef<THREE.PerspectiveCamera | null>(null);
+    const animationFrameRef = useRef<number | null>(null);
+    const initializedRef = useRef<boolean>(false); // Track if Three.js is initialized
+
+    // Initialize Audio
+    useEffect(() => {
+        audioRef.current = new Audio(INTRO_AUDIO_PATH);
+        audioRef.current.volume = 0.5;
+    }, []);
+
+    // Handle Roll Request
+    useEffect(() => {
+        if (rollRequest) {
+            startSequence();
+        } else {
+            setPhase('idle');
+            setRollResults(null);
+        }
+    }, [rollRequest]);
+
+    const startSequence = async () => {
+        if (!rollRequest) return;
+
+        // Phase 1: Intro (2s)
+        setPhase('intro');
+        audioRef.current?.play().catch(e => console.warn("Audio play failed", e));
+
+        await new Promise(resolve => setTimeout(resolve, 2000));
+
+        // Phase 2: Participants Reveal - WAIT for user to click ROLL button
+        setPhase('participants');
+        // Don't auto-transition - user must click ROLL button
+    };
+
+    const handleRollButtonClick = () => {
+        console.log('[CinematicRoll] ROLL button clicked! Current phase:', phase);
+        if (phase !== 'participants') {
+            console.log('[CinematicRoll] Not in participants phase, ignoring click');
+            return;
+        }
+
+        // Phase 3: The Roll
+        console.log('[CinematicRoll] Starting roll phase...');
+        setPhase('rolling');
+        performRoll();
+    };
+
+    const performRoll = async () => {
+        console.log('[CinematicRoll] performRoll called');
+        console.log('[CinematicRoll] rollRequest:', rollRequest);
+        console.log('[CinematicRoll] rollManagerRef.current:', rollManagerRef.current);
+
+        if (!rollRequest || !rollManagerRef.current) {
+            console.error('[CinematicRoll] Missing rollRequest or rollManager!');
+            return;
+        }
+
+        // Play dice rolling sound
+        console.log('[CinematicRoll] Playing dice roll sound...');
+        const diceRollAudio = new Audio(DICE_ROLL_AUDIO_PATH);
+        diceRollAudio.volume = 0.7;
+        diceRollAudio.play().catch(e => console.warn("Dice roll audio failed", e));
+
+        // Setup notation based on participants
+        // For simplicity, we'll roll for the first participant
+        // TODO: Update RollManager to handle multiple participants/colors simultaneously
+
+        const primaryParticipant = rollRequest.participants[0];
+        if (!primaryParticipant) {
+            console.error("No participants in roll request");
+            clearRoll();
+            return;
+        }
+
+        const rollNotation = `1${primaryParticipant.diceType}${primaryParticipant.bonus >= 0 ? '+' + primaryParticipant.bonus : primaryParticipant.bonus}`;
+
+        console.log('[CinematicRoll] Roll notation:', rollNotation);
+
+        const options = {
+            advantage: primaryParticipant.rollType === 'advantage',
+            disadvantage: primaryParticipant.rollType === 'disadvantage'
+        };
+
+        try {
+            console.log('[CinematicRoll] Calling rollManager.roll()...');
+            const result = await rollManagerRef.current.roll(rollNotation, options);
+            console.log('[CinematicRoll] Roll complete! Result:', result);
+            console.log('[CinematicRoll] Dice instances:', rollManagerRef.current);
+            setRollResults(result);
+
+            // Wait 2s before showing result
+            await new Promise(resolve => setTimeout(resolve, 2000));
+
+            // Play result sound
+            const resultAudio = new Audio(RESULT_AUDIO_PATH);
+            resultAudio.volume = 0.6;
+            resultAudio.play().catch(e => console.warn("Result audio failed", e));
+
+            // Phase 4: Result
+            setPhase('result');
+
+            if (rollRequest.onComplete) {
+                rollRequest.onComplete([result]);
+            }
+
+            // Auto close after result display
+            setTimeout(() => {
+                clearRoll();
+            }, 4000);
+
+            top: 0,
+                left: 0,
+                    width: '100vw',
+                        height: '100vh',
+                            zIndex: 9999,
+                                pointerEvents: phase === 'rolling' ? 'none' : 'auto', // Allow clicks unless rolling
+                                    display: 'flex',
+                                        flexDirection: 'column',
+                                            justifyContent: 'center',
+                                                alignItems: 'center',
+                                                    fontFamily: "'Cinzel', serif", // Assuming a serif font is available
+        }}>
+        {/* Background Blur/Darkening Layer */ }
+        < div style = {{
+        position: 'absolute',
+            top: 0,
+                left: 0,
+                    width: '100%',
+                        height: '100%',
+                            background: 'rgba(0, 0, 0, 0.6)',
+                                backdropFilter: 'blur(8px)',
+                                    WebkitBackdropFilter: 'blur(8px)',
+                                        zIndex: 0
+    }
+} />
+
+{/* 3D Canvas Layer */ }
+<div ref={mountRef} style={{
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    width: '100%',
+    height: '100%',
+    zIndex: 20, // Above everything else
+    pointerEvents: 'none'
+}} />
+
+{/* Cinematic Strip Layer */ }
+<div style={{
+    position: 'absolute',
+    width: '100%',
+    height: '250px',
+    background: 'rgba(20, 20, 20, 0.6)',
+    backdropFilter: 'blur(24px)',
+    WebkitBackdropFilter: 'blur(24px)',
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    boxShadow: '0 8px 32px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.1)',
+    borderTop: '1px solid rgba(255, 255, 255, 0.1)',
+    borderBottom: '1px solid rgba(255, 255, 255, 0.1)',
+    zIndex: 10, // Below canvas
+    transform: phase === 'intro' ? 'translateX(0)' : 'translateX(0)', // Add slide animation later
+    transition: 'all 0.5s ease-out',
+    overflow: 'hidden'
+}}>
+    {/* Content Container */}
+    <div style={{
+        width: '100%',
+        maxWidth: '1200px',
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        color: 'white',
+        textShadow: '0 2px 4px rgba(0,0,0,0.8)'
+    }}>
+
+        {/* Phase 1: Intro Text */}
+        {phase === 'intro' && (
+            <div style={{ textAlign: 'center', animation: 'fadeIn 0.5s' }}>
+                <h1 style={{ fontSize: '3rem', margin: 0, letterSpacing: '0.1em' }}>{rollRequest.title}</h1>
+                <h2 style={{ fontSize: '1.5rem', margin: '10px 0 0', color: '#D4AF37' }}>{rollRequest.subtitle}</h2>
+            </div>
+        )}
+
+        {/* Phase 2 & 3: Participants */}
+        {(phase === 'participants' || phase === 'rolling') && (
+            <div style={{ display: 'flex', gap: '40px', animation: 'fadeIn 0.5s' }}>
+                {rollRequest.participants.map(p => (
+                    <div key={p.id} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                        <div style={{
+                            width: '120px',
+                            height: '120px',
+                            borderRadius: '50%', // Circular as per plan, or rectangular per screenshot? Plan said circular portraits in "Vs" screen. Screenshot showed rectangular cards.
+                            // Let's stick to the plan/screenshot hybrid: Rectangular card style or Circular?
+                            // Screenshot 2 shows rectangular portraits.
+                            // Let's go with Rectangular for "Epic Rolls" style.
+                            backgroundImage: `url(${p.portrait})`,
+                            backgroundSize: 'cover',
+                            backgroundPosition: 'center',
+                            border: '3px solid #D4AF37',
+                            boxShadow: '0 5px 15px rgba(0,0,0,0.5)',
+                            marginBottom: '10px'
+                        }} />
+                        <div style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>{p.name}</div>
+                        <div style={{ color: '#D4AF37', fontSize: '1rem' }}>
+                            {p.bonus >= 0 ? `+${p.bonus}` : p.bonus}
+                            {p.rollType !== 'normal' && <span style={{ marginLeft: '5px', fontSize: '0.8em' }}>({p.rollType.toUpperCase()})</span>}
+                        </div>
+                    </div>
+                ))}
+            </div>
+        )}
+
+        {/* ROLL Button - Only show on participants phase */}
+        {phase === 'participants' && (
+            <div style={{
+                position: 'relative',
+                marginTop: '60px',
+                display: 'flex',
+                justifyContent: 'center',
+                width: '100%'
+            }}>
+                <button
+                    onClick={handleRollButtonClick}
+                    style={{
+                        padding: '16px 48px',
+                        fontSize: '1.5rem',
+                        fontWeight: 'bold',
+                        color: '#fff',
+                        background: 'linear-gradient(135deg, #4A90E2 0%, #357ABD 100%)',
+                        border: 'none',
+                        borderRadius: '8px',
+                        cursor: 'pointer',
+                        boxShadow: '0 4px 16px rgba(74, 144, 226, 0.4)',
+                        transition: 'all 0.3s ease',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.1em'
+                    }}
+                    onMouseEnter={(e) => {
+                        e.currentTarget.style.transform = 'scale(1.05)';
+                        e.currentTarget.style.boxShadow = '0 6px 24px rgba(74, 144, 226, 0.6)';
+                    }}
+                    onMouseLeave={(e) => {
+                        e.currentTarget.style.transform = 'scale(1)';
+                        e.currentTarget.style.boxShadow = '0 4px 16px rgba(74, 144, 226, 0.4)';
+                    }}
+                >
+                    🎲 ROLL
+                </button>
+            </div>
+        )}
+
+        {/* Phase 4: Result */}
+        {phase === 'result' && rollResults && (
+            <div style={{ textAlign: 'center', animation: 'zoomIn 0.3s' }}>
+                <h1 style={{ fontSize: '4rem', margin: 0, color: '#fff', textTransform: 'uppercase' }}>
+                    {rollResults.final >= 15 ? 'SUCCESS!' : 'FAILED!'}
+                    {/* Logic for success/fail needs a DC. We'll assume success for now or parse subtitle */}
+                </h1>
+                <div style={{ fontSize: '2rem', color: '#D4AF37', marginTop: '10px' }}>
+                    TOTAL: {rollResults.final}
+                </div>
+            </div>
+        )}
+
+    </div>
+</div>
+        </div >
+    );
+};

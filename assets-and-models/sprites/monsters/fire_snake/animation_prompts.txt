@@ -1,0 +1,28 @@
+﻿# FIRE SNAKE - Animation Prompts (9 Frames)
+
+## Frame 1 - Magma Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, small serpentine elemental made of magma and obsidian scales, glowing cracks. Viewed from top-down angle (80-90 degrees), standing on circular charred ground base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and black tones, detailed magma texture readable from above, strong elemental silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle slithering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Flare
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, rearing up, hood expanding (cobra-like), flames flaring from back. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying fire, detailed movement, strong awakening danger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Coil Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, coiling tightly like a spring, head low, eyes burning bright. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on eyes, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, striking forward with incredible speed, mouth open, fire dripping. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Spit Fire
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, spitting a glob of magma or fire, recoil rippling down body. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed projectile, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spit attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, slithering back, shaking head, flames settling down. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Warming
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, basking on a hot rock, soaking up heat, looking content. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong lizard silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, basking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dormant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, curled into a ball, looking like a pile of hot coals, glowing faintly. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire snake character, small serpentine elemental made of magma and obsidian scales, glowing cracks. Viewed from top-down angle (80-90 degrees), standing on circular charred ground base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and black tones, detailed magma texture readable from above, strong elemental silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle slithering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

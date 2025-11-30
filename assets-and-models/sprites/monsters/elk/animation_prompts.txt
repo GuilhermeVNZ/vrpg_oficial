@@ -1,0 +1,28 @@
+﻿# ELK - Animation Prompts (9 Frames)
+
+## Frame 1 - Forest Stag
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, noble deer with massive antlers, brown fur, white rump patch. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with earthy brown and green tones, detailed fur texture readable from above, strong majestic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Bugle Call
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, head raised high, mouth open in bugling call, antlers tilted back. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dramatic pose, detailed neck extension, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bugling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Antler Lower
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, lowering head to point antlers forward, pawing ground with front hoof. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with aggressive focus, detailed anatomical tension, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing charge, physical tabletop game piece aesthetic.
+
+## Frame 4 - Antler Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, lunging forward with antlers, powerful leg drive, muscles rippling. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed charge action, strong ram silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ram attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Hoof Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, rearing up on hind legs and striking down with front hooves. Viewed from top-down angle (80-90 degrees), melee attack (hooves), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical emphasis, detailed leg action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hoof attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Alert Stance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, ears perked forward, head turned to side, body tense and ready to flee. Viewed from top-down angle (80-90 degrees), defensive/alert, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed alert posture, strong wary silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, alert pose, physical tabletop game piece aesthetic.
+
+## Frame 7 - Grazing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, head lowered to graze on grass, antlers angled down, relaxed stance. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with peaceful tone, detailed grazing action, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Antler Scratch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, using hind leg to scratch near antlers, balancing on three legs. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming action, strong balanced silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elk character, noble deer with massive antlers, brown fur, white rump patch. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with earthy brown and green tones, detailed fur texture readable from above, strong majestic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

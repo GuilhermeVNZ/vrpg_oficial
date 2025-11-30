@@ -1,0 +1,28 @@
+﻿# SPIRIT NAGA - Animation Prompts (9 Frames)
+
+## Frame 1 - Black Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, large serpent with black scales and red bands, human-like face with stringy hair, evil expression. Viewed from top-down angle (80-90 degrees), standing on circular swamp water base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and red tones, detailed scale texture readable from above, strong evil silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, rearing up, hood expanding slightly (cobra-like), mouth opening to hiss, fangs dripping. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying threat, detailed movement, strong awakening monster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charm Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, eyes glowing pink/purple, swaying rhythmically, mouth moving in whisper. Viewed from top-down angle (80-90 degrees), preparing spell, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on eyes, detailed anatomical tension, strong hypnotic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, striking forward, jaws wide, venom spraying, body uncoiling rapidly. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Magic Blast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, unleashing wave of dark magic from mouth/eyes, surrounding area warping. Viewed from top-down angle (80-90 degrees), spell attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed magic manifestation, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spell attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, recoiling, wiping mouth with tail tip, scales smoothing, sneering. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, checking reflection in water, adjusting hair, looking vain and cruel. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong vain silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Resting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, coiled loosely, head resting on coils, eyes half closed but watching. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spirit naga character, large serpent with black scales and red bands, human-like face with stringy hair, evil expression. Viewed from top-down angle (80-90 degrees), standing on circular swamp water base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and red tones, detailed scale texture readable from above, strong evil silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

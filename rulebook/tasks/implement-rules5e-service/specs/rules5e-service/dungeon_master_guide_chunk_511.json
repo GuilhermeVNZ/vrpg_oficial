@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ficina do Mestre”), uma criatura faz um\nteste de resistência de Sanidade, ao invés.\nEFEITOS DE LOUCURA\nA loucura pode ser de curta duração, longa duração ou\npermanente. A maioria dos efeitos relativamente\nmundanos impõem uma loucura de curta duração, que\ndura por apenas alguns minutos. Efeitos mais horrendos\nou efeitos cumulativos podem resultar em uma loucura de\nlonga duração ou permanente.\nUm personagem afligido por uma loucura de curta\nduração é afetado por um efeito da tabela Loucura de\nCurta Duração por 1d10 minutos.\nUm personagem afligido por uma loucura de longa\nduração é afetado por um efeito da tabela Loucura de\nLonga Duração por 1d10 x 10 horas.\nUm personagem afligido por uma loucura\npermanente é afetado por um efeito da tabela Loucura\nPermanente até ser curado.\nLOUCURA DE CURTA DURAÇÃO\nd100 Efeito (dura 1d10 minutos)\n01–20 O personagem se retrai em sua mente, ficando\nparalisado. O efeito termina se o personagem sofrer\nqualquer dano.\n21–30 O personagem fica incapacitado e passa seu turno\ngritando, rindo ou chorando.\n31–40 O personagem fica amedrontado e deve usar sua ação\npara se mover a cada rodada para fugir da fonte do\nmedo.\n41–50 O personagem começa a balbuciar e fica incapaz de falar\nou conjurar normalmente.\n51–60 O personagem deve usar sua ação a cada rodada para\natacar a criatura mais próxima.\n61–70 O personagem experimenta alucinações vívidas e tem\ndesvantagem em testes de habilidade.\n71–75 O personagem faz o que qualquer um mandar ele fazer\nque não seja obviamente suicida.\n76–80 O personagem experimenta uma vontade avassaladora\nde comer coisas estranhas como terra, limo ou restos.\n81–90 O personagem fica atordoado.\n91–00 O personagem cai inconsciente.\n260\n\n\n# Pagina 262\n\nLOUCURA DE LONGA DURAÇÃO LOUCURA PERMANENTE\nd100 Efeito (dura 1d10 x 10 horas) d100 Defeito (dura até ser curada)\n01–10 O personagem se sente obrigado a repetir uma atividade 01–15 “Estar bêbado me mantem são.”\nespecífica de novo e de novo, como lavar as mãos, tocar 16–25 “Eu guar",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  511,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

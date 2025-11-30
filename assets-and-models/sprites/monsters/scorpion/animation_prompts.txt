@@ -1,0 +1,28 @@
+﻿# SCORPION - Animation Prompts (9 Frames)
+
+## Frame 1 - Desert Predator
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, arachnid with eight legs, large pincers, curved stinger tail. Viewed from top-down angle (80-90 degrees), standing on circular desert sand base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and brown tones, detailed chitin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tail Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, raising stinger tail high over body, threatening. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tail focus, detailed tail raise, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail raising, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scuttle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, scuttling sideways rapidly on eight legs. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed scuttling, strong moving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scuttling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Grab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, snapping pincers closed on prey, gripping. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw focus, detailed grab action, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Sting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, whipping tail forward, stinger injecting venom. Viewed from top-down angle (80-90 degrees), melee attack (sting), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stinger focus, detailed sting action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sting attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Venom Drip
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, venom dripping from stinger tip, deadly. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with venom emphasis, detailed venom, strong venomous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, venom dripping, physical tabletop game piece aesthetic.
+
+## Frame 7 - Burrow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, digging into sand, partially buried. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with digging motion, detailed burrowing, strong digger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, burrowing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Wait
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, motionless in ambush position, waiting for prey. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed waiting, strong patient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, waiting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, scorpion character, arachnid with eight legs, large pincers, curved stinger tail. Viewed from top-down angle (80-90 degrees), standing on circular desert sand base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and brown tones, detailed chitin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

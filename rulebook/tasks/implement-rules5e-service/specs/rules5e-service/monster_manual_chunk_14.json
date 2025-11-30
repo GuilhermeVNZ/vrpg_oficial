@@ -1,0 +1,12 @@
+﻿{
+    "text":  " concede\ncategorização adicional para certas criaturas. Os\nO modificador de Constituição de um monstro também\ndescritores não possuem regras próprias, mas algumas\nafeta o valor de pontos de vida que ele tem. Seu\nvezes no jogo, algum item mágico pode se referir a eles.\nmodificador é multiplicado pela quantidade de Dados de\nPor exemplo, uma lança que seja especialmente eficiente\nVida que ele possui e o resultado é adicionado aos seus\nna luta contra demônios poderia funcionar contra\npontos de vida. Por exemplo, se um monstro tiver\nqualquer monstro que possua o descritor demônio.\nConstituição 12 (+1 de modificador) e 2d8 Dados de Vida,\nele terá 2d8 + 2 pontos de vida (média 11).\n7\n\n\n# Pagina 9\n\nDESLOCAMENTO BÔNUS DE PROFICIÊNCIA POR NÍVEL DE DESAFIO\nBônus de Bônus de\nO deslocamento de um monstro diz a você o quão longe ele\nDesafio Proficiência Desafio Proficiência\npode se mover no turno dele. Para mais informações sobre\n0 +2 14 +5\ndeslocamento, veja o Livro do Jogador.\n1/8 +2 15 +5\nTodas as criaturas possuem um deslocamento de\ncaminhada, chamado simplesmente de deslocamento do 1/4 +2 16 +5\nmonstro. Criaturas que não possuírem uma forma de 1/2 +2 17 +6\nlocomoção terrestre terão deslocamento de caminhada de 1 +2 18 +6\n0 metros.\n2 +2 19 +6\nAlgumas criaturas possuem um ou mais dos seguintes\n3 +2 20 +6\nmodos de deslocamento adicionais.\n4 +2 21 +7\nESCAVAÇÃO 5 +3 22 +7\nUm monstro que possua deslocamento de escavação pode 6 +3 23 +7\nusar seu deslocamento para se mover através de areia,\n7 +3 24 +7\nterra, lama ou gelo. Um monstro não pode escavar\n8 +3 25 +8\natravés de rocha sólida, a não ser que ele tenha uma\ncaracterística especial que o permita fazê-lo. 9 +4 26 +8\n10 +4 27 +8\nESCALADA\n11 +4 28 +8\nUm monstro que possua deslocamento de escalada pode\n12 +4 29 +9\nusar todo ou parte do seu movimento para se mover em\nsuperfícies verticais. O monstro não precisa gastar 13 +5 30 +9\nmovimento extra para escalar.\nPERÍCIAS\nVOO\nA linha Perícias é reservada para monstros que sejam\nUm monstr",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  14,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

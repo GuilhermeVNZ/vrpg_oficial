@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ídas. Para cada saída, role na\n10 Desce dois níveis para uma passagem de 6 m de\ntabela Localização da Saída para determinar a natureza e\ncomprimento\nlocal da saída.\n11 Desce três níveis para uma câmara\nUse as tabelas na seção “Preenchendo uma Masmorra”\n12 Desce três níveis para uma passagem de 6 m de\npara determinar o conteúdo de uma câmara.\ncomprimento\n13 Sobe um nível para uma câmara\nCÂMARAS 14 Sobe um nível para um passagem de 6 m de\nd20 Câmara comprimento\n1–2 Quadrada, 6 x 6 m¹ 15 Sobe para um beco sem saída\n3–4 Quadrada, 9 x 9 m¹ 16 Desce para um beco sem saída\n5–6 Quadrada 12 x 12 m¹ 17 Chaminé sobe um nível para uma passagem de 6 m de\n7–9 Retangular, 6 x 9 m¹ comprimento\n10–12 Retangular, 9 x 12 m¹ 18 Chaminé sobe dois níveis para uma passagem de 6 m\n13–14 Retangular, 12 x 15 m² de comprimento\n15 Retangular, 15 x 24 m² 19 Fosso (com ou sem elevador) para um nível abaixo em\n16 Circular, 9 m de diâmetro¹ uma câmara\n17 Circular, 15 m de diâmetro 20 Fosso (com ou sem elevador) para um nível acima em\n18 Octogonal, 12 x 12 m² uma câmara e um nível abaixo em uma câmara\n19 Octogonal, 18 x 18 m²\n20 Trapezoide, aproximadamente 12 x 18 m²\n¹ Use a coluna Câmara Normal na tabela Saídas da Câmara.\n² Use a coluna Câmara Grande na tabela Saídas da Câmara.\nSAÍDAS DA CÂMARA\nd20 Câmara Normal Câmara Grande\n1–3 0 0\n4–5 0 1\n6–8 1 1\n9–11 1 2\n12–13 2 2\n14–15 2 3\n16–17 3 3\n18 3 4\n19 4 5\n20 4 6\n292\n\n\n# Pagina 294\n\nCONECTANDO ÁREAS Aventura”, tem sua própria tabela contendo câmaras\nvoltadas para o propósito da masmorra. Por exemplo, se\nQuando seu mapa estiver pronto, considere adicionar\nvocê estiver construindo uma tumba, use a tabela\nportas entre câmaras e passagens que estejam próximas\nMasmorra: Tumba para ajudar você a determinar o\nentre si, mas não estejam conectadas. Tais portas criam\nmais caminhos pela masmorra e expandem as opções dos propósito de cada câmara. Essas tabelas específicas de\njogadores. masmorra são seguidas pela tabela Câmaras da\nSe sua masmorra consiste de mais d",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  581,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

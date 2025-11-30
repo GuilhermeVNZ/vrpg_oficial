@@ -1,0 +1,28 @@
+﻿# HYENA - Animation Prompts (9 Frames)
+
+## Frame 1 - Scavenger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, spotted carnivore with powerful jaws and sloped back. Viewed from top-down angle (80-90 degrees), standing on circular savanna base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and brown tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Cackle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, head raised, mouth open in distinctive cackling laugh. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed laugh, strong cackling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cackling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Lope
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, running with characteristic loping gait, tail raised. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed running action, strong loping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, loping, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, lunging forward with powerful jaws open, teeth bared. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bone Crush
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, jaws clamping down with bone-crushing force, head shaking. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with crushing emphasis, detailed jaw power, strong crusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crushing bite, physical tabletop game piece aesthetic.
+
+## Frame 6 - Pack Call
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, howling to summon pack members, head back. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound emphasis, detailed howl, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, howling, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scent Trail
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, nose to ground, sniffing trail, tail low. Viewed from top-down angle (80-90 degrees), tracking, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with scent focus, detailed sniffing, strong tracking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking, physical tabletop game piece aesthetic.
+
+## Frame 8 - Scratch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, sitting and scratching behind ear with hind leg. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed scratching, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hyena character, spotted carnivore with powerful jaws and sloped back. Viewed from top-down angle (80-90 degrees), standing on circular savanna base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and brown tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

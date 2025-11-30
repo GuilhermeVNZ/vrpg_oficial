@@ -1,0 +1,28 @@
+﻿# RHINOCEROS - Animation Prompts (9 Frames)
+
+## Frame 1 - Armored Beast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, massive grey beast with thick hide, large horn, powerful build. Viewed from top-down angle (80-90 degrees), standing on circular savanna base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and brown tones, detailed hide texture readable from above, strong tank silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Snort
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, snorting loudly, breath visible, ears flicking. Viewed from top-down angle (80-90 degrees), vocalization/intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with breath effect, detailed snort, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, snorting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, pawing ground, lowering head, preparing to charge. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed preparation, strong coiled silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing charge, physical tabletop game piece aesthetic.
+
+## Frame 4 - Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, running at full speed, horn forward, unstoppable momentum. Viewed from top-down angle (80-90 degrees), melee attack (charge), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed charge action, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charge attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Gore
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, thrusting horn upward in goring motion, tossing target. Viewed from top-down angle (80-90 degrees), melee attack (gore), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with horn focus, detailed gore action, strong goring silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gore attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Trample
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, stomping with massive feet, crushing everything beneath. Viewed from top-down angle (80-90 degrees), melee attack (trample), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stomp emphasis, detailed trample action, strong trampler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trample attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Thick Hide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, arrows bouncing off armored hide, natural armor. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deflection, detailed armor, strong protected silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, deflecting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Wallow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, rolling in mud, cooling off and protecting skin. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed wallowing, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wallowing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rhinoceros character, massive grey beast with thick hide, large horn, powerful build. Viewed from top-down angle (80-90 degrees), standing on circular savanna base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and brown tones, detailed hide texture readable from above, strong tank silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

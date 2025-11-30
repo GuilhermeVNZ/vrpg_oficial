@@ -1,0 +1,28 @@
+﻿# VIOLET FUNGUS - Animation Prompts (9 Frames)
+
+## Frame 1 - Deadly Mushroom
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, large purple mushroom with multiple tentacle-like tendrils. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and grey tones, detailed fungal texture readable from above, strong plant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sense Vibration
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, tendrils twitching, sensing movement nearby. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibration waves, detailed sensing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sensing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Tendrils Extend
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, tendrils reaching outward, searching for prey. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tendril focus, detailed extension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, extending tendrils, physical tabletop game piece aesthetic.
+
+## Frame 4 - Rotting Touch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, tendril striking target, rotting flesh on contact. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with necrotic effect, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tendril attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Multiple Strikes
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, lashing with all tendrils simultaneously, overwhelming. Viewed from top-down angle (80-90 degrees), special attack (multiattack), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with multiple strikes, detailed multiattack, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, multiattack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Retract
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, pulling tendrils back after strike. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with retraction motion, detailed retraction, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, retracting, physical tabletop game piece aesthetic.
+
+## Frame 7 - Spore Release
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, releasing purple spores from cap, reproducing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with spore cloud, detailed spore release, strong reproductive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, releasing spores, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dormant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, tendrils hanging limp, looking like ordinary mushroom. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed stillness, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dormant idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, violet fungus character, large purple mushroom with multiple tentacle-like tendrils. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and grey tones, detailed fungal texture readable from above, strong plant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

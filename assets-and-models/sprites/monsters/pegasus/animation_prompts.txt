@@ -1,0 +1,28 @@
+﻿# PEGASUS - Animation Prompts (9 Frames)
+
+## Frame 1 - Winged Horse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, majestic white horse with large feathered wings, noble bearing. Viewed from top-down angle (80-90 degrees), standing on circular cloud base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and gold tones, detailed feather and mane texture readable from above, strong celestial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Whinny
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, head raised, neighing majestically, wings partially spread. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dramatic pose, detailed whinny, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, whinnying, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, spreading massive wings wide in display, impressive wingspan. Viewed from top-down angle (80-90 degrees), intimidation/preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing emphasis, detailed wing anatomy, strong imposing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing display, physical tabletop game piece aesthetic.
+
+## Frame 4 - Hoof Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, rearing up and striking down with front hooves. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with hoof focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hoof attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Takeoff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, leaping into air with powerful wing beats, ascending. Viewed from top-down angle (80-90 degrees), flight preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with launch motion, detailed takeoff, strong launching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, taking off, physical tabletop game piece aesthetic.
+
+## Frame 6 - Soar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, wings extended in gliding position, soaring gracefully. Viewed from top-down angle (80-90 degrees), movement/flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with aerial grace, detailed soaring, strong flying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, soaring, physical tabletop game piece aesthetic.
+
+## Frame 7 - Dive
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, diving down with wings swept back, hooves forward. Viewed from top-down angle (80-90 degrees), aerial attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dive motion, detailed dive action, strong diving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, diving, physical tabletop game piece aesthetic.
+
+## Frame 8 - Graze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, head lowered, grazing on celestial grass, wings folded. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grazing, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pegasus character, majestic white horse with large feathered wings, noble bearing. Viewed from top-down angle (80-90 degrees), standing on circular cloud base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and gold tones, detailed feather and mane texture readable from above, strong celestial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+﻿# DARKMANTLE - Animation Prompts (9 Frames)
+
+## Frame 1 - Ceiling Lurker
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, squid-like monstrosity with a rocky shell and tentacles, hanging from a stalactite (or mimicking one). Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep shadows and bioluminescent spots, detailed rocky texture readable from above, strong ambush silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hanging/lurking pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Drop Attack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, detaching from the ceiling and falling downward, tentacles spreading wide to engulf prey. Viewed from top-down angle (80-90 degrees), ambush attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed tentacle action, strong falling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dropping, physical tabletop game piece aesthetic.
+
+## Frame 3 - Darkness Aura
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, emitting a cloud of magical darkness (inky black smoke) from its body. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with negative space focus, detailed smoke effects, strong magical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting darkness, physical tabletop game piece aesthetic.
+
+## Frame 4 - Tentacle Crush
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, wrapping tentacles tightly around an invisible victim, squeezing hard. Viewed from top-down angle (80-90 degrees), melee attack (crush), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension focus, detailed constriction action, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crushing attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, revealing a sharp beak from underneath its tentacles and snapping it forward. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp lines, detailed beak action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Tentacle Flail
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, flailing tentacles wildly in all directions, perhaps in pain or to ward off attackers. Viewed from top-down angle (80-90 degrees), reaction/defense, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with chaotic motion, detailed limb movement, strong chaotic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flailing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Floor Slither
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, moving across the ground using its tentacles like legs, shell low. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with low profile, detailed slithering motion, strong crawler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, moving on ground, physical tabletop game piece aesthetic.
+
+## Frame 8 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, pulling tentacles in and hardening its shell to look exactly like a stalagmite. Viewed from top-down angle (80-90 degrees), almost fully at rest (hiding), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed rock texture, strong rock silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, camouflaged idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, darkmantle character, squid-like monstrosity with a rocky shell and tentacles, hanging from a stalactite (or mimicking one). Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep shadows and bioluminescent spots, detailed rocky texture readable from above, strong ambush silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hanging/lurking pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

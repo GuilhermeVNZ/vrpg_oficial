@@ -1,0 +1,28 @@
+﻿# PHASE SPIDER - Animation Prompts (9 Frames)
+
+## Frame 1 - Ethereal Arachnid
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, large spider with slightly translucent body, eight legs, multiple eyes. Viewed from top-down angle (80-90 degrees), standing on circular web base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and grey tones, detailed chitin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Ethereal Jaunt Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, body becoming more translucent, preparing to shift planes. Viewed from top-down angle (80-90 degrees), special ability prep, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with ethereal glow, detailed phasing, strong fading silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing phase, physical tabletop game piece aesthetic.
+
+## Frame 3 - Phase Out
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, shifting to Ethereal Plane, becoming ghostly and transparent. Viewed from top-down angle (80-90 degrees), special ability (ethereal jaunt), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with plane shift effect, detailed ethereal form, strong ghostly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, phasing out, physical tabletop game piece aesthetic.
+
+## Frame 4 - Phase In
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, materializing from Ethereal Plane behind prey, ambush. Viewed from top-down angle (80-90 degrees), special ability (return), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with materialization, detailed phase in, strong ambusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, phasing in, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, lunging with fangs extended, injecting venom. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fang focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Web Spin
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, spinning web from spinnerets, creating trap. Viewed from top-down angle (80-90 degrees), special action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with web strands, detailed web spinning, strong weaver silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spinning web, physical tabletop game piece aesthetic.
+
+## Frame 7 - Wall Climb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, climbing up invisible wall, defying gravity. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical orientation, detailed climbing, strong climber silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, climbing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Web Wait
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, sitting motionless in center of web, waiting for prey. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed waiting, strong patient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, waiting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, phase spider character, large spider with slightly translucent body, eight legs, multiple eyes. Viewed from top-down angle (80-90 degrees), standing on circular web base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and grey tones, detailed chitin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

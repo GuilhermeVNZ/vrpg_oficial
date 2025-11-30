@@ -1,0 +1,28 @@
+# GREEN SLAAD - Animation Prompts (9 Frames)
+
+## Frame 1 - Magic Chaos
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, tall lanky bipedal frog-like monster with green skin, intelligent eyes, holding staff or wand. Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and purple tones, detailed skin texture readable from above, strong caster silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Spell Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, hands glowing with chaotic magic, staff pulsing, eyes flashing, skin rippling. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying magic, detailed energy movement, strong awakening mage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Staff Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, raising staff high, chanting (mouth moving), magic gathering at tip. Viewed from top-down angle (80-90 degrees), preparing spell, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on staff, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Chaos Bolt
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, firing bolt of chaotic energy from staff, body recoiling, robes (if any) fluttering. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed magic manifestation, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shape Shift Start
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, body blurring, humanoid features appearing (polymorph), magic swirling around form. Viewed from top-down angle (80-90 degrees), transformation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed morphing, strong changing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, polymorph, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, lowering staff, magic fading, smoothing skin, checking surroundings. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding magic, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Pondering
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, tapping chin with claw, looking thoughtful, staff leaning against shoulder. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong intelligent silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, thinking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Waiting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, standing still, staff held loosely, eyes scanning, patient posture. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient mage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green slaad character, tall lanky bipedal frog-like monster with green skin, intelligent eyes, holding staff or wand. Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and purple tones, detailed skin texture readable from above, strong caster silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

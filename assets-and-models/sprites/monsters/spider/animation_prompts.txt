@@ -1,0 +1,28 @@
+﻿# SPIDER - Animation Prompts (9 Frames)
+
+## Frame 1 - Eight-Legged Hunter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, large arachnid with eight legs, multiple eyes, hairy body. Viewed from top-down angle (80-90 degrees), standing on circular web base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and brown tones, detailed chitin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sense Vibration
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, legs twitching, sensing vibrations in web. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibration waves, detailed sensing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sensing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scuttle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, scuttling rapidly across web or ground, legs moving in coordination. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed scuttling, strong moving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scuttling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, lunging forward with fangs extended, injecting venom. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fang focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Web Spin
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, spinning web from spinnerets, creating trap. Viewed from top-down angle (80-90 degrees), special action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with web strands, detailed web spinning, strong weaver silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spinning web, physical tabletop game piece aesthetic.
+
+## Frame 6 - Web Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, shooting web strand at prey to entangle. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with web projectile, detailed web shot, strong trapper silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, web shot, physical tabletop game piece aesthetic.
+
+## Frame 7 - Wall Climb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, climbing up invisible wall, defying gravity. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical orientation, detailed climbing, strong climber silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, climbing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Wait in Web
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, sitting motionless in center of web, waiting for prey. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed waiting, strong patient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, waiting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, spider character, large arachnid with eight legs, multiple eyes, hairy body. Viewed from top-down angle (80-90 degrees), standing on circular web base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and brown tones, detailed chitin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

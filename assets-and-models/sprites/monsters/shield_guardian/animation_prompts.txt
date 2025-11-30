@@ -1,0 +1,28 @@
+﻿# SHIELD GUARDIAN - Animation Prompts (9 Frames)
+
+## Frame 1 - Arcane Sentinel
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, large construct made of wood and metal, glowing runes, amulet embedded in chest. Viewed from top-down angle (80-90 degrees), standing on circular wizard tower base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and blue tones, detailed rune texture readable from above, strong protector silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sentinel pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Shield
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, raising arms to form a magical barrier, runes flaring bright blue. Viewed from top-down angle (80-90 degrees), defensive ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying protection, detailed barrier effect, strong tank silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Punch Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, pulling back a massive fist, gears locking, magic charging in knuckles. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on fist, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Rocket Punch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, punching forward with heavy impact, shockwave visible. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Spell Store
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, chest amulet opening/glowing, releasing a stored spell (fire/lightning), energy erupting. Viewed from top-down angle (80-90 degrees), spell attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed magic manifestation, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spell attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, returning to guard stance, steam venting from joints, runes dimming. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Repair
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, standing still, small magical sparks repairing dents in armor, self-healing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong regenerating silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, repair idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Shutdown
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, head lowered, arms at sides, runes dark, completely motionless construct. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong object silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shield guardian character, large construct made of wood and metal, glowing runes, amulet embedded in chest. Viewed from top-down angle (80-90 degrees), standing on circular wizard tower base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and blue tones, detailed rune texture readable from above, strong protector silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sentinel pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

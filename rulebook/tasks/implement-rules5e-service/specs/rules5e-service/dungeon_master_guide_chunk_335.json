@@ -1,0 +1,12 @@
+﻿{
+    "text":  "é usada, ela não pode ser usada novamente\naté o próximo amanhecer.\nRelâmpago. Quando você atinge com um ataque\ncorpo-a-corpo usando o cajado, você pode fazer com que\nele causa 2d6 de dano elétrico extra.\nTrovão. Quando você atinge com um ataque corpo-a-\ncorpo usando o cajado, você pode fazer com que ele emita\num estrondo de trovão, audível a até 90 metros de\ndistância. O alvo que você atingiu deve ser bem sucedido\nnum teste de resistência de Constituição CD 17, ou ficará\natordoado até o final do seu próximo turno.\nGolpe Elétrico. Você pode usar uma ação para fazer\num relâmpago saltar da ponta do cajado em uma linha de\n1,5 metro de largura por 36 metros de comprimento. Cada\ncriatura na linha deve realizar um teste de resistência de\nDestreza CD 17, sofrendo 9d6 de dano elétrico se falhar\nou metade desse dano se obtiver sucesso.\nGolpe Trovejante. Você pode usar uma ação para\nfazer o cajado emitir um estrondo trovejante\nensurdecedor, audível a até 180 metros de distância.\nCada criatura a até 18 metros de você (não incluindo\nvocê) deve realizar um teste de resistência de\nConstituição CD 17. Se fracassar na resistência, uma\ncriatura sofre 2d6 de dano trovejante e fica surda por 1\nminuto. Se passar na resistência, uma criatura sofre\nmetade desse dano e não fica surda.\nTrovão e Relâmpago. Você pode usar uma ação para\nusar as propriedades Golpe Elétrico e Golpe Trovejante ao\nmesmo tempo. Fazer isso não gasta os usos diários dessas\npropriedades, apenas o uso desta aqui.\n169\n\n\n# Pagina 171\n\nCAJADO DO ARCANO\nCajado, lendário (requer sintonização com um bruxo,\nfeiticeiro ou mago)\nEste cajado pode ser empunhado como um bordão mágico\nque concede +2 de bônus nas jogadas de ataque e dano\nfeitas com ele. Enquanto estiver empunhando-o, você\nganha +2 de bônus nas jogadas de ataque com magia.\nO cajado tem 50 cargas para as propriedades a seguir.\nEle recupera 4d6 + 2 cargas gastas diariamente ao\namanhecer. Se você gastar a última carga, role um d20.\nEm um 20, o cajado recupera 1d12 + 1 c",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  335,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

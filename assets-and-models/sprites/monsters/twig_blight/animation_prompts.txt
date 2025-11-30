@@ -1,0 +1,28 @@
+﻿# TWIG BLIGHT - Animation Prompts (9 Frames)
+
+## Frame 1 - Animated Kindling
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, small humanoid made of dry twigs and branches, glowing eyes. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed wood texture readable from above, strong plant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rustle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, branches shaking, leaves rustling, eyes glowing brighter. Viewed from top-down angle (80-90 degrees), alert, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with movement, detailed rustling, strong awakening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rustling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scuttle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, scuttling forward on branch legs, jerky motion. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed scuttling, strong moving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scuttling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, raking with sharp twig claws, scratching. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw focus, detailed rake action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Swarm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, joining others (implied) in coordinated attack. Viewed from top-down angle (80-90 degrees), special attack (pack tactics), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with swarm emphasis, detailed swarming, strong group silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swarming, physical tabletop game piece aesthetic.
+
+## Frame 6 - False Appearance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, freezing in place, looking like dead shrub. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with camouflage, detailed stillness, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, camouflaging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Flammable
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, recoiling from fire (implied), dry wood smoking. Viewed from top-down angle (80-90 degrees), vulnerability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fear emphasis, detailed recoiling, strong fearful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, recoiling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Root
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, standing motionless, looking like ordinary dead plant. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed stillness, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rooting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, twig blight character, small humanoid made of dry twigs and branches, glowing eyes. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed wood texture readable from above, strong plant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

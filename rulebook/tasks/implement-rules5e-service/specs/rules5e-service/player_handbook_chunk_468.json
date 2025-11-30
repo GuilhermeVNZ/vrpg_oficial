@@ -1,0 +1,12 @@
+﻿{
+    "text":  "s\nComponentes: V, S, M (uma munição ou arma de\nAlcance: Toque\narremesso)\nComponentes: V, S, M (ervas, óleos e incenso valendo,\nDuração: Instantânea\nno mínimo, 1.000 po, consumidos pela magia)\nVocê arremessa uma arma não-mágica ou dispara uma Duração: Até ser dissipada\nmunição não-mágica no ar para criar um cone de armas\nVocê toca um ponto e infunde uma área ao redor com\nidênticas que se lançam a frente e então desaparecem.\npoder sagrado (ou profano). A área pode ter até 18 metros\nCada criatura num cone de 18 metros, deve ser bem\nde raio e a magia falha se o raio incluir uma área já sob\nsucedida num teste de resistência de Destreza. Uma\nefeito da magia consagrar. A área afetada está sujeita aos\ncriatura sofre 3d8 de dano se falhar na resistência, ou\nseguintes efeitos.\nmetade desse dano num sucesso. O tipo do dano é o\nPrimeiro, celestiais, corruptores, elementais, fadas e\nmesmo da arma ou munição usada como componente.\nmortos-vivos não conseguem entrar na área, nem, tais\ncriaturas, podem enfeitiçar, amedrontar ou possuir\nCONJURAR SARAIVADA\ncriaturas dentro da área. Qualquer criatura enfeitiçada,\n5° nível de conjuração\namedrontada ou possuída por uma criatura dessas, não\nTempo de Conjuração: 1 ação\nestará mais enfeitiçada, amedrontada ou possuída ao\nAlcance: 45 metros\nadentrar a área. Você pode excluir um ou mais desses\nComponentes: V, S, M (uma munição ou arma de\ntipos de criaturas desse efeito.\narremesso)\nSegundo, você pode vincular um efeito extra a área.\nDuração: Instantânea\nEscolha o efeito da lista a seguir, ou escolha um efeito\nVocê dispara uma munição não-mágica de uma arma à oferecido pelo Mestre. Alguns desses efeitos se aplicam a\ndistância ou arremessa uma arma não-mágica no ar e criaturas na área; você pode definir seu o efeito se aplica\nescolhe um ponto dentro do alcance. Centenas de a todas as criaturas, criaturas que seguem uma divindade\nduplicatas da munição ou arma caem em uma saraivada ou líder especifico ou criaturas de uma espécie especifica,\nvinda ",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  468,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

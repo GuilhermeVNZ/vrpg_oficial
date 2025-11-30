@@ -1,0 +1,12 @@
+﻿{
+    "text":  "dra não pode ser usada\ndessa forma novamente até o próximo amanhecer. A\npedra pesa 2,5 quilos.\nPEDRA IÔNICA\nItem maravilhoso, raridade variável (requer sintonização)\nUma pedra iônica é nomeada em homenagem a Ioun, um\ndeus do conhecimento e profecia reverenciado em alguns\nmundos. Existem muitos tipos de pedras iônicas, cada\ntipo de uma combinação de forma e cor distinta.\nQuando você usa uma ação para arremessar uma\ndessas pedras no ar, a pedra orbita sua cabeça a uma\ndistância de 30 centímetros e confere um benefício a você.\nPosteriormente, outra criatura deve usar uma ação para\nagarrar ou apanhar a pedra para separa-la de você, ou\nrealizando um teste de ataque bem sucedido contra CA\n24, ou sendo bem sucedido num teste de Destreza\n(Acrobacia) CD 24. Você pode usar uma ação para pegar e\nguardar a pedra, terminando seu efeito.\nUma pedra tem CA 24, 10 pontos de vida e resistência\na todos os danos. Ela é considerada um objeto que está\nsendo vestido enquanto estiver orbitando sua cabeça.\nAbsorção (Muito Raro). Enquanto esta pedra\nelipsoide lavanda clara orbitar sua cabeça, você pode usar\nsua reação para cancelar uma magia de 4° nível ou\ninferior conjurada por uma criatura que você possa ver e\nesteja focando você.\nUma vez que a pedra tenha cancelado 20 níveis de\nmagia, ela se incinera ficando cinza fosco e perdendo sua\nmágica. Se você for alvo de uma magia cujo nível seja\nmaior que o número de níveis de magia restantes na\npedra, a magia não poderá cancela-la.\nAgilidade (Muito Raro). Seu valor de Destreza\naumenta em 2, até o máximo de 20, enquanto esta esfera\nvermelha escura orbitar sua cabeça.\nProntidão (Raro). Você não pode ser surpreendido\nenquanto esta pedra romboide azul escura orbitar sua\ncabeça.\n195\n\n\n# Pagina 197\n\nEnquanto esta pedra orbitar sua cabeça, você pode\nFortitude (Muito Raro). Seu valor de Constituição conjurar qualquer magia armazenada nela. A magia usa o\naumenta em 2, até o máximo de 20, enquanto esta pedra nível de magia, CD de magia, bônus de ataque de",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  378,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

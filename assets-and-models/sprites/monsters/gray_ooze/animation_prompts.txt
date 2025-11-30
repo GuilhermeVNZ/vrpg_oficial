@@ -1,0 +1,28 @@
+﻿# GRAY OOZE - Animation Prompts (9 Frames)
+
+## Frame 1 - Stone Sludge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, amorphous blob of grey slime, resembling wet stone, slow moving. Viewed from top-down angle (80-90 degrees), standing on circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and slate tones, detailed slime texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flowing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Ripple
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, surface rippling violently, forming a pseudopod, acid hissing. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying wetness, detailed ripple movement, strong awakening danger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Lash Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, gathering mass into a whip-like extension, pulling back, tension building. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on wet surface, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Acid Lash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, lashing out with pseudopod, striking like a snake, acid spraying. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, rising up like a wave to crash down and engulf target (implied), transparent edges. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed engulfing, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, settling back into pool shape, ripples fading, acid smoking. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Corrosion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, bubbling around a metal object (sword hilt), smoke rising, object dissolving. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong corrosive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, eating idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, flattening and becoming still, texture matching stone floor perfectly, hard to see. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong invisible silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gray ooze character, amorphous blob of grey slime, resembling wet stone, slow moving. Viewed from top-down angle (80-90 degrees), standing on circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and slate tones, detailed slime texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle flowing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

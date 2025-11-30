@@ -1,0 +1,28 @@
+﻿# PONY - Animation Prompts (9 Frames)
+
+## Frame 1 - Small Horse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, small horse with flowing mane and tail, gentle eyes. Viewed from top-down angle (80-90 degrees), standing on circular grassland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and tan tones, detailed fur texture readable from above, strong equine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Whinny
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, head raised, neighing softly, ears forward. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed whinny, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, whinnying, physical tabletop game piece aesthetic.
+
+## Frame 3 - Trot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, trotting forward with bouncy gait, tail swishing. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion, detailed trotting, strong moving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trotting, physical tabletop game piece aesthetic.
+
+## Frame 4 - Kick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, turning and kicking back with hind hooves defensively. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with kick motion, detailed kick action, strong kicker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, kick attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, turning head to nip with teeth, irritated. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Gallop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, running at full speed, all four hooves off ground. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with speed, detailed gallop, strong running silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, galloping, physical tabletop game piece aesthetic.
+
+## Frame 7 - Graze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, head lowered, eating grass peacefully. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grazing, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Nuzzle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, nuzzling invisible companion affectionately, friendly. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed nuzzling, strong gentle silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nuzzling idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pony character, small horse with flowing mane and tail, gentle eyes. Viewed from top-down angle (80-90 degrees), standing on circular grassland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and tan tones, detailed fur texture readable from above, strong equine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

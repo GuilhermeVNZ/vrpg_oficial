@@ -1,0 +1,119 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ ubuntu-latest, windows-latest, macos-latest ]
+        include:
+          - os: ubuntu-latest
+            platform: linux
+          - os: windows-latest
+            platform: win
+          - os: macos-latest
+            platform: mac
+
+    steps:
+    - uses: actions/checkout@v5
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20.x'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm ci
+    
+    - name: Setup Rust
+      uses: dtolnay/rust-toolchain@stable
+    
+    - uses: Swatinem/rust-cache@v2
+    
+    - name: Build Rust services
+      run: cargo build --release --workspace
+    
+    - name: Install Electron Builder dependencies (Linux)
+      if: matrix.os == 'ubuntu-latest'
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y fakeroot
+    
+    - name: Build Electron app
+      run: npm run build
+    
+    - name: Build distributable
+      run: |
+        if [ "${{ matrix.platform }}" == "win" ]; then
+          npm run dist:win
+        elif [ "${{ matrix.platform }}" == "mac" ]; then
+          npm run dist:mac
+        else
+          npm run dist:linux
+        fi
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: dist-${{ matrix.platform }}
+        path: |
+          dist/*.exe
+          dist/*.dmg
+          dist/*.AppImage
+          dist/*.deb
+          dist/*.rpm
+        if-no-files-found: warn
+
+  create-release:
+    needs: release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v5
+      with:
+        fetch-depth: 0
+    
+    - name: Download all artifacts
+      uses: actions/download-artifact@v4
+      with:
+        path: artifacts
+    
+    - name: Get version from tag
+      id: tag
+      run: echo "VERSION=${GITHUB_REF#refs/tags/v}" >> $GITHUB_OUTPUT
+    
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ github.ref }}
+        name: Release v${{ steps.tag.outputs.VERSION }}
+        body: |
+          ## VRPG Client v${{ steps.tag.outputs.VERSION }}
+          
+          ### Changes
+          See [CHANGELOG.md](CHANGELOG.md) for details.
+          
+          ### Downloads
+          - **Windows**: `dist-win/*.exe`
+          - **macOS**: `dist-mac/*.dmg`
+          - **Linux**: `dist-linux/*.AppImage` or `dist-linux/*.deb`
+        files: |
+          artifacts/dist-win/**/*
+          artifacts/dist-mac/**/*
+          artifacts/dist-linux/**/*
+        draft: false
+        prerelease: ${{ contains(github.ref, 'alpha') || contains(github.ref, 'beta') || contains(github.ref, 'rc') }}
+

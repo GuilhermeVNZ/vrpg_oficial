@@ -1,0 +1,12 @@
+﻿{
+    "text":  " funcionam\nQuando estiver gerando passagens e corredores, role na\nde forma interativa. Primeiro, role uma área\ntabela Passagem diversas vezes, estendendo o\ninicial, então role para determinar as\ncomprimento e ramificações de qualquer passagem aberta\npassagens e portas encontradas na área. Uma\nno mapa até você chegar a uma porta ou câmara.\nvez tendo as passagens e portas iniciais, determine o local\nSempre que você criar uma nova passagem, role para\ne natureza das passagens, câmaras e escadas\ndeterminar seu comprimento. Se a passagem se ramificar\nsubsequentes, assim por diante – cada uma gerada por\nem outra passagem, role um d12 na tabela Largura da\nrolagens em tabelas diferentes.\nPassagem. Se ela chegar a uma câmara, role um d20\nSeguir essas instruções pode levar a extensos\nnessa tabela, mas a largura da passagem deve ser pelo\ncomplexos que preenchem mais de uma única folha de\nmenos 1,5 metros menor que a dimensão mais longa da\npapel quadriculado. Se uma característica exceder as câmara.\nmargens de uma página, reduza-a. Um corredor pode\nfazer uma curva ou chegar a um beco sem saída na borda\nPASSAGEM\ndo mapa, ou você pode fazer uma câmara menor para\nd20 Detalhe\nencaixar no espaço vazio.\n1–2 Linha reta de 9 m, sem portas ou passagens laterais\nAlternativamente, você pode decidir que as passagens\n3 Linha reta de 6 m, porta à direita, então 3 m adicionais\nque levam para fora da borda do mapa são entradas\nà frente\nadicionais da masmorra. Escadas, veios e outras\n4 Linha reta de 6 m, porta à esquerda, então 3 m\ncaracterísticas que normalmente poderiam levar a níveis\nadicionais à frente\nque você não planejou no mapa podem servir a um\n5 Linha reta de 6 m; passagem termina em uma porta\npropósito similar. 6–7 Linha reta de 6 m, passagem lateral à direita, então 3 m\nadicionais à frente\nÁREA INICIAL 8–9 Linha reta de 6 m, passagem lateral à esquerda, então\n3 m adicionais à frente\nA tabela Área Inicial produz uma câmara ou um conjunto\n10 Linha reta de 6 m, chega a um beco sem saída",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  578,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

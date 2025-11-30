@@ -1,0 +1,28 @@
+﻿# ELEPHANT - Animation Prompts (9 Frames)
+
+## Frame 1 - Gentle Giant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, massive grey pachyderm with large ears and long trunk, ivory tusks. Viewed from top-down angle (80-90 degrees), standing on circular grassland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and brown tones, detailed wrinkled skin texture readable from above, strong massive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Trunk Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, raising trunk high and trumpeting, ears flared wide. Viewed from top-down angle (80-90 degrees), vocalization/intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dynamic pose, detailed trunk movement, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trumpeting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, lowering head, tusks forward, ears pinned back, muscles tensing. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with aggressive focus, detailed anatomical tension, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing charge, physical tabletop game piece aesthetic.
+
+## Frame 4 - Gore
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, thrusting tusks upward in goring motion, head tossing, trunk curled. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed tusk strike, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gore attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Stomp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, raising one massive foot high and slamming it down. Viewed from top-down angle (80-90 degrees), melee attack (stomp), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact emphasis, detailed leg action, strong trampler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stomp attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Trunk Grab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, extending trunk to grab or throw something, wrapping around invisible object. Viewed from top-down angle (80-90 degrees), special action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with trunk focus, detailed grasping motion, strong manipulator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trunk grab, physical tabletop game piece aesthetic.
+
+## Frame 7 - Dust Bath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, using trunk to spray dust over back, ears relaxed, content expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dust particles, detailed grooming action, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bathing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Ear Flap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, slowly flapping large ears to cool down, trunk swaying gently. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft motion, detailed ear movement, strong calm silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cooling idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, elephant character, massive grey pachyderm with large ears and long trunk, ivory tusks. Viewed from top-down angle (80-90 degrees), standing on circular grassland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and brown tones, detailed wrinkled skin texture readable from above, strong massive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

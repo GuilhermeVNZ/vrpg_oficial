@@ -1,0 +1,15 @@
+{
+  "name": "balor",
+  "frames": [
+    "idle_01.jpg",
+    "idle_02.jpg",
+    "idle_03.jpg",
+    "idle_04.jpg",
+    "idle_05.jpg",
+    "idle_06.jpg",
+    "idle_07.jpg",
+    "idle_08.jpg",
+    "idle_09.jpg"
+  ],
+  "frameRate": 8
+}

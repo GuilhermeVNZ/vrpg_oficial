@@ -1,0 +1,28 @@
+﻿# SWARM OF INSECTS - Animation Prompts (9 Frames)
+
+## Frame 1 - Buzzing Cloud
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, thousands of flying insects (beetles, wasps, flies) in dense cloud. Viewed from top-down angle (80-90 degrees), hovering on circular ground base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and black tones, detailed insect texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle buzzing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Agitate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, insects buzzing more frantically, sensing threat. Viewed from top-down angle (80-90 degrees), alert, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibration, detailed agitation, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, agitating, physical tabletop game piece aesthetic.
+
+## Frame 3 - Swarm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, moving as coordinated mass, flowing like liquid. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with flow motion, detailed swarming, strong flowing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swarming, physical tabletop game piece aesthetic.
+
+## Frame 4 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, covering victim completely, biting and stinging. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with attack focus, detailed engulfing, strong attacking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite and Sting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, individual insects biting and stinging frantically. Viewed from top-down angle (80-90 degrees), sustained attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pain emphasis, detailed attacking, strong frenzied silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attacking, physical tabletop game piece aesthetic.
+
+## Frame 6 - Disperse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, insects scattering widely, avoiding area damage. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with scatter motion, detailed dispersal, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dispersing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Regroup
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, insects flying back together, reforming cloud. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with regrouping motion, detailed reformation, strong cohesive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, regrouping, physical tabletop game piece aesthetic.
+
+## Frame 8 - Crawl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, insects crawling on ground in mass, resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed crawling, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crawling idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of insects character, thousands of flying insects (beetles, wasps, flies) in dense cloud. Viewed from top-down angle (80-90 degrees), hovering on circular ground base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and black tones, detailed insect texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle buzzing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

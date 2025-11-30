@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ha, você pode\nusar uma ação para gastar algumas das cargas dela para\nconjurar uma das seguintes magias (CD de resistência\n17): imobilizar monstro (5 cargas) ou imobilizar pessoa (2\ncargas).\nEscapada Assistida. Enquanto empunhar a varinha,\nvocê pode usar sua reação para gastar 1 carga e ganhar\nvantagem em um teste de resistência que você fizer para\nevitar ser paralisado ou impedido, ou você pode gastar 1\ncarga para ganhar vantagem em um teste feito para\nescapar de um agarrão.\nVARINHA DE PARALISIA\nVarinha, rara (requer sintonização com um conjurador)\nEsta varinha possui 7 cargas. Enquanto empunha-la, você\npode usar uma ação para gastar 1 das cargas dela para\nfazer com que um fino raio azulado saia da ponta dela em\ndireção a uma criatura que você possa ver, a até 18\nmetros de você. O alvo deve ser bem sucedido num teste\nde resistência de Constituição CD 15 ou ficará paralisado\npor 1 minuto. No final de cada um dos turnos do alvo, ele\npode repetir o teste de resistência, terminando o efeito\nsobre si, com um sucesso.\nA varinha recupera 1d6 + 1 cargas gastas diariamente\nao amanhecer. Se você gastar a última carga da varinha,\nrole um d20. Em um 1, a varinha se desfaz em cinzas e é\ndestruída.\nVARINHA DE RELÂMPAGOS\nVarinha, rara (requer sintonização com um conjurador)\nEsta varinha possui 7 cargas. Enquanto empunha-la, você\npode usar uma ação para gastar 1 ou mais de suas cargas\npara conjurar a magia relâmpago (CD de resistência 15)\natravés dela. Com 1 carga, você conjura a versão de 3°\nnível da magia. Você pode aumentar o espaço de magia\nem um para cada carga adicional que você gastar.\nA varinha recupera 1d6 + 1 cargas gastas diariamente\nao amanhecer. Se você gastar a última carga da varinha,\nrole um d20. Em um 1, a varinha se desfaz em cinzas e é\ndestruída.\nVARINHA DE SEGREDOS\nVarinha, incomum\nA varinha tem 3 cargas. Enquanto empunha-la, você pode\nusar uma ação para gastar 1 de suas cargas e, se uma\nporta secreta ou armadilha estiver a até 9 metros de você,\na varinha pulsar",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  405,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

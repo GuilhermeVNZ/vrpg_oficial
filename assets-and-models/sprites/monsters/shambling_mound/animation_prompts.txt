@@ -1,0 +1,28 @@
+﻿# SHAMBLING MOUND - Animation Prompts (9 Frames)
+
+## Frame 1 - Swamp Hulk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, massive humanoid shape made of rotting vegetation, vines, and mud. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed plant texture readable from above, strong hulking silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle lumbering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, raising massive vine-covered arms, "mouth" opening in the foliage, leaves shaking. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying nature power, detailed movement, strong awakening monster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slam Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, raising both fists high, vines tightening, body compressing. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on fists, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, slamming fists down with crushing force, mud and water splashing. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, wrapping vines around a target (implied), pulling them into its mass, absorbing. Viewed from top-down angle (80-90 degrees), grapple ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed engulfing, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, straightening up, vines loosening, shaking off debris. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Regeneration
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, standing still, vines knitting together, flowers blooming rapidly then wilting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong regenerating silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, healing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, crouching down, looking exactly like a pile of rotting compost and bushes. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, shambling mound character, massive humanoid shape made of rotting vegetation, vines, and mud. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed plant texture readable from above, strong hulking silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle lumbering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

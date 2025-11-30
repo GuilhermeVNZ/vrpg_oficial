@@ -1,0 +1,28 @@
+﻿# FIRE ELEMENTAL - Animation Prompts (9 Frames)
+
+## Frame 1 - Living Inferno
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, humanoid shape made of roaring flames, core white hot, smoke rising from head. Viewed from top-down angle (80-90 degrees), standing on circular scorched earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and yellow tones, detailed flame texture readable from above, strong burning silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle burning pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Flare Up
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, flames leaping higher, body expanding, heat shimmering air, base glowing red. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying brightness, detailed fire movement, strong awakening blaze silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Fire Lash Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, extending arm into whip of fire, body leaning back, flames swirling around limb. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on limb, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Scorch Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, lashing out with fire limb, trail of sparks, ground blackening, smoke billowing. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Combustion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, exploding outward in sphere of fire, engulfing surroundings, core exposed. Viewed from top-down angle (80-90 degrees), area attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive fire effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, explosion attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, reforming shape from explosion, flames settling, smoke clearing, flickering. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding fire, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Flicker
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, flames dancing erratically, sparks popping, shifting weight like a candle flame in wind. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong chaotic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flickering idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Smolder
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, crouching low, flames dimming to coals, smoke dominant, heat haze. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire elemental character, humanoid shape made of roaring flames, core white hot, smoke rising from head. Viewed from top-down angle (80-90 degrees), standing on circular scorched earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and yellow tones, detailed flame texture readable from above, strong burning silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle burning pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

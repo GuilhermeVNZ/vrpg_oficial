@@ -1,0 +1,37 @@
+[package]
+name = "asr-service"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+description = "ASR Service - Automatic Speech Recognition using Whisper"
+
+[dependencies]
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+uuid = { workspace = true }
+chrono = { workspace = true }
+axum = { workspace = true }
+tower = { workspace = true }
+tower-http = { workspace = true }
+config = { workspace = true }
+clap = { workspace = true }
+cpal = { workspace = true }
+hound = { workspace = true }
+
+[dev-dependencies]
+tokio-test = { workspace = true }
+mockall = { workspace = true }
+
+
+
+
+
+
+
+

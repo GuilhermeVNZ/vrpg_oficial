@@ -1,0 +1,28 @@
+﻿# UNICORN - Animation Prompts (9 Frames)
+
+## Frame 1 - Celestial Steed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, magnificent white horse with a spiraling horn, flowing mane and tail. Viewed from top-down angle (80-90 degrees), standing on circular enchanted glade base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and silver tones, detailed fur texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rearing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, rearing up on hind legs, horn glowing, mane billowing. Viewed from top-down angle (80-90 degrees), intimidation/majesty, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying purity, detailed movement, strong awakening guardian silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, lowering head, horn pointing forward, pawing the ground. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on horn, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Horn Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, thrusting forward with horn, magical light trailing. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong piercing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Hoof Kick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, bucking or kicking out with hooves, powerful impact. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong equine silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, kick attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, landing from rear or charge, shaking mane, regaining composure. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Healing Touch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, touching horn to the ground or an ally (implied), soft golden light radiating. Viewed from top-down angle (80-90 degrees), idle behavior/magic, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong healer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, healing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Grazing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, lowering head to graze on magical grass, looking peaceful. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong pastoral silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, unicorn character, magnificent white horse with a spiraling horn, flowing mane and tail. Viewed from top-down angle (80-90 degrees), standing on circular enchanted glade base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and silver tones, detailed fur texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

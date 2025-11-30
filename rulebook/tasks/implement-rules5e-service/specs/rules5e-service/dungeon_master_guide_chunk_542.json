@@ -1,0 +1,12 @@
+﻿{
+    "text":  "o\nmonstro de um nível de desafio em particular, siga os enfrentados em grupos.\npassos daqui. Se você quer criar algo mais parecido com o\nbloco de estatísticas de um monstro do Manual dos PASSO 2. ESTATÍSTICAS BÁSICAS\nMonstros, pule para a seção “Criando o Bloco de Use a tabela Estatísticas de monstro por Nível de Desafio\nEstatísticas de um Monstro”. para determinar a Classe de Armadura, pontos de vida,\nbônus de ataque e dano causado por rodada do monstro\nESTATÍSTICAS DE MONSTRO POR NÍVEL DE DESAFIO baseado no nível de desafio que você escolher no passo 1.\n–––Defensiva––– –––––––––Ofensiva–––––––––\nBônus Bônus de Dano/ CD de PASSO 3. AJUSTANDO ESTATÍSTICAS\nND de Prof. CA PV Ataque Rodada Resist. Aumente ou diminua a Classe de armadura, pontos de\n0 +2 13 1–6 +3 0–1 13 vida, bônus de ataque, dano causado por rodada e CD de\n1/8 +2 13 7–35 +3 2–3 13 resistência como achar adequado, baseado em qualquer\n1/4 +2 13 36–49 +3 4–5 13 que seja o conceito que você tem em mente para o\n1/2 +2 13 50–70 +3 6–8 13 monstro. Por exemplo, se você precisa de um monstro bem\n1 +2 13 71–85 +3 9–14 13 armadurado, aumente sua Classe de Armadura.\n2 +2 13 86–100 +3 15–20 13\nQuando você tiver feito os ajustes desejados, anote as\n3 +2 13 101–115 +4 21–26 13\nestatísticas do monstro. Se existirem quaisquer outras\n4 +2 14 116–130 +5 27–32 14\nestatísticas que você acha que o monstro precisa (como\nvalores de habilidade), siga os passos apropriados em\n5 +3 15 131–145 +6 33–38 15\n“Criando o Bloco de Estatísticas de um Monstro”.\n6 +3 15 146–160 +6 39–44 15\n7 +3 15 161–175 +6 45–50 15 PASSO 4. NÍVEL DE DESAFIO FINAL\n8 +3 16 176–190 +7 51–56 16 Calcule o nível de desafio final do monstro, contando com\n9 +4 16 191-205 +7 57–62 16 os ajustes que você fez no passo 3.\n10 +4 17 206–220 +7 63–68 16 Nível de Desafio Defensivo. Leia a coluna de Pontos\n11 +4 17 221–235 +8 69–74 17 de Vida da tabela Estatísticas de Monstro por Nível de\n12 +4 17 236–250 +8 75–80 17 Desafio até você encontrar os pontos de vida do monst",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  542,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

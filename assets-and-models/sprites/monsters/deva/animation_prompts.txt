@@ -1,0 +1,28 @@
+﻿# DEVA - Animation Prompts (9 Frames)
+
+## Frame 1 - Angelic Guardian
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, beautiful humanoid angel with metallic skin and large feathered wings, wearing fine robes and wielding a glowing mace. Viewed from top-down angle (80-90 degrees), standing on circular cloud or marble base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with divine white and gold tones, detailed feather texture readable from above, strong celestial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Divine Smite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, raising the mace high, the weapon glowing with blinding radiant energy. Viewed from top-down angle (80-90 degrees), magic/attack prep, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with radiant bloom, detailed energy buildup, strong smiter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charging smite, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Shield
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, folding wings forward to shield body, looking stoic. Viewed from top-down angle (80-90 degrees), defense, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed wing anatomy, strong defender silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing shield, physical tabletop game piece aesthetic.
+
+## Frame 4 - Mace Swing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, swinging the mace horizontally with great force, wings flared for balance. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed weapon strike, strong warrior silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, mace attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Healing Touch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, reaching out with one hand, palm glowing with soft golden light. Viewed from top-down angle (80-90 degrees), magic ability (healing), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with warm glow, detailed hand gesture, strong healer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, healing touch, physical tabletop game piece aesthetic.
+
+## Frame 6 - Flight Takeoff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, leaping into the air, wings beating downward powerfully, robes fluttering. Viewed from top-down angle (80-90 degrees), movement/flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wind effects, detailed flight action, strong aerial silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, taking off, physical tabletop game piece aesthetic.
+
+## Frame 7 - Shape Change
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, silhouette shimmering and shifting slightly, as if changing form (subtle effect). Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with distortion, detailed magic effect, strong shifter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shape changing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Prayer
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, bowing head slightly and holding mace to chest in a moment of prayer or contemplation. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with halo effect, detailed character acting, strong holy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, praying idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deva character, beautiful humanoid angel with metallic skin and large feathered wings, wearing fine robes and wielding a glowing mace. Viewed from top-down angle (80-90 degrees), standing on circular cloud or marble base, 2D painted illustration style with clean lines and cel-shading, high-contrast divine white and gold tones, detailed feather texture readable from above, strong celestial silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

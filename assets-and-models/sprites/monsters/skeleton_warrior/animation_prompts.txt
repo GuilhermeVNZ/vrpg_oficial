@@ -1,0 +1,36 @@
+# Skeleton Warrior - Animation Prompts (9 Frames)
+
+Base prompt: Dungeons and Dragons dark fantasy anime illustration, undead skeleton warrior character, animated skeleton with glowing blue eye sockets, wearing rusted chainmail armor and tattered dark cloak, wielding a longsword and round wooden shield. Viewed from top-down angle (80-90 degrees), standing on circular stone base, 2D painted illustration style, solid dark grey background NO CHECKERED PATTERN.
+
+---
+
+## Frame 1 - Idle Rest
+Skeleton at neutral stance, sword at side, shield held defensively, subtle blue glow from eyes, bones at rest position.
+
+## Frame 2 - Begin Movement
+Skeleton begins to shift weight, head turns 10 degrees left, shield arm lifts slightly, sword arm tenses, eye glow intensifies.
+
+## Frame 3 - Mid Turn
+Head turned 20 degrees left, torso twisting, shield raised 15 degrees, sword pulled back slightly, bones creaking motion.
+
+## Frame 4 - Peak Turn
+Maximum turn - head 30 degrees left, shield fully raised protecting left side, sword arm extended right for balance, eye sockets blazing blue.
+
+## Frame 5 - Hold Position
+Maintaining turned position, shield high, sword ready, scanning left side, maximum alertness.
+
+## Frame 6 - Begin Return
+Starting to turn back, head rotating toward center, shield lowering, sword arm relaxing, eye glow dimming.
+
+## Frame 7 - Mid Return
+Head at 15 degrees from center, shield halfway down, sword returning to side, bones settling.
+
+## Frame 8 - Almost Rest
+Nearly back to neutral, head 5 degrees from forward, shield almost at rest, sword at side, minimal eye glow.
+
+## Frame 9 - Complete Loop
+Identical to Frame 1, ready to loop seamlessly, all bones at starting positions.
+
+---
+
+**Use estas descrições com o prompt base para gerar cada frame!**

@@ -1,0 +1,28 @@
+﻿# UMBER HULK - Animation Prompts (9 Frames)
+
+## Frame 1 - Burrowing Horror
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, massive insectoid monstrosity with four eyes, mandibles, and huge claws. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and purple tones, detailed chitin texture readable from above, strong burrower silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle looming pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Confusing Gaze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, all four eyes glowing with hypnotic light, mandibles clicking. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying psychic energy, detailed gaze effect, strong mind-bending silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Claw Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, raising massive digging claws, body tensing, dirt falling from carapace. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on claws, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, smashing claws down, tearing through rock or armor. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Mandible Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, snapping huge mandibles shut, head lunging forward. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong savage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, shaking head, resetting heavy claws, chittering. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Burrowing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, digging into the ground, half-submerged in earth/rock base. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong tunneler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, digging idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Waiting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, standing still against a wall, blending in with rock texture. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, umber hulk character, massive insectoid monstrosity with four eyes, mandibles, and huge claws. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and purple tones, detailed chitin texture readable from above, strong burrower silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle looming pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

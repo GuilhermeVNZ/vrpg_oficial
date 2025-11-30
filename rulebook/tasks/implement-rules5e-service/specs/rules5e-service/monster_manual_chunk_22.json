@@ -1,0 +1,12 @@
+﻿{
+    "text":  "cial, essa seção é suprimida. AÇÕES LENDÁRIAS\nUSO LIMITADO Uma criatura lendária pode realizar um certo número de\nações especiais – chamadas ações lendárias – fora do seu\nAlgumas habilidades especiais possuem restrições na\nturno. Apenas uma opção de ação lendária pode ser usada\nquantidade de veze que elas podem ser usadas.\npor vez e apenas no final do turno de outra criatura. Uma\nX/Dia. A notação “X/Dia” significa que uma habilidade\ncriatura lendária recupera suas ações lendárias no início\nespecial pode ser usada X vezes e que um monstro deve\ndo turno dela. Ela pode abster-se de usar e não pode usa-\nterminar um descanso longo para recuperar usos gastos.\nla enquanto estiver incapacitado ou incapaz de realizar\nPor exemplo, “1/Dia” significa que uma habilidade\nações por outro motivo. Se estiver surpresa, ela não\nespecial pode ser usada uma vez e que o monstro deve\npoderá usá-las antes do seu primeiro turno em combate.\nterminar um descanso longo para poder usá-la\nnovamente.\nO COVIL DE UMA CRIATURA LENDÁRIA\nRecarrega X–Y. A notação “Recarrega X–Y” significa\nque um monstro pode usar uma habilidade especial uma Uma criatura lendária pode ter uma seção descrevendo o\nvez e, então, essa habilidade tem uma chance aleatória de covil dela e quaisquer efeitos especiais que ela possa criar\nse recarregar durante cada rodada de combate enquanto estiver nele, tanto agindo por vontade própria\nsubsequente. No início de cada um dos turnos do monstro, quanto simplesmente por estar presente. Nem todas as\nrole um d6. Se o resultado for um dos números na notação criaturas lendárias possuem covis. Essa seção se aplica\nde recarga, o monstro recupera o uso da sua habilidade apenas à criaturas lendárias que passam muito tempo em\nespecial. Essa habilidade também se recarrega quando o seus covis e são mais prováveis de serem encontradas\nmonstro termina um descanso curto ou longo. neles.\nPor exemplo, “Recarrega 5–6” significa que o monstro\npode usar a habilidade especial uma vez. Então, no início ",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  22,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

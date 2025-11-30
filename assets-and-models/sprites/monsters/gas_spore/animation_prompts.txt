@@ -1,0 +1,28 @@
+﻿# GAS SPORE - Animation Prompts (9 Frames)
+
+## Frame 1 - Floating Fungus
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, spherical fungal creature resembling a beholder, floating with eyestalks and central eye. Viewed from top-down angle (80-90 degrees), hovering above circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly yellow and brown tones, detailed spore texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Spore Puff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, releasing small puff of spores from surface, body pulsing. Viewed from top-down angle (80-90 degrees), passive effect, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with spore cloud, detailed particle release, strong puffing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, releasing spores, physical tabletop game piece aesthetic.
+
+## Frame 3 - Eyestalk Wiggle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, eyestalks waving independently, mimicking beholder behavior. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with movement focus, detailed stalk motion, strong mimicking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wiggling stalks, physical tabletop game piece aesthetic.
+
+## Frame 4 - Touch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, bumping into target with body, surface contact. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with contact point, detailed touch action, strong bumping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, touch attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Death Throes Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, body swelling and bulging, cracks forming, about to burst. Viewed from top-down angle (80-90 degrees), death trigger, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with expansion, detailed swelling, strong explosive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swelling, physical tabletop game piece aesthetic.
+
+## Frame 6 - Spore Explosion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, exploding in cloud of disease spores, body fragments flying. Viewed from top-down angle (80-90 degrees), death burst, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosion effect, detailed spore cloud, strong bursting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, exploding, physical tabletop game piece aesthetic.
+
+## Frame 7 - Drift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, drifting lazily through air, rotating slowly. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gentle motion, detailed floating, strong drifting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drifting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Deflate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, body slightly deflating and re-inflating like breathing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with subtle size change, detailed pulsing, strong breathing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breathing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gas spore character, spherical fungal creature resembling a beholder, floating with eyestalks and central eye. Viewed from top-down angle (80-90 degrees), hovering above circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly yellow and brown tones, detailed spore texture readable from above, strong deceptive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

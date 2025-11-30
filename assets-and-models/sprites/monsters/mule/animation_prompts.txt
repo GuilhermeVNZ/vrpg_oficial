@@ -1,0 +1,28 @@
+﻿# MULE - Animation Prompts (9 Frames)
+
+## Frame 1 - Pack Animal
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, sturdy donkey with long ears, carrying pack saddle. Viewed from top-down angle (80-90 degrees), standing on circular dirt road base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed fur texture readable from above, strong sturdy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Bray
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, head raised, mouth open in loud braying call. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed bray, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, braying, physical tabletop game piece aesthetic.
+
+## Frame 3 - Plod
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, walking steadily forward, patient gait, carrying load. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with walking motion, detailed plodding, strong patient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, plodding, physical tabletop game piece aesthetic.
+
+## Frame 4 - Kick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, turning and kicking back with hind hooves defensively. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with kick motion, detailed kick action, strong kicker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, kick attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, turning head to bite with large teeth, irritated. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Sure-Footed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, carefully navigating difficult terrain, balanced. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with balance focus, detailed careful movement, strong stable silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, navigating, physical tabletop game piece aesthetic.
+
+## Frame 7 - Stubborn
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, planting feet, refusing to move, ears back. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stubborn posture, detailed refusal, strong obstinate silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, being stubborn, physical tabletop game piece aesthetic.
+
+## Frame 8 - Graze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, head lowered, eating grass peacefully. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grazing, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mule character, sturdy donkey with long ears, carrying pack saddle. Viewed from top-down angle (80-90 degrees), standing on circular dirt road base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed fur texture readable from above, strong sturdy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

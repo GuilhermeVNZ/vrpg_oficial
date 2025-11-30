@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ras, cada uma pode agarrar apenas um alvo.\nCAVALO DE CARGA\nBesta Grande, imparcial\nClasse de Armadura 10\nPontos de Vida 19 (3d10 + 3)\nDeslocamento 12 m\nFOR DES CON INT SAB CAR\n18 (+4) 10 (+0) 12 (+1) 2 (–4) 11 (+0) 7 (–2)\nSentidos Percepção passiva 10\nIdiomas –\nNível de Desafio 1/4 (50 XP)\nAÇÕES\nCascos. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance\n1,5 m, um alvo. Acerto: 9 (2d4 + 4) de dano de concussão.\n323\n\n\n# Pagina 325\n\nCAVALO DE GUERRA FOR DES CON INT SAB CAR\nBesta Grande, imparcial 1 (–5) 12 (+1) 8 (–1) 1 (–5) 10 (+0) 2 (–4)\nSentidos visão no escuro 36 m, Percepção passiva 14\nClasse de Armadura 11\nIdiomas –\nPontos de Vida 19 (3d10 + 3)\nNível de Desafio 0 (0 XP)\nDeslocamento 18 m\nRespirar na Água. O cavalo marinho pode respirar apenas em\nFOR DES CON INT SAB CAR baixo d’água.\n18 (+4) 12 (+1) 13 (+1) 2 (–4) 12 (+1) 7 (–2)\nSentidos Percepção passiva 11\nCAVALO MARINHO GIGANTE\nIdiomas – Besta Grande, imparcial\nNível de Desafio 1/2 (100 XP)\nClasse de Armadura 13 (armadura natural)\nPontos de Vida 16 (3d10)\nAtropelar. Se o cavalo se mover, pelo menos, 6 metros em linha\nDeslocamento 0 m, natação 12 m\nreta em direção de um alvo logo antes de atingi-lo com seu ataque\nde cascos, o alvo deve ser bem sucedido num teste de resistência\nFOR DES CON INT SAB CAR\nde Força CD 14 para não cair no chão. Se o alvo cair no chão, o\n12 (+1) 15 (+2) 11 (+0) 2 (–4) 12 (+1) 5 (–3)\ncavalo poderá realizar uma ação bônus para realizar outro ataque\nde cascos contra ele.\nSentidos Percepção passiva 11\nIdiomas –\nAÇÕES\nNível de Desafio 1/2 (100 XP)\nCascos. Ataque Corpo-a-Corpo com Arma: +6 para atingir, alcance\n1,5 m, um alvo. Acerto: 11 (2d6 + 4) de dano de concussão. Investida. Se o cavalo marinho se mover, pelo menos, 6 metros\nem linha reta em direção de uma criatura logo antes de atingi-la\ncom seu ataque de cabeçada, o alvo sofre 7 (2d6) de dano de\nVARIAÇÃO: ARMADURA PARA CAVALO DE GUERRA\nconcussão extra. Se o alvo for uma criatura, ele deve ser bem\nUm cavalo de guerra de armadura te",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  589,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

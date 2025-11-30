@@ -1,0 +1,28 @@
+﻿# SAHUAGIN BARON - Animation Prompts (9 Frames)
+
+## Frame 1 - Four-Armed Lord
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, massive sahuagin with four arms, wearing shell armor, holding trident and claws/dagger. Viewed from top-down angle (80-90 degrees), standing on circular throne room base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep blue and gold tones, detailed muscle and scale texture readable from above, strong ruler silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle commanding pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Command
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, raising two upper arms, pointing with lower arms, mouth open in roar. Viewed from top-down angle (80-90 degrees), buff ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying authority, detailed movement, strong leader silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Multi-Attack Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, all four arms pulling back, weapons ready, tail lashing violently. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on weapons, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Flurry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, unleashing a flurry of attacks with trident and claws, water churning. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, lunging forward to bite with massive jaws, arms holding target (implied). Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong savage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, stepping back, wiping blood from mouth, arms returning to guard. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Inspecting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, looking at a pearl or treasure in one hand, other hands guarding it. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong greedy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, inspecting idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Waiting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, standing tall and still, arms crossed (upper) and resting (lower), imposing. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong royal silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin baron character, massive sahuagin with four arms, wearing shell armor, holding trident and claws/dagger. Viewed from top-down angle (80-90 degrees), standing on circular throne room base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep blue and gold tones, detailed muscle and scale texture readable from above, strong ruler silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle commanding pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,22 @@
+{
+  "source_pdf": "as-cronicas-de-gelo-e-fogo-livro-4-o-festim-dos-corvos-biblioteca-elfica.pdf",
+  "output_md": "as-cronicas-de-gelo-e-fogo-livro-4-o-festim-dos-corvos.md",
+  "pages": 1,
+  "classification": {
+    "domain": "literature",
+    "doc_type": "novel",
+    "categories": [
+      "fantasy",
+      "literature",
+      "novel",
+      "george_martin"
+    ],
+    "confidence": 0.85,
+    "metadata": {
+      "source": "biblioteca_elfica",
+      "language": "pt-BR",
+      "filename": "as-cronicas-de-gelo-e-fogo-livro-4-o-festim-dos-corvos-biblioteca-elfica.pdf"
+    }
+  },
+  "extraction_method": "transmutation"
+}

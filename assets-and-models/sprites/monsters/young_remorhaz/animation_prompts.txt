@@ -1,0 +1,28 @@
+﻿# YOUNG REMORHAZ - Animation Prompts (9 Frames)
+
+## Frame 1 - Polar Worm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, medium-sized centipede-like creature with blue-white carapace, glowing with internal heat. Viewed from top-down angle (80-90 degrees), coiled on circular icy cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and orange tones, detailed chitinous texture readable from above, strong worm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Heat Glow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, body glowing brighter with intense heat, steam rising. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with heat emphasis, detailed glowing, strong burning silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, glowing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Burrow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, burrowing through ice, melting path. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with burrow motion, detailed burrowing, strong tunneler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, burrowing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, biting with superheated mandibles. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Heated Body
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, body burning so hot it damages attackers. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with heat aura, detailed burning, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, heated body, physical tabletop game piece aesthetic.
+
+## Frame 6 - Coil
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, coiling around victim (implied), crushing. Viewed from top-down angle (80-90 degrees), grapple attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with coil emphasis, detailed coiling, strong constrictor silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, coiling, physical tabletop game piece aesthetic.
+
+## Frame 7 - Tremorsense
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, sensing vibrations through ice. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed sensing, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sensing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, coiled in ice cave, heat dimmed. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young remorhaz character, medium-sized centipede-like creature with blue-white carapace, glowing with internal heat. Viewed from top-down angle (80-90 degrees), coiled on circular icy cave base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and orange tones, detailed chitinous texture readable from above, strong worm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

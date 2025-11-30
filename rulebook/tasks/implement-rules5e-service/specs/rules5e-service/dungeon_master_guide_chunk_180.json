@@ -1,0 +1,12 @@
+﻿{
+    "text":  "RACIONADOS orçamento de XP que você pode gastar em monstros para\nÀs vezes, um encontro se caracteriza por diversos criar encontros fáceis, médios, difíceis ou mortais. Apenas\nlembre-se que grupos de monstros consomem mais desse\ninimigos que o grupo não enfrenta todos ao mesmo tempo.\norçamento que seus valores base de XP poderiam indicar\nPor exemplo, monstros podem vir até o grupo em ondas.\n(veja o passo 4).\nPara tais encontros, considere cada parte ou onda distinta\ncomo um encontro separado com o propósito de\ndeterminar sua dificuldade.\n83\n\n\n# Pagina 85\n\nPor exemplo, usando o grupo do passo 2, você pode\nconstruir um encontro médio garantindo que o valor de\nXP ajustado dos monstros seja pelo menos 550 XP (o\nlimite do grupo para um encontro médio) e não mais que\n825 XP (o limite do grupo para um encontro difícil). Um\núnico monstro de nível de desafio 3 (como uma manticora\nou urso-coruja) valeria 700 XP, então, é uma\npossibilidade. Se você deseja um par de monstros, cada\num irá contar como 1,5 vezes seu valor base de XP. Um\npar de lobos atrozes (valendo 200 XP cada) tem um valor\nde XP ajustado de 600, fazendo deles um encontro médio\npara o grupo também.\nPara ajudá-lo nessa abordagem, o apêndice B\napresenta uma lista de todos os monstros do Manual dos\nMonstros organizados por nível de desafio.\nO DIA DE AVENTURA\nConsiderando condições típicas de aventura e sorte\npadrão, a maioria dos grupos de aventura podem lidar\ncom aproximadamente seis a oito encontros médios ou\ndifíceis em um dia. Se a aventura tiver mais encontros\nfáceis, os aventureiros podem passar por mais. Se ele\ntiver mais encontros mortais, eles podem lidar com\nmenos.\nDa mesma forma que você calcula a dificuldade de um\nencontro, você pode usar os valores de XP dos monstros e\noutros oponentes em uma aventura como parâmetros do\nquão longe o grupo tem possibilidade de progredir.\nPara cada personagem no grupo, use a tabela XP por\nDia de Aventura para estimar quanto XP espera-se que\nesse personagem ganhe em um dia.",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  180,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

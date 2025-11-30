@@ -1,0 +1,28 @@
+﻿# SKELETON - Animation Prompts (9 Frames)
+
+## Frame 1 - Bone Warrior
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, animated human skeleton wearing rusted armor scraps, holding short sword and shield. Viewed from top-down angle (80-90 degrees), standing on circular crypt floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale bone and grey tones, detailed bone texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle rattling pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rattle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, clattering bones together, jaw snapping open and closed, shield banging. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying sound (implied), detailed bone movement, strong awakening horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sword Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, raising sword arm mechanically, shield held tight, empty sockets staring. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, slashing sword forward with jerky undead motion, dust flying. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bow Shot (Alt)
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, drawing a shortbow (if ranged variant) or throwing a bone, stiff posture. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ranged attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, snapping back to idle pose instantly, unnatural movement, head tilting. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Reassemble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, picking up a fallen arm or head and reattaching it, magic glowing in joints. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong resilient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, repair idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Pile of Bones
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, collapsed into a pile of inanimate bones, skull on top, waiting to rise. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, skeleton character, animated human skeleton wearing rusted armor scraps, holding short sword and shield. Viewed from top-down angle (80-90 degrees), standing on circular crypt floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale bone and grey tones, detailed bone texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle rattling pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

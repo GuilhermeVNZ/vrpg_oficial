@@ -1,0 +1,28 @@
+﻿# TYRANNOSAURUS REX - Animation Prompts (9 Frames)
+
+## Frame 1 - Apex Predator
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, massive theropod dinosaur with huge jaws, tiny arms, powerful legs. Viewed from top-down angle (80-90 degrees), standing on circular prehistoric jungle base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong apex predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, head raised, jaws open in earth-shaking roar, intimidating. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed roar, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Stalk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, moving forward slowly, head low, hunting. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth emphasis, detailed stalking, strong hunting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stalking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, lunging forward with massive jaws, crushing bite force. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tail Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, whipping massive tail around, knocking enemies aside. Viewed from top-down angle (80-90 degrees), melee attack (tail), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tail emphasis, detailed swipe action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Shake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, shaking head violently with prey in jaws, tearing. Viewed from top-down angle (80-90 degrees), attack behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shake motion, detailed shaking, strong violent silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shaking, physical tabletop game piece aesthetic.
+
+## Frame 7 - Keen Smell
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, nostrils flaring, scenting prey from miles away. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed scenting, strong tracker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scenting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, lying down, tail curled, sleeping after feast. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tyrannosaurus rex character, massive theropod dinosaur with huge jaws, tiny arms, powerful legs. Viewed from top-down angle (80-90 degrees), standing on circular prehistoric jungle base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong apex predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ALORES E MODIFICADORES DE\n0 0 ou 10 14 11.500 HABILIDADE\n1/8 25 15 13.000 Monstros, assim como personagens de jogadores, tem seis\n1/4 50 16 15.000 valores de habilidade. Um monstro não pode ter um valor\n1/2 100 17 18.000 inferior a 1 ou superior a 30 em qualquer habilidade.\n1 200 18 20.000 O valor de qualquer habilidade de um monstro\ndetermina seu modificador, como mostrado na tabela\n2 450 19 22.000\nValores e Modificadores de Habilidade do Livro do\n3 700 20 25.000\nJogador.\n4 1.100 21 33.000\nSe você não conseguir decidir quais os valores de\n5 1.800 22 41.000\nhabilidade um monstro deveria ter, procure por monstros\n6 2.300 23 50.000\nsimilares no Manual dos Monstros e copie os valores de\n7 2.900 24 62.000 habilidade deles. Por exemplo, se seu monstro é tão\n8 3.900 25 75.000 esperto quanto um camponês humano, dê a ele\n9 5.000 26 90.000 Inteligência 10 (+0 de modificador). Se ele for tão forte\n10 5.900 27 105.000 quanto um ogro, dê a ele Força 19 (+4 de modificador).\n11 7.200 28 120.000\n12 8.400 29 135.000 PASSO 6. NÍVEL DE DESAFIO PRETENDIDO\n13 10.000 30 155.000 Escolha um nível de desafio para seu monstro. Veja o\npasso 1 em “Criando Estatísticas de Monstro\nCRIANDO O BLOCO DE Rapidamente” para mais informações. Você irá usar o\nbônus de proficiência em passos posteriores, então, anote-\nESTATÍSTICAS DE UM MONSTRO\no agora ou lembre-se dele.\nSe você quiser um bloco de estatísticas de monstro\ncompleto, use o método a seguir para criar seu novo PASSO 7. CLASSE DE ARMADURA\nmonstro. A Classe de Armadura de um monstro tem uma\nA introdução do Manual dos Monstros esclarece todos influência direta no seu nível de desafio e vice versa. Você\nos componentes do bloco de estatísticas de um monstro. pode determinar a Classe de Armadura do seu monstro de\nFamiliarize-se com esse material antes de começar. Ao duas formas.\nlongo da criação do seu monstro, se você se encontrar Use a Tabela. Você pode escolher uma CA apropriada\nnum impasse, deixe os exemplos do Manual dos Monstros baseado na ní",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  545,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

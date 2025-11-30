@@ -1,0 +1,28 @@
+﻿# DUST MEPHIT - Animation Prompts (9 Frames)
+
+## Frame 1 - Dust Imp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, small winged elemental creature made of dust and earth, skeletal features, dusty wings. Viewed from top-down angle (80-90 degrees), standing on circular dry earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beige and grey tones, detailed dust texture readable from above, strong annoying silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Cough
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, hacking cough, puff of dust expelling from mouth, wings fluttering, body shaking. Viewed from top-down angle (80-90 degrees), vocalizing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying dust, detailed particle movement, strong sickly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Breath Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, inhaling deeply, chest expanding, dust swirling around mouth, eyes squinting. Viewed from top-down angle (80-90 degrees), preparing breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on chest, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dust Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, exhaling cone of blinding dust, particles obscuring front, wings beating to push air. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed dust cloud, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Scratch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, scratching forward with bony claws, dust trailing from fingertips, mouth open in hiss. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, floating back, wiping mouth, dust settling, looking tired. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding dust, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Crumble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, part of arm crumbling into dust and reforming, looking bored, kicking dirt. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong fragile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crumbling idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Pile
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, curling up on ground, looking like a small pile of dirt/dust, wings folded over head. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dust mephit character, small winged elemental creature made of dust and earth, skeletal features, dusty wings. Viewed from top-down angle (80-90 degrees), standing on circular dry earth base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beige and grey tones, detailed dust texture readable from above, strong annoying silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+﻿# WRAITH - Animation Prompts (9 Frames)
+
+## Frame 1 - Shadow of Death
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, ghostly figure in tattered black robes, skeletal hands, glowing red eyes in shadowy hood. Viewed from top-down angle (80-90 degrees), floating on circular crypt base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and red tones, detailed ethereal texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Manifest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, materializing from shadows, robes billowing, eyes flaring. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying darkness, detailed manifestation, strong awakening horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, manifesting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Reach
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, extending skeletal hand forward, fingers grasping. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with hand focus, detailed reaching, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, reaching, physical tabletop game piece aesthetic.
+
+## Frame 4 - Life Drain
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, touching victim (implied), draining life force, hand glowing with necrotic energy. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with drain effect, detailed life drain, strong parasitic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drain attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Create Specter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, raising both hands, summoning specter from slain victim. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with summoning effect, detailed necromancy, strong summoner silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, summoning, physical tabletop game piece aesthetic.
+
+## Frame 6 - Incorporeal Movement
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, phasing through solid object (implied), becoming translucent. Viewed from top-down angle (80-90 degrees), movement ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with phasing effect, detailed incorporeal state, strong ghostly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, phasing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Sunlight Sensitivity
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, recoiling from light (implied), covering face with robes. Viewed from top-down angle (80-90 degrees), vulnerability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with light aversion, detailed recoiling, strong fearful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, recoiling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Fade
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, becoming almost invisible, merging with shadows. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed fading, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fading idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wraith character, ghostly figure in tattered black robes, skeletal hands, glowing red eyes in shadowy hood. Viewed from top-down angle (80-90 degrees), floating on circular crypt base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and red tones, detailed ethereal texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

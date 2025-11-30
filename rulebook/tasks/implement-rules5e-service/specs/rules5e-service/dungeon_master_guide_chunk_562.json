@@ -1,0 +1,12 @@
+﻿{
+    "text":  "lo seu nível de desafio.\nSe o monstro que você deseja usar não estiver listado na\ntabela, use o processo descrito em “Monstros com\nClasses”.\nMONSTROS COM CLASSES\nVocê pode usar as regras no capítulo 3 do Livro do\nJogador para dar níveis de classes a um monstro. Por\nexemplo, você pode transformar um lobisomem ordinário\nem um lobisomem com quatro níveis da classe bárbaro\n(tal monstro deveria ser expresso como “Lobisomem,\nbárbaro de 4° nível”).\nComece com o bloco de estatísticas do monstro. O\nmonstro ganha todas as características de classe para\ncada nível de classe que você adicionar, com as seguintes\nexceções:\n O monstro não ganha o equipamento inicial da classe\nadicionada.\n Para cada nível de classe que você adicionar, o\nmonstro ganha um Dado de Vida do seu tipo normal\n(baseado em seu tamanho), ignorando a progressão de\nDados de Vida da classe.\n O bônus de proficiência do monstro é baseado em seu\nnível de desafio, não em seus níveis de classe.\nQuando você tiver terminado de adicionar níveis a um\nmonstro, fique à vontade para alterar seus valores de\nhabilidade como achar adequado (por exemplo,\naumentando o valor de Inteligência de um monstro\nparaque o monstro seja um mago mais eficiente), e faça\nquaisquer outros ajustes que precisar. Você precisará\nrecalcular o nível de desafio como se tivesse criado o\nmonstro do zero.\nA depender do monstro e do número de níveis de classe\nque você adicionou a ele, o nível de desafio dele pode\nmudar muito pouco ou aumentar drasticamente. Por\nexemplo, um lobisomem que ganhe quatro níveis de\nbárbaro é uma ameaça muito maior que antes. Em\ncontrapartida, os pontos de vida, magias e outras  Esteja certo que a magia se encaixa com a identidade\ncaracterísticas de classe que um dragão vermelho ancião da classe. Magos e feiticeiros geralmente não tem\nganharia por cinco níveis de mago não aumentaria seu acesso a magias de cura, por exemplo, e adicionar uma\nnível de desafio. magia de cura para a lista de classe do mago poderia\ninvadir a área",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  562,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

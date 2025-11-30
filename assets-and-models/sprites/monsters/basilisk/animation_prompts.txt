@@ -1,0 +1,28 @@
+﻿# BASILISK - Animation Prompts (9 Frames)
+
+## Frame 1 - Petrifying Lizard
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, heavy eight-legged reptile with brown/green scales and glowing pale green eyes. Viewed from top-down angle (80-90 degrees), standing on circular rocky ground base with petrified statues, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eerie green tones, detailed scale texture readable from above, strong sluggish but dangerous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Deadly Gaze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, lifting head high, eyes glowing with intense pale green light, scales shimmering. Viewed from top-down angle (80-90 degrees), magic ability (petrification), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eye focus, detailed magic effect, strong magical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gaze attack, physical tabletop game piece aesthetic.
+
+## Frame 3 - Threatening Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, opening jaws wide to hiss, displaying rows of needle teeth, throat vibrating. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with mouth focus, detailed expression, strong warning silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Heavy Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, lunging forward with heavy body, snapping jaws shut with crushing force. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tail Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, whipping thick tail around to strike behind or to the side, dust rising. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sweep lines, detailed tail motion, strong smasher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Stone Crunch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, gnawing on a piece of petrified stone (or statue arm), grinding teeth. Viewed from top-down angle (80-90 degrees), flavor action (eating), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dust effects, detailed eating action, strong hunger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, eating stone, physical tabletop game piece aesthetic.
+
+## Frame 7 - Sluggish Turn
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, slowly turning its heavy body, legs moving one by one in a ripple. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with heavy shadows, detailed leg movement, strong reptile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, turning, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dormant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, lowering head to ground, eyes dimming but still open, looking like a rock. Viewed from top-down angle (80-90 degrees), almost fully at rest (camouflaged), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong rock-like silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, basilisk character, heavy eight-legged reptile with brown/green scales and glowing pale green eyes. Viewed from top-down angle (80-90 degrees), standing on circular rocky ground base with petrified statues, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eerie green tones, detailed scale texture readable from above, strong sluggish but dangerous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

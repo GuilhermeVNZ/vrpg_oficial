@@ -1,0 +1,28 @@
+﻿# STIRGE - Animation Prompts (9 Frames)
+
+## Frame 1 - Bloodsucker
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, tiny bat-like creature with four wings and a long needle proboscis. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rust and pink tones, detailed fur and wing texture readable from above, strong parasitic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Screech
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, wings buzzing furiously, proboscis quivering, emitting a high-pitched noise. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying hunger, detailed movement, strong awakening pest silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dive Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, tucking wings slightly, angling proboscis down, targeting prey. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on needle, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Attach
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, latching onto a target (implied) with hooked legs, proboscis piercing. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong grappling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Drain
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, abdomen swelling and turning red as it drains blood, wings fluttering to stay attached. Viewed from top-down angle (80-90 degrees), drain ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive feeding, detailed swelling, strong gluttonous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drain attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Detach
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, pushing off, heavy with blood, flying clumsily back. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Cleaning
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, hanging upside down (if possible) or hovering, cleaning proboscis with legs. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong insectoid silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cleaning idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sleeping
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, wings wrapped tight around body, hanging like a fruit or resting on ground. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stirge character, tiny bat-like creature with four wings and a long needle proboscis. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rust and pink tones, detailed fur and wing texture readable from above, strong parasitic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "linha deve ser bem sucedida num teste de resistência de\nDestreza CD 22, sofrendo 63 (14d8) de dano de ácido se falhar\nna resistência, ou metade desse dano caso obtenha sucesso.\nSopro Retardante. O dragão expele gás num cone de 27 metros.\nCada criatura na área deve ser bem sucedida num teste de\nresistência de Constituição CD 22. Se falhar na resistência, a\ncriatura não pode realizar reações, seu deslocamento é\nreduzido à metade e ela não pode realizar mais de um ataque\npor rodada. Além disso, a criatura pode usar ou um ação ou um\nação bônus no turno dela, mas não ambas. Esse efeito dura por\n1 minuto. A criatura pode repetir o teste de resistência em cada\num dos turnos dela, terminando o efeito caso obtenha sucesso.\nMudar Forma. O dragão se metamorfoseia magicamente em um\nhumanoide ou besta que possua um nível de desafio inferior ao\nseu próprio, ou volta para sua forma verdadeira. Ele reverte a sua\nforma verdadeira se morrer. Qualquer equipamento vestido ou\ncarregado é absorvido ou usado pela nova forma (à escolha do\ndragão).\nNa nova forma, o dragão mantem sua tendência, pontos de vida,\nDados de Vida, capacidade de fala, proficiências, Resistência\nDRAGÃO DE COBRE ANCIÃO\nLendária, ações de covil e valores de Inteligência, Sabedoria e\nDragão Imenso, caótico e bom Carisma, assim como essa ação. Suas estatísticas e capacidades,\nno mais, são substituídas pelas da nova forma, exceto quaisquer\nClasse de Armadura 21 (armadura natural) características de classe ou ações lendárias dessa forma.\nPontos de Vida 350 (20d20 + 140)\nDeslocamento 12 m, escalada 12 m, voo 24 m\nAÇÕES LENDÁRIAS\nO dragão pode realizar 3 ações lendárias, escolhidas dentre as\nFOR DES CON INT SAB CAR opções abaixo. Apenas uma ação lendária pode ser usada por vez\n27 (+8) 12 (+1) 25 (+7) 20 (+5) 17 (+3) 19 (+4) e apenas no final do turno de outra criatura. O dragão recupera as\nações lendárias gastas no começo do turno dele.\nTestes de Resistência Des +8, Con +14, Sab +10, Car +11\nDetectar. O dragão realiza um te",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  200,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

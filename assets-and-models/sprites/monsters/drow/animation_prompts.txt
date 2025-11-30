@@ -1,0 +1,28 @@
+﻿# DROW - Animation Prompts (9 Frames)
+
+## Frame 1 - Underdark Scout
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, dark elf with obsidian skin and white hair, wearing spider-silk chainmail and holding a hand crossbow. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bioluminescent purple and blue tones, detailed armor texture readable from above, strong agile silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Poison Bolt
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, raising the hand crossbow and aiming, a bolt tipped with dripping poison loaded. Viewed from top-down angle (80-90 degrees), ranged attack prep, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on weapon, detailed poison effect, strong sniper silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, aiming crossbow, physical tabletop game piece aesthetic.
+
+## Frame 3 - Fire Bolt
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, firing the crossbow, the bolt blurring as it flies, recoil pushing the arm back slightly. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed action, strong shooter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, firing crossbow, physical tabletop game piece aesthetic.
+
+## Frame 4 - Rapier Draw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, dropping the crossbow to a strap and drawing a slender rapier with a fluid motion. Viewed from top-down angle (80-90 degrees), weapon switch/melee prep, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel glint, detailed movement, strong duelist silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drawing sword, physical tabletop game piece aesthetic.
+
+## Frame 5 - Precision Thrust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, lunging forward in a fencing stance, thrusting the rapier with deadly accuracy. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp lines, detailed weapon strike, strong fencer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rapier attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Parry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, deflecting an incoming attack with the rapier, body turned sideways, cloak swirling. Viewed from top-down angle (80-90 degrees), defense, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sparks, detailed defensive posture, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, parrying, physical tabletop game piece aesthetic.
+
+## Frame 7 - Darkness
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, casting a spell, a globe of magical darkness forming in one hand. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with negative space focus, detailed magic effect, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting darkness, physical tabletop game piece aesthetic.
+
+## Frame 8 - Signal
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, making a silent hand signal to allies, looking intense and focused. Viewed from top-down angle (80-90 degrees), idle behavior/communication, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong scout silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, signaling, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drow character, dark elf with obsidian skin and white hair, wearing spider-silk chainmail and holding a hand crossbow. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bioluminescent purple and blue tones, detailed armor texture readable from above, strong agile silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

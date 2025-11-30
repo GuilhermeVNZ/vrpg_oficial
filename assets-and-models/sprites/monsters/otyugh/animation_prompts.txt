@@ -1,0 +1,28 @@
+﻿# OTYUGH - Animation Prompts (9 Frames)
+
+## Frame 1 - Filth Dweller
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, grotesque aberration with three legs, two tentacles, eyestalk, covered in filth. Viewed from top-down angle (80-90 degrees), standing on circular refuse heap base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and green tones, detailed disgusting texture readable from above, strong aberrant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Eyestalk Scan
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, eyestalk swiveling, scanning surroundings for food. Viewed from top-down angle (80-90 degrees), observation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eye focus, detailed scanning, strong watchful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scanning, physical tabletop game piece aesthetic.
+
+## Frame 3 - Tentacle Lash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, whipping spiked tentacle forward to strike prey. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tentacle motion, detailed lash action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tentacle attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, opening massive toothy maw at center of body, biting. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Grapple
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, wrapping both tentacles around victim, pulling toward mouth. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with constriction, detailed grapple, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grappling, physical tabletop game piece aesthetic.
+
+## Frame 6 - Limited Telepathy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, eyestalk glowing, communicating telepathically with nearby creatures. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with psychic waves, detailed telepathy, strong communicator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, telepathy, physical tabletop game piece aesthetic.
+
+## Frame 7 - Burrow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, digging into refuse pile, burrowing down. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with digging motion, detailed burrowing, strong digger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, burrowing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Feed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, shoveling garbage into mouth with tentacles, eating. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed feeding, strong eating silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, feeding idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, otyugh character, grotesque aberration with three legs, two tentacles, eyestalk, covered in filth. Viewed from top-down angle (80-90 degrees), standing on circular refuse heap base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and green tones, detailed disgusting texture readable from above, strong aberrant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

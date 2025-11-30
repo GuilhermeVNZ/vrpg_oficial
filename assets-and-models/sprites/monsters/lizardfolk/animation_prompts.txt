@@ -1,0 +1,28 @@
+﻿# LIZARDFOLK - Animation Prompts (9 Frames)
+
+## Frame 1 - Swamp Warrior
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, reptilian humanoid with green scales, holding spear and shield. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong tribal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, mouth open in threatening hiss, showing sharp teeth. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed hiss, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Spear Thrust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, thrusting spear forward in straight jab. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with thrust motion, detailed spear strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spear attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, lunging forward with jaws open, natural weapon attack. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shield Block
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, raising shield to block incoming attack, bracing. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shield focus, detailed block, strong defender silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blocking, physical tabletop game piece aesthetic.
+
+## Frame 6 - Hold Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, chest expanded, preparing to dive underwater. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with breath hold, detailed preparation, strong aquatic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, holding breath, physical tabletop game piece aesthetic.
+
+## Frame 7 - Swim
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, swimming motion with tail propelling, arms paddling. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with water motion, detailed swimming, strong swimmer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swimming, physical tabletop game piece aesthetic.
+
+## Frame 8 - Craft
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, working on bone weapon or tool, focused. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with craft focus, detailed crafting, strong artisan silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, crafting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lizardfolk character, reptilian humanoid with green scales, holding spear and shield. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong tribal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

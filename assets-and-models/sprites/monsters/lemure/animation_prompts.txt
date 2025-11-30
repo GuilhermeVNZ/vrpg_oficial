@@ -1,0 +1,28 @@
+﻿# LEMURE - Animation Prompts (9 Frames)
+
+## Frame 1 - Melted Soul
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, blob of melted flesh with vague humanoid shape, no distinct face, flailing limbs. Viewed from top-down angle (80-90 degrees), standing on circular slime base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly pink and grey tones, detailed melted texture readable from above, strong pathetic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Quivering
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, entire body shaking like jelly, flesh rippling, limbs twitching, emitting low moan. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying motion, detailed ripple movement, strong disturbing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, moving, physical tabletop game piece aesthetic.
+
+## Frame 3 - Lunge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, compressing body down, arms reaching out, mass shifting forward. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on flesh, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, throwing body forward, arms flailing to hit, flesh splashing (implied). Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong heavy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Envelop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, spreading arms wide to hug/absorb, body flattening, mass expanding. Viewed from top-down angle (80-90 degrees), grapple attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grapple attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, reforming shape, pulling back, wobbling, flesh settling. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Confusion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, spinning slowly in circle, arms dragging, looking for direction (no eyes). Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong lost silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, confused idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Puddle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, sinking into a pile, becoming almost flat, stillness of a puddle. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lemure devil character, blob of melted flesh with vague humanoid shape, no distinct face, flailing limbs. Viewed from top-down angle (80-90 degrees), standing on circular slime base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly pink and grey tones, detailed melted texture readable from above, strong pathetic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

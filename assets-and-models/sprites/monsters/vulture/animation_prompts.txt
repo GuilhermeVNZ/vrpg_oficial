@@ -1,0 +1,28 @@
+﻿# VULTURE - Animation Prompts (9 Frames)
+
+## Frame 1 - Carrion Bird
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, large scavenger bird with bald head, hooked beak, dark feathers. Viewed from top-down angle (80-90 degrees), perched on circular rocky outcrop base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and brown tones, detailed feather texture readable from above, strong scavenger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, head forward, beak open in defensive hiss. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed hiss, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wing Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, spreading wings wide in display or preparation for flight. Viewed from top-down angle (80-90 degrees), intimidation/preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing emphasis, detailed wing anatomy, strong imposing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wing display, physical tabletop game piece aesthetic.
+
+## Frame 4 - Beak Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, jabbing forward with hooked beak, pecking. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beak focus, detailed peck action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peck attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Takeoff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, leaping into air with powerful wing beats. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with launch motion, detailed takeoff, strong launching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, taking off, physical tabletop game piece aesthetic.
+
+## Frame 6 - Soar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, wings extended in gliding position, circling. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful motion, detailed soaring, strong soaring silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, soaring, physical tabletop game piece aesthetic.
+
+## Frame 7 - Keen Sight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, head turning, scanning for carrion from above. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed scanning, strong observant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scanning, physical tabletop game piece aesthetic.
+
+## Frame 8 - Feed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, head lowered, tearing at invisible carrion. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed feeding, strong scavenging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, feeding idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, vulture character, large scavenger bird with bald head, hooked beak, dark feathers. Viewed from top-down angle (80-90 degrees), perched on circular rocky outcrop base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and brown tones, detailed feather texture readable from above, strong scavenger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "tiver conjurando a magia e precisa manter a\nconcentração enquanto o faz (veja “Concentração” abaixo).\nSe a sua concentração for quebrada, a magia falha, mas\nvocê não gasta o espaço da magia. Se você tentar conjurar\na magia de novo, deve fazer do início.\nALCANCE\nO alvo de uma magia deve estar dentro do alcance da\nmagia. Para uma magia como mísseis mágicos, o alvo é\numa criatura. Para uma magia como bola de fogo, o alvo é\num ponto no espaço onde a bola de fogo explode.\nA maioria das magias tem seu alcance descrito em\nmetros. Algumas magias podem ser miradas em apenas\numa criatura (incluindo você) que você toque. Outras\nmagias, como escudo arcano, afetam você apenas. Essas\nmagias têm na descrição de alcance \"pessoal\".\nMagias que criam cones ou linhas de efeito originárias\na partir de você têm como alcance \"pessoal\", indicando\nque o ponto de origem deve ser você mesmo (veja \"Áreas\nde Efeito\" logo a mais nesse capítulo).\n204\n\n\n# Pagina 204\n\nUma vez que a magia é conjurada, os efeitos não são AS ESCOLAS DE MAGIA\nlimitados pelo seu alcance, a menos que a descrição da Academias de grupos mágicos se dividem em oito categorias,\nmagia diga o contrário. chamadas de escolas de magia. Estudiosos, particularmente\nmagos, aplicam essas categorias para as magias, acreditando que\nCOMPONENTES todas as mágicas funcionam essencialmente do mesmo modo,\nsejam obtidas por rigoroso estudo ou outorgado por uma\nOs componentes de uma magia são requisitos físicos que\ndivindade.\nvocê deve possuir para conjurar a magia. Cada descrição\nAs escolas de magia ajudam a descrever as magias. Elas não\nde magia indica se seu componente é verbal (V), somático\ntêm regras próprias, embora algumas regras se refiram às escolas.\n(S) ou material (M). Se você não dispor de um ou mais dos\nMagias de Abjuração são protetoras em sua natureza,\ncomponentes da magia, você fica incapaz de conjurá-la.\nembora algumas tenham grande uso agressivo. Elas criam\nbarreiras mágicas, negam efeitos nocivos, ferem invasores ou\nVERBAL (V",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  403,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

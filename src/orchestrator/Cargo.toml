@@ -1,0 +1,119 @@
+[package]
+name = "orchestrator"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+description = "Orchestrator - Central coordinator for VRPG system"
+
+[dependencies]
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+uuid = { workspace = true }
+chrono = { workspace = true }
+axum = { workspace = true }
+tower = { workspace = true }
+tower-http = { workspace = true }
+reqwest = { workspace = true }
+futures-util = "0.3"
+regex = "1.10"
+
+# Internal dependencies
+game-engine = { path = "../game-engine" }
+rules5e-service = { path = "../rules5e-service" }
+memory-service = { path = "../memory-service" }
+
+[dev-dependencies]
+tokio-test = { workspace = true }
+mockall = { workspace = true }
+tempfile = "3.8"
+
+[[test]]
+name = "fsm_test"
+path = "tests/fsm_test.rs"
+
+[[test]]
+name = "intent_parser_test"
+path = "tests/intent_parser_test.rs"
+
+[[test]]
+name = "session_test"
+path = "tests/session_test.rs"
+
+[[test]]
+name = "integration_test"
+path = "tests/integration_test.rs"
+
+[[test]]
+name = "intent_router_test"
+path = "tests/intent_router_test.rs"
+
+[[test]]
+name = "pipeline_flow_test"
+path = "tests/pipeline_flow_test.rs"
+
+[[test]]
+name = "objective_responses_test"
+path = "tests/objective_responses_test.rs"
+
+[[test]]
+name = "simple_rule_query_test"
+path = "tests/simple_rule_query_test.rs"
+
+[[test]]
+name = "game_state_cache_test"
+path = "tests/game_state_cache_test.rs"
+
+[[test]]
+name = "scene_context_cache_test"
+path = "tests/scene_context_cache_test.rs"
+
+[[test]]
+name = "lore_cache_test"
+path = "tests/lore_cache_test.rs"
+
+[[test]]
+name = "pipeline_integration_test"
+path = "tests/pipeline_integration_test.rs"
+
+[[test]]
+name = "pipeline_performance_test"
+path = "tests/pipeline_performance_test.rs"
+
+[[test]]
+name = "pipeline_regression_test"
+path = "tests/pipeline_regression_test.rs"
+
+[[test]]
+name = "session_persistence_test"
+path = "tests/session_persistence_test.rs"
+
+[[test]]
+name = "pipeline_state_test"
+path = "tests/pipeline_state_test.rs"
+
+[[test]]
+name = "pipeline_state_integration_test"
+path = "tests/pipeline_state_integration_test.rs"
+
+[[test]]
+name = "trigger_1_5b_test"
+path = "tests/trigger_1_5b_test.rs"
+
+[[test]]
+name = "trigger_1_5b_integration_test"
+path = "tests/trigger_1_5b_integration_test.rs"
+
+[[test]]
+name = "context_14b_test"
+path = "tests/context_14b_test.rs"
+
+[[test]]
+name = "context_14b_integration_test"
+path = "tests/context_14b_integration_test.rs"
+

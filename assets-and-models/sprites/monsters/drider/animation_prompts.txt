@@ -1,0 +1,28 @@
+﻿# DRIDER - Animation Prompts (9 Frames)
+
+## Frame 1 - Spider Centaur
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, monstrosity with the upper body of a drow elf and the lower body of a giant spider, holding a longsword and shield. Viewed from top-down angle (80-90 degrees), standing on circular webbed floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and black tones, detailed chitin and skin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Web Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, rearing up slightly on hind legs, shooting a web strand from spinnerets (or hand). Viewed from top-down angle (80-90 degrees), ranged attack/utility, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with web detail, detailed anatomy, strong trapper silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shooting web, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sword Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, lunging forward with spider legs, swinging longsword in a wide arc. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed weapon strike, strong warrior silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Ceiling Climb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, legs splayed wide as if clinging to a ceiling or wall, looking down. Viewed from top-down angle (80-90 degrees), movement/positioning, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with inverted shadows, detailed leg positioning, strong climber silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, climbing pose, physical tabletop game piece aesthetic.
+
+## Frame 5 - Spellcast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, raising a hand wreathed in dark magical energy (purple/black flames), spider legs bracing. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with magic glow, detailed spell effect, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting spell, physical tabletop game piece aesthetic.
+
+## Frame 6 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, leaning human torso forward to bite with venomous fangs (drow face distorted). Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with facial focus, detailed expression, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Skitter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, moving rapidly sideways, legs blurring slightly, torso stable. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion lines, detailed leg movement, strong skittering silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, skittering, physical tabletop game piece aesthetic.
+
+## Frame 8 - Lolth's Blessing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, raising sword in triumph, spider legs tapping rhythmically, faint unholy aura. Viewed from top-down angle (80-90 degrees), idle behavior/buff, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with aura, detailed character acting, strong fanatic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, triumph idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, drider character, monstrosity with the upper body of a drow elf and the lower body of a giant spider, holding a longsword and shield. Viewed from top-down angle (80-90 degrees), standing on circular webbed floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and black tones, detailed chitin and skin texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

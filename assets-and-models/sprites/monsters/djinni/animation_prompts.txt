@@ -1,0 +1,28 @@
+﻿# DJINNI - Animation Prompts (9 Frames)
+
+## Frame 1 - Wind Genie
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, tall blue-skinned genie with athletic build, wearing silk pants and vest, lower body swirling whirlwind. Viewed from top-down angle (80-90 degrees), standing on circular cloud base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sky blue and white tones, detailed skin and fabric texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Whirlwind Spin
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, lower body spinning faster, wind whipping hair and clothes, arms raising, smile widening. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying wind, detailed blur effect, strong awakening storm silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scimitar Draw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, drawing large curved scimitar from sash, blade gleaming, wind gathering around steel. Viewed from top-down angle (80-90 degrees), preparing weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Wind Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, slashing horizontally with scimitar, blade releasing blade of wind, body rotating. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tornado Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, becoming a living tornado, scimitar flashing inside, debris flying, clouds darkening. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive wind effects, detailed chaos, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tornado attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, slowing spin, returning to solid form, scimitar held gracefully, hair settling. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding wind, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Wine Conjure
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, conjuring goblet of wine from thin air, taking a sip, looking relaxed and amused. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong hedonist silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drinking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Cloud Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, reclining back on conjured cloud chair, arms behind head, looking at sky. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy noble silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, djinni genie character, tall blue-skinned genie with athletic build, wearing silk pants and vest, lower body swirling whirlwind. Viewed from top-down angle (80-90 degrees), standing on circular cloud base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sky blue and white tones, detailed skin and fabric texture readable from above, strong noble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle floating pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

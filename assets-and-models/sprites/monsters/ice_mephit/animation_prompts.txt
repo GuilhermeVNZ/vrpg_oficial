@@ -1,0 +1,28 @@
+﻿# ICE MEPHIT - Animation Prompts (9 Frames)
+
+## Frame 1 - Frost Imp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, small winged elemental creature made of ice and snow, sharp angular features, translucent wings. Viewed from top-down angle (80-90 degrees), standing on circular snow base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and blue tones, detailed ice texture readable from above, strong cold silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle shivering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Shiver
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, shivering violently, ice crystals forming on skin, breath visible in cold air, teeth chattering. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying frost, detailed movement, strong freezing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Breath Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, inhaling deeply, chest glowing blue, frost spreading on ground, mouth opening. Viewed from top-down angle (80-90 degrees), preparing breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on chest, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Ice Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, exhaling cone of ice shards and cold air, freezing ground, wings stiff. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed ice effect, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, slashing with icicle claws, trail of frost, body lunging forward. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong aggressive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, floating back, shaking off frost, wings relaxing, breath cloud fading. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding frost, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Prank
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, giggling (implied), making a snowball, looking mischievous. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong prankster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, playful idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Icicle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, hanging upside down (or standing stiff), arms at sides, looking like an icicle, stillness. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ice mephit character, small winged elemental creature made of ice and snow, sharp angular features, translucent wings. Viewed from top-down angle (80-90 degrees), standing on circular snow base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and blue tones, detailed ice texture readable from above, strong cold silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle shivering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

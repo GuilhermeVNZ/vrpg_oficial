@@ -1,0 +1,36 @@
+# Kobold Shaman - Animation Prompts (9 Frames)
+
+Base prompt: Dungeons and Dragons dark fantasy anime illustration, kobold shaman character, small reptilian humanoid with red-orange scales and small horns, wearing tribal robes with bone decorations and skull necklace, wielding a gnarled wooden staff with glowing orange crystal at top. Viewed from top-down angle (80-90 degrees), standing on circular ritual base with carved runes, 2D painted illustration style, solid dark grey background NO CHECKERED PATTERN.
+
+---
+
+## Frame 1 - Idle Rest
+Kobold standing still, staff held vertically, crystal glowing faintly orange, relaxed shamanic pose.
+
+## Frame 2 - Begin Ritual
+Staff begins to lift, kobold's head tilts back, crystal glow intensifying, runes on base start to glow.
+
+## Frame 3 - Raise Staff
+Staff raised 45 degrees, both hands gripping it, crystal blazing bright orange, magical energy gathering.
+
+## Frame 4 - Peak Power
+Staff fully raised overhead, crystal at maximum brightness, magical aura around kobold, runes fully lit.
+
+## Frame 5 - Channel Energy
+Holding staff high, energy swirling around crystal, kobold's body glowing with orange magic, peak of spell.
+
+## Frame 6 - Release Power
+Staff begins to lower, energy dissipating outward, crystal dimming slightly, magical release.
+
+## Frame 7 - Lower Staff
+Staff lowering to 45 degrees, crystal glow fading, runes dimming, energy settling.
+
+## Frame 8 - Return Motion
+Staff nearly vertical again, crystal returning to faint glow, kobold relaxing stance.
+
+## Frame 9 - Complete Loop
+Identical to Frame 1, staff vertical, minimal crystal glow, ready to loop seamlessly.
+
+---
+
+**Use estas descrições com o prompt base para gerar cada frame!**

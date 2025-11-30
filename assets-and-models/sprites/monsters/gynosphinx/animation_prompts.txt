@@ -1,0 +1,28 @@
+﻿# GYNOSPHINX - Animation Prompts (9 Frames)
+
+## Frame 1 - Female Sphinx
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, sleek lion body with human female head, large feathered wings, elegant jewelry. Viewed from top-down angle (80-90 degrees), standing on circular desert ruin base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gold and lapis lazuli tones, detailed fur and feather texture readable from above, strong elegant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sitting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, crouching low, wings flared, hissing like a cat, tail twitching. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying warning, detailed movement, strong awakening predator silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, wiggling haunches, claws digging into ground, eyes locked on target. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on eyes, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, striking with incredible speed, claws flashing, movement blurred. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Time Shift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, eyes glowing purple, reality warping around her, shifting position instantly. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed teleportation, strong mystic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, teleport action, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, landing gracefully, wings folding, smoothing fur, looking composed. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Pondering
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, resting chin on paw, looking thoughtful, tail flicking gently. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong wise silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, thinking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Statue
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, sitting perfectly still like a stone statue, blending with surroundings. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong sentinel silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gynosphinx character, sleek lion body with human female head, large feathered wings, elegant jewelry. Viewed from top-down angle (80-90 degrees), standing on circular desert ruin base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gold and lapis lazuli tones, detailed fur and feather texture readable from above, strong elegant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle sitting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

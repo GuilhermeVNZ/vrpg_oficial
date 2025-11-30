@@ -1,0 +1,28 @@
+﻿# MINOTAUR - Animation Prompts (9 Frames)
+
+## Frame 1 - Labyrinth Guardian
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, massive muscular humanoid with a bull's head and tail, wearing leather straps and nose ring, holding a double-bladed greataxe. Viewed from top-down angle (80-90 degrees), standing on circular stone maze floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with torchlight tones, detailed fur and muscle texture readable from above, strong powerful silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Angry Snort
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, huffing steam from nostrils, pawing the ground with a hoof, tightening grip on axe. Viewed from top-down angle (80-90 degrees), aggression display, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with breath effect, detailed animalistic movement, strong angry silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing to charge, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, lowering head to aim sharp horns forward, body leaning into a sprint stance. Viewed from top-down angle (80-90 degrees), preparing charge, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dynamic shadows, detailed anatomical tension, strong charger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charge preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Goring Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, rushing forward (in place) with horns leading, axe held back for follow-up, dust kicking up. Viewed from top-down angle (80-90 degrees), movement/attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed chaotic movement, strong battering ram silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gore attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Greataxe Chop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, bringing the greataxe down in a vertical chop, muscles bulging, mouth open in effort. Viewed from top-down angle (80-90 degrees), peak of melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp blade highlight, detailed weapon strike, strong executioner silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, axe attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Wide Cleave
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, swinging axe horizontally to hit multiple targets, body twisting. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sweep lines, detailed action, strong sweeper silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cleave attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Bellow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, throwing head back and letting out a deafening bellow, chest expanded, axe raised in triumph. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with facial focus, detailed expression, strong loud silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 8 - Lost
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, looking left and right with a confused expression, scratching head near horn, axe lowered. Viewed from top-down angle (80-90 degrees), idle behavior (flavor), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong confused silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, confused idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, minotaur character, massive muscular humanoid with a bull's head and tail, wearing leather straps and nose ring, holding a double-bladed greataxe. Viewed from top-down angle (80-90 degrees), standing on circular stone maze floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with torchlight tones, detailed fur and muscle texture readable from above, strong powerful silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+# MANES - Animation Prompts (9 Frames)
+
+## Frame 1 - Wailing Soul
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, pale bloated humanoid corpse with maggots, eyes sewn shut or missing, mouth open in eternal scream, hands grasping. Viewed from top-down angle (80-90 degrees), standing on circular bone dust base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey death tones, detailed rot and maggot texture readable from above, strong zombie-like silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle moaning pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Shuffling
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, taking step forward, dragging foot, arms reaching out blindly, head lolling. Viewed from top-down angle (80-90 degrees), moving, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying shadow, detailed movement, strong mindless silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shuffling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Grasping
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, both hands clutching at air, fingers hooked, mouth opening wider, body leaning forward. Viewed from top-down angle (80-90 degrees), attacking, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on hands, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, lunging to bite, teeth rotting, maggots falling from mouth, desperate hunger. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong hungry silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Swarm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, falling to knees, clawing at ground, trying to climb invisible target, chaotic movement. Viewed from top-down angle (80-90 degrees), frenzy, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed desperation, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, frenzy attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, standing back up unsteadily, swaying, arms dropping, mouth still open. Viewed from top-down angle (80-90 degrees), recovering, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, recovery, physical tabletop game piece aesthetic.
+
+## Frame 7 - Maggot Shake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, twitching violently, maggots falling from skin, head jerking, unnatural spasm. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong disturbing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, twitching idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Staring
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, standing perfectly still, facing forward blindly, arms hanging loose, eerie silence. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong empty silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, manes demon character, pale bloated humanoid corpse with maggots, eyes sewn shut or missing, mouth open in eternal scream, hands grasping. Viewed from top-down angle (80-90 degrees), standing on circular bone dust base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey death tones, detailed rot and maggot texture readable from above, strong zombie-like silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle moaning pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

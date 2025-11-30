@@ -1,0 +1,28 @@
+﻿# PIXIE - Animation Prompts (9 Frames)
+
+## Frame 1 - Tiny Fey
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, tiny humanoid with butterfly wings, mischievous smile, holding tiny bow. Viewed from top-down angle (80-90 degrees), hovering above circular flower base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pastel and sparkle tones, detailed wing texture readable from above, strong fey silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Giggle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, laughing merrily, wings fluttering rapidly, magical sparkles. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with joy effect, detailed laughter, strong playful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, giggling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Dart
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, zipping through air rapidly, wings a blur, quick movement. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed darting, strong flying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, darting, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bow Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, drawing tiny bow and firing arrow, aiming carefully. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bow focus, detailed shot action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bow attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Invisibility
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, fading from view, becoming invisible, sparkles dissipating. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fading effect, detailed invisibility, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, turning invisible, physical tabletop game piece aesthetic.
+
+## Frame 6 - Polymorph
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, casting polymorph spell, magical energy swirling. Viewed from top-down angle (80-90 degrees), spell casting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with transformation magic, detailed spell effect, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting polymorph, physical tabletop game piece aesthetic.
+
+## Frame 7 - Pixie Dust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, sprinkling magical pixie dust, granting flight or confusion. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sparkle effect, detailed dust, strong magical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sprinkling dust, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest on Flower
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, sitting on invisible flower petal, wings folded, relaxing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, pixie character, tiny humanoid with butterfly wings, mischievous smile, holding tiny bow. Viewed from top-down angle (80-90 degrees), hovering above circular flower base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pastel and sparkle tones, detailed wing texture readable from above, strong fey silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

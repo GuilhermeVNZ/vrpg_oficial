@@ -1,0 +1,15 @@
+﻿# GIANT WEASEL - Animation Prompts (9 Frames)
+
+Base: D&D 5e dark fantasy anime illustration, giant weasel, top-down view (80-90 degrees), 2D painted style, solid dark grey background NO CHECKERED PATTERN, 1:1 aspect ratio.
+
+Frame 1: Idle rest position
+Frame 2: Begin movement/action
+Frame 3: Movement building
+Frame 4: Peak of action
+Frame 5: Hold peak position
+Frame 6: Begin return
+Frame 7: Returning to rest
+Frame 8: Almost at rest
+Frame 9: Complete loop (identical to Frame 1)
+
+Generate each frame by combining the base prompt with the specific frame description.

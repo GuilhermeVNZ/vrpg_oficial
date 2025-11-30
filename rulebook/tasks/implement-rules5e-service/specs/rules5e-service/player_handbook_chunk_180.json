@@ -1,0 +1,12 @@
+﻿{
+    "text":  "é 1,5 metro da\nmão espectral criada por essa magia. Fazer isso, lhe\nCONJURAÇÃO DE TRAPACEIRO ARCANO\nconcede vantagem nas jogadas de ataque contra essa\nNível de Truques Magias Espaços de Magia por Nível\ncriatura até o final do turno.\nLadino Conhecidos Conhecidas 1° 2° 3° 4°\n3° 3 3 2 – – – LADRÃO DE MAGIA\n4° 3 4 3 – – –\nNo 17° nível, você ganha a habilidade de, magicamente,\n5° 3 4 3 – – –\nroubar o conhecimento de como conjurar uma magia de\n6° 3 4 3 – – –\noutro conjurador.\n7° 3 5 4 2 – –\nImediatamente depois de uma criatura conjurar uma\n8° 3 6 4 2 – – magia que tenha você como alvo ou inclua você na sua\n9° 3 6 4 2 – – área de efeito, você pode usar sua reação para forçar a\n10° 4 7 4 3 – – criatura a realizar um teste de resistência com o\n11° 4 8 4 3 – – modificador de habilidade de conjuração dele. A CD é\n12° 4 8 4 3 – – igual a CD das suas magias. Numa falha, você ignora o\n13° 4 9 4 3 2 – efeito da magia sobre você e rouba o conhecimento da\n14° 4 10 4 3 2 – magia, se ela for de, pelo menos, 1° nível e de um nível\n15° 4 10 4 3 2 – que você possa conjurar (não precisa ser uma magia de\n16° 4 11 4 3 3 – mago). Pelas próximas 8 horas, você conhece a magia e\n17° 4 11 4 3 3 – pode conjurá-la usando seus espaços de magia. A criatura\n18° 4 11 4 3 3 – não pode conjurar a magia até que 8 horas tenham se\n19° 4 12 4 3 3 1 passado.\n20° 4 13 4 3 3 1 Uma vez que você tenha usado essa característica,\nvocê não pode usá-la novamente até ter terminado um\ndescanso longo.\n93\n\n\n# Pagina 93\n\nMAGO\nVestida com uma túnica prata que denota seu posto,\numa elfa fecha seus olhos para distanciar-se das\ndistrações do campo de batalha e entoa o seu canto\nsereno. Dedos se agitam à sua frente, ela completa sua\nmagia e lança uma pequena centelha de fogo em direção\ndos inimigos, explodindo em chamas o incêndio que\nengolfa os soldados.\nVerificando mais de uma vez o seu trabalho, um\nhumano inscreve um círculo mágico com giz no chão de\npedra, então espalha pó de ferro ao longo de cada linha e\ncurva graciosas",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  180,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

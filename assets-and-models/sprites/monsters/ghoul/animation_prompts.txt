@@ -1,0 +1,28 @@
+﻿# GHOUL - Animation Prompts (9 Frames)
+
+## Frame 1 - Starving Undead
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, emaciated humanoid undead with grey skin, long sharp claws, and a long tongue hanging out. Viewed from top-down angle (80-90 degrees), standing on circular graveyard dirt base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly green and grey tones, detailed rotting texture readable from above, strong hungry silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouching pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hunger Pangs
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, twitching violently, tongue lolling out further, eyes widening with madness. Viewed from top-down angle (80-90 degrees), idle variation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with twitching shadows, detailed undead movement, strong feral silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hungry idle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Paralyzing Claw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, raising a hand with elongated claws, fingers dripping with paralytic ichor. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on claws, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, slashing forward with desperate speed, body extended, mouth open in a hiss. Viewed from top-down angle (80-90 degrees), peak of melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp motion lines, detailed action, strong slasher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Flesh Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, lunging forward to bite, jaws unhinged, neck stretched. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with visceral focus, detailed jaw action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Scuttle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, dropping to all fours and scurrying forward like a spider or beast. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with low profile, detailed crawling motion, strong crawler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, moving, physical tabletop game piece aesthetic.
+
+## Frame 7 - Corpse Feast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, hunching over as if eating something on the ground, tearing at invisible meat. Viewed from top-down angle (80-90 degrees), flavor action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gruesome shadows, detailed feeding action, strong scavenger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, feeding, physical tabletop game piece aesthetic.
+
+## Frame 8 - Lurking
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, crouching low, staying perfectly still, blending with the shadows. Viewed from top-down angle (80-90 degrees), almost fully at rest (ambush), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed tension, strong lurker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, lurking idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ghoul character, emaciated humanoid undead with grey skin, long sharp claws, and a long tongue hanging out. Viewed from top-down angle (80-90 degrees), standing on circular graveyard dirt base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly green and grey tones, detailed rotting texture readable from above, strong hungry silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouching pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

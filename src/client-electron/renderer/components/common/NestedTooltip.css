@@ -1,0 +1,107 @@
+/* NestedTooltip Styles - Secondary tooltip layer */
+
+.nested-tooltip {
+    position: fixed;
+    z-index: 10000;
+    /* Above primary tooltip */
+    max-width: 280px;
+    max-height: 350px;
+    overflow-y: auto;
+    padding: 10px 14px;
+
+    /* Glassmorphism with blue accent */
+    background: rgba(20, 20, 20, 0.98);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1.5px solid var(--vrpg-color-arcane-blue);
+    border-radius: var(--vrpg-radius-sm);
+    box-shadow:
+        0 12px 40px rgba(0, 0, 0, 0.8),
+        inset 0 0 0 1px rgba(74, 144, 226, 0.1),
+        0 0 20px rgba(74, 144, 226, 0.2);
+
+    /* Typography */
+    font-family: var(--vrpg-font-sans);
+    font-size: 12px;
+    line-height: 1.4;
+    color: #d0d0d0;
+
+    /* Animation */
+    animation: nestedTooltipFadeIn 0.15s ease-out;
+    pointer-events: auto;
+}
+
+@keyframes nestedTooltipFadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(-50%) scale(1);
+    }
+}
+
+.nested-tooltip-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid rgba(74, 144, 226, 0.3);
+}
+
+.nested-tooltip-title {
+    font-family: var(--vrpg-font-serif);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--vrpg-color-arcane-blue);
+}
+
+.nested-tooltip-type {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    opacity: 0.7;
+    color: var(--vrpg-color-arcane-blue);
+}
+
+.nested-tooltip-content {
+    white-space: pre-line;
+}
+
+/* Scrollbar */
+.nested-tooltip::-webkit-scrollbar {
+    width: 5px;
+}
+
+.nested-tooltip::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+}
+
+.nested-tooltip::-webkit-scrollbar-thumb {
+    background: rgba(74, 144, 226, 0.4);
+    border-radius: 3px;
+}
+
+.nested-tooltip::-webkit-scrollbar-thumb:hover {
+    background: rgba(74, 144, 226, 0.6);
+}
+
+/* Lists in nested tooltips */
+.nested-tooltip ul {
+    margin: 4px 0;
+    padding-left: 14px;
+}
+
+.nested-tooltip li {
+    margin: 2px 0;
+}
+
+/* Strong text in nested tooltips */
+.nested-tooltip strong {
+    color: var(--vrpg-color-arcane-blue);
+    font-weight: 600;
+}

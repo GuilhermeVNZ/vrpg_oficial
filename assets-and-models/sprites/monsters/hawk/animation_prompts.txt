@@ -1,0 +1,28 @@
+﻿# HAWK - Animation Prompts (9 Frames)
+
+## Frame 1 - Keen Hunter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, sleek bird of prey with brown and white plumage, sharp talons and hooked beak. Viewed from top-down angle (80-90 degrees), perched on circular branch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and sky blue tones, detailed feather texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Screech
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, head raised, beak open in piercing cry, wings slightly spread. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dramatic pose, detailed cry, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, screeching, physical tabletop game piece aesthetic.
+
+## Frame 3 - Takeoff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, launching from perch with wings spreading, legs pushing off. Viewed from top-down angle (80-90 degrees), flight preparation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with launch motion, detailed takeoff, strong launching silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, taking off, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dive
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, diving down with wings tucked, talons extended forward. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed dive action, strong diving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, talon attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Beak Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, snapping beak forward at prey, wings flapping. Viewed from top-down angle (80-90 degrees), melee attack (beak), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with strike focus, detailed beak attack, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, beak attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Soar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, wings fully extended in soaring position, riding thermals. Viewed from top-down angle (80-90 degrees), movement/flight, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful lines, detailed soaring pose, strong gliding silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, soaring, physical tabletop game piece aesthetic.
+
+## Frame 7 - Keen Sight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, head turning sharply, eyes focused on distant prey. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eye focus, detailed scanning, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scanning, physical tabletop game piece aesthetic.
+
+## Frame 8 - Preening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, using beak to preen chest feathers, one wing extended. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hawk character, sleek bird of prey with brown and white plumage, sharp talons and hooked beak. Viewed from top-down angle (80-90 degrees), perched on circular branch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and sky blue tones, detailed feather texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

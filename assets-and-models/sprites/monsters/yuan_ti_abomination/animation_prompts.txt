@@ -1,0 +1,28 @@
+﻿# YUAN-TI ABOMINATION - Animation Prompts (9 Frames)
+
+## Frame 1 - Serpent Horror
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, large snake body with humanoid torso, multiple arms, serpentine head. Viewed from top-down angle (80-90 degrees), coiled on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and gold tones, detailed scale texture readable from above, strong abomination silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, hissing with forked tongue, hood flaring. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with menace emphasis, detailed hiss, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slither
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, slithering forward rapidly, multiple arms ready. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with slither motion, detailed slithering, strong serpentine silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slithering, physical tabletop game piece aesthetic.
+
+## Frame 4 - Multiattack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, attacking with bite and multiple weapons simultaneously. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with multiple strikes, detailed multiattack, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, multiattack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Constrict
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, coiling around victim (implied), crushing. Viewed from top-down angle (80-90 degrees), grapple attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with coil emphasis, detailed constricting, strong constrictor silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, constricting, physical tabletop game piece aesthetic.
+
+## Frame 6 - Spellcasting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, casting spell with multiple hands gesturing. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with magic effect, detailed spellcasting, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spellcasting, physical tabletop game piece aesthetic.
+
+## Frame 7 - Magic Resistance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, scales glowing, deflecting magic. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with resistance aura, detailed deflection, strong protected silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resisting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Meditate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, coiled in meditation, communing with serpent god. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed meditation, strong religious silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, meditating idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti abomination character, large snake body with humanoid torso, multiple arms, serpentine head. Viewed from top-down angle (80-90 degrees), coiled on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and gold tones, detailed scale texture readable from above, strong abomination silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

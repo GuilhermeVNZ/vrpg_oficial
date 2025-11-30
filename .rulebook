@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "installedAt": "2025-11-22T06:34:16.408Z",
+  "updatedAt": "2025-11-28T03:20:39.016Z",
+  "projectId": "vrpg-client",
+  "mode": "full",
+  "features": {
+    "watcher": false,
+    "agent": false,
+    "logging": true,
+    "telemetry": false,
+    "notifications": false,
+    "dryRun": false,
+    "gitHooks": false,
+    "repl": false,
+    "templates": true,
+    "context": true,
+    "health": true,
+    "plugins": false,
+    "parallel": true,
+    "smartContinue": true
+  },
+  "coverageThreshold": 95,
+  "language": "en",
+  "outputLanguage": "en",
+  "cliTools": [],
+  "maxParallelTasks": 5,
+  "timeouts": {
+    "taskExecution": 3600000,
+    "cliResponse": 180000,
+    "testRun": 600000
+  },
+  "mcp": {
+    "enabled": true,
+    "tasksDir": "rulebook/tasks",
+    "archiveDir": "rulebook/archive"
+  },
+  "languages": [
+    "rust",
+    "typescript"
+  ],
+  "frameworks": [
+    "electron",
+    "react"
+  ],
+  "modules": [
+    "vectorizer",
+    "synap",
+    "context7",
+    "github",
+    "playwright",
+    "supabase",
+    "notion",
+    "atlassian",
+    "serena",
+    "figma",
+    "grafana"
+  ],
+  "modular": true,
+  "rulebookDir": "rulebook"
+}

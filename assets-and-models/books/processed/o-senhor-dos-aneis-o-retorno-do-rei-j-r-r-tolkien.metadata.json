@@ -1,0 +1,22 @@
+{
+  "source_pdf": "o-senhor-dos-aneis-o-retorno-do-rei-j-r-r-tolkien-biblioteca-elfica.pdf",
+  "output_md": "o-senhor-dos-aneis-o-retorno-do-rei-j-r-r-tolkien.md",
+  "pages": 1,
+  "classification": {
+    "domain": "literature",
+    "doc_type": "novel",
+    "categories": [
+      "fantasy",
+      "literature",
+      "novel",
+      "tolkien"
+    ],
+    "confidence": 0.85,
+    "metadata": {
+      "source": "biblioteca_elfica",
+      "language": "pt-BR",
+      "filename": "o-senhor-dos-aneis-o-retorno-do-rei-j-r-r-tolkien-biblioteca-elfica.pdf"
+    }
+  },
+  "extraction_method": "transmutation"
+}

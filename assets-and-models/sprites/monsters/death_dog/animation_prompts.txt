@@ -1,0 +1,28 @@
+﻿# DEATH DOG - Animation Prompts (9 Frames)
+
+## Frame 1 - Two-Headed Hound
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, large two-headed canine with mangy fur and worm-like tails. Viewed from top-down angle (80-90 degrees), standing on circular wasteland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly yellow and brown tones, detailed fur texture readable from above, strong feral silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Double Snarl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, both heads lowering and snarling, one looking left, one looking right. Viewed from top-down angle (80-90 degrees), aggression display, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with facial focus, detailed expression, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, snarling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Coordinated Lunge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, crouching low with muscles bunched, both heads focused on a single target. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension focus, detailed anatomical tension, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing to lunge, physical tabletop game piece aesthetic.
+
+## Frame 4 - Twin Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, leaping forward, both heads snapping jaws shut simultaneously. Viewed from top-down angle (80-90 degrees), melee attack (multiattack), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed jaw action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, double bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Rotten Shake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, shaking its body vigorously as if trying to dislodge fleas or rot, drool flying. Viewed from top-down angle (80-90 degrees), idle/flavor, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with particle effects, detailed fur movement, strong diseased silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shaking, physical tabletop game piece aesthetic.
+
+## Frame 6 - Snap and Growl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, left head snapping at the right head, right head growling back (internal conflict). Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with facial interaction, detailed character acting, strong chaotic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, heads fighting, physical tabletop game piece aesthetic.
+
+## Frame 7 - Prowl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, stalking forward with a slinking gait, tails twitching. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep shadows, detailed leg movement, strong stalker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, prowling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Alert
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, both heads perking up ears, looking in different directions for danger. Viewed from top-down angle (80-90 degrees), almost fully at rest (watchful), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed sensory action, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, alert idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, death dog character, large two-headed canine with mangy fur and worm-like tails. Viewed from top-down angle (80-90 degrees), standing on circular wasteland base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly yellow and brown tones, detailed fur texture readable from above, strong feral silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

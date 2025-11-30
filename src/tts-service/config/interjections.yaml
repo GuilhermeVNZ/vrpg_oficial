@@ -1,0 +1,141 @@
+# Interjection System Configuration
+# Pre-roll audio clips to mask TTS latency for long responses
+
+enabled: true
+
+# Minimum expected TTS duration (seconds) to trigger interjection
+min_expected_tts_duration_sec: 3.0
+
+# Natural delay target from user speech end to interjection start (seconds)
+natural_delay_target_sec: 1.5
+
+# Avoid repeating last N interjections
+avoid_last_n: 5
+
+# Maximum uses per session (0 = unlimited)
+max_uses_per_session: 999
+
+# Characters per second for duration estimation
+chars_per_sec: 25.0
+
+# Interjection clips
+clips:
+  # Interjeições curtas
+  - id: "dm_hmm_01"
+    file: "assets-and-models/voices/interjections/dm_hmm_01.wav"
+  - id: "dm_hmm_02"
+    file: "assets-and-models/voices/interjections/dm_hmm_02.wav"
+  - id: "dm_hmm_03"
+    file: "assets-and-models/voices/interjections/dm_hmm_03.wav"
+  - id: "dm_hmm_04"
+    file: "assets-and-models/voices/interjections/dm_hmm_04.wav"
+  - id: "dm_thinking_01"
+    file: "assets-and-models/voices/interjections/dm_thinking_01.wav"
+  - id: "dm_thinking_02"
+    file: "assets-and-models/voices/interjections/dm_thinking_02.wav"
+  - id: "dm_ah_01"
+    file: "assets-and-models/voices/interjections/dm_ah_01.wav"
+  - id: "dm_ah_02"
+    file: "assets-and-models/voices/interjections/dm_ah_02.wav"
+  - id: "dm_well_01"
+    file: "assets-and-models/voices/interjections/dm_well_01.wav"
+  - id: "dm_well_02"
+    file: "assets-and-models/voices/interjections/dm_well_02.wav"
+  - id: "dm_okay_01"
+    file: "assets-and-models/voices/interjections/dm_okay_01.wav"
+  - id: "dm_okay_02"
+    file: "assets-and-models/voices/interjections/dm_okay_02.wav"
+  - id: "dm_right_01"
+    file: "assets-and-models/voices/interjections/dm_right_01.wav"
+  - id: "dm_right_02"
+    file: "assets-and-models/voices/interjections/dm_right_02.wav"
+  - id: "dm_so_01"
+    file: "assets-and-models/voices/interjections/dm_so_01.wav"
+  - id: "dm_so_02"
+    file: "assets-and-models/voices/interjections/dm_so_02.wav"
+  - id: "dm_uh_01"
+    file: "assets-and-models/voices/interjections/dm_uh_01.wav"
+  - id: "dm_uh_02"
+    file: "assets-and-models/voices/interjections/dm_uh_02.wav"
+  - id: "dm_um_01"
+    file: "assets-and-models/voices/interjections/dm_um_01.wav"
+  - id: "dm_um_02"
+    file: "assets-and-models/voices/interjections/dm_um_02.wav"
+  - id: "dm_hm_01"
+    file: "assets-and-models/voices/interjections/dm_hm_01.wav"
+  - id: "dm_hm_02"
+    file: "assets-and-models/voices/interjections/dm_hm_02.wav"
+  - id: "dm_hm_03"
+    file: "assets-and-models/voices/interjections/dm_hm_03.wav"
+  
+  # Frases curtas de resposta
+  - id: "dm_that_new"
+    file: "assets-and-models/voices/interjections/dm_that_new.wav"
+  - id: "dm_that_cool"
+    file: "assets-and-models/voices/interjections/dm_that_cool.wav"
+  - id: "dm_let_me_read"
+    file: "assets-and-models/voices/interjections/dm_let_me_read.wav"
+  - id: "dm_let_me_think_about"
+    file: "assets-and-models/voices/interjections/dm_let_me_think_about.wav"
+  - id: "dm_let_me_check_this"
+    file: "assets-and-models/voices/interjections/dm_let_me_check_this.wav"
+  - id: "dm_so_i_see_01"
+    file: "assets-and-models/voices/interjections/dm_so_i_see_01.wav"
+  - id: "dm_i_see_what"
+    file: "assets-and-models/voices/interjections/dm_i_see_what.wav"
+  - id: "dm_i_understand"
+    file: "assets-and-models/voices/interjections/dm_i_understand.wav"
+  - id: "dm_got_it"
+    file: "assets-and-models/voices/interjections/dm_got_it.wav"
+  - id: "dm_ok_got_it"
+    file: "assets-and-models/voices/interjections/dm_ok_got_it.wav"
+  - id: "dm_ok_think"
+    file: "assets-and-models/voices/interjections/dm_ok_think.wav"
+  - id: "dm_ok_check"
+    file: "assets-and-models/voices/interjections/dm_ok_check.wav"
+  - id: "dm_ok_hmm"
+    file: "assets-and-models/voices/interjections/dm_ok_hmm.wav"
+  - id: "dm_hmm_ok"
+    file: "assets-and-models/voices/interjections/dm_hmm_ok.wav"
+  - id: "dm_that_clever"
+    file: "assets-and-models/voices/interjections/dm_that_clever.wav"
+  - id: "dm_interesting"
+    file: "assets-and-models/voices/interjections/dm_interesting.wav"
+  - id: "dm_hmm_interesting"
+    file: "assets-and-models/voices/interjections/dm_hmm_interesting.wav"
+  - id: "dm_interesting_huh"
+    file: "assets-and-models/voices/interjections/dm_interesting_huh.wav"
+  - id: "dm_ah_i_see"
+    file: "assets-and-models/voices/interjections/dm_ah_i_see.wav"
+  - id: "dm_so_that_what"
+    file: "assets-and-models/voices/interjections/dm_so_that_what.wav"
+  - id: "dm_if_that_what"
+    file: "assets-and-models/voices/interjections/dm_if_that_what.wav"
+  - id: "dm_if_you_say"
+    file: "assets-and-models/voices/interjections/dm_if_you_say.wav"
+  - id: "dm_i_got_point"
+    file: "assets-and-models/voices/interjections/dm_i_got_point.wav"
+  - id: "dm_let_me_check_something"
+    file: "assets-and-models/voices/interjections/dm_let_me_check_something.wav"
+  - id: "dm_think_before"
+    file: "assets-and-models/voices/interjections/dm_think_before.wav"
+  - id: "dm_haha_smart"
+    file: "assets-and-models/voices/interjections/dm_haha_smart.wav"
+  - id: "dm_you_got_me"
+    file: "assets-and-models/voices/interjections/dm_you_got_me.wav"
+  - id: "dm_tricky_one"
+    file: "assets-and-models/voices/interjections/dm_tricky_one.wav"
+  - id: "dm_alright"
+    file: "assets-and-models/voices/interjections/dm_alright.wav"
+  - id: "dm_right"
+    file: "assets-and-models/voices/interjections/dm_right.wav"
+  
+  # Sons não-verbais
+  - id: "dm_sigh_01"
+    file: "assets-and-models/voices/interjections/dm_sigh_01.wav"
+  - id: "dm_sigh_02"
+    file: "assets-and-models/voices/interjections/dm_sigh_02.wav"
+  - id: "dm_breath_01"
+    file: "assets-and-models/voices/interjections/dm_breath_01.wav"
+  - id: "dm_breath_02"
+    file: "assets-and-models/voices/interjections/dm_breath_02.wav"

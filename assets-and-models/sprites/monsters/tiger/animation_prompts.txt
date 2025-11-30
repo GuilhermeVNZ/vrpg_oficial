@@ -1,0 +1,28 @@
+﻿# TIGER - Animation Prompts (9 Frames)
+
+## Frame 1 - Apex Predator
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, large cat with orange and black stripes, powerful muscles, sharp claws. Viewed from top-down angle (80-90 degrees), standing on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and black tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, head raised, mouth open in powerful roar, intimidating. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed roar, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Stalk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, crouching low, stalking prey silently, muscles coiled. Viewed from top-down angle (80-90 degrees), movement (stealth), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth emphasis, detailed stalking, strong hunting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stalking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Pounce
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, leaping forward with claws extended, explosive attack. Viewed from top-down angle (80-90 degrees), melee attack (pounce), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with leap motion, detailed pounce action, strong leaping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pounce attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, jaws clamping down with crushing force, fangs visible. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, raking with claws, tearing. Viewed from top-down angle (80-90 degrees), melee attack (claws), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Keen Smell
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, nose raised, scenting prey from distance. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed scenting, strong tracker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scenting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, lying down, tail swishing lazily, conserving energy. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, tiger character, large cat with orange and black stripes, powerful muscles, sharp claws. Viewed from top-down angle (80-90 degrees), standing on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with orange and black tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

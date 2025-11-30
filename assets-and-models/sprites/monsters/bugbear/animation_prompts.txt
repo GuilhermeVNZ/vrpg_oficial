@@ -1,0 +1,28 @@
+﻿# BUGBEAR - Animation Prompts (9 Frames)
+
+## Frame 1 - Silent Brute
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, massive hairy goblinoid with bear-like nose and ears, wearing leather armor and furs, holding a spiked morningstar and javelins. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark brown and grey tones, detailed fur texture readable from above, strong stealthy brute silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle lurking pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Stalking Shadow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, crouching low and moving forward with surprising grace, weapon held back to avoid noise. Viewed from top-down angle (80-90 degrees), stealth movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep shadows, detailed stealth action, strong ambusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stalking prey, physical tabletop game piece aesthetic.
+
+## Frame 3 - Surprise Attack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, lunging forward suddenly from a crouch, eyes wide with predatory excitement, morningstar raised. Viewed from top-down angle (80-90 degrees), surprise round action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed muscle tension, strong terrifying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, surprise attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Morningstar Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, swinging the spiked morningstar in a wide heavy arc, momentum carrying the body. Viewed from top-down angle (80-90 degrees), peak of melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact focus, detailed weapon blur, strong crusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, morningstar attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Javelin Hurl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, throwing a javelin with immense force, arm fully extended, body twisted. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp lines, detailed projectile motion, strong thrower silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, javelin attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Intimidating Glare
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, standing to full height, puffing out chest, staring down an opponent with a silent snarl. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with facial focus, detailed expression, strong bully silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, intimidating, physical tabletop game piece aesthetic.
+
+## Frame 7 - Long Reach
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, reaching out with an impossibly long arm to grab something (or someone), fingers spread. Viewed from top-down angle (80-90 degrees), grapple/interact, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with limb focus, detailed anatomy, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, reaching out, physical tabletop game piece aesthetic.
+
+## Frame 8 - Listening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, pausing and turning head to listen, ear twitching, weapon lowered but ready. Viewed from top-down angle (80-90 degrees), almost fully at rest (alert), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed sensory action, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, listening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bugbear character, massive hairy goblinoid with bear-like nose and ears, wearing leather armor and furs, holding a spiked morningstar and javelins. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark brown and grey tones, detailed fur texture readable from above, strong stealthy brute silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle lurking pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

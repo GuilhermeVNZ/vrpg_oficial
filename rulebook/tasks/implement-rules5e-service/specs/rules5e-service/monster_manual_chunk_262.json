@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ON INT SAB CAR\n11 (+0) 13 (+1) 11 (+0) 10 (+0) 10 (+)) 13 (+1)\nVulnerabilidade a Dano fogo\nResistência a Dano concussão, cortante e perfurante de ataques\nnão-mágicos\nImunidade a Dano veneno\nImunidade a Condição amedrontado, enfeitiçado, envenenado,\nexausto, inconsciente, paralisado\nSentidos visão no escuro 18 m, Percepção passiva 10\nIdiomas compreende o idioma do seu criador, mas não pode falar\nNível de Desafio 1 (200 XP)\nAparência Falsa. Enquanto o espantalho se mantiver imóvel, ele é\nindistinguível de um espantalho comum e inanimado.\nAÇÕES\nAtaques Múltiplos. O espantalho realiza dois ataques com garra.\nGarra. Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance\n1,5 m, um alvo. Acerto: 6 (2d4 + 1) de dano cortante. Se o alvo for\numa criatura, ela deve ser bem sucedida num teste de resistência\nde Sabedoria CD 11 ou ficará amedrontada até o final do próximo\nturno do espantalho.\nOlhar Aterrorizante. O espantalho afeta uma criatura que ele\npossa ver a até 9 metros dele. Se o alvo puder ver o espantalho,\nele deve ser bem sucedido num teste de resistência de Sabedoria\nCD 11 ou ficará magicamente amedrontado até o final do próximo\nturno do espantalho. O alvo amedrontado fica paralisado.\n135\n\n\n# Pagina 137\n\nESPECTRO\nUm espectro é o incontrolável espírito furioso de um\nhumanoide que foi impedido de passar para a vida após a\nmorte. Os espectros não tem mais conexões com quem ou\no que eles eram, ainda assim estão condenados a vagar\npelo mundo para sempre. Alguns são criados quando\nmagia negra ou o toque de uma aparição ceifa a alma de\num corpo vivo.\nAlém da Redenção. Quando o negócio inacabado de\num fantasma se completa, ele pode finalmente descansar.\nUm descanso ou redenção parecido não aguarda um\nespectro. Ele é condenado ao Plano Material, ele só\ntermina o esquecimento que traz com a destruição de sua\nalma. Até lá, ele segue em sua vida solitária em locais\nabandonados, continuando esquecido através das eras no\nmundo.\nÓdio Imortal. As criaturas vivas lembram ao\nespectro ",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  262,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

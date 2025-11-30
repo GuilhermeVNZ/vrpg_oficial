@@ -1,0 +1,28 @@
+﻿# PURPLE WORM - Animation Prompts (9 Frames)
+
+## Frame 1 - Colossal Tunneler
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, massive segmented worm with purple-violet scales, circular maw full of teeth, stinger tail. Viewed from top-down angle (80-90 degrees), coiled on circular underground cavern base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and dark tones, detailed segment texture readable from above, strong monstrous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tremor Sense
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, body vibrating, sensing vibrations through earth. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vibration waves, detailed sensing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sensing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Burrow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, drilling through earth, creating tunnel. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with drilling motion, detailed burrowing, strong tunneler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, burrowing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, massive circular maw opening, swallowing prey whole. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with maw focus, detailed bite action, strong devourer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Tail Stinger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, whipping poisonous stinger tail forward. Viewed from top-down angle (80-90 degrees), melee attack (sting), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stinger focus, detailed sting action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sting attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Swallow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, gulping down swallowed prey, throat bulging. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with swallow motion, detailed gulp, strong swallower silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swallowing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Emerge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, bursting up from underground, surprise attack. Viewed from top-down angle (80-90 degrees), ambush, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with emergence, detailed burst, strong ambusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, emerging, physical tabletop game piece aesthetic.
+
+## Frame 8 - Coil Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, coiling in massive spiral, resting between hunts. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed coiling, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, purple worm character, massive segmented worm with purple-violet scales, circular maw full of teeth, stinger tail. Viewed from top-down angle (80-90 degrees), coiled on circular underground cavern base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and dark tones, detailed segment texture readable from above, strong monstrous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

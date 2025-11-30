@@ -1,0 +1,28 @@
+﻿# WEREBEAR - Animation Prompts (9 Frames)
+
+## Frame 1 - Hybrid Bear
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, massive hybrid form of human and brown bear, thick fur, claws, wearing torn clothes/armor, holding greataxe. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and green tones, detailed fur texture readable from above, strong guardian silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle protective pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, rearing up slightly, mouth opening in roar, axe raised, fur bristling. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying sound (implied), detailed fur movement, strong awakening beast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Axe Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, lifting greataxe high overhead with both hands, muscles bulging, stance widening. Viewed from top-down angle (80-90 degrees), preparing weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Axe Chop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, chopping down with greataxe, body weight behind blow, ground shaking (implied). Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bear Hug
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, dropping axe (or holding in one hand), spreading arms wide to grapple/crush, mouth open to bite. Viewed from top-down angle (80-90 degrees), grapple attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grapple attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, pulling back, retrieving axe, shaking head, fur settling, checking surroundings. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scratching
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, scratching back against a tree stump (or air), looking content, axe resting on ground. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong animalistic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scratching idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sitting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, sitting heavily on ground, legs splayed, cleaning axe blade with fur, relaxed. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, werebear character, massive hybrid form of human and brown bear, thick fur, claws, wearing torn clothes/armor, holding greataxe. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and green tones, detailed fur texture readable from above, strong guardian silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle protective pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

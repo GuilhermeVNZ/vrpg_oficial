@@ -1,0 +1,28 @@
+﻿# DRYAD - Animation Prompts (9 Frames)
+
+## Frame 1 - Forest Spirit
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, beautiful fey creature with skin like birch bark and hair of leaves, merging slightly with a tree trunk. Viewed from top-down angle (80-90 degrees), standing on circular mossy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dappled forest light, detailed bark texture readable from above, strong fey silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tree Stride
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, stepping halfway into a tree trunk, body becoming translucent and wood-like. Viewed from top-down angle (80-90 degrees), movement/teleportation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with magical fade, detailed merging effect, strong elusive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tree striding, physical tabletop game piece aesthetic.
+
+## Frame 3 - Fey Charm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, blowing a kiss that manifests as pink glowing pollen or petals. Viewed from top-down angle (80-90 degrees), magic ability (charm), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft pink glow, detailed particle effect, strong enchanter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting charm, physical tabletop game piece aesthetic.
+
+## Frame 4 - Vine Whip
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, lashing out with a long vine extending from her fingertips. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed vine texture, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, vine attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Nature's Shield
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, raising arms as bark grows rapidly to cover her body like armor. Viewed from top-down angle (80-90 degrees), defense/buff, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with texture focus, detailed bark growth, strong defender silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, barkskin, physical tabletop game piece aesthetic.
+
+## Frame 6 - Branch Stab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, thrusting a sharpened wooden limb forward like a spear. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp lines, detailed wood texture, strong attacker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, branch attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Flower Bloom
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, touching the ground, causing flowers to instantly bloom around her feet. Viewed from top-down angle (80-90 degrees), idle behavior/flavor, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with colorful accents, detailed floral growth, strong nature silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blooming flowers, physical tabletop game piece aesthetic.
+
+## Frame 8 - Shy Peek
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, hiding partially behind her tree trunk, peeking out with large curious eyes. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep shadows, detailed facial expression, strong shy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shy idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, dryad character, beautiful fey creature with skin like birch bark and hair of leaves, merging slightly with a tree trunk. Viewed from top-down angle (80-90 degrees), standing on circular mossy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dappled forest light, detailed bark texture readable from above, strong fey silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ular tenha regras específicas que digam o\ncontrário. Alguns ataques causam efeitos especiais em\nadição ou ao invés do dano.\nSe houver qualquer dúvida sobre se algo que você faz é\num ataque ou não, a regra é simples: se você realiza uma\njogada de ataque, então você está realizando um ataque.\nJOGADAS DE ATAQUE\nQuando você realiza um ataque, sua jogada de ataque\ndetermina se o ataque acerta ou erra. Para realizar uma\njogada de ataque, jogue um d20 e adicione os\nmodificadores apropriados. Se o total da jogada, somado\naos modificadores, igualar ou ultrapassar a Classe de\nArmadura (CA) do alvo, o ataque acerta. A CA de um\npersonagem é determinada na criação do personagem,\nenquanto que a CA de um monstro está em seu bloco de\nestatísticas.\nMODIFICADORES DA JOGADA\nQuando um personagem realiza uma jogada de ataque, os\ndois modificadores mais comuns para a jogada são o\nmodificador de habilidade e o bônus de proficiência do\npersonagem. Quando um monstro realiza uma jogada de\nataque, ele usa os modificadores fornecidos em seu bloco\nde estatísticas.\nModificador de Habilidade. O modificador de\nhabilidade usado para um ataque com uma arma corpo-a-\ncorpo é a Força, e o modificador usado para um ataque\ncom uma arma à distância é a Destreza. Armas que\npossuem a propriedade Acuidade ou Arremesso quebram\nessa regra.\nAlgumas magias também requerem uma jogada de\nataque. O modificador de habilidade usado por um ataque\nde magia depende da habilidade para conjurar magias de\nquem as conjura, como explicado no capítulo 10.\nBônus de Proficiência. Você adiciona seu bônus de\nproficiência nas jogadas de ataque quando está usando\numa arma que é proficiente, bem como quando ataque\ncom uma magia.\nROLANDO 1 OU 20\nAlgumas vezes, o destino abençoa ou amaldiçoa um\npersonagem, levando um novato a acertar e um veterano\na errar.\nSe a jogada de ataque com o d20 resultar em 20, o\nataque acerta, independentemente de qualquer\nmodificador ou da CA do alvo. Além disso, o ataque é\nconsiderado um acerto crítico, co",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  386,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

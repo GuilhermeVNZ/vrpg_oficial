@@ -1,0 +1,6 @@
+{
+  "collection": "dnd5e-rules",
+  "total_chunks": 1908,
+  "status": "ready_for_insertion",
+  "note": "Use mcp_vectorizer-main_insert_text para inserir cada chunk"
+}

@@ -1,0 +1,28 @@
+﻿# INVISIBLE STALKER - Animation Prompts (9 Frames)
+
+## Frame 1 - Air Elemental Servant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, barely visible air elemental with faint humanoid outline, swirling wind patterns. Viewed from top-down angle (80-90 degrees), hovering above circular floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with translucent blue-white tones, detailed wind texture readable from above, strong ethereal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Fade
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, outline becoming even fainter, nearly disappearing. Viewed from top-down angle (80-90 degrees), invisibility intensifying, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with extreme transparency, detailed fading effect, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fading, physical tabletop game piece aesthetic.
+
+## Frame 3 - Wind Gust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, swirling winds intensifying around form, debris caught in vortex. Viewed from top-down angle (80-90 degrees), movement/presence, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wind lines, detailed air currents, strong wind silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wind gust, physical tabletop game piece aesthetic.
+
+## Frame 4 - Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, condensed air form slamming into target with force. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact waves, detailed slam action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slam attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Grapple
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, wind tendrils wrapping around invisible prey, constricting. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with binding winds, detailed grapple, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grappling, physical tabletop game piece aesthetic.
+
+## Frame 6 - Tracking
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, following scent trail unerringly, form shifting direction. Viewed from top-down angle (80-90 degrees), special ability (faultless tracker), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with trail emphasis, detailed tracking, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking, physical tabletop game piece aesthetic.
+
+## Frame 7 - Whirlwind
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, spinning rapidly creating small whirlwind. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rotation, detailed spinning, strong vortex silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, whirlwind, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dissipate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, form spreading out thin, almost formless. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with diffusion, detailed dispersal, strong scattered silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dispersing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, invisible stalker character, barely visible air elemental with faint humanoid outline, swirling wind patterns. Viewed from top-down angle (80-90 degrees), hovering above circular floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with translucent blue-white tones, detailed wind texture readable from above, strong ethereal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

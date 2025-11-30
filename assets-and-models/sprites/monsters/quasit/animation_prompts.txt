@@ -1,0 +1,28 @@
+﻿# QUASIT - Animation Prompts (9 Frames)
+
+## Frame 1 - Tiny Spy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, tiny green skinned demon with horns and bat wings, crouching low, tail twitching, claws sharp. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base with pebbles, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sneaky green tones, detailed skin texture and horn sharpness readable from above, strong sneaky silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hiding pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Invisibility Shift
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, body becoming translucent, edges blurring, eyes remaining bright yellow, grin widening. Viewed from top-down angle (80-90 degrees), magic activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying transparency, detailed fading effect, strong vanishing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing ambush, physical tabletop game piece aesthetic.
+
+## Frame 3 - Poison Claw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, leaping forward, claws dripping green venom, wings fluttering rapidly, face vicious. Viewed from top-down angle (80-90 degrees), attacking, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright poison highlight, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Scare
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, puffing up body, wings spread wide to look larger, hissing, eyes glowing red. Viewed from top-down angle (80-90 degrees), fear ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed intimidation, strong startling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of scare, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shape Shift Start
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, body contorting, fur sprouting (wolf) or skin smoothing (toad), magic swirling around form. Viewed from top-down angle (80-90 degrees), transformation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed morphing, strong changing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, polymorph, physical tabletop game piece aesthetic.
+
+## Frame 6 - Cower
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, curling into ball, covering head with wings, looking fearful, tail tucked. Viewed from top-down angle (80-90 degrees), defensive reaction, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding action, detailed recovery motion, strong pathetic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, defense, physical tabletop game piece aesthetic.
+
+## Frame 7 - Prank
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, sticking tongue out, making rude gesture, dancing on one foot, mocking expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong annoying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, mocking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perched
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, sitting on haunches, wings folded tight, scratching ear with foot, looking bored. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, quasit demon character, tiny green skinned demon with horns and bat wings, crouching low, tail twitching, claws sharp. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base with pebbles, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sneaky green tones, detailed skin texture and horn sharpness readable from above, strong sneaky silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hiding pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

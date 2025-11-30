@@ -1,0 +1,28 @@
+﻿# STONE GOLEM - Animation Prompts (9 Frames)
+
+## Frame 1 - Ancient Guardian
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, massive humanoid carved from rough stone, ancient runes, heavy fists, moss growing in cracks. Viewed from top-down angle (80-90 degrees), standing on circular dungeon tile base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey stone tones, detailed rock texture readable from above, strong durable silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Slow Awakening
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, dust falling from joints, runes glowing faint blue, head turning slowly with grinding sound (implied). Viewed from top-down angle (80-90 degrees), activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying magic, detailed dust movement, strong awakening statue silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slam Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, raising heavy stone fist, body pivoting at waist, momentum building. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on fist, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Heavy Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, fist descending with crushing weight, air displaced, runes flaring. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Impact
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, fist smashing ground, stone chips flying, shockwave, ground cracking. Viewed from top-down angle (80-90 degrees), impact moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive dust effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slam attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, lifting fist from crater, dust settling, returning to upright position, slow and steady. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding dust, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Slow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, emitting pulse of grey energy (slow ability), air thickening, runes pulsing rhythmically. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed magic effect, strong magical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slow ability, physical tabletop game piece aesthetic.
+
+## Frame 8 - Statue
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, becoming perfectly still, blending in with dungeon architecture, runes dark. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient object silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone golem character, massive humanoid carved from rough stone, ancient runes, heavy fists, moss growing in cracks. Viewed from top-down angle (80-90 degrees), standing on circular dungeon tile base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey stone tones, detailed rock texture readable from above, strong durable silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

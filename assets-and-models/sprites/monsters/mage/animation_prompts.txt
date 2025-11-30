@@ -1,0 +1,28 @@
+﻿# MAGE - Animation Prompts (9 Frames)
+
+## Frame 1 - Arcane Scholar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, human wizard in robes holding staff and spellbook. Viewed from top-down angle (80-90 degrees), standing on circular arcane circle base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and purple magical tones, detailed robe texture readable from above, strong scholarly silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Spell Preparation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, opening spellbook, studying incantation, magical energy gathering. Viewed from top-down angle (80-90 degrees), preparing spell, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with book glow, detailed study, strong studious silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing spell, physical tabletop game piece aesthetic.
+
+## Frame 3 - Fireball
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, conjuring sphere of fire in hand, arm extended to throw. Viewed from top-down angle (80-90 degrees), spell casting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fire glow, detailed fireball, strong blaster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting fireball, physical tabletop game piece aesthetic.
+
+## Frame 4 - Lightning Bolt
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, staff raised, lightning crackling from tip toward target. Viewed from top-down angle (80-90 degrees), spell casting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with electric blue, detailed lightning, strong evoker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting lightning bolt, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shield
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, magical barrier forming around body, shimmering dome. Viewed from top-down angle (80-90 degrees), defensive spell, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shield glow, detailed barrier, strong protected silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, casting shield, physical tabletop game piece aesthetic.
+
+## Frame 6 - Counterspell
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, hand thrust forward, dispelling enemy magic with gesture. Viewed from top-down angle (80-90 degrees), reaction spell, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with negation effect, detailed counterspell, strong controller silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, countering, physical tabletop game piece aesthetic.
+
+## Frame 7 - Misty Step
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, body becoming misty and translucent, teleporting. Viewed from top-down angle (80-90 degrees), teleportation spell, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with mist effect, detailed teleport, strong fading silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, teleporting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Study
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, reading spellbook intently, taking notes. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed studying, strong scholarly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, studying idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mage character, human wizard in robes holding staff and spellbook. Viewed from top-down angle (80-90 degrees), standing on circular arcane circle base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with blue and purple magical tones, detailed robe texture readable from above, strong scholarly silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

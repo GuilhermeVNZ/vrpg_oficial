@@ -1,0 +1,28 @@
+﻿# BLACK PUDDING - Animation Prompts (9 Frames)
+
+## Frame 1 - Black Sludge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, amorphous blob of corrosive black slime, bubbling, pseudopods forming. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and dark grey tones, detailed slime texture readable from above, strong amorphous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle bubbling pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Surge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, surging upward, mass expanding, forming a vague mouth-like opening, dripping acid. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying wetness, detailed surge movement, strong awakening horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pseudopod Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, extending a thick pseudopod high, acid dripping from tip, body compressing to launch. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on slime, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Acid Slam
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, slamming pseudopod down, splashing acid, dissolving floor (implied). Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Split
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, being struck (implied) and splitting into two smaller blobs, connecting strands stretching. Viewed from top-down angle (80-90 degrees), reaction ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed splitting, strong dividing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, split reaction, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, reforming into single mass (or settling after slam), absorbing acid pools, still bubbling. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Dissolving
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, flowing over a weapon or shield on the ground, metal smoking and dissolving. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong corrosive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, eating idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Puddle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, flattening completely into a pool of black liquid, waiting for prey. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, black pudding character, amorphous blob of corrosive black slime, bubbling, pseudopods forming. Viewed from top-down angle (80-90 degrees), standing on circular dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and dark grey tones, detailed slime texture readable from above, strong amorphous silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle bubbling pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

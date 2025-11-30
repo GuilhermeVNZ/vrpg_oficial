@@ -1,0 +1,28 @@
+﻿# WEREBOAR - Animation Prompts (9 Frames)
+
+## Frame 1 - Hybrid Boar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, hybrid form of human and boar, tusks, bristly mohawk, muscular build, holding maul. Viewed from top-down angle (80-90 degrees), standing on circular muddy ground base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed bristle texture readable from above, strong aggressive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle angry pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Snort
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, head lowering, steam shooting from nostrils, hoof/foot pawing ground, maul grip tightening. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying breath, detailed steam movement, strong awakening beast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, leaning forward, maul held low, tusks aimed at enemy, muscles bunched for run. Viewed from top-down angle (80-90 degrees), preparing charge, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on tusks, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Gore/Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, swinging maul upward while thrusting head up to gore with tusks, violent motion. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Trample
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, stomping forward, maul swinging wide, kicking up mud, unstoppable momentum. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed chaos, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trample attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, skidding to stop, turning around, shaking head, snorting, maul ready. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Rooting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, sniffing ground, digging slightly with tusk, looking for food (or enemies), distracted. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong gluttonous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, rooting idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Wallow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, sitting in mud, rubbing side, looking grumpy but resting, maul on lap. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lazy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wereboar character, hybrid form of human and boar, tusks, bristly mohawk, muscular build, holding maul. Viewed from top-down angle (80-90 degrees), standing on circular muddy ground base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed bristle texture readable from above, strong aggressive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle angry pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

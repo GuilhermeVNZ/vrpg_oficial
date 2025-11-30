@@ -1,0 +1,28 @@
+﻿# SPRITE - Animation Prompts (9 Frames)
+
+## Frame 1 - Forest Guardian
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, tiny humanoid fey with insect wings, wearing leaf armor, holding tiny sword and bow. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and gold tones, detailed wing texture readable from above, strong nimble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Heart Sight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, touching its chest, eyes glowing soft pink/gold, sensing emotions. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying empathy, detailed aura, strong awakening fey silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Bow Draw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, drawing tiny bow, arrow nocked, wings fluttering rapidly. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on arrow, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, loosing arrow, tiny trail of fairy dust following projectile. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Invisibility
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, fading from view, outline becoming shimmering and transparent. Viewed from top-down angle (80-90 degrees), spell ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed vanishing, strong stealth silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, invisibility action, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, reappearing or stabilizing flight, lowering bow, checking surroundings. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Fluttering
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, darting around in a small circle, wings blurring, leaving sparkles. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong playful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flying idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Perched
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, landing on a small mushroom or rock on the base, wings folded. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sprite character, tiny humanoid fey with insect wings, wearing leaf armor, holding tiny sword and bow. Viewed from top-down angle (80-90 degrees), standing on circular forest floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and gold tones, detailed wing texture readable from above, strong nimble silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hovering pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

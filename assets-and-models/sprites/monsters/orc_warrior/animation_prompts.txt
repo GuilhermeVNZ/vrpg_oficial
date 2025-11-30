@@ -1,0 +1,3 @@
+﻿# Orc Warrior - 9 Frame Animation
+Base: D&D dark fantasy anime, orc warrior, green skin, tusks, spiked armor, battle axe, top-down view, solid dark grey bg.
+F1: Rest stance, axe at side | F2: Begin lift axe | F3: Axe rising | F4: Axe overhead, roar | F5: Hold threat | F6: Lower axe | F7: Axe mid-lower | F8: Almost rest | F9: Loop to F1

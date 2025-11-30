@@ -1,0 +1,22 @@
+{
+  "source_pdf": "forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica (1).pdf",
+  "output_md": "forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica-1.md",
+  "pages": 1,
+  "classification": {
+    "domain": "gaming",
+    "doc_type": "campaign_setting",
+    "categories": [
+      "forgotten_realms",
+      "dnd",
+      "campaign_setting",
+      "rpg"
+    ],
+    "confidence": 0.85,
+    "metadata": {
+      "source": "biblioteca_elfica",
+      "language": "pt-BR",
+      "filename": "forgotten-realms-d20-livro-do-jogador-para-faerun-biblioteca-elfica (1).pdf"
+    }
+  },
+  "extraction_method": "transmutation"
+}

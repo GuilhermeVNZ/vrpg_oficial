@@ -1,0 +1,28 @@
+﻿# WYVERN - Animation Prompts (9 Frames)
+
+## Frame 1 - Poisonous Drake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, two-legged dragon with large wings and a scorpion-like stinger tail. Viewed from top-down angle (80-90 degrees), standing on circular mountain peak base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark blue and grey tones, detailed scale texture readable from above, strong aerial predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Screech
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, screeching with mouth wide, wings flapping once, tail arched high. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying aggression, detailed movement, strong awakening beast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sting Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, hovering slightly, bringing tail stinger forward over head, aiming. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on stinger, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Sting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, thrusting tail stinger down with incredible speed, poison dripping. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong piercing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, snapping jaws at a target (implied), neck extending. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong savage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, landing or pulling back, folding wings slightly, hissing. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Flight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, beating wings powerfully, lifting off the ground (hovering). Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong flying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flying idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Roosting
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, perched on a rock, wings folded tight, head tucked low, sleeping. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, wyvern character, two-legged dragon with large wings and a scorpion-like stinger tail. Viewed from top-down angle (80-90 degrees), standing on circular mountain peak base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark blue and grey tones, detailed scale texture readable from above, strong aerial predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

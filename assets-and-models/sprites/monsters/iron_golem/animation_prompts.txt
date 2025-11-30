@@ -1,0 +1,28 @@
+﻿# IRON GOLEM - Animation Prompts (9 Frames)
+
+## Frame 1 - Iron Titan
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, massive humanoid made of heavy iron plates, helmeted head, carrying massive sword, poison gas vents. Viewed from top-down angle (80-90 degrees), standing on circular metal grate base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic grey and rust tones, detailed rivet and plate texture readable from above, strong invincible silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Steam Vent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, green poison gas venting from joints, internal fire glowing red, sword grip tightening. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying green gas, detailed smoke movement, strong awakening machine silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sword Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, lifting massive iron sword with mechanical precision, gears grinding (implied), heavy stance. Viewed from top-down angle (80-90 degrees), raising weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Cleave Apex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, sword held high, body twisted, gas pouring from mouth grill, eyes glowing red. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed armor movement, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Iron Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, sword slamming down, sparks flying from metal on metal, ground shaking, gas cloud expanding. Viewed from top-down angle (80-90 degrees), impact moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive spark effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, pulling sword back, gas venting to cool down, returning to rigid stance. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding gas, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Poison Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, leaning forward, mouth opening, massive cloud of green poison gas exhaling. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed gas effect, strong toxic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sentinel
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, standing perfectly rigid, sword point down, absolutely motionless like a statue. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient guardian silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, iron golem character, massive humanoid made of heavy iron plates, helmeted head, carrying massive sword, poison gas vents. Viewed from top-down angle (80-90 degrees), standing on circular metal grate base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic grey and rust tones, detailed rivet and plate texture readable from above, strong invincible silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle mindless pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

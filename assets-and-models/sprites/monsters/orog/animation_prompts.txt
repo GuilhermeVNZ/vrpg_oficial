@@ -1,0 +1,28 @@
+# OROG - Animation Prompts (9 Frames)
+
+## Frame 1 - Armored Hulk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, large intelligent orc in full plate armor, holding greataxe, disciplined stance. Viewed from top-down angle (80-90 degrees), standing on circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and steel tones, detailed armor texture readable from above, strong soldier silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Brace
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, lowering center of gravity, shield (if any) up, axe ready, bracing for impact. Viewed from top-down angle (80-90 degrees), defensive stance, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying focus, detailed movement, strong tank silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Axe Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, raising greataxe with precision, muscles controlled, eyes scanning for weakness. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Power Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, delivering a calculated heavy strike with greataxe, perfect form. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shoulder Check
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, charging short distance to slam armored shoulder into enemy, knocking them back. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shove attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, returning to guard position immediately, no wasted movement, breathing steadily. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Maintenance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, checking armor straps or weapon edge, professional soldier demeanor. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong professional silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, maintenance idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sentry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, standing at attention, weapon grounded, scanning perimeter, unmoving. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong guard silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, orog character, large intelligent orc in full plate armor, holding greataxe, disciplined stance. Viewed from top-down angle (80-90 degrees), standing on circular stone floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and steel tones, detailed armor texture readable from above, strong soldier silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

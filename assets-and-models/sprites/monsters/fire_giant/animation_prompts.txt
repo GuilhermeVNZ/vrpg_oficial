@@ -1,0 +1,28 @@
+﻿# FIRE GIANT - Animation Prompts (9 Frames)
+
+## Frame 1 - Forge Master
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, massive broad giant with coal-black skin and flaming red hair/beard, wearing heavy plate armor of black iron and brass, holding massive greatsword glowing with heat. Viewed from top-down angle (80-90 degrees), standing on circular volcanic rock base with lava flows, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with warm orange fire glow, detailed armor and flame texture readable from above, strong militaristic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Heat Radiating
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, armor glowing faintly red, sword heat intensifying, lava on base bubbling, smoke rising from shoulders. Viewed from top-down angle (80-90 degrees), heat building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying orange, detailed heat shimmer, strong awakening soldier silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sword Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, lifting greatsword to guard position, flames licking along blade, armor clanking (implied), face stern and focused. Viewed from top-down angle (80-90 degrees), raising weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on sword, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Strike Apex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, sword held high ready to strike, body braced, armor plates shifting, fire erupting from hair. Viewed from top-down angle (80-90 degrees), peak of strike, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed armor movement, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Flaming Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, sword slashing down leaving trail of fire, sparks flying, lava erupting on base, air distorted by heat. Viewed from top-down angle (80-90 degrees), impact moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive fire effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slash attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, returning to stance, sword still glowing, smoke clearing, checking formation. Viewed from top-down angle (80-90 degrees), recovering from swing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding fire, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Armor Check
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, adjusting gauntlet, checking sword edge, sparks falling from beard, disciplined movement. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong professional silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, disciplined idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sentinel
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, standing rigid in guard pose, sword point down, eyes scanning, lava settling. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient guard silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, fire giant character, massive broad giant with coal-black skin and flaming red hair/beard, wearing heavy plate armor of black iron and brass, holding massive greatsword glowing with heat. Viewed from top-down angle (80-90 degrees), standing on circular volcanic rock base with lava flows, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with warm orange fire glow, detailed armor and flame texture readable from above, strong militaristic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

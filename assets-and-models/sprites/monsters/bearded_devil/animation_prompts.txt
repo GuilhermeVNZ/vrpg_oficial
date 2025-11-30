@@ -1,0 +1,28 @@
+﻿# BEARDED DEVIL - Animation Prompts (9 Frames)
+
+## Frame 1 - Barbazu
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, humanoid devil with purple skin, wiry beard of tentacles, holding glaive, tail. Viewed from top-down angle (80-90 degrees), standing on circular infernal rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and red tones, detailed beard texture readable from above, strong soldier silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Beard Writhe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, tentacle beard writhing violently, glaive grip tightening, tail lashing, eyes narrowing. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying motion, detailed beard movement, strong awakening danger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Glaive Reach
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, extending glaive forward, body leaning into stance, beard tentacles pointing at enemy. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Glaive Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, sweeping glaive in wide arc, beard trailing behind movement, body twisted. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Beard Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, leaning forward to strike with beard tentacles, glaive held back, mouth open. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, beard attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, returning to guard, beard settling, glaive vertical, checking formation. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Weapon Drill
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, spinning glaive once, checking balance, beard tentacles grooming each other. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong disciplined silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, drill idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Guard
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, standing rigid, glaive butt on ground, beard still, eyes watching. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient soldier silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bearded devil character, humanoid devil with purple skin, wiry beard of tentacles, holding glaive, tail. Viewed from top-down angle (80-90 degrees), standing on circular infernal rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and red tones, detailed beard texture readable from above, strong soldier silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

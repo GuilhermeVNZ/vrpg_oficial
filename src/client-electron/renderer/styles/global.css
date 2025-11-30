@@ -1,0 +1,95 @@
+@import './design-tokens.css';
+
+/* Reset & Base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+button {
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    outline: none;
+}
+
+body {
+    background-color: var(--vrpg-color-bg-dark);
+    color: var(--text-light);
+    font-family: var(--vrpg-font-sans);
+    overflow: hidden;
+    /* App fullscreen */
+    width: 100vw;
+    height: 100vh;
+}
+
+/* Scrollbar Customizada */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(212, 175, 55, 0.3);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(212, 175, 55, 0.6);
+}
+
+/* Classes Utilitárias de Glassmorphism */
+.glass-panel {
+    background: var(--vrpg-glass-background);
+    backdrop-filter: blur(var(--blur-md)) saturate(var(--saturate-normal));
+    -webkit-backdrop-filter: blur(var(--blur-md)) saturate(var(--saturate-normal));
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--glass-shadow);
+    border-radius: var(--radius-lg);
+}
+
+.glass-interactive {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(4px);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: var(--text-light);
+}
+
+.glass-interactive:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--glass-border-strong);
+    box-shadow: 0 0 15px var(--vrpg-color-gold-glow);
+}
+
+.glass-interactive:active {
+    transform: scale(0.98);
+}
+
+/* Tipografia */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--vrpg-font-serif);
+    color: var(--gold-frost);
+}
+
+.font-display {
+    font-family: var(--vrpg-font-display);
+}
+
+.font-mono {
+    font-family: var(--vrpg-font-mono);
+}

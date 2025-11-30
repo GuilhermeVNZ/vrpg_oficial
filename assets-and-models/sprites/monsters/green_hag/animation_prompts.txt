@@ -1,0 +1,28 @@
+﻿# GREEN HAG - Animation Prompts (9 Frames)
+
+## Frame 1 - Forest Crone
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, hunched old woman with green skin, tangled hair, long claws, wearing tattered forest robes. Viewed from top-down angle (80-90 degrees), standing on circular swamp moss base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed wart and fabric texture readable from above, strong witch silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Cackle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, throwing head back in silent laughter, shoulders shaking, hands clutching stomach. Viewed from top-down angle (80-90 degrees), vocalizing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying madness, detailed movement, strong wicked silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Claw Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, raising long bony claws, crouching low, eyes glowing with malice. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on claws, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, raking claws forward viciously, robes swirling, hair flying. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Illusion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, waving hands, creating a shimmering duplicate or disguise (fading in/out), magic sparkles. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive illusion effects, detailed magic manifestation, strong deceptive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, illusion spell, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, returning to hunch, smoothing robes, looking around suspiciously. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Brewing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, stirring a small spectral cauldron (or implied), tasting a potion, smacking lips. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong alchemist silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, brewing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Hiding
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, pulling robes tight, crouching into a ball, trying to look like a mossy rock. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, green hag character, hunched old woman with green skin, tangled hair, long claws, wearing tattered forest robes. Viewed from top-down angle (80-90 degrees), standing on circular swamp moss base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed wart and fabric texture readable from above, strong witch silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle plotting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

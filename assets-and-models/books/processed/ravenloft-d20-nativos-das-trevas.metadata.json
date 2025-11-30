@@ -1,0 +1,23 @@
+{
+  "source_pdf": "ravenloft-d20-nativos-das-trevas-biblioteca-elfica.pdf",
+  "output_md": "ravenloft-d20-nativos-das-trevas.md",
+  "pages": 1,
+  "classification": {
+    "domain": "gaming",
+    "doc_type": "campaign_setting",
+    "categories": [
+      "ravenloft",
+      "dnd",
+      "campaign_setting",
+      "rpg",
+      "horror"
+    ],
+    "confidence": 0.85,
+    "metadata": {
+      "source": "biblioteca_elfica",
+      "language": "pt-BR",
+      "filename": "ravenloft-d20-nativos-das-trevas-biblioteca-elfica.pdf"
+    }
+  },
+  "extraction_method": "transmutation"
+}

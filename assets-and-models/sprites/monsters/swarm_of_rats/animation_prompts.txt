@@ -1,0 +1,28 @@
+﻿# SWARM OF RATS - Animation Prompts (9 Frames)
+
+## Frame 1 - Writhing Mass
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, dozens of rats crawling over each other in seething mass. Viewed from top-down angle (80-90 degrees), standing on circular sewer floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed fur texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle writhing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sniff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, rats raising noses, sniffing air for food or danger. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with nose focus, detailed sniffing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sniffing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scurry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, rats running together in coordinated wave, tails trailing. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed scurrying, strong flowing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scurrying, physical tabletop game piece aesthetic.
+
+## Frame 4 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, rats climbing over victim (implied), overwhelming. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with attack focus, detailed engulfing, strong attacking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite Frenzy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, individual rats biting with sharp teeth frantically. Viewed from top-down angle (80-90 degrees), sustained attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with frenzy emphasis, detailed biting, strong frenzied silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, biting frenzy, physical tabletop game piece aesthetic.
+
+## Frame 6 - Scatter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, rats fleeing in all directions, panicked. Viewed from top-down angle (80-90 degrees), defensive action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with scatter motion, detailed scattering, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scattering, physical tabletop game piece aesthetic.
+
+## Frame 7 - Regroup
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, rats returning together, reforming mass. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with regrouping motion, detailed reformation, strong cohesive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, regrouping, physical tabletop game piece aesthetic.
+
+## Frame 8 - Nest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, rats huddled together in pile, sleeping. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed nesting, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nesting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of rats character, dozens of rats crawling over each other in seething mass. Viewed from top-down angle (80-90 degrees), standing on circular sewer floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed fur texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle writhing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+﻿# FROST GIANT - Animation Prompts (9 Frames)
+
+## Frame 1 - Icy Warlord
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, massive blue-skinned giant with white beard, wearing iron helmet with horns and fur-lined chainmail, carrying enormous greataxe made of ice-blue steel. Viewed from top-down angle (80-90 degrees), standing on circular snowy peak base with ice shards, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cold blue tones, detailed armor and fur texture readable from above, strong warrior silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Breath of Winter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, exhaling visible cold breath, grip tightening on axe, beard blowing in wind, snow swirling around boots. Viewed from top-down angle (80-90 degrees), environment reacting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying cold, detailed breath effect, strong awakening warlord silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Axe Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, lifting greataxe high, muscles bunching under blue skin, face showing battle rage, ice on armor cracking. Viewed from top-down angle (80-90 degrees), raising weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on axe blade, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Cleave Apex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, axe held at peak of swing, body twisted, cape flowing, snowstorm intensifying around figure. Viewed from top-down angle (80-90 degrees), peak of cleave, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed armor movement, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Frost Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, axe slamming down (implied), ice shattering on base, snow explosion, blue energy trail from blade. Viewed from top-down angle (80-90 degrees), impact moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive ice effects, detailed destruction, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cleave attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, pulling axe back, shaking off snow, looking for next foe, breath steaming. Viewed from top-down angle (80-90 degrees), recovering from swing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding snow, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Challenge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, pointing with free hand, shouting challenge, axe resting on ground, imposing stance. Viewed from top-down angle (80-90 degrees), social interaction, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong commanding silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, challenging idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Cold Watch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, settling into guard position, axe ready, eyes scanning horizon, snow settling. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient sentinel silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, frost giant character, massive blue-skinned giant with white beard, wearing iron helmet with horns and fur-lined chainmail, carrying enormous greataxe made of ice-blue steel. Viewed from top-down angle (80-90 degrees), standing on circular snowy peak base with ice shards, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cold blue tones, detailed armor and fur texture readable from above, strong warrior silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle menacing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

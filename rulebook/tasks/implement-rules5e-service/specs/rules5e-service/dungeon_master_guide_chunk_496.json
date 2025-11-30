@@ -1,0 +1,12 @@
+﻿{
+    "text":  " provocar ataques de\nnão aumenta se a criatura em chamas for alvo desse traço\noportunidade dos rufiões.\nnovamente. Características de jogo incluem magias,\n253\n\n\n# Pagina 255\n\nTERMINANDO UMA PERSEGUIÇÃO\nUma perseguição termina quando um dos lados para,\nquando a presa escapa ou quando os perseguidores estão\npróximos o suficiente para capturar a presa.\nSe nenhum dos lados desistir da perseguição, a presa\nfaz um teste de Destreza (Furtividade) no final de cada\nrodada, após cada participante na perseguição ter\nrealizado seu turno. O resultado é comparado aos valores\nde Sabedoria (Percepção) passivo dos perseguidores. Se a\npresa consistir de diversas criaturas, todas fazem o teste.\nSe a presa nunca sair da visão do perseguidor líder, o\nteste falha automaticamente. Do contrário, se o resultado\ndo teste da presa for maior que o valor passivo mais alto,\na presa escapa. Se não, a perseguição continua por outra\nrodada.\nA presa ganha vantagem ou desvantagem em seu teste\nbaseado em circunstâncias prevalecentes, como mostrado\nna tabela Fatores de Fuga. Se um ou mais fatores derem\nà presa tanto vantagem quanto desvantagem em seu\nteste, a presa não terá nenhum dos dois, como normal.\nFATORES DE FUGA\nFator Teste Tem...\nPresa tem muitas coisas para se esconder atrás Vantagem\nPresa está em uma área lotada ou barulhenta Vantagem\nPresa tem poucas coisas pra se esconder atrás Desvantagem\nPresa está em uma área vazia ou silenciosa Desvantagem\nO perseguidor líder é um patrulheiro ou tem Desvantagem\nproficiência em Sobrevivência\nOutros fatores podem ajudar ou atrapalhar a\ncapacidade de fuga da presa, à seu critério. Por exemplo,\numa presa com a magia fogo das fadas conjurada sobre\nela deveria ter desvantagem em testes feitos para\nescapar, já que ela é muito mais fácil de se observar.\nEscapar não significa necessariamente que a presa\nsuperou os perseguidores. Por exemplo, em um cenário\nurbano, escapar poderia significar que a presa se entrosou\nem uma multidão ou se escondeu atrás de uma esqui",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  496,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

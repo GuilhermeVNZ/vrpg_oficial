@@ -1,0 +1,28 @@
+﻿# DUERGAR - Animation Prompts (9 Frames)
+
+## Frame 1 - Grey Dwarf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, grey dwarf with ash-colored skin and white beard, wearing heavy iron plate armor and holding a warhammer and shield. Viewed from top-down angle (80-90 degrees), standing on circular stone dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with forge orange and grey tones, detailed metal texture readable from above, strong stoic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Enlarge Start
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, muscles bulging and armor straining as he begins to grow in size (magical effect). Viewed from top-down angle (80-90 degrees), magic ability (enlarge), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red glow, detailed expansion effect, strong growing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, enlarging, physical tabletop game piece aesthetic.
+
+## Frame 3 - Hammer Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, lifting the heavy warhammer high above head with both hands. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on weapon, detailed anatomical tension, strong crusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, raising hammer, physical tabletop game piece aesthetic.
+
+## Frame 4 - Hammer Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, bringing the warhammer down with earth-shattering force. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact lines, detailed weapon strike, strong smasher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hammer attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Invisibility
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, outline becoming faint and translucent, blending into the background. Viewed from top-down angle (80-90 degrees), magic ability (invisibility), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fade effect, detailed transparency, strong fading silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, turning invisible, physical tabletop game piece aesthetic.
+
+## Frame 6 - Shield Block
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, hunkering down behind the heavy iron shield, bracing for impact. Viewed from top-down angle (80-90 degrees), defense, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic sheen, detailed shield work, strong tank silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blocking, physical tabletop game piece aesthetic.
+
+## Frame 7 - Javelin Throw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, throwing a heavy iron javelin with great force. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed arm movement, strong thrower silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, javelin attack, physical tabletop game piece aesthetic.
+
+## Frame 8 - Grumble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, crossing arms and looking grumpy, beard twitching. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep shadows, detailed facial expression, strong grumpy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grumpy idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, duergar character, grey dwarf with ash-colored skin and white beard, wearing heavy iron plate armor and holding a warhammer and shield. Viewed from top-down angle (80-90 degrees), standing on circular stone dungeon floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with forge orange and grey tones, detailed metal texture readable from above, strong stoic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

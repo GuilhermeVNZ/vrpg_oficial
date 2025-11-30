@@ -1,0 +1,28 @@
+﻿# RIDING HORSE - Animation Prompts (9 Frames)
+
+## Frame 1 - Trained Mount
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, strong horse with saddle and bridle, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular road base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and tan tones, detailed fur and tack texture readable from above, strong equine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Whinny
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, head raised, neighing to rider or other horses. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed whinny, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, whinnying, physical tabletop game piece aesthetic.
+
+## Frame 3 - Walk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, walking steadily with rider (implied), controlled gait. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with walking motion, detailed walk, strong moving silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, walking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Gallop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, running at full speed, carrying rider into battle. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with speed, detailed gallop, strong running silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, galloping, physical tabletop game piece aesthetic.
+
+## Frame 5 - Hoof Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, rearing up and striking with front hooves. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with hoof focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hoof attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Trampling Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, charging through enemies, trampling underfoot. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with charge motion, detailed trample, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trampling charge, physical tabletop game piece aesthetic.
+
+## Frame 7 - Jump
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, leaping over invisible obstacle, athletic. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jump motion, detailed leap, strong jumping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, jumping, physical tabletop game piece aesthetic.
+
+## Frame 8 - Graze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, head lowered, eating grass while resting. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grazing, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, riding horse character, strong horse with saddle and bridle, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular road base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and tan tones, detailed fur and tack texture readable from above, strong equine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

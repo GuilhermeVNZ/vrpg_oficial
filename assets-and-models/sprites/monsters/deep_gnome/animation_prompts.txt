@@ -1,0 +1,28 @@
+﻿# DEEP GNOME - Animation Prompts (9 Frames)
+
+## Frame 1 - Svirfneblin Scout
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, small wiry humanoid with grey skin and bald head, wearing camouflage leather armor and holding a war pick. Viewed from top-down angle (80-90 degrees), standing on circular rocky terrain base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bioluminescent fungus glow, detailed stone texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Stealth Crouch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, crouching low to the ground, blending in with the stone, war pick held close. Viewed from top-down angle (80-90 degrees), stealth action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with deep shadows, detailed anatomical tension, strong sneaker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hiding, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pick Swing Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, winding up for a strike with the war pick, muscles tense. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on weapon, detailed action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Mining Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, swinging the war pick down hard, as if mining or piercing armor. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed weapon strike, strong miner silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pick attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Dart Throw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, throwing a weighted dart with a flick of the wrist. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with projectile motion, detailed arm movement, strong thrower silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dart attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Stone Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, pressing against an invisible wall or rock, skin tone shifting slightly to match stone. Viewed from top-down angle (80-90 degrees), magic ability (nondetection/stealth), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with texture focus, detailed camouflage effect, strong hider silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, using camouflage, physical tabletop game piece aesthetic.
+
+## Frame 7 - Gem Inspection
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, holding up a small glowing gem, inspecting it closely with squinted eyes. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gem glow, detailed object interaction, strong appraiser silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, inspecting gem, physical tabletop game piece aesthetic.
+
+## Frame 8 - Wary Look
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, looking over shoulder nervously, ears twitching. Viewed from top-down angle (80-90 degrees), almost fully at rest (paranoid), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed facial expression, strong wary silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, wary idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, deep gnome character, small wiry humanoid with grey skin and bald head, wearing camouflage leather armor and holding a war pick. Viewed from top-down angle (80-90 degrees), standing on circular rocky terrain base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bioluminescent fungus glow, detailed stone texture readable from above, strong stealthy silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

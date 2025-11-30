@@ -1,0 +1,28 @@
+﻿# KILLER WHALE - Animation Prompts (9 Frames)
+
+## Frame 1 - Ocean Apex
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, massive orca with distinctive black and white coloring, powerful tail flukes. Viewed from top-down angle (80-90 degrees), swimming on circular ocean base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black, white and blue tones, detailed smooth skin texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Breach
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, surging upward breaking surface, water cascading off body. Viewed from top-down angle (80-90 degrees), dramatic movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with splash effect, detailed breach action, strong leaping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breaching, physical tabletop game piece aesthetic.
+
+## Frame 3 - Tail Slap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, bringing powerful tail flukes down on water surface. Viewed from top-down angle (80-90 degrees), intimidation/attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact waves, detailed tail strike, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail slap, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, jaws open showing rows of sharp teeth, lunging at prey. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Ram
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, charging forward at high speed to ram target with head. Viewed from top-down angle (80-90 degrees), melee attack (ram), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with speed lines, detailed ram action, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ram attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Echolocation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, emitting sonar clicks, sound waves radiating outward. Viewed from top-down angle (80-90 degrees), special ability (blindsight), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sonar waves, detailed echolocation, strong sensing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, echolocating, physical tabletop game piece aesthetic.
+
+## Frame 7 - Pod Swim
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, swimming in formation with pod (implied), synchronized movement. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful motion, detailed swimming, strong coordinated silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pod swimming, physical tabletop game piece aesthetic.
+
+## Frame 8 - Spy Hop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, rising vertically to look above water surface, observing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vertical emphasis, detailed spy hop, strong curious silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spy hopping idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, killer whale character, massive orca with distinctive black and white coloring, powerful tail flukes. Viewed from top-down angle (80-90 degrees), swimming on circular ocean base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black, white and blue tones, detailed smooth skin texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

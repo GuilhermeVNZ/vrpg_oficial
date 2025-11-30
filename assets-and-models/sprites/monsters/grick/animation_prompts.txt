@@ -1,0 +1,28 @@
+﻿# GRICK - Animation Prompts (9 Frames)
+
+## Frame 1 - Stone Worm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, worm-like aberration with stone-colored rubbery hide and four tentacles around beak mouth. Viewed from top-down angle (80-90 degrees), coiled on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and brown tones, detailed rubbery texture readable from above, strong serpentine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tentacle Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, four tentacles spreading wide around beak, sensing prey. Viewed from top-down angle (80-90 degrees), alert behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tentacle focus, detailed tentacle anatomy, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spreading tentacles, physical tabletop game piece aesthetic.
+
+## Frame 3 - Lunge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, body extending forward rapidly, tentacles reaching. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion, detailed lunge action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, lunging, physical tabletop game piece aesthetic.
+
+## Frame 4 - Tentacle Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, lashing with tentacles to grab and pull prey toward beak. Viewed from top-down angle (80-90 degrees), melee attack (multiattack), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with multiple strikes, detailed tentacle attacks, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tentacle attacks, physical tabletop game piece aesthetic.
+
+## Frame 5 - Beak Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, beak snapping shut on prey held by tentacles. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beak focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Burrow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, drilling into stone with rotating body, tentacles pulling. Viewed from top-down angle (80-90 degrees), movement/burrowing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rotation effect, detailed burrowing motion, strong drilling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, burrowing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, pressed flat against stone, tentacles retracted, perfectly still. Viewed from top-down angle (80-90 degrees), hiding/ambush, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stone blending, detailed camouflage, strong hidden silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, camouflaged, physical tabletop game piece aesthetic.
+
+## Frame 8 - Slither
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, undulating across ground in serpentine motion, tentacles trailing. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wave motion, detailed slithering, strong crawling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slithering, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grick character, worm-like aberration with stone-colored rubbery hide and four tentacles around beak mouth. Viewed from top-down angle (80-90 degrees), coiled on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and brown tones, detailed rubbery texture readable from above, strong serpentine silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

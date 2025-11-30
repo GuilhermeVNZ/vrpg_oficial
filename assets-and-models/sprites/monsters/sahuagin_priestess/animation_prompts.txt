@@ -1,0 +1,28 @@
+﻿# SAHUAGIN PRIESTESS - Animation Prompts (9 Frames)
+
+## Frame 1 - Deep Caller
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, female sahuagin with ornate shell jewelry and robes, holding coral staff. Viewed from top-down angle (80-90 degrees), standing on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and bioluminescent tones, detailed robe texture readable from above, strong mystic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle chanting pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Prayer
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, raising staff high, eyes glowing, water swirling around her feet. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying magic, detailed water movement, strong awakening caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Spell Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, pointing staff forward, other hand weaving signs, dark energy gathering. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on staff, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Water Blast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, unleashing a blast of pressurized water or cold energy from staff. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Hold Person
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, clenching hand, magical bands of water forming to bind target (implied). Viewed from top-down angle (80-90 degrees), spell attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed magic manifestation, strong controller silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spell attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, lowering staff, breathing deeply, magic aura fading, composing herself. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Divination
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, gazing into a bowl of water or a crystal, seeing the future. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong oracle silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, divination idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Meditating
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, floating slightly above ground in lotus position (or standing still), eyes closed. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong spiritual silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sahuagin priestess character, female sahuagin with ornate shell jewelry and robes, holding coral staff. Viewed from top-down angle (80-90 degrees), standing on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with purple and bioluminescent tones, detailed robe texture readable from above, strong mystic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle chanting pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

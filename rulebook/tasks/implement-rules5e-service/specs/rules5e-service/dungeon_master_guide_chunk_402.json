@@ -1,0 +1,12 @@
+﻿{
+    "text":  "ura névoa fétida.\n31–33 Chuva pesada cai em um raio de 18 metros centrado no\nalvo. A área é de escuridão leve. A chuva cai até o início do\nseu próximo turno.\n34–36 Um animal aparece no espaço desocupado mais próximo\ndo alvo. O animal não está sob seu controle e age como\nnormalmente faria. Role um d100 para determinar qual\nanimal aparece. Entre 01–25, um rinoceronte aparece;\nentre 26–50, um elefante aparece; e entre 51–100, um rato\naparece. Veja o Manual dos Monstros para as estatísticas\ndo animal.\n37–46 Você conjura relâmpago.\n47–49 Uma nuvem de 600 borboletas gigantes preenche um raio\nde 9 metros centrado no alvo. A área torna-se de escuridão\ndensa. As borboletas permanecem por 10 minutos.\n50–53 Você aumenta o alvo como se você tivesse conjurado\naumentar/reduzir. Se o alvo não puder ser afetado por essa\nmagia, ou se você não escolheu uma criatura como alvo,\nvocê se torna o alvo.\n54–58 Você conjura escuridão.\n59–62 Grama cresce no solo num raio de 18 metros de raio,\ncentrado no alvo. Se já houver grama ali, ela cresce dez\nvezes o tamanho normal e permanece grande por 1 minuto\n63–65 Um objeto, à escolha do Mestre, é enviado para o Plano\nEtéreo. O objeto não pode estar sendo nem vestido nem\ncarregado, deve estar a até 36 metros do alvo e não pode\nter mais de 3 metros em qualquer dimensão.\n66–69 Você se reduz, como se tivesse conjurado aumentar/reduzir\nem si mesmo.\n70–79 Você conjura bola de fogo.\n80–84 Você conjura invisibilidade em si mesmo.\n85–87 Folhas crescem no alvo. Se você escolheu um ponto no\nespaço como alvo, folhas brotam da criatura mais próxima\ndesse ponto. A não ser que sejam arrancadas, as folhas\nmurcham e caem após 24 horas.\n88–90 Uma cachoeira de 1d4 x 10 gemas, cada uma valendo 1 po,\né disparada pela ponta da varinha em uma linha de 9\nmetros de comprimento por 1,5 metro de largura. Cada\ngema causa 1 de dano de concussão e o total de dano das\ngemas é dividido igualmente entre todas as criaturas na\nlinha.\n91–95 Uma explosão de luzes cintilantes colorida",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  402,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

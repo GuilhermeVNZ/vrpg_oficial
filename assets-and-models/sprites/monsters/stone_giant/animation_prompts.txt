@@ -1,0 +1,28 @@
+﻿# STONE GIANT - Animation Prompts (9 Frames)
+
+## Frame 1 - Stone Contemplation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, lean muscular giant with grey rock-like skin, elongated head, wearing stone armor and carrying massive stalactite club. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base with crystals, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cool cave tones, detailed skin texture and stone armor readable from above, strong stoic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle contemplative pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rock Grip
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, hands tightening on club, muscles rippling under grey skin, head turning slowly, crystals on base glowing faintly. Viewed from top-down angle (80-90 degrees), body tensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying shadow, detailed muscle definition, strong awakening warrior silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing to act, physical tabletop game piece aesthetic.
+
+## Frame 3 - Stone Throw Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, reaching for massive boulder on base, club held in other hand, legs bracing, focus narrowing. Viewed from top-down angle (80-90 degrees), gathering ammunition, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on rock, detailed action pose, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Wind Up
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, arm drawn back with boulder, body twisted for torque, expression of intense concentration. Viewed from top-down angle (80-90 degrees), peak of wind up, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed anatomical tension, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of throw, physical tabletop game piece aesthetic.
+
+## Frame 5 - Release
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, arm extended forward, boulder flying (implied), dust rising from step, body following through. Viewed from top-down angle (80-90 degrees), release moment, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dynamic motion blur, detailed action, strong athletic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, throw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Follow Through
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, recovering balance, hand lowering, checking target, dust settling. Viewed from top-down angle (80-90 degrees), recovering from throw, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Club Ready
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, raising stalactite club to guard position, scanning surroundings, skin blending with stone background. Viewed from top-down angle (80-90 degrees), defensive stance, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed armor texture, strong guardian silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, defensive idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Stillness
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, becoming perfectly still like a statue, blending with cavern environment, club resting. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, stone giant character, lean muscular giant with grey rock-like skin, elongated head, wearing stone armor and carrying massive stalactite club. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base with crystals, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with cool cave tones, detailed skin texture and stone armor readable from above, strong stoic silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle contemplative pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+﻿# GORGON - Animation Prompts (9 Frames)
+
+## Frame 1 - Iron Bull
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, massive bull-like creature with iron scales and metallic hide. Viewed from top-down angle (80-90 degrees), standing on circular rocky base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic grey and green tones, detailed scale texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Snort
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, snorting and pawing ground, green vapor wisping from nostrils. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with vapor effect, detailed aggressive posture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, snorting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, lowering head, horns forward, muscles bunching for charge. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed anatomical coiling, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing charge, physical tabletop game piece aesthetic.
+
+## Frame 4 - Gore
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, ramming forward with horns, head tossing upward violently. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact force, detailed gore action, strong ram silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gore attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Trample
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, rearing up and stomping down with front hooves. Viewed from top-down angle (80-90 degrees), melee attack (trample), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with ground impact, detailed stomp action, strong trampler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trample attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Petrifying Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, exhaling cone of green petrifying gas from mouth and nostrils. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gas cloud, detailed breath effect, strong petrifier silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Graze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, head lowered to graze on stone or metal, chewing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with feeding focus, detailed eating action, strong grazing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grazing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Tail Swish
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, swishing metallic tail to ward off flies, scales clinking. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tail motion, detailed swishing, strong calm silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail swish idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, gorgon character, massive bull-like creature with iron scales and metallic hide. Viewed from top-down angle (80-90 degrees), standing on circular rocky base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic grey and green tones, detailed scale texture readable from above, strong brutish silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

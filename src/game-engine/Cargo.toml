@@ -1,0 +1,30 @@
+[package]
+name = "game-engine"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+description = "Game Engine - Session management, combat, and turn tracking"
+
+[dependencies]
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+uuid = { workspace = true }
+chrono = { workspace = true }
+
+[dev-dependencies]
+tokio-test = { workspace = true }
+mockall = { workspace = true }
+
+
+
+
+
+
+
+

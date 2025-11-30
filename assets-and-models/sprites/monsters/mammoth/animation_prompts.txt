@@ -1,0 +1,28 @@
+﻿# MAMMOTH - Animation Prompts (9 Frames)
+
+## Frame 1 - Ice Age Giant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, massive elephant with long curved tusks and shaggy brown fur. Viewed from top-down angle (80-90 degrees), standing on circular snowy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed fur texture readable from above, strong colossal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Trumpet
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, raising trunk high and trumpeting loudly, ears flared. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed trumpet, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trumpeting, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, lowering head, tusks forward, charging with tremendous force. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion emphasis, detailed charge prep, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing charge, physical tabletop game piece aesthetic.
+
+## Frame 4 - Gore
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, thrusting massive tusks upward in goring motion. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tusk focus, detailed gore action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gore attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Stomp
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, lifting massive foot and slamming it down with earth-shaking force. Viewed from top-down angle (80-90 degrees), melee attack (stomp), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with ground impact, detailed stomp action, strong trampler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stomp attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Trunk Grab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, wrapping trunk around target to grab or throw. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with trunk emphasis, detailed grab, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trunk grab, physical tabletop game piece aesthetic.
+
+## Frame 7 - Snow Spray
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, using trunk to spray snow over back, cooling down. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with snow particles, detailed spray, strong bathing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, snow bathing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Ear Flap
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, slowly flapping large furry ears, trunk swaying. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft motion, detailed ear movement, strong calm silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ear flapping idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mammoth character, massive elephant with long curved tusks and shaggy brown fur. Viewed from top-down angle (80-90 degrees), standing on circular snowy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed fur texture readable from above, strong colossal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

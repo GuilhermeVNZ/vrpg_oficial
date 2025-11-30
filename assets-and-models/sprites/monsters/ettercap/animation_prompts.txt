@@ -1,0 +1,28 @@
+﻿# ETTERCAP - Animation Prompts (9 Frames)
+
+## Frame 1 - Spider Humanoid
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, grotesque humanoid with spider-like features, multiple eyes, fangs, and spinnerets. Viewed from top-down angle (80-90 degrees), standing on circular webbed floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly green and purple tones, detailed chitinous texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Web Spray
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, turning around and spraying web from spinnerets at rear. Viewed from top-down angle (80-90 degrees), ranged attack/utility, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with web detail, detailed web stream, strong trapper silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, web spray, physical tabletop game piece aesthetic.
+
+## Frame 3 - Claw Swipe
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, swiping with clawed hand, body twisting, multiple eyes focused. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed claw strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, lunging forward with fangs bared, venom dripping, hands grasping. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with venom focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Web Garrote
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, pulling taut a strand of web between hands like a garrote, strangling motion. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension lines, detailed web manipulation, strong strangler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, garrote attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Climb
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, scuttling along web strands, body horizontal, limbs splayed. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with web interaction, detailed climbing motion, strong climber silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, climbing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Poison Spit
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, spitting glob of poison from mouth, head jerking forward. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with projectile motion, detailed spit action, strong spitter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, poison spit, physical tabletop game piece aesthetic.
+
+## Frame 8 - Web Repair
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, carefully weaving web with hands, focused on work, hunched posture. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed weaving action, strong craftsman silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, weaving idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, ettercap character, grotesque humanoid with spider-like features, multiple eyes, fangs, and spinnerets. Viewed from top-down angle (80-90 degrees), standing on circular webbed floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sickly green and purple tones, detailed chitinous texture readable from above, strong arachnid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

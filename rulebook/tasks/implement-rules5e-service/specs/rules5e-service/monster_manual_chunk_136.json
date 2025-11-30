@@ -1,0 +1,12 @@
+﻿{
+    "text":  "o alvo for uma\ncriatura, ele deve ser bem sucedido num teste de resistência de\nConstituição CD 15, ou por 1 minuto, seu deslocamento será\nreduzido em 3 metros; ele pode realizar ou uma ação ou uma ação\nbônus a cada turno, mas não ambas; e ele não pode realizar\nações. O alvo pode repetir o teste de resistência no final de cada\num dos turnos dele, terminando o efeito se obtiver sucesso.\nDIABO DO GELO Garras. Ataque Corpo-a-Corpo com Arma: +10 para atingir,\nCorruptor Grande (diabo), leal e mau alcance 1,5 m, um alvo. Acerto: 10 (2d4 + 5) de dano cortante\nmais 10 (3d6) de dano de frio.\nClasse de Armadura 18 (armadura natural)\nCauda. Ataque Corpo-a-Corpo com Arma: +10 para atingir,\nPontos de Vida 180 (19d10 + 76)\nalcance 3 m, um alvo. Acerto: 12 (2d6 + 5) de dano de concussão\nDeslocamento 12 m\nmais 10 (3d6) de dano de frio.\nFOR DES CON INT SAB CAR Muralha de Gelo (Recarrega 6). O diabo magicamente forma\n21 (+5) 14 (+2) 18 (+4) 18 (+4) 15 (+2) 18 (+4) uma muralha opaca de gelo em uma superfície sólida que ele\npossa ver, a até 18 metros dele. A muralha tem 30 centímetros\nTestes de Resistência Des +7, Con +9, Sab +7, Car +9 de espessura e até 9 metros de comprimento por 3 metros de\nResistência a Dano concussão, cortante e perfurante de ataques altura ou ela é uma redoma hemisférica de 6 metros de\nnão-mágicos que não sejam de prata diâmetro.\nImunidade a Dano fogo, frio, veneno Quando a muralha aparece, cada criatura no espaço dela é\nImunidade a Condição envenenado empurrada para fora até a rota mais curta. A criatura escolhe de\nSentidos percepção às cegas 18 m, visão no escuro 36 m, que lado da muralha irá ficar, a não ser que a criatura esteja\nPercepção passiva 12 incapacitada. A criatura, então, realiza um teste de resistência\nIdiomas Infernal, telepatia 36 m de Destreza CD 17, sofrendo 35 (10d6) de dano de frio se falhar\nNível de Desafio 14 (11.500 XP) na resistência, ou metade desse dano se obtiver sucesso.\nA muralha dura por 1 minuto ou até o diabo estar\nincapacitado ou",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  136,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

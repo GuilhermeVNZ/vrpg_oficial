@@ -1,0 +1,12 @@
+﻿{
+    "text":  " já que a maioria dos jogadores consideram esse\nfinal bem insatisfatório.\nNem todos os encontros aleatórios com monstros\nprecisam ser resolvidos através de combate. Um grupo de\naventureiros de 1° nível poderia ter um encontro aleatório\ncom um dragão jovem sobrevoando na floresta nas copas\ndas árvores em busca de uma refeição rápida, mas os\npersonagens deveriam ter a opção de se esconder ou\nbarganhar por suas vidas, caso o dragão os veja.\nSimilarmente, o grupo poderia encontrar um gigante de\npedra vagando pelas colinas, mas ele poderia não ter\nqualquer interesse em ferir ninguém. De fato, ele deveria\nevitar o grupo devido a sua natureza reclusa. O gigante\ndeveria atacar apenas personagens que o importunem.\nDito isso, uma tabela de encontro aleatório geralmente\nincluirá monstros hostis (apesar de não necessariamente\nmalignos) que são destinados a serem enfrentados. Os\nmonstros a seguir são considerados desafios de combate\napropriados:\n Um único monstro com um nível de desafio igual ou\nmenor que o nível do grupo.\n Um grupo de monstros cujo valor de XP ajustado\nconstitua um desafio fácil, médio ou difícil para o\ngrupo, como determinado usando as diretrizes de\nconstrução de encontro previamente neste capítulo.\nENCONTROS NUMA FLORESTA SILVESTRE\nd12 + d8 Encontro d12 + d8 Encontro\n2 1 pantera deslocadora 12 1 urso-coruja\n3 1 gnoll líder de matilha e 2d4 gnolls 13 1d4 alces (75%) ou 1 alce gigante (25%)\n4 1d4 gnolls e 2d4 hienas 14 1d4 cães teleportadores\n5 Um bosque de árvores queimadas. Os personagens 15 Uma planta mágica com 2d4 frutos brilhantes. Uma\nvasculham a área e com sucesso em um teste de criatura que ingerir um fruto fica invisível por 1d4\nSabedoria (Sobrevivência) CD 10, encontram rastros de horas, ou até atacar ou conjurar uma magia. Quando\ngnolls. Seguir os rastros por 1d4 horas leva a um coletado, um fruto perde sua mágica após 12 horas.\nencontro com gnolls, ou a descoberta de gnolls mortos Os frutos crescem novamente à meia-noite, mas se\ncom flechas élfic",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  187,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

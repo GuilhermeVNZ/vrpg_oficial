@@ -1,0 +1,28 @@
+﻿# GUARD - Animation Prompts (9 Frames)
+
+## Frame 1 - Town Guard
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, human soldier in chainmail and tabard, holding spear and shield. Viewed from top-down angle (80-90 degrees), standing on circular cobblestone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and fabric tones, detailed armor texture readable from above, strong vigilant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Alert Stance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, raising shield, lowering spear to ready position, eyes scanning. Viewed from top-down angle (80-90 degrees), alert behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with defensive focus, detailed ready pose, strong defender silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, alert stance, physical tabletop game piece aesthetic.
+
+## Frame 3 - Spear Thrust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, thrusting spear forward in straight jab, shield protecting body. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with thrust motion, detailed spear strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spear attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Shield Bash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, stepping forward and slamming shield into opponent. Viewed from top-down angle (80-90 degrees), melee attack (shield), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with impact emphasis, detailed bash action, strong basher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shield bash, physical tabletop game piece aesthetic.
+
+## Frame 5 - Defensive Formation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, shield raised high, spear braced, forming wall. Viewed from top-down angle (80-90 degrees), defensive stance, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shield focus, detailed defensive posture, strong wall silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, defending, physical tabletop game piece aesthetic.
+
+## Frame 6 - Whistle Blow
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, raising whistle to lips, calling for backup. Viewed from top-down angle (80-90 degrees), special action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed whistle blow, strong alerting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blowing whistle, physical tabletop game piece aesthetic.
+
+## Frame 7 - Patrol Walk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, walking with spear over shoulder, shield on back, casual stride. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with walking motion, detailed stride, strong patrolling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, patrolling, physical tabletop game piece aesthetic.
+
+## Frame 8 - Yawn
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, yawning and stretching, spear leaning on shoulder, tired. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed yawn, strong weary silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, yawning idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, guard character, human soldier in chainmail and tabard, holding spear and shield. Viewed from top-down angle (80-90 degrees), standing on circular cobblestone base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with steel and fabric tones, detailed armor texture readable from above, strong vigilant silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

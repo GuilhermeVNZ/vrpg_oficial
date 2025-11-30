@@ -1,0 +1,28 @@
+﻿# JACKAL - Animation Prompts (9 Frames)
+
+## Frame 1 - Desert Scavenger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, lean canine with tan fur, pointed ears, bushy tail. Viewed from top-down angle (80-90 degrees), standing on circular sandy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and brown tones, detailed fur texture readable from above, strong scavenger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Yip
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, head raised, mouth open in high-pitched yip, calling pack. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed cry, strong calling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, yipping, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slink
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, slinking low to ground, stalking cautiously. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth focus, detailed stalking, strong sneaking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slinking, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, darting in to bite with sharp teeth, quick strike. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Pack Tactics
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, circling prey with pack members (implied), coordinated attack. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tactical positioning, detailed pack behavior, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pack tactics, physical tabletop game piece aesthetic.
+
+## Frame 6 - Dodge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, leaping aside quickly to avoid attack, agile. Viewed from top-down angle (80-90 degrees), evasive maneuver, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jump motion, detailed dodge, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dodging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Scent Trail
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, nose to ground, following scent, tail low. Viewed from top-down angle (80-90 degrees), tracking, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with scent focus, detailed sniffing, strong tracker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking, physical tabletop game piece aesthetic.
+
+## Frame 8 - Pant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, sitting with tongue out, panting in heat. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, panting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, jackal character, lean canine with tan fur, pointed ears, bushy tail. Viewed from top-down angle (80-90 degrees), standing on circular sandy base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and brown tones, detailed fur texture readable from above, strong scavenger silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

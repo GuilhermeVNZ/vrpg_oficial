@@ -1,0 +1,28 @@
+﻿# PANTHER - Animation Prompts (9 Frames)
+
+## Frame 1 - Black Cat
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, sleek black big cat with powerful muscles, green eyes, sharp claws. Viewed from top-down angle (80-90 degrees), crouching on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and shadow tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Stalk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, moving low to ground, stalking prey silently. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth focus, detailed stalking, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stalking, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, haunches coiled, muscles tensed, ready to spring. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed crouch, strong coiled silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing pounce, physical tabletop game piece aesthetic.
+
+## Frame 4 - Pounce
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, leaping through air with claws extended, explosive motion. Viewed from top-down angle (80-90 degrees), melee attack (pounce), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed pounce action, strong leaping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pounce attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, jaws clamping on prey's throat, killing bite. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, raking with front and back claws simultaneously, tearing. Viewed from top-down angle (80-90 degrees), melee attack (claws), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong raking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Keen Smell
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, nose raised, scenting air, tracking prey. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed scenting, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scenting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Stretch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, stretching luxuriously, arching back, claws extending. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed stretching, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stretching idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, panther character, sleek black big cat with powerful muscles, green eyes, sharp claws. Viewed from top-down angle (80-90 degrees), crouching on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with black and shadow tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+# WINTER WOLF - Animation Prompts (9 Frames)
+
+## Frame 1 - Frost Wolf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, massive white wolf with icy blue eyes, frost on fur. Viewed from top-down angle (80-90 degrees), standing on circular snowy tundra base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and ice blue tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Howl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, throwing head back to howl, icy breath visible in the air. Viewed from top-down angle (80-90 degrees), intimidation/communication, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying cold, detailed movement, strong pack leader silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, crouching low, hind legs bunched, ears flattened against head. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on eyes, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, snapping jaws shut on a target (implied), teeth glistening. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong savage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Cold Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, exhaling a cone of freezing wind and ice shards. Viewed from top-down angle (80-90 degrees), breath weapon attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive frost effect, detailed magic manifestation, strong elemental silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, landing from pounce or shaking head after breath, regaining footing. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Sniffing
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, lowering nose to the ground, sniffing for tracks, tail twitching. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong tracker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tracking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sleeping
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, curled up in a ball, tail covering nose, looking peaceful but alert. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, winter wolf character, massive white wolf with icy blue eyes, frost on fur. Viewed from top-down angle (80-90 degrees), standing on circular snowy tundra base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and ice blue tones, detailed fur texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

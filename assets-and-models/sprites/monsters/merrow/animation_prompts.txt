@@ -1,0 +1,28 @@
+﻿# MERROW - Animation Prompts (9 Frames)
+
+## Frame 1 - Aquatic Ogre
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, brutish merfolk with green-grey skin, webbed hands, holding harpoon. Viewed from top-down angle (80-90 degrees), swimming on circular murky water base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark green and grey tones, detailed rough skin texture readable from above, strong savage silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Growl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, mouth open in underwater growl, bubbles rising, threatening. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bubble effect, detailed growl, strong menacing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, growling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Harpoon Throw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, hurling harpoon with powerful arm, hunting. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with throw motion, detailed harpoon throw, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, harpoon attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, lunging with shark-like jaws open, sharp teeth bared. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, slashing with webbed claws, vicious swipe. Viewed from top-down angle (80-90 degrees), melee attack (claws), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong slasher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Ambush Rise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, rising from murky depths, surprise attack. Viewed from top-down angle (80-90 degrees), ambush, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with emergence, detailed rising, strong ambusher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, ambushing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Drag Down
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, grabbing prey and pulling underwater, drowning tactic. Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with drag motion, detailed pull, strong drowner silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dragging down, physical tabletop game piece aesthetic.
+
+## Frame 8 - Scavenge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, picking through shipwreck debris, searching for treasure. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed scavenging, strong greedy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scavenging idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, merrow character, brutish merfolk with green-grey skin, webbed hands, holding harpoon. Viewed from top-down angle (80-90 degrees), swimming on circular murky water base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark green and grey tones, detailed rough skin texture readable from above, strong savage silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle swimming pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

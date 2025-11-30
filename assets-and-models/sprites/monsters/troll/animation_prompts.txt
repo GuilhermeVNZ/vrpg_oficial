@@ -1,0 +1,28 @@
+﻿# TROLL - Animation Prompts (9 Frames)
+
+## Frame 1 - Regenerating Brute
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, tall lanky giant with rubbery green skin, long nose, sharp claws. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with moss green and grey tones, detailed warty skin texture readable from above, strong regenerating silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hunched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, roaring with mouth wide open, drool dripping, arms spread wide. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying hunger, detailed movement, strong awakening monster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Claw Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, raising a long arm, claws extending, muscles bunching under rubbery skin. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on claws, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, slashing down with long claws, body following the momentum. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, lunging forward to bite, jaw unhinging slightly, savage motion. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong feral silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, stumbling back slightly, wiping mouth, regenerating a small cut (implied). Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Regeneration
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, standing still, skin knitting together, wounds closing visibly, steam rising. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong healing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, healing idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Eating
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, sitting down, gnawing on a large bone, looking content. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong gluttonous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troll character, tall lanky giant with rubbery green skin, long nose, sharp claws. Viewed from top-down angle (80-90 degrees), standing on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with moss green and grey tones, detailed warty skin texture readable from above, strong regenerating silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hunched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

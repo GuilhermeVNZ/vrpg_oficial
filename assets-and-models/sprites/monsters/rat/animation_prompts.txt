@@ -1,0 +1,28 @@
+﻿# RAT - Animation Prompts (9 Frames)
+
+## Frame 1 - City Scavenger
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, small rodent with brown fur, long tail, twitching whiskers. Viewed from top-down angle (80-90 degrees), standing on circular sewer floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed fur texture readable from above, strong rodent silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Sniff
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, nose twitching rapidly, sniffing for food or danger. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with nose focus, detailed sniffing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sniffing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scurry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, running quickly across ground, tail trailing behind. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed scurrying, strong running silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scurrying, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, lunging forward with sharp incisors bared, biting. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with teeth focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Swarm
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, joining others in coordinated swarm attack. Viewed from top-down angle (80-90 degrees), special attack (pack tactics), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with swarm emphasis, detailed swarming, strong group silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, swarming, physical tabletop game piece aesthetic.
+
+## Frame 6 - Squeeze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, compressing body to fit through tiny crack or hole. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with compression, detailed squeezing, strong flexible silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, squeezing, physical tabletop game piece aesthetic.
+
+## Frame 7 - Gnaw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, gnawing on invisible object with teeth, persistent. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gnaw motion, detailed gnawing, strong persistent silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gnawing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Groom
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, sitting up and grooming face with paws. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grooming idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, rat character, small rodent with brown fur, long tail, twitching whiskers. Viewed from top-down angle (80-90 degrees), standing on circular sewer floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and grey tones, detailed fur texture readable from above, strong rodent silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

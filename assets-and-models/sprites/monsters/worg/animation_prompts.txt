@@ -1,0 +1,28 @@
+﻿# WORG - Animation Prompts (9 Frames)
+
+## Frame 1 - Goblin Mount
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, large muscular wolf with black fur and intelligent evil eyes. Viewed from top-down angle (80-90 degrees), standing on circular rocky plains base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark grey and red tones, detailed fur texture readable from above, strong mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Snarl
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, snarling viciously, lips curled back, drool dripping. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying malice, detailed movement, strong awakening beast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, lowering head, muscles bunching in shoulders, digging claws into ground. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on teeth, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, snapping jaws shut with bone-crushing force, lunging forward. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong savage silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Trip
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, swiping with a paw or body checking to knock a target prone. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, trip attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, stepping back, shaking head, looking for next victim. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Communication
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, looking to the side as if speaking (they can speak), intelligent expression. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong intelligent silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, talking idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sleeping
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, lying down on side, legs twitching slightly as if dreaming of hunting. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, worg character, large muscular wolf with black fur and intelligent evil eyes. Viewed from top-down angle (80-90 degrees), standing on circular rocky plains base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark grey and red tones, detailed fur texture readable from above, strong mount silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

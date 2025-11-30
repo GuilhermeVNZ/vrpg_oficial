@@ -1,0 +1,28 @@
+﻿# YUAN-TI MALISON - Animation Prompts (9 Frames)
+
+## Frame 1 - Serpent Hybrid
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, humanoid with snake features (snake head OR snake arms OR snake tail), holding scimitar. Viewed from top-down angle (80-90 degrees), standing on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and bronze tones, detailed scale texture readable from above, strong hybrid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, hissing threateningly, serpent features prominent. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with menace emphasis, detailed hiss, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Advance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, moving forward with serpentine grace. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fluid motion, detailed advancing, strong stalking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, advancing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Scimitar Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, slashing with scimitar in curved arc. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scimitar attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, biting with venomous fangs (if snake-headed). Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bite focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Constrict
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, using snake tail/arms to constrict victim. Viewed from top-down angle (80-90 degrees), grapple attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with coil emphasis, detailed constricting, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, constricting, physical tabletop game piece aesthetic.
+
+## Frame 7 - Suggestion
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, eyes glowing, using suggestion magic. Viewed from top-down angle (80-90 degrees), magic ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with hypnotic effect, detailed suggestion, strong enchanter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, suggesting, physical tabletop game piece aesthetic.
+
+## Frame 8 - Pray
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, kneeling in prayer to serpent deity. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed praying, strong devout silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, praying idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yuan-ti malison character, humanoid with snake features (snake head OR snake arms OR snake tail), holding scimitar. Viewed from top-down angle (80-90 degrees), standing on circular temple base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and bronze tones, detailed scale texture readable from above, strong hybrid silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

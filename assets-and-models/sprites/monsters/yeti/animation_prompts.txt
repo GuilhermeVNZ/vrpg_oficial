@@ -1,0 +1,28 @@
+﻿# YETI - Animation Prompts (9 Frames)
+
+## Frame 1 - Mountain Beast
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, large ape-like creature with white fur, fearsome face, powerful arms. Viewed from top-down angle (80-90 degrees), standing on circular snowy mountain base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and blue tones, detailed fur texture readable from above, strong beast silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, beating chest, roaring loudly, showing fangs. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed roar, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Charge
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, running forward on all fours, snow flying. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed charging, strong charging silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, charging, physical tabletop game piece aesthetic.
+
+## Frame 4 - Claw Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, swinging massive claw in overhead smash. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Cold Gaze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, eyes glowing blue, paralyzing victim with fear. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eye glow, detailed gaze effect, strong hypnotic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gaze attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Grab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, grabbing and crushing victim in bear hug. Viewed from top-down angle (80-90 degrees), grapple attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with crushing emphasis, detailed grapple, strong grappler silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grappling, physical tabletop game piece aesthetic.
+
+## Frame 7 - Snow Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, crouching in snow, blending perfectly with environment. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with camouflage, detailed hiding, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hiding, physical tabletop game piece aesthetic.
+
+## Frame 8 - Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, sitting in snow, grooming fur. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed grooming, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grooming idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, yeti character, large ape-like creature with white fur, fearsome face, powerful arms. Viewed from top-down angle (80-90 degrees), standing on circular snowy mountain base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with white and blue tones, detailed fur texture readable from above, strong beast silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

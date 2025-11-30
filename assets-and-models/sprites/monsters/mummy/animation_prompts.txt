@@ -1,0 +1,28 @@
+﻿# MUMMY - Animation Prompts (9 Frames)
+
+## Frame 1 - Undead Pharaoh
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, humanoid wrapped in ancient bandages, glowing eyes, shambling. Viewed from top-down angle (80-90 degrees), standing on circular tomb floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and shadow tones, detailed bandage texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Dreadful Glare
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, eyes blazing with supernatural terror, paralyzing gaze. Viewed from top-down angle (80-90 degrees), special ability (dreadful glare), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eye glow, detailed fear effect, strong terrifying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, glaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Shamble
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, shuffling forward slowly, arms outstretched, relentless. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shambling motion, detailed slow walk, strong shambling silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, shambling, physical tabletop game piece aesthetic.
+
+## Frame 4 - Rotting Fist
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, swinging bandaged fist in powerful strike. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with punch motion, detailed fist strike, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fist attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Mummy Rot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, touching victim, spreading cursed disease, flesh withering. Viewed from top-down angle (80-90 degrees), special attack (mummy rot), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with disease effect, detailed rot spread, strong plaguebearer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spreading rot, physical tabletop game piece aesthetic.
+
+## Frame 6 - Regeneration
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, bandages rewrapping themselves, wounds closing. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with healing effect, detailed regeneration, strong resilient silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, regenerating, physical tabletop game piece aesthetic.
+
+## Frame 7 - Ancient Curse
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, hieroglyphs glowing on bandages, invoking curse. Viewed from top-down angle (80-90 degrees), spell casting, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with magical symbols, detailed curse, strong cursed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cursing, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sarcophagus Rest
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, lying down in sarcophagus position, arms crossed. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong dormant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, resting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, mummy character, humanoid wrapped in ancient bandages, glowing eyes, shambling. Viewed from top-down angle (80-90 degrees), standing on circular tomb floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tan and shadow tones, detailed bandage texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

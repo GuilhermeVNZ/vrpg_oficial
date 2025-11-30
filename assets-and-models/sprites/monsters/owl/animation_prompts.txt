@@ -1,0 +1,28 @@
+﻿# OWL - Animation Prompts (9 Frames)
+
+## Frame 1 - Silent Hunter
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, nocturnal bird with large eyes, silent wings, sharp talons. Viewed from top-down angle (80-90 degrees), perched on circular branch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed feather texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Head Rotation
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, rotating head 270 degrees, scanning surroundings. Viewed from top-down angle (80-90 degrees), observation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with rotation, detailed head turn, strong watchful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, head rotating, physical tabletop game piece aesthetic.
+
+## Frame 3 - Silent Flight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, taking off with wings spread, completely silent. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wing emphasis, detailed silent flight, strong flying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, flying, physical tabletop game piece aesthetic.
+
+## Frame 4 - Talon Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, diving with talons extended, striking prey. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with talon focus, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, talon attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Beak Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, snapping hooked beak at prey, tearing. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with beak focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Keen Hearing and Sight
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, eyes and ear tufts focused, detecting prey in darkness. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sensory focus, detailed perception, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, perceiving, physical tabletop game piece aesthetic.
+
+## Frame 7 - Glide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, wings extended in gliding position, soaring silently. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with graceful motion, detailed glide, strong soaring silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gliding, physical tabletop game piece aesthetic.
+
+## Frame 8 - Preen
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, using beak to preen wing feathers, grooming. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed preening, strong peaceful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preening idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, owl character, nocturnal bird with large eyes, silent wings, sharp talons. Viewed from top-down angle (80-90 degrees), perched on circular branch base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with brown and white tones, detailed feather texture readable from above, strong predator silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle perched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

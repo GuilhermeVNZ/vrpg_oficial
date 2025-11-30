@@ -1,0 +1,12 @@
+﻿{
+    "text":  "s se estende de\nvocê num raio de 9 metros. Você e cada criatura na área\nque puder ver, deve ser bem sucedido num teste de\nresistência de Constituição CD 15, ou ficará cego por 1\nminuto. Uma criatura pode repetir o teste de resistência no\nfinal de cada um dos turnos dela, terminando o efeito em\nsi, com um sucesso.\n96–97 A pele do alvo adquire um brilho azulado por 1d10 dias. Se\nvocê escolher um ponto no espaço, a criatura mais próxima\ndo ponto é afetada.\n98–00 Se você escolher uma criatura como alvo, ela deve realizar\num teste de resistência de Constituição CD 15. Se você não\nescolheu uma criatura, você se torna o alvo e deve realizar\no teste de resistência. Se fracassar na resistência por 5 ou\nmais, o alvo é instantaneamente petrificado. Em qualquer\noutro resultado falho, o alvo fica impedido e começa a se\ntransformar em pedra. Enquanto estiver impedido dessa\nforma, o alvo deve repetir o teste de resistência no final do\nseu próximo turno, ficando petrificado se fracassar ou\nterminado o efeito se obtiver sucesso. A petrificação dura\naté que o alvo seja liberto pela magia restauração maior ou\nmágica similar.\n211\n\n\n# Pagina 213\n\nVARINHA DE DETECTAR MAGIA\nVarinha, incomum\nEsta varinha possui 3 cargas. Enquanto empunha-la, você\npode gastar 1 carga, com uma ação, para conjurar\ndetectar magia através dela. A varinha recupera 1d3\ncargas gastas diariamente ao amanhecer.\nVARINHA DE MEDO\nVarinha, rara (requer sintonização)\nEsta varinha possui 7 cargas para suas propriedades. Ela\nrecupera 1d6 + 1 cargas gastas diariamente ao\namanhecer. Se você gastar a última carga da varinha,\nrole um d20. Em um 1, a varinha se desfaz em cinzas e é\ndestruída.\nComando. Enquanto empunhar a varinha, você pode\nusar uma ação para gastar 1 carga e comandar outra\ncriatura a correr ou agachar, como através da magia\ncomando (CD de resistência 15).\nCone de Medo. Enquanto empunhar a varinha, você\npode usar uma ação para gastar 2 cargas, fazendo com\nque a ponta da varinha emita um cone de 18 metros de\nluz ",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  403,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

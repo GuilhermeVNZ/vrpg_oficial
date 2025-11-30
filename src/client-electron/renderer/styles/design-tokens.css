@@ -1,0 +1,126 @@
+/* -------------------------------------------------------------------------- */
+/* VRPG Design Tokens (CSS Custom Properties) */
+/* Theme: Glassmorphism Apple-Style + Foundry VTT + BG3/Solasta Hybrid */
+/* -------------------------------------------------------------------------- */
+
+:root {
+  /* ===== CORES BASE & TEMÁTICAS ===== */
+
+  /* Cores Primárias & Acentos (Estilo BG3/Solasta) */
+  --vrpg-color-gold-primary: #D4AF37;      /* Ouro Frio - Bordas e acentos */
+  --vrpg-color-gold-glow: rgba(212, 175, 55, 0.6); /* Brilho do Ouro */
+  --vrpg-color-arcane-blue: #4A90E2;       /* Azul Arcano - Magia e seleção */
+  --vrpg-color-arcane-glow: rgba(74, 144, 226, 0.7); /* Brilho Arcano */
+
+  /* Cores de Status */
+  --vrpg-color-status-health: #4CAF50;     /* Verde - HP */
+  --vrpg-color-status-resource: #2196F3;   /* Azul - Mana/Recursos */
+
+  /* Cores de Backgrounds & Sombras */
+  --vrpg-color-bg-dark: #0F0F0F;           /* Preto Fundo */
+  --vrpg-color-bg-overlay: rgba(0, 0, 0, 0.5); /* Overlay Escuro */
+  --vrpg-color-shadow: rgba(0, 0, 0, 0.5); /* Sombra Genérica */
+
+  /* ===== TIPOGRAFIA ===== */
+
+  --vrpg-font-serif: 'Crimson Text', 'Georgia', serif;  /* Títulos, narrativa */
+  --vrpg-font-sans: 'Inter', 'Roboto', sans-serif;      /* UI, botões, valores */
+  --vrpg-font-display: 'Cinzel', 'Playfair Display', serif; /* Títulos grandes */
+  --vrpg-font-mono: 'Fira Code', 'Courier New', monospace;   /* Dados, código */
+
+  /* ===== GLASSMORPHISM & EFEITOS VISUAIS ===== */
+
+  /* Blur & Saturação do Vidro */
+  --vrpg-glass-backdrop-blur: 16px;        /* Intensidade do desfoque */
+  --vrpg-glass-backdrop-saturate: 180%;    /* Intensidade da saturação */
+  --vrpg-glass-background: rgba(255, 255, 255, 0.05); /* Cor base do vidro translúcido */
+
+  /* Bordas de Vidro */
+  /* Borda Externa Brilhante */
+  --vrpg-glass-border-gradient: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(212, 175, 55, 0.1) 50%,
+    rgba(0, 0, 0, 0.1) 100%
+  );
+  /* Borda Interna (Reflexo) */
+  --vrpg-glass-inner-border: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+
+  /* Sombras de Vidro */
+  --vrpg-glass-shadow-sm: 0 4px 16px 0 rgba(0, 0, 0, 0.2); /* Sombra suave */
+  --vrpg-glass-shadow-md: 0 8px 32px 0 rgba(0, 0, 0, 0.3); /* Sombra média */
+
+  /* Brilhos & Glows */
+  --vrpg-glow-arcane-sm: 0 0 10px var(--vrpg-color-arcane-glow);
+  --vrpg-glow-gold-sm: 0 0 10px var(--vrpg-color-gold-glow);
+
+  /* ===== ESPAÇAMENTOS & ARREDONDAMENTOS ===== */
+
+  --vrpg-spacing-sm: 8px;
+  --vrpg-spacing-md: 16px;
+  --vrpg-spacing-lg: 24px;
+
+  --vrpg-radius-sm: 8px;
+  --vrpg-radius-md: 12px;
+  --vrpg-radius-lg: 16px; /* Padrão para painéis principais */
+  
+  /* ===== COMPATIBILIDADE COM TOKENS ANTIGOS (DESIGN_SYSTEM.md) ===== */
+  
+  /* Tokens de Vidro */
+  --glass-light: var(--vrpg-glass-background);
+  --glass-dark: rgba(40, 40, 55, 0.18);
+  --glass-border: rgba(255, 255, 255, 0.22);
+  --glass-border-strong: rgba(212, 175, 55, 0.5);
+  --glass-border-weak: rgba(255, 255, 255, 0.1);
+  --glass-shadow: var(--vrpg-glass-shadow-md);
+  
+  /* Blur Levels */
+  --blur-low: 12px;
+  --blur-md: var(--vrpg-glass-backdrop-blur);
+  --blur-high: 24px;
+  --blur-ultra: 30px;
+  
+  /* Saturation (para backdrop-filter) */
+  --saturate-normal: 135%;
+  --saturate-high: var(--vrpg-glass-backdrop-saturate);
+  
+  /* Border Radius */
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 22px;
+  
+  /* Spacing */
+  --spacing-xs: 6px;
+  --spacing-sm: 10px;
+  --spacing-md: 16px;
+  --spacing-lg: 22px;
+  --spacing-xl: 32px;
+  
+  /* ===== CORES TEMÁTICAS (BG3/Solasta) ===== */
+  
+  /* Cores Principais */
+  --gold-frost: #D4AF37;              /* Dourado fosco - ornamentos */
+  --arcane-blue: #4A90E2;             /* Azul arcano - elementos mágicos */
+  --dark-brown: #3D2817;              /* Marrom escuro elegante - fundos */
+  --soft-black: #0F0F0F;               /* Preto suave - backgrounds */
+  --pure-black: #000000;               /* Preto puro - contraste */
+  --text-light: #FFFFFF;
+
+  /* Cores de Status */
+  --health-green: #4CAF50;            /* Verde - HP, vida */
+  --damage-red: #F44336;              /* Vermelho - dano, perigo */
+  --mana-blue: #2196F3;                /* Azul - mana, magia */
+  --stamina-yellow: #FFC107;           /* Amarelo - stamina, energia */
+  
+  /* Cores de Persona */
+  --player-blue: #00BCD4;              /* Azul - jogador falando */
+  --dm-purple: #9C27B0;               /* Roxo - mestre IA falando */
+  --npc-gold: #FFD700;                 /* Dourado - NPC falando */
+  --npc-green: #4CAF50;                /* Verde - NPC alternativo */
+  
+  /* Efeitos */
+  --glow-intensity: 0.6;               /* Intensidade do brilho */
+  --shadow-depth: 0.3;                 /* Profundidade de sombras */
+  --border-gold: rgba(212, 175, 55, 0.8); /* Borda dourada */
+  --shadow-medium: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+}

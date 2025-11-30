@@ -1,0 +1,28 @@
+﻿# YOUNG GOLD DRAGON - Animation Prompts (9 Frames)
+
+## Frame 1 - Noble Drake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, medium-sized gold dragon with brilliant metallic scales, wise eyes, regal bearing. Viewed from top-down angle (80-90 degrees), standing on circular mountain peak base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gold and white tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Majestic Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, head raised, roaring majestically, wings spread. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with divine emphasis, detailed roar, strong regal silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Soar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, flying gracefully, wings outstretched. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with flight motion, detailed soaring, strong flying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, soaring, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, biting with righteous fury. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Fire Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, exhaling cone of fire. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fire effect, detailed breath weapon, strong elemental silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, breath attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, striking with golden claws. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed strike action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Weakening Breath
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, exhaling weakening gas. Viewed from top-down angle (80-90 degrees), breath weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gas effect, detailed breath weapon, strong tactical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, weakening breath, physical tabletop game piece aesthetic.
+
+## Frame 8 - Meditate
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, sitting in meditation pose, serene. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed meditation, strong wise silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, meditating idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, young gold dragon character, medium-sized gold dragon with brilliant metallic scales, wise eyes, regal bearing. Viewed from top-down angle (80-90 degrees), standing on circular mountain peak base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gold and white tones, detailed scale texture readable from above, strong dragon silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

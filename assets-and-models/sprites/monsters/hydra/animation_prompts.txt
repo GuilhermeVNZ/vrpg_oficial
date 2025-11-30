@@ -1,0 +1,28 @@
+﻿# HYDRA - Animation Prompts (9 Frames)
+
+## Frame 1 - Many Headed Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, massive reptilian body with five serpentine heads on long necks. Viewed from top-down angle (80-90 degrees), coiled on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark green and brown tones, detailed scale texture readable from above, strong multi-headed silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Heads Rise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, all five heads rising up alert, necks extending, eyes focused. Viewed from top-down angle (80-90 degrees), alert behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with neck emphasis, detailed head positioning, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, alert stance, physical tabletop game piece aesthetic.
+
+## Frame 3 - Hiss
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, all heads hissing in unison, mouths open showing fangs. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed hissing, strong menacing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hissing, physical tabletop game piece aesthetic.
+
+## Frame 4 - Multi-Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, three heads striking forward simultaneously to bite different targets. Viewed from top-down angle (80-90 degrees), melee attack (multiattack), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with multiple strikes, detailed bite actions, strong multi-striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, multi-bite attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Head Severed
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, one head cut off, stump bleeding, other heads recoiling. Viewed from top-down angle (80-90 degrees), damage taken, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with wound focus, detailed injury, strong wounded silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, severed head, physical tabletop game piece aesthetic.
+
+## Frame 6 - Regeneration
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, two new heads growing from severed stump, rapidly regenerating. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with growth effect, detailed regeneration, strong growing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, regenerating heads, physical tabletop game piece aesthetic.
+
+## Frame 7 - Tail Sweep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, massive tail sweeping in wide arc while heads distract. Viewed from top-down angle (80-90 degrees), melee attack (tail), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sweep motion, detailed tail strike, strong sweeping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tail sweep, physical tabletop game piece aesthetic.
+
+## Frame 8 - Heads Argue
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, heads turned toward each other, snapping and hissing at one another. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with comedic focus, detailed head interaction, strong conflicted silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, arguing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, hydra character, massive reptilian body with five serpentine heads on long necks. Viewed from top-down angle (80-90 degrees), coiled on circular swamp base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with dark green and brown tones, detailed scale texture readable from above, strong multi-headed silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+# BONE NAGA - Animation Prompts (9 Frames)
+
+## Frame 1 - Skeletal Serpent
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, large skeletal snake with human-like skull head, ancient bones, glowing eye sockets. Viewed from top-down angle (80-90 degrees), standing on circular crypt floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale bone and green tones, detailed skeletal texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Rattle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, ribs rattling together, head swaying hypnotically, tail tip twitching like a rattlesnake. Viewed from top-down angle (80-90 degrees), intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying sound (implied), detailed bone movement, strong awakening horror silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Spell Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, rearing up high, mouth opening, necrotic magic gathering in throat/hands (if any, usually mouth), runes glowing on bones. Viewed from top-down angle (80-90 degrees), preparing spell, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on skull, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Bite Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, striking forward with lightning speed, jaws snapping shut, poison dripping. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Necrotic Bolt
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, spitting bolt of green necrotic energy, recoil rippling down spine. Viewed from top-down angle (80-90 degrees), spell attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive magic effects, detailed magic manifestation, strong caster silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, spell attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, coiling back, head lowering, magic fading, bones settling into place. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Guarding
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, circling a specific spot on the base (treasure/grave), watching all directions, alert. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong guardian silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, guarding idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Dormant
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, coiled tightly in a pile of bones, skull resting on top, looking like inanimate remains. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong camouflaged silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, bone naga character, large skeletal snake with human-like skull head, ancient bones, glowing eye sockets. Viewed from top-down angle (80-90 degrees), standing on circular crypt floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with pale bone and green tones, detailed skeletal texture readable from above, strong undead silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

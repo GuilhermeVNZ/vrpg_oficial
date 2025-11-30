@@ -1,0 +1,28 @@
+﻿# ERINYES - Animation Prompts (9 Frames)
+
+## Frame 1 - Fallen Angel
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, beautiful female devil with red feathered wings, wearing polished plate armor, holding flaming longsword and rope. Viewed from top-down angle (80-90 degrees), standing on circular infernal rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and gold tones, detailed feather and armor texture readable from above, strong warrior silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle vigilant pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Wings Spread
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, red wings spreading wide, sword igniting with brighter flame, armor gleaming, hair flowing. Viewed from top-down angle (80-90 degrees), body tensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying light, detailed wing movement, strong awakening avenger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sword Point
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, pointing sword at enemy, wings beating once, face stern and beautiful, rope coiled at hip. Viewed from top-down angle (80-90 degrees), challenging, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed anatomical precision, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dive Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, crouching slightly, wings angled back for speed, sword held low, eyes locked on target. Viewed from top-down angle (80-90 degrees), preparing to charge, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action pose, strong dynamic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack prep, physical tabletop game piece aesthetic.
+
+## Frame 5 - Flaming Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, lunging forward with sword slash, trail of fire following blade, wings fully extended, rope swinging. Viewed from top-down angle (80-90 degrees), attack impact, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive fire effects, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sword attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, landing/recovering balance, wings folding slightly, sword returning to guard, fire dimming. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding fire, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Rope Check
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, adjusting rope coil, checking sword edge, wings rustling, disciplined movement. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong professional silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, tactical idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sentinel
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, standing tall, wings folded neatly, sword point down, expressionless watch. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient guard silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, erinyes devil character, beautiful female devil with red feathered wings, wearing polished plate armor, holding flaming longsword and rope. Viewed from top-down angle (80-90 degrees), standing on circular infernal rock base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with red and gold tones, detailed feather and armor texture readable from above, strong warrior silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle vigilant pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,32 @@
+{
+  "mcpServers": {
+    "synap": {
+      "command": "python",
+      "args": ["G:\\vrpg\\vrpg-client\\synap-mcp-simple.py"],
+      "cwd": "G:\\vrpg\\vrpg-client"
+    },
+    "vectorizer": {
+      "command": "python",
+      "args": ["G:\\vrpg\\vrpg-client\\vectorizer-mcp.py"],
+      "cwd": "G:\\vrpg\\vrpg-client"
+    },
+    "context7": {
+      "command": "python",
+      "args": ["G:\\vrpg\\vrpg-client\\context7-mcp.py"],
+      "cwd": "G:\\vrpg\\vrpg-client",
+      "env": {
+        "CONTEXT7_API_KEY": "${CONTEXT7_API_KEY}"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+

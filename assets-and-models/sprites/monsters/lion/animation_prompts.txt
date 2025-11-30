@@ -1,0 +1,28 @@
+﻿# LION - Animation Prompts (9 Frames)
+
+## Frame 1 - King of Beasts
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, majestic big cat with golden mane, powerful build, sharp claws. Viewed from top-down angle (80-90 degrees), standing on circular savanna base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gold and tan tones, detailed fur and mane texture readable from above, strong regal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Roar
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, head raised, mouth open in mighty roar, mane bristling. Viewed from top-down angle (80-90 degrees), vocalization/intimidation, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sound waves, detailed roar, strong commanding silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, roaring, physical tabletop game piece aesthetic.
+
+## Frame 3 - Pounce Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, crouching low, haunches coiled, ready to spring. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tension, detailed crouch, strong stalking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing pounce, physical tabletop game piece aesthetic.
+
+## Frame 4 - Pounce
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, leaping through air with all four paws extended, claws out. Viewed from top-down angle (80-90 degrees), melee attack (pounce), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed pounce action, strong leaping silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, pounce attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, jaws clamping down on prey's neck, powerful bite. Viewed from top-down angle (80-90 degrees), melee attack (bite), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with jaw focus, detailed bite action, strong biter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Claw Rake
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, raking with front claws, tearing motion. Viewed from top-down angle (80-90 degrees), melee attack (claws), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with claw emphasis, detailed rake action, strong raking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, claw attack, physical tabletop game piece aesthetic.
+
+## Frame 7 - Stalk
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, moving low through grass, stalking prey silently. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth focus, detailed stalking, strong hunter silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, stalking, physical tabletop game piece aesthetic.
+
+## Frame 8 - Laze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, lying down in sun, yawning lazily, tail swishing. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed resting, strong relaxed silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, lazing idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, lion character, majestic big cat with golden mane, powerful build, sharp claws. Viewed from top-down angle (80-90 degrees), standing on circular savanna base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with gold and tan tones, detailed fur and mane texture readable from above, strong regal silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

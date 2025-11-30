@@ -1,0 +1,8 @@
+# Clippy configuration for VRPG Client
+msrv = "1.70"
+too-many-arguments-threshold = 7
+too-many-lines-threshold = 1000
+type-complexity-threshold = 300
+
+
+

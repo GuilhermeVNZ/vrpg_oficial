@@ -1,0 +1,28 @@
+# GREY SLAAD - Animation Prompts (9 Frames)
+
+## Frame 1 - Grey Death
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, lean muscular bipedal frog-like monster with grey skin, holding greatsword, executioner hood (optional/implied). Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and purple tones, detailed muscle texture readable from above, strong warrior silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Blade Focus
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, gripping sword tighter, stance widening, eyes glowing faint white, magic aura forming. Viewed from top-down angle (80-90 degrees), power building, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying focus, detailed energy movement, strong awakening soldier silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sword Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, raising greatsword to high guard, muscles rippling, face impassive. Viewed from top-down angle (80-90 degrees), preparing weapon, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on blade, detailed weapon texture, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Execution Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, swinging sword down in vertical chop, trail of grey energy, body following through. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Teleport
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, fading out of existence, edges blurring into mist, sword remaining visible longest. Viewed from top-down angle (80-90 degrees), movement ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive mist effects, detailed vanishing, strong mysterious silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, teleport, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, returning to stance after strike/teleport, sword ready, mist clearing. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding mist, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Blade Clean
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, wiping sword blade on arm, inspecting edge, cold professionalism. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong professional silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cleaning idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Sentinel
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, standing perfectly still, sword point on ground, hands on pommel, watching. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient guard silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, grey slaad character, lean muscular bipedal frog-like monster with grey skin, holding greatsword, executioner hood (optional/implied). Viewed from top-down angle (80-90 degrees), standing on circular limbo chaos base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and purple tones, detailed muscle texture readable from above, strong warrior silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle disciplined pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

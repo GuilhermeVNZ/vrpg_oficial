@@ -1,0 +1,12 @@
+﻿{
+    "text":  "spaço do\nhexágonos para determinar quais alvos em potencial inimigo, eles flanqueiam o inimigo e cada um deles tem\nestão na área e quais não estão. vantagem nas jogadas de ataque corpo-a-corpo feitas\nEscolha uma interseção de quadrados ou hexágonos contra ele.\ncomo ponto de origem de uma área de efeito, então siga as Quando estiver em dúvida sobre se duas criaturas\nregras normalmente. Se uma área de efeito for circular e estão flanqueando um inimigo na matriz, trace uma linha\ncobrir, pelo menos metade de um quadrado, ela afeta esse imaginaria entre os centros dos espaços das criaturas. Se\nquadrado. a linha passar por lados ou cantos opostos do espaço do\ninimigo, ele está sendo flanqueado.\nLINHA DE VISÃO Flanqueando em Hexágonos. Quando uma criatura\nPara determinar precisamente se existe linha de visão e, pelo menos, um de seus aliados estão adjacentes a um\nentre dois espaços, escolha uma quina de um espaço e inimigo e em lados opostos do espaço do inimigo, eles\ntrace uma linha imaginaria dessa quina até qualquer flanqueiam o inimigo e cada um deles tem vantagem nas\nparte do outro espaço. Se, pelo menos, uma dessas linhas jogadas de ataque contra ele. Em hexágonos, conte ao\nnão passar por cima ou tocar um objeto ou efeito que redor do inimigo de uma criatura até seu aliado. Contra\nbloqueie a visão – como uma parede de pedra, uma uma criatura Média ou menor, os aliados flanqueiam se\ncortina grossa ou nuvem de neblina densa – então existe existirem 2 hexágonos entre eles. Contra uma criatura\nlinha de visão. Grande, os aliados flanqueiam se existirem 4 hexágonos\nentre eles. Contra uma criatura Enorme, precisam haver,\nCOBERTURA\npelo menos, 6 hexágonos entre eles.\nPara determinar se um alvo tem cobertura contra um\nataque ou outro efeito em uma matriz, escolha uma quina REGRA OPCIONAL: DIAGONAIS\ndo espaço do atacante ou do ponto de origem de uma área O Livro do Jogador apresenta um método simples de\nde efeito. Então trace uma linha dessa quina para cada contar o movimento ",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  491,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

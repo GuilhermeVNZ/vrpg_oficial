@@ -1,0 +1,28 @@
+# TROGLODYTE - Animation Prompts (9 Frames)
+
+## Frame 1 - Stench Lizard
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, reptilian humanoid with chameleon-like skin, holding stone club and javelin. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and green tones, detailed scale texture readable from above, strong primitive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hunched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Stench Aura
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, skin glands secreting oil, visible green fumes rising, looking aggressive. Viewed from top-down angle (80-90 degrees), intimidation/stench ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying toxicity, detailed fume effect, strong repulsive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Club Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, raising stone club high, claws flexing, mouth hissing. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on weapon, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Club Smash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, smashing club down, savage and unrefined motion. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong brute silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Multi-Attack
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, biting and clawing in a frenzy, saliva flying. Viewed from top-down angle (80-90 degrees), secondary attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong feral silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bite/claw attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, panting, stepping back, wiping mouth, skin shifting color slightly. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Camouflage
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, pressing against a rock wall (implied), skin changing color to match grey stone. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong stealth silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, blending idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Crouching
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, crouching low to the ground, sniffing the air, looking wary. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lurking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, troglodyte character, reptilian humanoid with chameleon-like skin, holding stone club and javelin. Viewed from top-down angle (80-90 degrees), standing on circular cavern floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with grey and green tones, detailed scale texture readable from above, strong primitive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle hunched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

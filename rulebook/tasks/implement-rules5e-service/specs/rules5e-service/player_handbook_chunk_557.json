@@ -1,0 +1,12 @@
+﻿{
+    "text":  " ou\nrealiza um ataque à distância com magia. Se o ataque superior, a cura aumenta em 1d4 para cada nível do\natingir, a criatura sofre 3d8 de dano do tipo escolhido. espaço acima do 3°.\n266\n\n\n# Pagina 266\n\nPALAVRA DE PODER ATORDOAR Componentes: V\n8° nível de encantamento Duração: Instantânea\nTempo de Conjuração: 1 ação\nAlcance: 18 metros Você profere uma palavra divina, imbuída com o poder\nComponentes: V que moldou o mundo na aurora da criação. Escolha\nDuração: Instantânea qualquer quantidade de criaturas que você possa ver\ndentro do alcance. Cada criatura que puder ouvir você\nVocê pronuncia uma palavra de poder que pode oprimir a deve realizar um teste de resistência de Carisma. Ao\nmente de uma criatura que você possa ver, dentro do falhar na resistência, uma criatura sofre um efeito\nalcance, deixando-a estupefata. Se o alvo escolhido estiver baseado nos seus pontos de vida atuais:\ncom 150 pontos de vida ou menos, ele ficará atordoado. Do\ncontrário, essa magia não produz efeito.  50 pontos de vida ou menos: surda por 1 minuto\nO alvo atordoado deve realizar um teste de resistência  40 pontos de vida ou menos: surda e cega por 10\nde Constituição no final de cada um dos turnos dele. Se minutos\nobtiver sucesso na resistência, o efeito de atordoamento  30 pontos de vida ou menos: surda, cega e atordoada\ntermina. por 1 hora\n 20 pontos de vida ou menos: morta instantaneamente\nPALAVRA DE PODER CURAR Independentemente dos seus pontos de vida atuais,\n9° nível de evocação um celestial, corruptor, elemental ou fada que falhar na\nTempo de Conjuração: 1 ação sua resistência é obrigado a voltar para o plano de origem\nAlcance: Toque dele (se já não for aqui) e não pode retornar para o plano\nComponentes: V, S atual por 24 horas através de nenhum meio inferior à\nDuração: Instantânea magia desejo.\nUma onda de energia curativa inunda a criatura tocada.\nPARAR O TEMPO\nO alvo recupera todos os seus pontos de vida. Se a\n9° nível de transmutação\ncriatura estiver enfeitiçada, amedrontada",
+    "metadata":  {
+                     "total_chunks":  653,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-livro-do-jogador-fundo-branco-biblioteca-elfica.pdf",
+                     "chunk_index":  557,
+                     "document_type":  "player_handbook",
+                     "title":  "Livro do Jogador"
+                 }
+}

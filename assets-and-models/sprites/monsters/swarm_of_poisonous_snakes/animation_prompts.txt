@@ -1,0 +1,28 @@
+﻿# SWARM OF POISONOUS SNAKES - Animation Prompts (9 Frames)
+
+## Frame 1 - Serpent Mass
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, dozens of venomous snakes slithering together in writhing mass. Viewed from top-down angle (80-90 degrees), coiled on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Tongue Flick
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, snakes flicking forked tongues, tasting air. Viewed from top-down angle (80-90 degrees), sensing, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with tongue focus, detailed sensing, strong alert silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, sensing, physical tabletop game piece aesthetic.
+
+## Frame 3 - Slither
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, snakes undulating forward in serpentine wave. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed slithering, strong flowing silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, slithering, physical tabletop game piece aesthetic.
+
+## Frame 4 - Engulf
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, snakes surrounding and striking victim (implied). Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with attack focus, detailed engulfing, strong attacking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, engulf attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Bite Frenzy
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, individual snakes striking with fangs, injecting venom. Viewed from top-down angle (80-90 degrees), sustained attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with venom emphasis, detailed biting, strong frenzied silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, biting frenzy, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recoil
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, snakes pulling back after strike. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with recoil motion, detailed recoiling, strong defensive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, recoiling, physical tabletop game piece aesthetic.
+
+## Frame 7 - Reform
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, snakes regrouping into tight coil. Viewed from top-down angle (80-90 degrees), recovery, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with regrouping motion, detailed reformation, strong cohesive silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, reforming, physical tabletop game piece aesthetic.
+
+## Frame 8 - Bask
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, snakes lying still in sun, warming. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed basking, strong resting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, basking idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, swarm of poisonous snakes character, dozens of venomous snakes slithering together in writhing mass. Viewed from top-down angle (80-90 degrees), coiled on circular jungle floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed scale texture readable from above, strong swarm silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle coiled pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

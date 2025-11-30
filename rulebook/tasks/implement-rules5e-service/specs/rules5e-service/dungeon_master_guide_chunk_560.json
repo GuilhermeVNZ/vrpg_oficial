@@ -1,0 +1,12 @@
+﻿{
+    "text":  "b Ataque de Mergulho; ação de ataque com garras; deslocamento 6 m, voo 15 m,\nfala Auran\nAnão* +2 For ou +1 Sab, +2 Con Resiliência Anã, Especialização em Rochas; deslocamento 7,5 m; visão no escuro\n18 m; fala Comum e Anão\nBullywug –2 Int, –2 Car Anfíbio, Falar com Sapos e Rãs, Camuflagem Pantanosa, Salto Parado;\ndeslocamento 6 m, natação 12 m; fala Bullywug\nDraconato* +2 For, +1 Car Arma de Sopro (use o nível de desafio ao invés do nível para determinar o dano),\nResistência a Dano, Ancestralidade Dracônica; fala Comum e Dracônico\nDrow* +2 Des, +1 Car Ancestralidade Feérica, característica de Conjuração Inata do drow, Sensibilidade à\nLuz Solar; visão no escuro 36 m; fala Élfico e Subcomum\nElfo* +2 Des, +1 Int ou Sab Ancestralidade Feérica, Transe; visão no escuro 18 m; proficiência na perícia\nPercepção; fala Comum e Élfico\nEsqueleto +2 Des, –4 Int, –4 Car Vulnerável a dano de concussão; imune a dano de veneno e exaustão; não pode\nser envenenado; visão no escuro 18 m; não consegue falar, mas compreende os\nidiomas que conhecia em vida\nGnoll +2 For, –2 Int Frenesi; visão no escuro 18 m; fala Gnoll\nGnomo* +2 Int, +1 Des ou Con Esperteza Gnômica; tamanho Pequeno; deslocamento 7,5 m; visão no escuro 18 m;\nfala Comum e Gnômico\nGnomo, profundezas +1 For, +2 Des Esperteza Gnômica, Conjuração Inata, Especialização em Rochas; tamanho Pequeno;\ndeslocamento 6 m; visão no escuro 36 m; fala Gnômico, Terran e Subcomum\nGoblin –2 For, +2 Des Escapada Ágil; tamanho Pequeno; visão no escuro 18 m; fala Comum e Goblin\nGrimlock +2 For, –2 Car Sentido Cego, Audição e Olfato Aguçados, Camuflagem Rochosa; não pode ser\ncegado; percepção às cegas 9 m ou 3 m enquanto estiver surdo (cego além desse\nraio); fala Subcomum\nHalfling* +2 Des, +1 Con ou Car Bravura, Agilidade Halfling, Sortudo; tamanho Pequeno; deslocamento 7,5 m; fala\nComum e Halfling\nHobgoblin Nenhum Vantagem Marcial; visão no escuro 18 m; fala Comum e Goblin\nKenku +2 Des Emboscador, Imitar; compreende Auran e Comum, mas fala apenas a",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  560,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

@@ -1,0 +1,12 @@
+﻿{
+    "text":  "um, Dracônico\nIdiomas Comum, Dracônico\nNível de Desafio 6 (2.300 XP)\nNível de Desafio 13 (10.000 XP)\nAndar no Gelo. O dragão pode se mover e escalar superfícies\nAndar no Gelo. O dragão pode se mover e escalar superfícies congeladas sem precisar realizar um teste de habilidade. Além\ncongeladas sem precisar realizar um teste de habilidade. Além disso, terreno difícil composto por gelo ou neve não custa\ndisso, terreno difícil composto por gelo ou neve não custa movimento extra para ele.\nmovimento extra para ele.\nAÇÕES\nResistência Lendária (3/Dia). Se o dragão falhar em um teste de\nresistência, ele pode escolher obter sucesso, no lugar.\nAtaques Múltiplos. O dragão realiza três ataques: um com sua\nmordida e dois com suas garras.\nAÇÕES\nMordida. Ataque Corpo-a-Corpo com Arma: +7 para atingir,\nAtaques Múltiplos. O dragão pode usar sua Presença Aterradora,\nalcance 3 m, um alvo. Acerto: 15 (2d10 + 4) de dano perfurante\nele pode então, realizar três ataques: um com sua mordida e dois\nmais 4 (1d8) de dano de frio.\ncom suas garras.\nMordida. Ataque Corpo-a-Corpo com Arma: +11 para atingir, Garra. Ataque Corpo-a-Corpo com Arma: +7 para atingir, alcance\nalcance 3 m, um alvo. Acerto: 17 (2d10 + 6) de dano perfurante 1,5 m, um alvo. Acerto: 11 (2d6 + 4) de dano cortante.\nmais 4 (1d8) de dano de frio.\nSopro Congelante (Recarrega 5–6). O dragão pode expelir uma\nGarra. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance explosão gélida num cone de 9 metros. Cada criatura na área deve\n1,5 m, um alvo. Acerto: 13 (2d6 + 6) de dano cortante. realiza um teste de resistência de Constituição CD 15, sofrendo 45\n(10d8) de dano de frio se falhar na resistência, ou metade desse\nCauda. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance\ndano caso obtenha sucesso.\n4,5 m, um alvo. Acerto: 15 (2d8 + 6) de dano de concussão.\nPresença Aterradora. Cada criatura, à escolha do dragão, que\nDRAGÃO BRANCO FILHOTE\nesteja a até 36 metros do dragão e esteja ciente disso, deve ser\nbem sucedida num teste",
+    "metadata":  {
+                     "total_chunks":  638,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "old-dd-5e-manual-dos-monstros-biblioteca-elfica.pdf",
+                     "chunk_index":  162,
+                     "document_type":  "monster_manual",
+                     "title":  "Manual dos Monstros"
+                 }
+}

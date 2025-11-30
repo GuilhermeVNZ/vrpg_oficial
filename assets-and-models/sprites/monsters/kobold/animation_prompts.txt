@@ -1,0 +1,28 @@
+﻿# KOBOLD - Animation Prompts (9 Frames)
+
+## Frame 1 - Tunnel Rat
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, small scaly reptilian humanoid with dog-like snout and horns, wearing ragged leather scraps, holding a rusty dagger and a sling. Viewed from top-down angle (80-90 degrees), standing on circular dirt floor base with pebbles, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with torchlight orange and brown tones, detailed scale texture readable from above, strong cowardly but cunning silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle nervous pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Nervous Twitch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, head jerking to the side, tail twitching, gripping dagger tighter, eyes darting around. Viewed from top-down angle (80-90 degrees), alert behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with shifting shadows, detailed nervous movement, strong paranoid silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for danger, physical tabletop game piece aesthetic.
+
+## Frame 3 - Sling Load
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, placing a stone into the sling, spinning it slowly at side, body crouching low. Viewed from top-down angle (80-90 degrees), preparing ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on weapon, detailed anatomical tension, strong skirmisher silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Dagger Thrust
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, lunging forward with rusty dagger, mouth open in a yip, tail balancing the lunge. Viewed from top-down angle (80-90 degrees), peak of melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong desperate silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dagger attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Trap Set
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, kneeling quickly to fiddle with a tripwire or small mechanism on the ground, looking sneaky. Viewed from top-down angle (80-90 degrees), special action, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with obscured face, detailed mechanical interaction, strong trap-maker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, setting trap, physical tabletop game piece aesthetic.
+
+## Frame 6 - Scuttle Back
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, jumping back in fear, arms raised slightly to shield face, tail tucked. Viewed from top-down angle (80-90 degrees), reaction/dodge, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with defensive posture, detailed retreat motion, strong cowardly silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dodging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Shiny Object
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, holding up a stolen gold coin or gem, admiring it greedily, ignoring surroundings. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with glint on object, detailed character acting, strong greedy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, greedy idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Cower
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, curling into a ball, covering head with arms, tail wrapped around, trying to look small. Viewed from top-down angle (80-90 degrees), almost fully at rest (in fear), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed submissive motion, strong pathetic silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, fear idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, kobold character, small scaly reptilian humanoid with dog-like snout and horns, wearing ragged leather scraps, holding a rusty dagger and a sling. Viewed from top-down angle (80-90 degrees), standing on circular dirt floor base with pebbles, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with torchlight orange and brown tones, detailed scale texture readable from above, strong cowardly but cunning silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle nervous pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

@@ -1,0 +1,28 @@
+# GOBLIN01 - Animation Prompts (9 Frames)
+
+## Frame 1 - Sneaky Greenskin
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, small green-skinned humanoid with pointed ears, yellow eyes, holding scimitar and shortbow. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed skin texture readable from above, strong goblin silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouched pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Cackle
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, cackling maniacally, showing sharp teeth. Viewed from top-down angle (80-90 degrees), vocalization, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with mischief emphasis, detailed cackling, strong mischievous silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, cackling, physical tabletop game piece aesthetic.
+
+## Frame 3 - Scurry
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, running quickly on short legs, hunched over. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with scurry motion, detailed scurrying, strong fast silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scurrying, physical tabletop game piece aesthetic.
+
+## Frame 4 - Scimitar Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, slashing with scimitar in wild arc. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with weapon focus, detailed slash action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, scimitar attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Shortbow Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, firing shortbow with poor aim. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bow focus, detailed shot action, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bow attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Nimble Escape
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, dodging and weaving, using nimble escape ability. Viewed from top-down angle (80-90 degrees), special ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with evasion motion, detailed dodging, strong agile silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dodging, physical tabletop game piece aesthetic.
+
+## Frame 7 - Hide
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, crouching behind rock (implied), hiding. Viewed from top-down angle (80-90 degrees), stealth, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with stealth emphasis, detailed hiding, strong sneaky silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, hiding, physical tabletop game piece aesthetic.
+
+## Frame 8 - Loot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, rummaging through bag, looking for treasure. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed looting, strong greedy silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, looting idle, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, goblin character, small green-skinned humanoid with pointed ears, yellow eyes, holding scimitar and shortbow. Viewed from top-down angle (80-90 degrees), standing on circular cave floor base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and brown tones, detailed skin texture readable from above, strong goblin silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle crouched pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

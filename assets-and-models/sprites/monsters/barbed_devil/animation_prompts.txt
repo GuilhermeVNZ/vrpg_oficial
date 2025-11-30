@@ -1,0 +1,28 @@
+﻿# BARBED DEVIL - Animation Prompts (9 Frames)
+
+## Frame 1 - Spiked Sentinel
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, humanoid devil covered in sharp barbs and spines, long tail with spikes, glowing eyes, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular infernal iron base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic and red tones, detailed barb texture readable from above, strong defensive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle vigilant pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Barbs Bristling
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, spines extending further, body tensing, tail lashing, claws flexing. Viewed from top-down angle (80-90 degrees), defense activating, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying sharpness, detailed barb movement, strong awakening danger silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Hurl Flame Prep
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, hands gathering fire, barbs glowing with heat, mouth opening to screech, tail raised. Viewed from top-down angle (80-90 degrees), preparing ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright fire highlight, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Flame Throw
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, throwing ball of fire, body following through, barbs vibrating, eyes blazing. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Grapple
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, arms wide to embrace (impale), barbs fully extended, tail striking forward, mouth roaring. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive motion, detailed action, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, grapple attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, pulling back, fire fading, barbs settling slightly, checking surroundings. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding fire, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Alert Look
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, turning head sharply, eyes scanning, tail twitching, nervous energy. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong paranoid silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, alert idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Crouch
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, crouching low, barbs still dangerous, tail curled around feet, watching. Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong patient guard silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, barbed devil character, humanoid devil covered in sharp barbs and spines, long tail with spikes, glowing eyes, alert stance. Viewed from top-down angle (80-90 degrees), standing on circular infernal iron base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with metallic and red tones, detailed barb texture readable from above, strong defensive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle vigilant pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

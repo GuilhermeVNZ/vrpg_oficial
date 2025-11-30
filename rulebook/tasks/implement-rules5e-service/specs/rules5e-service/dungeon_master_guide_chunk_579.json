@@ -1,0 +1,12 @@
+﻿{
+    "text":  ", 10 por\nde corredores na entrada da sua masmorra. Quando rolar\ncento de chance de ter uma porta secreta\npara uma área inicial aleatória, escolha uma das portas\n11–12 Linha reta de 6 m, então a passagem vira à direita e\nou passagens levando para a área inicial como a entrada\ncontinua por 3 m\nda masmorra como um todo.\n13–14 Linha reta de 6 m, então a passagem vira à esquerda e\nQuando tiver escolhido a entrada, role na tabela\ncontinua por 3 m\napropriada para cada passagem ou porta levando para\n15–19 Câmara (role na tabela Câmara)\nfora da área inicial. Cada passagem se estende 3 metros\n20 Escadas* (role na tabela Escadas)\nalém da área inicial. Após esse ponto, verifique na tabela\n* A existência de escadas pressupõe uma masmorra com mais de\nPassagem para cada passagem para determinar o que\num nível. Se você não quer uma masmorra multinível, role\nexiste além. Use a tabela Atrás de uma Porta para\nnovamente esse resultado, use as escadas como uma entrada\ndeterminar o que existe atrás de portas e portas secretas.\nalternativa, ou substitua-a com outra característica, à sua escolha.\nÁREA INICIAL\nLARGURA DA PASSAGEM\nd10 Configuração\nd12/d20 Largura\n1 Quadrada, 6 x 6 m; passagem em cada parede\n1–2 1,5 m\n2 Quadrada, 6 x 6 m; porta em duas paredes, passagem na\n3–12 3 m\nterceira parede\n13–14 6 m\n3 Quadrada, 12 x 12 m; porta em três paredes\n15–16 9 m\n4 Retangular, 24 x 6 m, com fileiras de colunas no meio;\n17 12 m, com fileira de colunas embaixo do meio\nduas passagens levando para cada parede longa, portas\n18 12 m, com fileira dupla de colunas\nem cada parede curta\n19 12 m de largura, 6 m de altura\n5 Retangular, 6 x 12 m; passagem em cada parede\n20 12 m de largura, 6 m de altura, galeria de 3 m acima\n6 Circular, 12 m de diâmetro; uma passagem em cada\ndo solo dá acesso ao nível acima\ndireção cardinal\n7 Circular, 12 m de diâmetro; uma passagem em cada\ndireção cardinal; poço no meio da sala (pode levar para o PORTAS\nnível inferior) Sempre que uma tabela rolada indicar uma porta, role n",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  579,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}

@@ -1,0 +1,28 @@
+﻿# MEDUSA - Animation Prompts (9 Frames)
+
+## Frame 1 - Cursed Beauty
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, elegant female humanoid in fine robes, hair composed of writhing venomous snakes, holding a longbow. Viewed from top-down angle (80-90 degrees), standing on circular tiled floor base with cracked statues, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and gold tones, detailed snake movement readable from above, strong tragic villain silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Petrifying Gaze
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, lifting her head and opening eyes wide with blinding grey light, snakes flaring out aggressively. Viewed from top-down angle (80-90 degrees), magic ability (petrification), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with eye glow, detailed magic effect, strong magical silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, gaze attack, physical tabletop game piece aesthetic.
+
+## Frame 3 - Snake Strike
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, leaning forward as the snakes on her head lunge in unison to bite, face twisted in anger. Viewed from top-down angle (80-90 degrees), melee attack (hair), 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with sharp motion, detailed snake action, strong striker silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, snake hair attack, physical tabletop game piece aesthetic.
+
+## Frame 4 - Longbow Shot
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, drawing the string of a fine longbow to her cheek, aiming with deadly precision. Viewed from top-down angle (80-90 degrees), ranged attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with focus on weapon, detailed archery form, strong archer silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, bow attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Dagger Stab
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, drawing a curved dagger from her belt and stabbing downward, robes swirling. Viewed from top-down angle (80-90 degrees), melee attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with motion blur, detailed weapon strike, strong assassin silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, dagger attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Imperious Command
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, pointing a finger forward imperiously, shouting a command, snakes hissing in direction of point. Viewed from top-down angle (80-90 degrees), social/interaction, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with commanding presence, detailed character acting, strong leader silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, commanding, physical tabletop game piece aesthetic.
+
+## Frame 7 - Graceful Turn
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, turning smoothly, robes flowing around her, hand resting on hip. Viewed from top-down angle (80-90 degrees), movement, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with fabric physics, detailed cloth movement, strong elegant silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, turning, physical tabletop game piece aesthetic.
+
+## Frame 8 - Admiring Art
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, touching the face of a petrified victim (statue bust on base) with a look of sorrow or pride. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed object interaction, strong emotional silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, admiring statue, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, medusa character, elegant female humanoid in fine robes, hair composed of writhing venomous snakes, holding a longbow. Viewed from top-down angle (80-90 degrees), standing on circular tiled floor base with cracked statues, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with green and gold tones, detailed snake movement readable from above, strong tragic villain silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle standing pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

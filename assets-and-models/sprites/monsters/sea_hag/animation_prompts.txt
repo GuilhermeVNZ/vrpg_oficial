@@ -1,0 +1,28 @@
+﻿# SEA HAG - Animation Prompts (9 Frames)
+
+## Frame 1 - Ocean Horror
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, grotesque hag with slimy pale skin, seaweed hair, fish eyes, wearing nets and shells. Viewed from top-down angle (80-90 degrees), standing on circular wet rock/coral base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with teal and grey tones, detailed slime and scale texture readable from above, strong repulsive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle ugly pose, physical tabletop game piece aesthetic.
+
+## Frame 2 - Horrific Appearance
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, revealing true face fully, mouth opening impossibly wide, eyes bulging, aura of fear expanding. Viewed from top-down angle (80-90 degrees), fear ability, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intensifying horror, detailed shockwave effect, strong terrifying silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, preparing for battle, physical tabletop game piece aesthetic.
+
+## Frame 3 - Claw Raise
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, raising dripping claws, body hunched, seaweed hair writhing like snakes. Viewed from top-down angle (80-90 degrees), preparing attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with bright highlight on wet skin, detailed anatomical tension, strong threatening silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack preparation, physical tabletop game piece aesthetic.
+
+## Frame 4 - Rending Slash
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, slashing down with claws, water spraying from movement, mouth snapping shut. Viewed from top-down angle (80-90 degrees), peak of attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with intense focus, detailed action, strong powerful silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, peak of attack, physical tabletop game piece aesthetic.
+
+## Frame 5 - Death Glare
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, leaning forward, eyes glowing with death magic, pointing finger, target withering (implied). Viewed from top-down angle (80-90 degrees), special attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with explosive necrotic effects, detailed magic manifestation, strong overwhelming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, death glare attack, physical tabletop game piece aesthetic.
+
+## Frame 6 - Recovery
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, pulling back, wiping slime from face, seaweed settling, cackling silently. Viewed from top-down angle (80-90 degrees), recovering from attack, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with receding motion, detailed recovery motion, strong but calming silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, attack ending, physical tabletop game piece aesthetic.
+
+## Frame 7 - Grooming
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, picking a crab or fish out of hair and eating it, adjusting shell necklace. Viewed from top-down angle (80-90 degrees), idle behavior, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with soft shadows, detailed character acting, strong disgusting silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, eating idle, physical tabletop game piece aesthetic.
+
+## Frame 8 - Submerged
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, crouching low as if half-submerged in water, only eyes and hair visible above "surface". Viewed from top-down angle (80-90 degrees), almost fully at rest, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with minimal glow, detailed calming motion, strong lurking silhouette, 1:1 square aspect ratio, solid dark grey background NO CHECKERED PATTERN, nearly idle pose, physical tabletop game piece aesthetic.
+
+## Frame 9 - Complete Loop
+Tabletop RPG miniature, Dungeons and Dragons dark fantasy anime illustration, sea hag character, grotesque hag with slimy pale skin, seaweed hair, fish eyes, wearing nets and shells. Viewed from top-down angle (80-90 degrees), standing on circular wet rock/coral base, 2D painted illustration style with clean lines and cel-shading, high-contrast dramatic lighting with teal and grey tones, detailed slime and scale texture readable from above, strong repulsive silhouette, 1:1 square aspect ratio, fits entirely within frame, solid dark grey background NO CHECKERED PATTERN, idle ugly pose identical to Frame 1 for seamless loop, physical tabletop game piece aesthetic.

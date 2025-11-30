@@ -1,0 +1,289 @@
+/**
+ * Voice Interface HUD Styles
+ * 
+ * Estilos para o HUD de interface de voz com glassmorphism,
+ * utilizando os Design Tokens do VRPG Client.
+ */
+
+/* ========================================= */
+/* DESIGN TOKENS (Usando variáveis do VRPG) */
+/* ========================================= */
+
+:root {
+  /* Cores específicas do Voice HUD (baseadas nos tokens VRPG) */
+  --voice-bg-glass: rgba(20, 25, 40, 0.75); /* Fundo escuro translúcido */
+  --voice-border-glass: rgba(255, 255, 255, 0.15);
+  --voice-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  
+  /* Cores de estado (usando tokens VRPG) */
+  --voice-accent-listen: var(--vrpg-color-arcane-blue, #4A90E2); /* Azul Arcano */
+  --voice-accent-process: var(--vrpg-color-gold-primary, #D4AF37); /* Dourado */
+  --voice-accent-speak: var(--vrpg-color-arcane-glow, #9C27B0); /* Roxo */
+  
+  --voice-text-color: #ffffff;
+}
+
+/* ========================================= */
+/* CONTAINER PRINCIPAL DO HUD */
+/* ========================================= */
+
+.voice-hud-container {
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  /* Centraliza e prepara animação de entrada (deslocado para baixo) */
+  transform: translateX(-50%) translateY(100px);
+  
+  display: flex;
+  align-items: center;
+  gap: var(--vrpg-spacing-md, 20px);
+  padding: var(--vrpg-spacing-md, 16px) var(--vrpg-spacing-lg, 24px);
+  
+  /* Tamanho e forma */
+  min-width: 300px;
+  max-width: 90%;
+  border-radius: 50px; /* Forma de pílula */
+  
+  /* GLASSMORPHISM EFFECT (usando tokens VRPG) */
+  background: var(--vrpg-glass-background, var(--voice-bg-glass));
+  backdrop-filter: blur(var(--vrpg-glass-backdrop-blur, 16px)) saturate(var(--vrpg-glass-backdrop-saturate, 120%));
+  -webkit-backdrop-filter: blur(var(--vrpg-glass-backdrop-blur, 16px)) saturate(var(--vrpg-glass-backdrop-saturate, 120%));
+  border: 1px solid var(--vrpg-glass-border-gradient, var(--voice-border-glass));
+  box-shadow: var(--vrpg-glass-shadow-md, var(--voice-shadow));
+  
+  /* Estado inicial escondido */
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Efeito de mola suave */
+  z-index: 9999;
+}
+
+/* Classe para mostrar o HUD */
+.voice-hud-container.listening,
+.voice-hud-container.processing,
+.voice-hud-container.speaking {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+  pointer-events: all;
+}
+
+/* ========================================= */
+/* VISUALIZADOR DE ÁUDIO (WAVEFORM) */
+/* ========================================= */
+
+.voice-visualizer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  height: 30px;
+  width: 50px;
+}
+
+/* As barras individuais */
+.voice-visualizer span {
+  display: block;
+  width: 4px;
+  height: 10%; /* Altura inicial baixa */
+  background-color: var(--voice-accent-listen);
+  border-radius: 2px;
+  transition: background-color 0.3s ease;
+}
+
+/* ========================================= */
+/* ESTADOS & ANIMAÇÕES */
+/* ========================================= */
+
+/* --- Estado 1: Ouvindo (Padrão) --- */
+/* Animação de onda suave */
+@keyframes wave-listen {
+  0%, 100% { 
+    height: 15%; 
+    opacity: 0.5; 
+  }
+  50% { 
+    height: 100%; 
+    opacity: 1; 
+  }
+}
+
+/* Aplica a animação quando está no estado listening */
+.voice-hud-container.listening .voice-visualizer span {
+  background-color: var(--voice-accent-listen);
+  animation: wave-listen 1.2s ease-in-out infinite;
+}
+
+/* Adiciona atraso para criar o efeito de onda */
+.voice-hud-container.listening .voice-visualizer span:nth-child(1) { 
+  animation-delay: 0.0s; 
+}
+.voice-hud-container.listening .voice-visualizer span:nth-child(2) { 
+  animation-delay: 0.2s; 
+}
+.voice-hud-container.listening .voice-visualizer span:nth-child(3) { 
+  animation-delay: 0.4s; 
+}
+.voice-hud-container.listening .voice-visualizer span:nth-child(4) { 
+  animation-delay: 0.2s; 
+}
+.voice-hud-container.listening .voice-visualizer span:nth-child(5) { 
+  animation-delay: 0.0s; 
+}
+
+/* --- Estado 2: Processando (Thinking) --- */
+/* Animação de "loading" giratório */
+@keyframes wave-process {
+  0%, 100% { 
+    height: 30%; 
+    transform: translateY(0); 
+  }
+  50% { 
+    height: 70%; 
+    transform: translateY(-5px); 
+  }
+}
+
+.voice-hud-container.processing .voice-visualizer span {
+  background-color: var(--voice-accent-process);
+  /* Animação mais rápida e sincronizada */
+  animation: wave-process 0.6s ease-in-out infinite;
+}
+
+/* Remove o delay para eles pulsarem juntos ou em sequência diferente */
+.voice-hud-container.processing .voice-visualizer span:nth-child(1) { 
+  animation-delay: 0s; 
+}
+.voice-hud-container.processing .voice-visualizer span:nth-child(2) { 
+  animation-delay: 0.1s; 
+}
+.voice-hud-container.processing .voice-visualizer span:nth-child(3) { 
+  animation-delay: 0.2s; 
+}
+.voice-hud-container.processing .voice-visualizer span:nth-child(4) { 
+  animation-delay: 0.1s; 
+}
+.voice-hud-container.processing .voice-visualizer span:nth-child(5) { 
+  animation-delay: 0s; 
+}
+
+/* --- Estado 3: IA Falando (Speaking) --- */
+@keyframes wave-speak {
+  0%, 100% { 
+    height: 20%; 
+  }
+  50% { 
+    height: 90%; 
+  }
+}
+
+.voice-hud-container.speaking .voice-visualizer span {
+  background-color: var(--voice-accent-speak);
+  /* Animação mais vigorosa */
+  animation: wave-speak 0.5s linear infinite;
+}
+
+/* Delay para efeito de onda durante fala */
+.voice-hud-container.speaking .voice-visualizer span:nth-child(1) { 
+  animation-delay: 0.0s; 
+}
+.voice-hud-container.speaking .voice-visualizer span:nth-child(2) { 
+  animation-delay: 0.1s; 
+}
+.voice-hud-container.speaking .voice-visualizer span:nth-child(3) { 
+  animation-delay: 0.2s; 
+}
+.voice-hud-container.speaking .voice-visualizer span:nth-child(4) { 
+  animation-delay: 0.1s; 
+}
+.voice-hud-container.speaking .voice-visualizer span:nth-child(5) { 
+  animation-delay: 0.0s; 
+}
+
+/* ========================================= */
+/* TEXTO E BOTÕES */
+/* ========================================= */
+
+.voice-status-text {
+  flex-grow: 1; /* Ocupa o espaço restante */
+  color: var(--voice-text-color);
+  font-family: var(--vrpg-font-sans, 'Inter', sans-serif);
+  font-size: 16px;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.voice-close-btn {
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.voice-close-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.voice-close-btn:focus {
+  outline: 2px solid var(--vrpg-color-arcane-blue);
+  outline-offset: 2px;
+}
+
+/* ========================================= */
+/* RESPONSIVIDADE (Mobile) */
+/* ========================================= */
+
+@media (max-width: 480px) {
+  .voice-hud-container {
+    bottom: 20px;
+    width: 90%; /* Mais largo no mobile */
+    min-width: auto;
+    padding: var(--vrpg-spacing-sm, 12px) var(--vrpg-spacing-md, 16px);
+    border-radius: 25px; /* Arredondamento menor no mobile */
+  }
+  
+  .voice-status-text {
+    font-size: 14px;
+  }
+  
+  .voice-visualizer {
+    width: 40px;
+    height: 25px;
+  }
+}
+
+/* ========================================= */
+/* ACESSIBILIDADE */
+/* ========================================= */
+
+/* Reduzir animações para usuários que preferem menos movimento */
+@media (prefers-reduced-motion: reduce) {
+  .voice-hud-container {
+    transition: opacity 0.2s ease;
+  }
+  
+  .voice-visualizer span {
+    animation: none !important;
+    height: 50%;
+    opacity: 0.8;
+  }
+}
+
+
+
+
+
+
+
+
+

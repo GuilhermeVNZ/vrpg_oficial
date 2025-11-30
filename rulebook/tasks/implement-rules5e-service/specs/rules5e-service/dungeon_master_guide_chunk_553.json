@@ -1,0 +1,12 @@
+﻿{
+    "text":  " irá usar sua arma de aumentam a Classe de Armadura, pontos de vida, bônus\nsopro uma vez e seu hábito de ataques múltiplos duas,\nentão, a média de dano causada por ele nas três primeiras\nrodadas seria (90 + 37 + 37) ÷ 3, ou 54 de dano\n(arredondado para baixo).\nQuando estiver calculando o dano causado por um\nmonstro, conte também com características especiais fora\nde rodada que causem dano, como auras, reações, ações\nlendária ou ações de covil. Por exemplo, a Aura\nFlamejante do balor causa 10 de dano de fogo a qualquer\ncriatura que o atinja com um ataque corpo-a-corpo. A\naura também causa 10 de dano de fogo a todas as\ncriaturas a até 1,5 metro do balor no início de cada turno\ndele. Se você considerar que uma criatura do grupo\nestiver a 1,5 metro do balor todo o tempo, atingindo ele\ncom uma arma corpo-a-corpo a cada rodada, dano causado\npelo balor por rodada aumenta em 20.\nATAQUE DE BATEDORES\nMuitos monstros tem ataques que fazem mais do que causar\ndano. Alguns efeitos que podem ser adicionados a ataques para\ndar um pouco mais de tempero incluem:\n Adicionar dano de um tipo diferente ao ataque\n Permitir que o monstro agarre o alvo ao atingir\n Permitir que o monstro derrube o alvo no chão ao atingir\n Impor uma condição no alvo se o ataque atingir e o alvo\nfracassar num teste de resistência\n279\n\n\n# Pagina 281\n\nde ataque ou dano causado efetivos com os propósitos de PASSO 17. BÔNUS DE PERÍCIA\ndeterminar o nível de desafio dele. (As características não Se você quer que um monstro seja proficiente em uma\nmudam realmente as estatísticas do monstro.) perícia, você pode dar a ele um bônus igual ao seu bônus\nCaracterísticas que não tenham qualquer efeito no nível de proficiência em testes relacionados a essa perícia. Por\nde desafio do monstro são descritas com um traço (–). exemplo, um monstro com sentidos apurados poderia ter\nQuando atribuir traços especiais, ações ou reações um bônus em testes de Sabedoria (Percepção), enquanto\npara um monstro, tenha em mente que nem todo",
+    "metadata":  {
+                     "total_chunks":  616,
+                     "language":  "pt-BR",
+                     "game_system":  "dnd5e",
+                     "source_file":  "dd-5e-guia-do-mestre-biblioteca-elfica.pdf",
+                     "chunk_index":  553,
+                     "document_type":  "dungeon_master_guide",
+                     "title":  "Guia do Mestre"
+                 }
+}
