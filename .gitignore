@@ -73,9 +73,13 @@ assets-and-models/models/**/*.pt
 assets-and-models/models/**/*.pth
 assets-and-models/models/**/*.ckpt
 
-# XTTS model - INCLUDED in Git
+# XTTS model files - INCLUDED in Git (if present)
 !assets-and-models/models/tts/xtts/
 !assets-and-models/models/tts/xtts/**
+!assets-and-models/models/tts/**/*.pth
+!assets-and-models/models/tts/**/*.onnx
+!assets-and-models/models/tts/**/*.json
+!assets-and-models/models/tts/**/*.txt
 assets-and-models/voices/**/*.wav
 assets-and-models/voices/**/*.mp3
 assets-and-models/voices/**/*.flac
