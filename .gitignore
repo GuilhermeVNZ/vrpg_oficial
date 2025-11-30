@@ -72,6 +72,10 @@ assets-and-models/models/**/*.safetensors
 assets-and-models/models/**/*.pt
 assets-and-models/models/**/*.pth
 assets-and-models/models/**/*.ckpt
+
+# XTTS model - INCLUDED in Git
+!assets-and-models/models/tts/xtts/
+!assets-and-models/models/tts/xtts/**
 assets-and-models/voices/**/*.wav
 assets-and-models/voices/**/*.mp3
 assets-and-models/voices/**/*.flac
